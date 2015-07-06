@@ -1,0 +1,31 @@
+---
+title: "File Format"
+structure: "Technical_Documentation"
+---
+
+{% include header.html %}
+{% include navbar.html %}
+{% include structure.html %}
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+<h3 name="COPASI_File_Format">COPASI File Format</h3>
+COPASI uses an <a target="_blank" href="http://www.w3.org/XML/" rel="external">XML</a>-based file format; files in this format are usually ending in the extension <b><code>.cps</code></b>.<br />
+<br />
+This native file format (CopasiML) is <b>not</b> the same as the <a target="_blank" href="http://www.sbml.org" rel="external">SBML</a> format, which COPASI can also import and export. COPASI's native file format stores information about the model but also information that would not fit the SBML schema, such as instructions on what simulations to run, details of plotting, etc.<br />
+<br />
+The schema of COPASI's native file format version 1.0 and its documentation is publicly available, allowing for 3rd-party programs to read, manipulate, and write COPASI files directly. The documentation can be found <a  href="static/schema/doc/index.html" rel="">here</a> and the schema is available in 2 formats:<br />
+<ul><li> <a  href="static/schema/CopasiML.rng" rel="">Relax NG (normative)</a>.
+</li><li> <a  href="static/schema/CopasiML.xsd" rel="">XSD Schema</a>.
+</li></ul>
+<br />
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER  -->
+{% include footer.html %}

@@ -1,0 +1,30 @@
+{% assign cps_url =  page.url | remove: '/index.html' | remove_first: '/' %}
+{% assign cps_path = cps_url | split: '/' %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="Content-Type" content="text/html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="description" content="COPASI is a software application for simulation and analysis of biochemical networks and their dynamics.">
+    <meta name="keywords" content="Modeling, Simulation, Biochemical Networks, Biochemical Pathways, Systems Biology, Time Course, Steady state, Optimization, Parameter Fitting, Software">
+
+    <!-- Favicon and touch icons -->
+    <link rel="shortcut icon" href="{{ site.baseurl }}/images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.baseurl }}/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ site.baseurl }}/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/images/ico/apple-touch-icon-57-precomposed.png">
+    
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/bootstrap-3.3.4/css/COPASI-bootstrap.css">
+
+    <script src="{{ site.baseurl }}/javascripts/jquery-1.11.3/jquery-1.11.3.js"></script>
+    <script src="{{ site.baseurl }}/javascripts/DataTables-1.10.7/jquery.dataTables.js"></script>
+    <script src="{{ site.baseurl }}/stylesheets/bootstrap-3.3.4/js/bootstrap.js"></script>
+    <script src="{{ site.baseurl }}/javascripts/email.js"></script>
+
+    <title>COPASI{% if cps_url != '' %}: {{ cps_url | replace: '_', ' ' }}{% endif %}</title>
+  </head>
+  <body>
+
