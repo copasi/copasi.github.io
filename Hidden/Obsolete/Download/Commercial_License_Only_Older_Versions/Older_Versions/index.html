@@ -1,0 +1,48 @@
+---
+title: "Older Versions"
+structure: "Obsolete"
+sitemap: false
+---
+
+{% include header.html %}
+{% include navbar.html %}
+{% include structure.html %}
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+<h3 name="Installation_Packages">Installation Packages</h3>
+<b>Select version:</b><form method="GET" action="/static/commercialDownload.php"><input type="hidden" name="returnTo" value="tiki-index.php?page_ref_id=112" /><br />
+<select name=build><br />
+<option value="32">COPASI 4.6 (Build 32)</option><br />
+<option value="31">COPASI 4.5.31 (development)</option><br />
+<option value="30">COPASI 4.5 (Build 30)</option><br />
+<option value="29">COPASI 4.4.29 (development)</option><br />
+<option value="28">COPASI 4.4.28 (development)</option><br />
+<option value="27">COPASI 4.4.27 (development)</option><br />
+<option value="26">COPASI 4.4 (Build 26)</option><br />
+<option value="25">COPASI 4.3 (Build 25)</option><br />
+<option value="24">COPASI 4.2.24 (development)</option><br />
+<option value="23">COPASI 4.2.23 (development)</option><br />
+<option value="22">COPASI 4.2 (Build 22)</option><br />
+<option value="21">COPASI 4.1 (Build 21)</option><br />
+<option value="20">COPASI 4.0.20 (development)</option><br />
+<option value="19">COPASI 4.0.19 (development)</option><br />
+<option value="18">COPASI 4.0 (Build 18)</option><br />
+</select><br />
+<br />
+<b>Select  platform:</b><br />
+<table class="normal"><tr><td class="heading">Platform </td><td class="heading"> Select</td></tr><tr><td class="odd">Linux (recommended) </td><td class="odd"> <input type="radio" size="35" name="platform"  value="Linux-Dynamic"></td></tr><tr><td class="even">Linux (all static) </td><td class="even"> <input type="radio" size="35" name="platform" value="Linux"></td></tr><tr><td class="odd">Mac OS X </td><td class="odd"> <input type="radio" size="35" name="platform" value="Darwin"></td></tr><tr><td class="even">Sun Solaris (sparc) </td><td class="even"> <input type="radio" size="35" name="platform" value="SunOS"></td></tr><tr><td class="odd">Windows </td><td class="odd"> <input type="radio" size="35" name="platform" value="WIN32"></td></tr></table><br />
+<input type="submit" name="download" value="download"></form><br />
+<br />
+<a title="COPASI: Support/Change History" href="{{ site.baseurl }}/Support/Change_History" >Change History</a> <a title="OldVersions" href="OldVersions.html">Really Old Versions</a><br />
+<br />
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER  -->
+{% include footer.html %}

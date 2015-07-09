@@ -1,0 +1,61 @@
+---
+title: "Installation Packages"
+structure: "Obsolete"
+sitemap: false
+---
+
+{% include header.html %}
+{% include navbar.html %}
+{% include structure.html %}
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+
+<b>Select version:</b><form method="GET" action="/static/mirrorSelected.php"><input type="hidden" name="returnTo" value="tiki-index.php?page_ref_id=109" /><select name=build><br />
+<option value="95">COPASI 4.15 (Build 95)</option><br />
+<option value="89" selected=selected">COPASI 4.14 (Build 89)</option><br />
+<option value="87">COPASI 4.13 (Build 87)</option><br />
+<option value="81">COPASI 4.12 (Build 81)</option><br />
+<option value="65">COPASI 4.11 (Build 65)</option><br />
+<option value="64">COPASI 4.11 (Build 64)</option><br />
+<option value="55">COPASI 4.10 (Build 55)</option><br />
+<option value="45">COPASI 4.9.45 (development)</option><br />
+<option value="35">COPASI 4.8 (Build 35)</option><br />
+<option value="34">COPASI 4.7 (Build 34)</option><br />
+<option value="33">COPASI 4.6.33 (development)</option><br />
+<option value="32">COPASI 4.6 (Build 32)</option><br />
+<option value="31">COPASI 4.5.31 (development)</option><br />
+<option value="30">COPASI 4.5 (Build 30)</option><br />
+<option value="29">COPASI 4.4.29 (development)</option><br />
+<option value="28">COPASI 4.4.28 (development)</option><br />
+<option value="27">COPASI 4.4.27 (development)</option><br />
+<option value="26">COPASI 4.4 (Build 26)</option><br />
+<option value="25">COPASI 4.3 (Build 25)</option><br />
+<option value="24">COPASI 4.2.24 (development)</option><br />
+<option value="23">COPASI 4.2.23 (development)</option><br />
+<option value="22">COPASI 4.2 (Build 22)</option><br />
+<option value="21">COPASI 4.1 (Build 21)</option><br />
+<option value="20">COPASI 4.0.20 (development)</option><br />
+<option value="19">COPASI 4.0.19 (development)</option><br />
+<option value="18">COPASI 4.0 (Build 18)</option><br />
+<option value="17">Release Canditate 1 (Build 17)</option><br />
+</select><br />
+<br />
+<b>Select  platform or source code:</b><br />
+<table class="normal"><tr><td class="heading">Platform </td><td class="heading"> Select</td></tr><tr><td class="odd">Linux (32 bit) (recommended) </td><td class="odd"> <input type="radio" size="35" name="platform"  value="Linux-Dynamic" /></td></tr><tr><td class="even">Linux (32 bit) (all static, please try this if the above fails to start) </td><td class="even"> <input type="radio" size="35" name="platform" value="Linux" /></td></tr><tr><td class="odd">Linux (64 bit) (recommended) (Build 34 and newer) </td><td class="odd"> <input type="radio" size="35" name="platform"  value="Linux64-Dynamic" /></td></tr><tr><td class="even">Linux (64 bit) (all static, please try this if the above fails to start) (Build 34 and newer) </td><td class="even"> <input type="radio" size="35" name="platform" value="Linux64" /></td></tr><tr><td class="odd">Mac OS X (32 bit) (Intel &amp; PowerPC) (Build 65 and older)</td><td class="odd"> <input type="radio" size="35" name="platform" value="Darwin" /></td></tr><tr><td class="even">Mac OS X (64 bit) (Intel) (Build 34 and newer)  </td><td class="even"> <input type="radio" size="35" name="platform" value="Darwin64" /></td></tr><tr><td class="odd">Sun Solaris (sparc) (Build 30 and older)</td><td class="odd"> <input type="radio" size="35" name="platform" value="SunOS" /></td></tr><tr><td class="even">Windows (32 bit) </td><td class="even"> <input type="radio" size="35" name="platform" value="WIN32" /></td></tr><tr><td class="odd">Windows (64 bit) (Build 34 and newer)  </td><td class="odd"> <input type="radio" size="35" name="platform" value="WIN64" /></td></tr><tr><td class="even">Source code </td><td class="even"> <input type="radio" size="35" name="platform" value="SRC" /></td></tr><tr><td class="odd">Package containing binaries of CopasiSE for all platforms  </td><td class="odd"> <input type="radio" size="35" name="platform" value="AllSE" /></td></tr></table><br />
+<b>Please download from the mirror site nearest you:</b><br />
+Build 33 and newer: <input type="submit" name="mirror" value="VBI (USA)"> <input type="submit" name="mirror" value="University of Heidelberg (Germany)"> <input type="submit" name="mirror" value="University of Manchester (UK)"><br />
+Build 32 and older:&nbsp;&nbsp; <input type="submit" name="mirror" value="VBI (USA)"></form><br />
+<br />
+<a title="COPASI: Support/Change History" href="{{ site.baseurl }}/Support/Change_History" >Change History</a> <a title="OldVersions" href="OldVersions.html">Really Old Versions</a><br />
+<br />
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER  -->
+{% include footer.html %}

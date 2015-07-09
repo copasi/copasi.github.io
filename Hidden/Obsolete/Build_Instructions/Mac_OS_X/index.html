@@ -1,0 +1,57 @@
+---
+title: "Mac OS X"
+structure: "Obsolete"
+sitemap: false
+---
+
+{% include header.html %}
+{% include navbar.html %}
+{% include structure.html %}
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+
+<h3 name="Prerequisits"> Prerequisits</h3>
+<h4 name="Compiler">Compiler</h4>
+You will need gcc 3 or gcc 4.<br />
+You need to install the Mac OS X development tools (XCode) which is on the Mac OS X installation DVD, but which is usually not installed per default.<br />
+Make sure you have enough free space on your harddisk for this.<br />
+<h4 name="Libraries">Libraries</h4>
+<ul><li> <a target="_blank" href="http://qt.nokia.com/" rel="external">QT 4</a> The binary packages are statically linked against QT  4.5, but all version of QT 4 newer than 4.5 should work. If you only intend to build a non-GUI version of COPASI, Qt 4 version older than 4.5 should work as well as long as qmake is available.  Nokia provides pre-compiled version of Qt 4, just make sure they include compatibility support for Qt 3. Alternatively one can use <a target="_blank" href="http://www.macports.org/" rel="external">MacPorts</a> or <a target="_blank" href="http://finkproject.org/" rel="external">Fink</a> to install a version of Qt 4 or compile it yourself. Be aware that building Qt 4 takes a long time (several hours) depending on your computer.
+</li><li> <a target="_blank" href="http://expat.sourceforge.net/" rel="external">Expat</a> The binary packages are statically linked against 2.0.1, older version will usually work, but you might miss out on some bugfixes. Usually the version that comes pre-installed with Mac OS X distribution should do.
+</li><li> <a target="_blank" href="http://sbml.org/libsbml.html" rel="external">libsbml</a> COPASI up to Build 32 is using a patched version of libsbml 3.4.1 which contains some bugfixes from libsbml 4. We build libsbml without support for reading and writing of compressed files. If you want file compression, you have additional dependencies to zlib and the bzip2 library. libsbml has to be compiled with support for the SBML layout extension. (./configure --enable-layout=yes --enable-compression=no --with-expat). Starting with COPASI Build 33, we switched to libsbml 4 (currently libsbml 4.1.0). The libsbml sources have to be patched to provide support for the SBML render extension which is now supported in COPASI. The patch can be downloaded <a target="_blank" href="http://otto.bioquant.uni-heidelberg.de/sbml/#software" rel="external">here</a>. You need to enable the render extension ion libsbml with the --enable-render option.
+</li><li> <a target="_blank" href="http://librdf.org/raptor/" rel="external">raptor</a> The latest version of this RDF parsing library should be OK. We are currently using version 1.4.19. The version we are using is build against expat and without www support. (configure options --with-xml-parser=expat --with-www=none). If you are using a version that comes with MacPorts or Fink, it will probably be compiled against libxml2 and you will have to include this dependency into COPASI build system before COPASI will compile.
+</li></ul>
+<br />
+<h4 name="additional_library_dependencies_for_the_GUI_version">additional library dependencies for the GUI version</h4>
+<ul><li> Qt 4 was already mentioned above, but if you want to build the GUI version, you have to make sure that Qt 4 has been build with Qt 3 compatibility support since parts of the GUI have not been fully converted to Qt 4 yet. This will hopefully change soon. On Mac OS X 10.6 (alias Snow Leopard) Qt 3 compatibility can only be compiled if Qt 4 is build as a 32 Bit version. So on Snow Leopard COPASI can only be build as a 32 Bit application if you want the GUI.
+</li><li> <a target="_blank" href="http://qwt.sourceforge.net/" rel="external">Qwt</a> Just get the latest version and make sure it is compiled against Qt 4
+</li><li> <a target="_blank" href="http://qwtplot3d.sourceforge.net/" rel="external">QwtPlot3D</a> Get the latest version of this 3D plotting library and make sure it is compiled against Qt 4.
+</li><li> <a target="_blank" href="http://sbw.kgi.edu/research/sbwIntro.htm" rel="external">SBW</a> Systems Biology Workbench allows us to send and receive SBML models from other SBW enabled programs. The latest version should be OK. COPASI can also be build without SBW support.
+</li></ul>
+<h3 name="Build_Steps"> Build Steps</h3>
+<ol><li>Download the source installation package.
+</li><li>Expand the contents of the tarball into a directory of your choice with <span style="color:#000088;"><b>tar -xzvf Copasi-*-SRC.tar.gz</b></span>.
+</li><li>Change to the newly created copasi-*-src directory.
+</li><li>Run <span style="color:#000088;"><b>configure</b></span>, you will probably need to specify some of the following options: <table><tr><td  colspan="2">Optional Features: </td></tr><tr><td > &nbsp;&nbsp;--enable-debug </td><td > enable debug build (default: enabled) </td></tr><tr><td > &nbsp;&nbsp;--enable-release </td><td > enable release build (disables debug, default: disabled) </td></tr><tr><td > &nbsp;&nbsp;--enable-static </td><td > enable static linkage (default: disabled) </td></tr><tr><td > &nbsp;&nbsp;--enable-gui </td><td > enable build of GUI (default: enabled, starting with Build 20) </td></tr><tr><td  colspan="2"> Required Packages: </td></tr><tr><td > &nbsp;&nbsp;--with-expat=PATH </td><td > Path to Expat XML Library </td></tr><tr><td > &nbsp;&nbsp;--with-sbml=PATH </td><td > Path to SBML Library </td></tr><tr><td > &nbsp;&nbsp;--with-qwt=PATH </td><td > Path to QWT Library </td></tr><tr><td >   &nbsp;&nbsp;--with-qwt3d=PATH </td><td > Path to QWTPlot3D Library </td></tr><tr><td >  &nbsp;&nbsp;--with-raptor=PATH </td><td > Path to raptor Library </td></tr><tr><td  colspan="2"> Optional Packages </td></tr><tr><td >  &nbsp;&nbsp;--with-sbw=PATH </td><td > Path to SBW Library </td></tr></table>
+</li></ol>
+<br />
+To get a full list of configure options, please run &quot;./configure --help&quot;.<br />
+<br />
+The Mac OS X build does not need LAPACK, CLAPACK or MKL because it uses some libraries provided by Mac OS X, consequently you do not need to provide these configure options.<br />
+<br />
+In addition configure recognizes the following environment variables: CFLAGS, CXXFLAGS, LDFLAGS, and QMAKE_ARG (additional arguments provides to qmake).<br />
+<ol><li>Run <span style="color:#000088;"><b>make</b></span>
+</li><li>Optionally, run <span style="color:#000088;"><b>make install</b></span>. This will create a dmg image similar to the dowloadable packages.
+</li></ol>
+<br />
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER  -->
+{% include footer.html %}

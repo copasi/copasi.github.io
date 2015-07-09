@@ -1,0 +1,65 @@
+---
+title: "Windows"
+structure: "Obsolete"
+sitemap: false
+---
+
+{% include header.html %}
+{% include navbar.html %}
+{% include structure.html %}
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+
+<h3 name="Prerequisits"> Prerequisits</h3>
+<h4 name="Compiler">Compiler</h4>
+You will need Visual C++ 8.0 or later.<br />
+The free versions of Visual Studio will do, unless you want to run the unittests. Those will currently not build with the Visual Studio Express Editions.<br />
+<br />
+Alternatively COPASI can be build with GCC if you have installed the GNU tools for windows. The build instructions should then be more like the ones <a title="COPASI: Hidden/Obsolete/Build Instructions/Linux" href="{{ site.baseurl }}/Hidden/Obsolete/Build_Instructions/Linux" >described for Linux</a>.<br />
+<h4 name="Libraries">Libraries</h4>
+<ul><li> <a target="_blank" href="http://qt.nokia.com/" rel="external">QT 4</a> The binary packages are statically linked against QT 4.5, but all version of QT 4 newer than 4.5 should work. If you only intend to build a non-GUI version of COPASI, Qt 4 version older than 4.5 should work as well as long as qmake is available. Nokia provides precompiled version of Qt 4.5 for Windows.
+</li><li> <a target="_blank" href="http://www.netlib.org/lapack/lapack.tgz" rel="external">LAPACK</a>, <a target="_blank" href="http://www.netlib.org/clapack/clapack.tgz" rel="external">CLAPACK</a>, or <a target="_blank" href="http://www.intel.com/cd/software/products/asmo-na/eng/perflib/mkl/index.htm" rel="external">Intel MKL</a> The binary packages are statically linked against Intel MKL. Just grab the latest version you can find and you should be fine
+</li><li> <a target="_blank" href="http://expat.sourceforge.net/" rel="external">Expat</a> The binary packages are statically linked against 2.0.1, older version will usually work, but you might miss out on some bugfixes.
+</li><li> <a target="_blank" href="http://sbml.org/libsbml.html" rel="external">libsbml</a> COPASI up to Build 32 is using a patched version of libsbml 3.4.1 which contains some bugfixes from libsbml 4. We build libsbml without support for reading and writing of compressed files. If you want file compression, you have additional dependencies to zlib and the bzip2 library. libsbml has to be compiled with support for the SBML layout extension. (./configure --enable-layout=yes --enable-compression=no --with-expat). Starting with COPASI Build 33, we switched to libsbml 4 (currently libsbml 4.1.0). The libsbml sources have to be patched to provide support for the SBML render extension which is now supported in COPASI. The patch can be downloaded <a target="_blank" href="http://otto.bioquant.uni-heidelberg.de/sbml/#software" rel="external">here</a>. You need to enable the render extension ion libsbml with the --enable-render option.
+</li><li> <a target="_blank" href="http://librdf.org/raptor/" rel="external">raptor</a> The latest version of this RDF parsing library should be OK. We are currently using version 1.4.19. The version we are using is build against expat and without www support.
+</li></ul>
+<br />
+<br />
+<h4 name="additional_library_dependencies_for_the_GUI_version">additional library dependencies for the GUI version</h4>
+<ul><li> Qt 4 was already mentioned above, but if you want to build the GUI version, you have to make sure that Qt 4 has been build with Qt 3 compatibility support since parts of the GUI have not been fully converted to Qt 4 yet. This will hopefully change soon.
+</li><li> <a target="_blank" href="http://qwt.sourceforge.net/" rel="external">Qwt</a> Just get the latest version and make sure it is compiled against Qt 4
+</li><li> <a target="_blank" href="http://qwtplot3d.sourceforge.net/" rel="external">QwtPlot3D</a> Get the latest version of this 3D plotting library and make sure it is compiled against Qt 4.
+</li><li> <a target="_blank" href="http://sbw.kgi.edu/research/sbwIntro.htm" rel="external">SBW</a> Systems Biology Workbench allows us to send and receive SBML models from other SBW enabled programs. The latest version should be OK. COPASI can also be build without SBW support.
+</li></ul>
+<br />
+<h3 name="Build_Steps"> Build Steps</h3>
+<ol><li>Download the source installation package.
+</li><li>Expand the contents of the tarball into a directory of your choice with <span style="color:#000088;"><b>tar -xzvf Copasi-*-SRC.tar.gz</b></span>.
+</li><li>Change to the newly created copasi-*-src directory.
+</li><li>Run <span style="color:#000088;"><b>configure.bat</b></span>, you will probably need to specify some of the following options: <br /> <br /> <table><tr><td  colspan="2"> Optional Features:  </td></tr><tr><td > &nbsp;&nbsp;&quot;STATIC_LINKAGE=&lt;yes | no&gt;&quot; </td><td > enable static linkage (default: no) </td></tr><tr><td > &nbsp;&nbsp;&quot;RUNTIME=&lt;MT | MD&gt;&quot; </td><td > select runtime environment (default: MD) </td></tr><tr><td > &nbsp;&nbsp;&quot;BUILD_GUI=&lt;yes | no&gt;&quot; </td><td > enable build of GUI (default: enabled, starting with Build-20) </td></tr><tr><td  colspan="2"> Required Packages: </td></tr><tr><td > &nbsp;&nbsp;&quot;EXPAT_PATH=&lt;path&gt;&quot; </td><td > Path to Expat XML Library </td></tr><tr><td > &nbsp;&nbsp;&quot;SBML_PATH=&lt;path&gt;&quot; </td><td > Path to SBML Library </td></tr><tr><td > &nbsp;&nbsp;&quot;QWT3D_PATH=&lt;path&gt;&quot; </td><td > Path to QWTPlot3D Library </td></tr><tr><td > &nbsp;&nbsp;&quot;QWT_PATH=&lt;path&gt;&quot; </td><td > Path to QWT Library </td></tr><tr><td > &nbsp;&nbsp;&quot;RAPTOR_PATH=&lt;path&gt;&quot; </td><td > Path to raptor Library </td></tr><tr><td  colspan="2"> Optional Packages </td></tr><tr><td >  &nbsp;&nbsp;&quot;CLAPACK_PATH=&lt;path&gt;&quot; </td><td > Path to CLAPACK Library </td></tr><tr><td > &nbsp;&nbsp;&quot;LAPACK_PATH=&lt;path&gt;&quot; </td><td > Path to LAPACK Library </td></tr><tr><td > &nbsp;&nbsp;&quot;MKL_PATH=&lt;path&gt;&quot;</td><td >Path to MKL Library </td></tr><tr><td > &nbsp;&nbsp;&quot;SBW_PATH=&lt;path&gt;&quot; </td><td > Path to SBW Library </td></tr></table>
+</li></ol>
+<br />
+Please note, the double quotes must be appear in the command line as shown above. In addition configure.bat recognizes the following environment variables: CFLAGS, CXXFLAGS, and LDFLAGS.<br />
+<br />
+If you specify a path with one of the path variables above, e.g. EXPAT_PATH, make sure that you do not include the trailing &quot;\&quot; in the path name.<br />
+E.g. &quot;EXPAT_PATH=C:\expat-2.0.1&quot; would be OK, whereas &quot;EXPAT_PATH=C:\expat-2.0.1\&quot; would not be OK.<br />
+<br />
+The configure options for LAPACK, CLAPACK and MKL are mutually exclusive, you must use exactly one of them.<br />
+<br />
+<ol><li>Change to the <span style="color:#000088;"><b>copasi</b></span> subdirectory.
+</li><li>Run <span style="color:#000088;"><b>nmake release</b> </span> or <span style="color:#000088;"><b>nmake debug</b> </span>
+</li><li>Optionally, open <span style="color:#000088;"><b>copasi.sln</b></span> in Visual Studio.
+</li><li>Optionally, run <span style="color:#000088;"><b>nmake install</b></span>. This will create a windows installer file similar to the dowloadable packages if you have <a target="_blank" href="http://www.cygwin.com/" rel="external">cygwin</a> and <a target="_blank" href="http://www.advancedinstaller.com/index.html" rel="external">Advanced Installer</a> and available.
+</li></ol>
+<br />
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER  -->
+{% include footer.html %}
