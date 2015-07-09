@@ -1,0 +1,41 @@
+---
+title: "Build Instructions"
+structure: "Installation"
+---
+
+{% include header.html %}
+{% include navbar.html %}
+{% include structure.html %}
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+
+COPASI's sources are available as <a title="downloadnoncommercial" href="downloadnoncommercial.html">source packages</a> or from our <a target="_blank" href="https://github.com/copasi/COPASI" rel="external">github  repository</a>. These sources are written in standard C++ and will compile on Linux, OS X and Windows.<br />
+<h3 name="Dependencies">Dependencies</h3>
+To start compiling COPASI we recommend to use the <a target="_blank" href="https://github.com/copasi/copasi-dependencies" rel="external">copasi-dependencies package</a>.The dependency package compiles all the dependencies necessary for COPASI, they include clapack, cppunit, expat, raptor libSEDML, libsbml, SBW as well as the Qt libraries QWT, QWT3D and the Qt MML widget. Instructions for building the dependencies are described here:<br />
+<ul><li><a target="_blank" href="https://github.com/copasi/copasi-dependencies/blob/master/readme.md" rel="external">General Instructions</a>
+</li><li><a target="_blank" href="https://github.com/copasi/copasi-dependencies/blob/master/readme_linux.md" rel="external">Linux build instructions</a>
+</li></ul>
+<h3 name="Compiling_COPASI">Compiling COPASI</h3>
+Once the dependencies have been built, COPASI is easily compiled using <a target="_blank" href="http://www.cmake.org/" rel="external">CMake</a>:<br />
+<pre class="codelisting" dir="ltr" style="overflow:auto;">git clone https://github.com/copasi/COPASI
+mkdir build_copasi
+cd build_copasi
+cmake -DBUILD_GUI=OFF -DCMAKE_INSTALL_PREFIX=~/copasi -DCOPASI_DEPENDENCY_DIR=../copasi-dependencies/bin ../COPASI
+make
+make install</pre><br />
+In the above ../copasi-dependencies is the location of the compiled copasi-dependencies project. The option BUILD_GUI=OFF builds only the command line version of COPASI (aka CopasiSE). To build the graphical frontend (aka CopasiUI), and having Qt 4 installed, the option would need to be BUILD_GUI=ON. The option CMAKE_INSTALL_PREFIX=~/copasi specifies, that COPASI ought to be installed in the current users home directory in a subfolder copasi.<br />
+<br />
+There are many more compile options available, options for building the language bindings as well as options to enable some experimental features that are not yet available in the stable builds that are released publicly. To view the complete set of options, start the graphical cmake frontend in the continuing from the above command this would be done with:<br />
+<pre class="codelisting" dir="ltr" style="overflow:auto;">cmake-gui ../COPASI</pre><br />
+<br />
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER  -->
+{% include footer.html %}

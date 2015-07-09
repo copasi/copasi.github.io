@@ -1,0 +1,9 @@
+pages:
+- path: Support/Technical_Documentation
+  title: "Technical Documentation"
+- path: Support/Technical_Documentation/C___API_Documentation
+  title: "C++ API Documentation"
+- path: Support/Technical_Documentation/File_Format
+  title: "COPASI File Format"
+- path: Support/Technical_Documentation/MIRIAM_Annotation
+  title: "MIRIAM Annotation"

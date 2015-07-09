@@ -12,21 +12,21 @@
     {% case delta %}
     {% when 1 %}
       {% assign  cps_indent_count = cps_indent_count | plus: 1 %}
-    <ul><li><a href="{{ site.baseurl }}/{{ item.path }}">{{ item.title }}</a></li>
+    <ul><li><a href="{{ site.baseurl }}/{{ item.path }}/">{{ item.title }}</a></li>
     {% when 0 %}
-      <li><a href="{{ site.baseurl }}/{{ item.path }}">{{ item.title }}</a</li>
+      <li><a href="{{ site.baseurl }}/{{ item.path }}/">{{ item.title }}</a</li>
     {% when -1 %}
       {% assign  cps_indent_count = cps_indent_count | minus: 1 %}
-      </ul><li><a href="{{ site.baseurl }}/{{ item.path }}">{{ item.title }}</a</li>
+      </ul><li><a href="{{ site.baseurl }}/{{ item.path }}/">{{ item.title }}</a</li>
     {% when -2 %}
       {% assign  cps_indent_count = cps_indent_count | minus: 2 %}
-      </ul></ul><li><a href="{{ site.baseurl }}/{{ item.path }}">{{ item.title }}</a</li>
+      </ul></ul><li><a href="{{ site.baseurl }}/{{ item.path }}/">{{ item.title }}</a</li>
     {% when -3 %}
       {% assign  cps_indent_count = cps_indent_count | minus: 3 %}
-      </ul></ul></ul><li><a href="{{ site.baseurl }}/{{ item.path }}">{{ item.title }}</a</li>
+      </ul></ul></ul><li><a href="{{ site.baseurl }}/{{ item.path }}/">{{ item.title }}</a</li>
     {% when -4 %}
       {% assign  cps_indent_count = cps_indent_count | minus: 4 %}
-      </ul></ul></ul></ul><li><a href="{{ site.baseurl }}/{{ item.path }}">{{ item.title }}</a</li>
+      </ul></ul></ul></ul><li><a href="{{ site.baseurl }}/{{ item.path }}/">{{ item.title }}</a</li>
     {% endcase %}
   {% endif %}
 
