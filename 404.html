@@ -1,17 +1,12 @@
 ---
-title: Error 404
-section: Home
+layout:    default
+title:     "Error 404"
+section:   Home
+permalink: 404.html
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12" id="ErrorMessage">
-      </div>
-    </div>
+<div class="row">
+  <div style="text-align: center;" class="col-xs-12" id="ErrorMessage">
   </div>
 </div>
 
@@ -22,6 +17,4 @@ section: Home
   e.innerHTML += '<p>The page you are looking for cannot be found:</p>';
   e.innerHTML += '<p>&nbsp;&nbsp;' + window.location.href + '</p>';
 </script>
-
-{% include footer.html %}
 
