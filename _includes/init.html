@@ -1,0 +1,17 @@
+{% unless cps_initialized %}
+  {% assign cps_url =  page.url | append: 'index.html' | remove: '/index.html' | remove_first: '/' %}
+  {% assign cps_path = cps_url | split: '/' %}
+
+  {% if page.structure %}
+    {% for item in site.data.structure %}
+      {% if page.structure == item[0] %}
+        {% assign cps_structure = item[1] %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endunless %}
+
+{% assign cps_initialized = 'TRUE' %}
+
+  

@@ -24,6 +24,9 @@ exclude: [tmp]
 gems:
   - jekyll-sitemap
 
+# Create directories for each post similar to other pages
+permalink: pretty
+
 # Project forum URL
 # forum: http://forum.spring.io/forum/spring-projects/container
 

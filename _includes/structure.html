@@ -1,9 +1,4 @@
-{% for item in site.data.structure %}
-  {% if page.structure == item[0] %}
-    {% assign cps_structure = item[1] %}
-    {% break %}
-  {% endif %}
-{% endfor %}
+{% include init.html %}
 
 {% assign cps_page = cps_path | last | prepend: '/' %}
 {% assign cps_parent_url = cps_url | remove: cps_page %}

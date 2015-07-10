@@ -1,10 +1,8 @@
 ---
-title: Download
+layout:  default
+title:   Download
 section: Download
 ---
-
-{% include header.html %}
-{% include navbar.html %}
 
 <script>
 var github_json_url = 'https://api.github.com/repos/copasi/COPASI/releases';
@@ -197,38 +195,31 @@ AJAX_req.onreadystatechange = function() {
 AJAX_req.send();
 </script>
 
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        <h4>
-          The packages available on this page are provided under the <a href="{{ site.baseurl }}/Download/License" >Artistic License 2.0</a>, which is an <a target="_blank" href="http://www.opensource.org/" >OSI</a> approved license. This license allows non-commercial and commercial use free of charge.
-        </h4>
-        <h4>
-          <label for="version_selector">Select Version:</label>
-          <select id="version_selector" onchange="update_packages()" ;="">undefined<option value="COPASI 4.14 (Build 89)  "></select>
-        </h4>
-        <div id="suggest_div"></div>
-      </div>
-      <div id="download_name" class="col-xs-12 col-sm-8">
-      </div>
-      <div class="col-xs-12 col-sm-4">
-        <a id="download_link"><img id="download_button" alt="download button"></a>
-        <br>
-        <br>
-      </div>
-      <div class="col-xs-12">
-        <h4>Otherwise, choose a download from below.</h4>
-        <div id="manual_dnld_div"></div>
-        <br>
-        <p>
-          Go directly to our <a href="https://github.com/copasi/COPASI/releases" target="_blank">GitHub COPASI Releases 
-            page</a>, if the above frame doesn't load correctly.
-        </p>
-      </div>
-    </div>
+<div class="row">
+  <div class="col-xs-12">
+    <h4>
+      The packages available on this page are provided under the <a href="{{ site.baseurl }}/Download/License" >Artistic License 2.0</a>, which is an <a target="_blank" href="http://www.opensource.org/" >OSI</a> approved license. This license allows non-commercial and commercial use free of charge.
+    </h4>
+    <h4>
+      <label for="version_selector">Select Version:</label>
+      <select id="version_selector" onchange="update_packages()" ;="">undefined<option value="COPASI 4.14 (Build 89)  "></select>
+    </h4>
+    <div id="suggest_div"></div>
+  </div>
+  <div id="download_name" class="col-xs-12 col-sm-8">
+  </div>
+  <div class="col-xs-12 col-sm-4">
+    <a id="download_link"><img id="download_button" alt="download button"></a>
+    <br>
+    <br>
+  </div>
+  <div class="col-xs-12">
+    <h4>Otherwise, choose a download from below.</h4>
+    <div id="manual_dnld_div"></div>
+    <br>
+    <p>
+      Go directly to our <a href="https://github.com/copasi/COPASI/releases" target="_blank">GitHub COPASI Releases 
+        page</a>, if the above frame doesn't load correctly.
+    </p>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}
