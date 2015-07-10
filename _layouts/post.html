@@ -4,7 +4,11 @@ layout: default
 
 <div class="row">
   <div class="col-xs-12">
-    <h1>{{ page.title }}</h1>
+    <h1>
+        <img style="float: left; padding: 5px;" width="74px" height="74px" src="{{ site.baseurl }}/images/post/{{ page.topic }}.png" />
+        {{ page.title }}
+    </h1>
+
     <p>{{ page.author }}: {{ page.date }}</p>
 
     {{ content }}
