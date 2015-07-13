@@ -1,0 +1,17 @@
+---
+layout:  default
+title:   News
+section: Home
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <ul>
+      {% for post in site.posts %}
+      <li>
+        <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
