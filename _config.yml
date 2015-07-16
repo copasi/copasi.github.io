@@ -27,16 +27,6 @@ gems:
 # Create directories for each post similar to other pages
 permalink: pretty
 
-# Project forum URL
-# forum: http://forum.spring.io/forum/spring-projects/container
-
-# If you want to include a custom pom.xml or gradle template set these value to true and add _include files
-# custom_pom_template: false
-# custom_gradle_template: false
-
-
-### The following properties are constant for most projects
-
-# main_site_url: http://spring.io
-# projects_site_url: http://projects.spring.io
-# questions_url: http://spring.io/questions
+# Paginate posts
+paginate: 5
+paginate_path: "/News/Page-:num/"

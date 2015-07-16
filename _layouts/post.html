@@ -4,12 +4,17 @@ layout: default
 
 <div class="row">
   <div class="col-xs-12">
-    <h1>
-        <img style="float: left; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; padding-left: 0px;" width="69px" height="74px" src="{{ site.baseurl }}/images/post/{{ page.topic }}.png" />
-        {{ page.title }}
-    </h1>
-
-    <p>{{ page.author }}: {{ page.date }}</p>
+    <div class="media">
+      <div class="media-left">
+        <a href="#">
+          <img class="media-object" width="64px;" heigth="64px;" src="{{ site.baseurl }}/images/post/{{ page.topic }}.png"  alt="{{ page.topic }}">
+        </a>
+      </div>
+      <div class="media-body">
+        <h1 class="media-heading">{{ page.title }}</h1>
+        <p>{{ page.author }}: {{ page.date }}</p>
+      </div>
+    </div>    
 
     {{ content }}
 

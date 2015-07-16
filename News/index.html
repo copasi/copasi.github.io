@@ -4,14 +4,72 @@ title:   News
 section: Home
 ---
 
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}/{{ paginator.previous_page_path }}" class="previous">
+      <img src="{{ site.baseurl }}/images/previous.png" alt="Previous" width="24px" height="24px" />
+    </a>
+  {% else %}
+    <span class="previous">
+      <img src="{{ site.baseurl }}/images/previous-inactive.png" alt="Previous" width="24px" height="24px" />
+    </span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}/{{ paginator.next_page_path }}" class="next">
+      <img src="{{ site.baseurl }}/images/next.png" alt="Next" width="24px" height="24px" />
+    </a>
+  {% else %}
+    <span class="next ">
+      <img src="{{ site.baseurl }}/images/next-inactive.png" alt="Next" width="24px" height="24px" />
+    </span>
+  {% endif %}
+</div>
+
 <div class="row">
   <div class="col-xs-12">
-    <ul>
-      {% for post in site.posts %}
-      <li>
-        <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
+    {% for post in paginator.posts %}
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <div class="media">
+          <div class="media-left">
+            <a href="{{ site.baseurl }}/{{ post.url }}">
+              <img class="media-object" width="48px;" heigth="48px;" src="{{ site.baseurl }}/images/post/{{ post.topic }}.png"  alt="{{ post.topic }}">
+            </a>
+          </div>
+          <div class="media-body">
+            <h3 class="media-heading">{{ post.title }}</h3>
+            <p>{{ post.author }}: {{ post.date }}</p>
+            </div>
+        </div>    
+      </div>
+      <div class="panel-body">
+        {{ post.excerpt }} 
+        <a href="{{ site.baseurl }}/{{ post.url }}"> read more </a>
+      </div>
+    </div>
+    {% endfor %}
   </div>
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}/{{ paginator.previous_page_path }}" class="previous">
+      <img src="{{ site.baseurl }}/images/previous.png" alt="Previous" width="24px" height="24px" />
+    </a>
+  {% else %}
+    <span class="previous">
+      <img src="{{ site.baseurl }}/images/previous-inactive.png" alt="Previous" width="24px" height="24px" />
+    </span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}/{{ paginator.next_page_path }}" class="next">
+      <img src="{{ site.baseurl }}/images/next.png" alt="Next" width="24px" height="24px" />
+    </a>
+  {% else %}
+    <span class="next ">
+      <img src="{{ site.baseurl }}/images/next-inactive.png" alt="Next" width="24px" height="24px" />
+    </span>
+  {% endif %}
 </div>
