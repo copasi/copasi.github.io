@@ -25,8 +25,8 @@ gems:
   - jekyll-sitemap
 
 # Create directories for each post similar to other pages
-permalink: pretty
+permalink: News/:year/:month/:day/:title/
 
 # Paginate posts
 paginate: 5
-paginate_path: "/News/Page-:num/"
+paginate_path: "/News/Page_:num/"

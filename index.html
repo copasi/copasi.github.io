@@ -78,7 +78,7 @@ section: Home
       <div class="panel-heading">
         <div class="media">
           <div class="media-left">
-            <a href="{{ site.baseurl }}{{ post.url }}">
+            <a href="{{ site.baseurl }}/{{ post.url }}">
               <img class="media-object" width="48px;" heigth="48px;" src="{{ site.baseurl }}/images/post/{{ post.topic }}.png"  alt="{{ post.topic }}">
             </a>
           </div>
@@ -90,7 +90,7 @@ section: Home
       </div>
       <div class="panel-body">
         {{ post.excerpt }} 
-        <a href="{{ site.baseurl }}{{ post.url }}"> read more </a>
+        <a href="{{ site.baseurl }}/{{ post.url }}"> read more </a>
       </div>
     </div>
     {% endfor %}
