@@ -100,6 +100,7 @@ pages:
 - path: Hidden/Intranet/Miriam_Annotation/Terms
   title: "Terms"
 - path: Hidden/Intranet/Miriam_Annotation/CopasiML
+  title: "COPASI File Format"
 - path: Hidden/Intranet/Events
   title: "Events"
 - path: Hidden/Intranet/Events/Trigger
@@ -121,7 +122,9 @@ pages:
 - path: Hidden/Intranet/Events/Implementation/Process_Queue
   title: "Process Queue"
 - path: Hidden/Intranet/Events/SBML
-- path: Hidden/Intranet/Events/Test_cases
+  title: "SBML"
+- path: Hidden/Intranet/Events/Test_Cases
+  title: "Test Cases"
 - path: Hidden/Intranet/Fast_Reactions
   title: "Fast Reactions"
 - path: Hidden/Intranet/Fast_Reactions/Mathematical_Analysis
