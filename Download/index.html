@@ -21,14 +21,14 @@ function suggest_package(release_idx) {
     //pltfrm = 'Win32';
     
     if (pltfrm.match('Linux') && !pltfrm.match('arm')) {
-        plt_match = 'linux';
+        plt_match = 'Linux';
         bit_match = '64';
         icon_filename = 'linux_icon.png';
     } else if (pltfrm.match('MacIntel')) {
-        plt_match = 'darwin';
+        plt_match = 'Mac OS X';
         icon_filename = 'osx_icon.png';
     } else if (pltfrm.match('Win') && !pltfrm.match('Win16')) {
-        plt_match = 'win';
+        plt_match = 'Windows';
         icon_filename = 'windows_icon.png';
     } else {plt_match = 'source';}
 
@@ -38,26 +38,32 @@ function suggest_package(release_idx) {
         bit_match = '32';
     }
     
-    var filename, dnld_url, candidate_fn, candidate_url, clean_fn;
-    var found_name_match = false;
+    Build = parseInt(github_json[release_idx]["tag_name"].substr(6), 10);
+
+    var candidate_fn, candidate_url;
     var assets = github_json[release_idx]['assets'];
 
     for (asset_idx in assets) {
-        filename = github_json[release_idx]['assets'][asset_idx]['name'];
-        dnld_url = github_json[release_idx]['assets'][asset_idx]['browser_download_url'];
+        var filename = github_json[release_idx]['assets'][asset_idx]['name'];
+        var dnld_url = github_json[release_idx]['assets'][asset_idx]['browser_download_url'];
 
-        if (filename.match(RegExp("^copasi-[0-9.]+-" + plt_match, "i"))) {
-            if (filename.match(bit_match)) { break;}
-            if (found_name_match) {continue;}
+        var Use = cps_getUse(filename);
+
+        if (Use != 'COPASI') continue;
+
+        var Platform =  cps_getPlatform(filename);
+        if (Platform == 'Mac OS X') Platform = 'Mac OS X 32-bit'
+
+        if (typeof candidate_fn === "undefined" && Platform == 'Source Code') {
             candidate_fn = filename;
             candidate_url = dnld_url;
-            found_name_match = true;
-        } else if (plt_match == 'source' && filename.match('SRC')) {
-            break;
-        } else if (found_name_match == true && asset_idx == assets.length - 1) {
-            filename = candidate_fn;
-            dnld_url = candidate_url;
-        }
+        } else if (Platform.match(plt_match)) {
+            candidate_fn = filename;
+            candidate_url = dnld_url;
+            
+            if (plt_match == 'Linux' && Platform.match(bit_match) && 
+                (Build > 65 || filename.match('Dynamic') || plt_match != 'Linux' )) break;
+        }  
     }
     
     var sug_div = document.getElementById('suggest_div');
@@ -71,10 +77,10 @@ function suggest_package(release_idx) {
     }
 
     sug_div.innerHTML = "<h3>It seems your are running on " + pltfrm + ". You may want to download . . . </h3>";
-    dnld_name.innerHTML = "<h3>" + pltfrm_icon_code + filename + "</h3>"
-    dnld_btn.title = 'Download ' + filename;
+    dnld_name.innerHTML = "<h3>" + pltfrm_icon_code + candidate_fn + "</h3>"
+    dnld_btn.title = 'Download ' + candidate_fn;
     dnld_btn.src = "{{ site.baseurl }}/images/download-button.png";
-    dnld_lnk.href = dnld_url;
+    dnld_lnk.href = candidate_url;
 }
 
 function load_releases(json_obj){
@@ -87,7 +93,7 @@ function load_releases(json_obj){
     vslct.innerHTML = txt;
 }
 
-function update_packages() {
+function cps_getPlatform(filename) {
     var regex_darwin_64 = /(darwin|macosx).*64/i;
     var regex_darwin = /(darwin|macosx|tiger|leopard)/i;
     var regex_linux_64 = /linux.*64/i;
@@ -98,6 +104,32 @@ function update_packages() {
     var regex_Windows_32 = /win.*32/i;
     var regex_Windows = /win/i;
 
+    var Platform = 'Any OS';
+
+    if (regex_darwin_64.test(filename)) {
+        Platform = 'Mac OS X 64-bit';
+    } else if (regex_darwin.test(filename)) {
+        Platform = 'Mac OS X';
+    } else if (regex_linux_64.test(filename)) {
+        Platform = 'Linux 64-bit';
+    } else if (regex_linux_32.test(filename)) {
+        Platform = 'Linux 32-bit';
+    } else if (regex_SunOS.test(filename)) {
+        Platform = 'Sun OX';
+    } else if (regex_source.test(filename)) {
+        Platform = 'Source Code';
+    } else if (regex_Windows_64.test(filename)) {
+        Platform = 'Windows 64-bit';
+    } else if (regex_Windows_32.test(filename)) {
+        Platform = 'Windows 32-bit';
+    } else if (regex_Windows.test(filename)) {
+        Platform = 'Windows';
+    } 
+    
+    return Platform;
+}
+
+function cps_getUse(filename) {
     var regex_AllSE = /AllSE/;
     var regex_java = /java/i;
     var regex_python = /python/i;
@@ -105,6 +137,26 @@ function update_packages() {
     var regex_csharp = /(mono|C.-Bindings)/;
     var regex_documentation = /\.pdf$/i;
 
+    var Use = 'COPASI';
+
+    if (regex_AllSE.test(filename)) {
+       Use = 'Simulation Engines for all platforms<br />(for use in heterogenous clusters)';
+    } else if (regex_documentation.test(filename)) {
+       Use = 'Documentation';
+    } else if (regex_java.test(filename)) {
+       Use = 'Language Bindings: Java';
+    } else if (regex_python.test(filename)) {
+       Use = 'Language Bindings: Python';
+    } else if (regex_perl.test(filename)) {
+       Use = 'Language Bindings: Perl';
+    } else if (regex_csharp.test(filename)) {
+       Use = 'Language Bindings: C#';
+    } 
+
+    return Use;
+}
+
+function update_packages() {
     var vsltr = document.getElementById('version_selector');
     var release_idx = vsltr.selectedIndex;
     
@@ -116,55 +168,22 @@ function update_packages() {
     var assets = github_json[release_idx]['assets'];
     var div_txt = '<table class="table display" id="download_table"><thead><tr><th>Content</th><th>Platform</th><th>File</th></thead></tr>';
     var clean_fn, notes;
+
     for (asset_idx in assets) {
         filename = assets[asset_idx]['name'];
         dnld_url = assets[asset_idx]['browser_download_url'];
         clean_fn = filename.replace('opasi-64', 'opasi').replace('opasi-32', 'opasi').toLowerCase();
 
-        var Platform = 'Any OS';
-
-        if (regex_darwin_64.test(filename)) {
-           Platform = 'Mac OS X 64-bit';
-        } else if (regex_darwin.test(filename)) {
-           Platform = 'Mac OS X';
-        } else if (regex_linux_64.test(filename)) {
-           Platform = 'Linux 64-bit';
-        } else if (regex_linux_32.test(filename)) {
-           Platform = 'Linux 32-bit';
-        } else if (regex_SunOS.test(filename)) {
-           Platform = 'Sun OX';
-        } else if (regex_source.test(filename)) {
-           Platform = 'Source Code';
-        } else if (regex_Windows_64.test(filename)) {
-           Platform = 'Windows 64-bit';
-        } else if (regex_Windows_32.test(filename)) {
-           Platform = 'Windows 32-bit';
-        } else if (regex_Windows.test(filename)) {
-           Platform = 'Windows';
-        } 
-
-        var Use = 'COPASI';
-
-        if (regex_AllSE.test(filename)) {
-          Use = 'Simulation Engines for all platforms<br />(for use in heterogenous clusters)';
-        } else if (regex_documentation.test(filename)) {
-          Use = 'Documentation';
-        } else if (regex_java.test(filename)) {
-          Use = 'Language Bindings: Java';
-        } else if (regex_python.test(filename)) {
-          Use = 'Language Bindings: Python';
-        } else if (regex_perl.test(filename)) {
-          Use = 'Language Bindings: Perl';
-        } else if (regex_csharp.test(filename)) {
-          Use = 'Language Bindings: C#';
-        } 
-
+        var Platform =  cps_getPlatform(filename);
+        var Use = cps_getUse(filename);
+ 
         div_txt += '<tr>';
         div_txt += '<td>' + Use + '</td>';
         div_txt += '<td>' + Platform + '</td>';
         div_txt += '<td>' + '<a href=' + dnld_url + '> ' + filename + '</a> </td>';
         div_txt += '</tr>';
     }
+
     div_txt += '</table>';
     man_dnld_div.innerHTML = div_txt;
 
