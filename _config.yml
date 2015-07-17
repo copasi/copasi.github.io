@@ -23,6 +23,7 @@ exclude: [tmp]
 # Add Processing features
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Create directories for each post similar to other pages
 permalink: News/:year/:month/:day/:title/
