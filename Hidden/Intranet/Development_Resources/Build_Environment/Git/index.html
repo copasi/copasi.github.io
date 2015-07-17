@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "Git"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 The COPASI team uses <a target="_blank" href="http://git-scm.com/" rel="external">git</a> as the source code repository. A public repository is available at <a target="_blank" href="https://github.com/organizations/copasi" rel="external">github.com</a>. Additionally, we maintain a private repository at  gitolite@git.copasi.com . The private repository provides means to develop new experimental features and algorithms, which shall not be publicly available because they part of thesis work or a publication.  The private repository uses <a target="_blank" href="http://gitolite.com/gitolite/g2/master-toc.html" rel="external">gitolite 1.5.4</a>. To access the private repository a ssh key needs to be generated and uploaded to the server. Currently Stefan is handling the maintenance of the access to the private repository. The maintenance is git based and thus can easily be shared among different people.<br />
 <br />
@@ -34,11 +29,5 @@ If this fails:<pre class="codelisting" dir="ltr" style="overflow:auto;">git fetc
 git rebase
 git push</pre><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

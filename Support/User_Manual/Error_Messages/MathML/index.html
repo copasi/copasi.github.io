@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "MathML"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 These error messages can occur when COPASI finds an error while importing the MathML from an SBML file.<br />
 <div style=" text-align: left; float: none; clear: none;" class='errorbox' ><br />
@@ -30,11 +25,5 @@ These error messages can occur when COPASI finds an error while importing the Ma
 <dl><dt><b>Message</b></dt><dd>DIVIDE and POWER operator can only have 2 arguments.</dd></dl><br />
 <dl><dt><b>Description</b></dt><dd>The divide and the power operator in MathML must have exactly two arguments. During SBML import COPASI has found a MathML expression where this is not the case. Please check the MathML in the SBML file.</div></dd></dl><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

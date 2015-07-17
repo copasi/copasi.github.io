@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Species"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Adding new species works exactly the same as adding new compartment, so we strongly suggest reading the  section if you haven't already done so. Here we will just cover the differences between adding a compartment and adding a species.<br />
 <br />
@@ -51,11 +46,5 @@ The mathematical expressions that can be specified for rules and initial assignm
 <br />
 When it comes to referencing values of other model entities within mathematical expressions, there is a slight difference between the mathematical expression for a rule and that for an initial assignment. The former may reference transient values of other model entities whereas the latter may only reference initial values of other model entities.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

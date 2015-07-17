@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Plots"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Plotting is another form of output that COPASI can do. Most of the time, you probably want to plot some or all of the species concentrations during a time course simulation and, as described above, this is easiest done by choosing that predefined plot template from the <a title="COPASI: Support/User Manual/Output/Output Assistant" href="{{ site.baseurl }}/Support/User_Manual/Output/Output_Assistant/" >Output Assistant</a>. But since the output assistant can not cover all possible plots sometimes you will have to define your own plots.<br />
 <br />
@@ -34,11 +29,5 @@ Another way to specify whether a plot is active or not is in the plot table wher
 <br />
 In addition to curves, you can also tell COPASI to draw a histogram of the data generated during a time course simulation (see  <a title="COPASI: Support/User Manual/Tasks/Time Course Simulation" href="{{ site.baseurl }}/Support/User_Manual/Tasks/Time_Course_Simulation/" >time course simulation</a>) or a parameter scan (see  <a title="COPASI: Support/User Manual/Tasks/Parameter Scan" href="{{ site.baseurl }}/Support/User_Manual/Tasks/Parameter_Scan" >parameter scan</a>). A histogram draws a bar graph that shows how often the parameter took a certain value. To define a histogram instead of a curve, you click on the New histogram... button in the plot definition dialog. For the new histogram you can specify a title, the variable for which the histogram should be drawn, and the increment of the value. The increment parameter tells COPASI how wide the individual bars of the histogram are going to be. Let's say the value of the parameter was in the range of 3 to 8 and you set the increment to 0.1, COPASI will draw a histogram with 50 bars, each bar representing a value range of 0.1 units. Curves and histograms can be combined in a single plot.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

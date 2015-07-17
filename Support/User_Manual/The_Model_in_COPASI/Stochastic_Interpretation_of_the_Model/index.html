@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Stochastic Interpretation of the Model"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 An alternative interpretation is to consider the model as a stochastic process. In this case the reaction kinetics are not considered to describe the rates of change for the concentrations of involved species, but rather as a specification about the probability that a reaction event happens. If a reaction event happens the particle numbers of the involved species are updated according to their stoichiometries. That means particle numbers are always integer numbers and change discretely.<br />
 <br />
@@ -18,11 +13,5 @@ Specifically the value of the kinetic function is interpreted as a so called pro
 <br />
 Another issue modelers should be aware of is that the rate laws for enzymatic reactions that are derived using the steady state approximation are not necessarily valid for stochastic simulation. In many cases they are, but the underlying assumptions for using them are not exactly the same as for deterministic simulations.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

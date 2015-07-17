@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Multistate Species and Reactions syntax"
 structure: "Multistate_Model_Builder"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 <br />
 Our multistate syntax has many elements and, even if it is quite intuitive, it may take some time to become familiar with that.<br />
@@ -521,11 +516,5 @@ We define the <strong>SUM</strong> operator in the following way:<br/>
 </table>
 Different ways of obtaining the sum of all the states of Cdh1 which are not 0, each with a weight of 1. For the options that uses a weighted function, in this specific case, our weight function can be <code>coeff_fun(SITE s1,GLQ k)=s1-s1+k</code> and <code>k1=1</code>, defined in the Global Quantities table. Since the parameter of type "site" is used in a mathematical expression inside the function equation, the coefficient function can be used only on states values that are integer numbers.
 
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

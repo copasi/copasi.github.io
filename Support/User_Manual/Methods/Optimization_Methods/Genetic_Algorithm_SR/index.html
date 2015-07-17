@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Genetic Algorithm SR"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 The genetic algorithm with stochastic ranking is very similar to the before described  with tournament selection. With two exception which are the mutations are not forced to be within the boundaries and the selection is done through a bubble sort with a random factor as described in [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Runarsson00/" >Runarsson00</a>].<br />
 <ul><li> Parameters are encoded in genes using floating-point representation, rather than the more usual binary representation.
@@ -58,11 +53,5 @@ for (i = 0; i &lt; sweepNum; i++)
 <dl><dt><b>Seed</b></dt><dd> The parameter is a positive integer value to determine the seed for the random number generator. A value of zero instructs COPASI to select a &quot;random&quot; value.</dd></dl><br />
 <dl><dt><b>Pf</b></dt><dd> This parameter is a numerical value in the interval (0, 1) determining the chance that individuals either outside the parameter boundaries or violating the constraints are compared during the selection. The default is '0.475'.</dd></dl><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

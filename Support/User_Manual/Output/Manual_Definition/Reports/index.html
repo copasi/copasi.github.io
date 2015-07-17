@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Reports"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 This section describes how to create or edit a report definition. Keep in mind that you still have to select this report for the specific calculation task you want to perform. You can do this (and also choose a filename to write to) using the Report button as described below in the sections about the different tasks.<br />
 <br />
@@ -52,11 +47,5 @@ Per default, the check box labeled Title Row is activated, which means that COPA
 <br />
 As stated above, the advanced report definition allows you to define the output for the three parts of the report separately. The <i>header</i> part of the report is written once before the corresponding task, the output of the <i>body</i> elements occurs once per step of the corresponding task, e.g. for the time course once every time step, and the <i>footer</i> is written once after the task has finished. In this sense, the standard table report definition is nothing but an advanced report definition with a title header and a body that consists of the time and some species concentrations separated by separator items. The footer is empty. If you write your own advanced report definition, you are responsible to add separator tags where appropriate. An advantage to the advanced report definition is that you can add arbitrary text to any of the three sections. Everything else works as described for the standard report definition, you can add and delete items by selecting them from the object browser dialog. You can also move these items up and down by selecting them and clicking on the Up or Down button. Separator items can be added by clicking on the Separator button. The symbol or text that makes up the separator item is again defined by the check box and the adjacent input field towards the top of the report definition dialog.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

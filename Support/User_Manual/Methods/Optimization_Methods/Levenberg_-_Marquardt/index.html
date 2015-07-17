@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Levenberg - Marquardt"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Levenberg-Marquardt [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Levenberg44/" >Levenberg44</a>, <a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Marquardt63" >Marquardt63</a>] is a gradient descent method. It is a hybrid between the steepest descent and the Newton methods.<br />
 <br />
@@ -24,11 +19,5 @@ The original suggestions of Levenberg and Marquardt were effective to enhance th
 <dl><dt><b>Iteration Limit</b></dt><dd> This parameter is positive integer determining the maximum number of iterations the algorithm shall perform. The default is '200'.</dd></dl><br />
 <dl><dt><b>Tolerance</b></dt><dd> This parameter is a positive value determining the tolerance with which the solution shall be determined. If the improvement between two steps is less than the tolerance the algorithm stops. The default is '<img class="latex-equation" style="vertical-align: text-bottom; position: relative; bottom: +3px; height: 13; width: 27;" src="0a23a82fd3eb4213a6e86874ad0a6f44.png" alt="$10^{-5}$">'.</dd></dl><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

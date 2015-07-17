@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "General Model Settings"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 If you click on the Model branch of the object tree which was explained in the <a title="COPASI: Support/User Manual/Model Creation/COPASI GUI Elements" href="{{ site.baseurl }}/Support/User_Manual/Model_Creation/COPASI_GUI_Elements/" >COPASI GUI Elements</a> section, you activate the dialog that lets you specify certain parameters for your model like its name and the units that are to be used for time, volume and concentration quantities throughout the current model. You can also give a textual description of your model that is more expressive than reactions and equations. You could for example state which part of the metabolism the model describes (e.g. glycolysis) and add some references to articles related to the model. This will help others (and yourself) to understand and identify your models.<br />
 <br />
@@ -26,11 +21,5 @@ In the field labeled Time (s) under the text Initial the user can tell COPASI to
 <br />
 <div class="alert alert-warning" role="alert"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span><span class="sr-only">Warning:</span> The update model option on each task will only update the initial time for non-autonomous models otherwise it will be left at 0.</div><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

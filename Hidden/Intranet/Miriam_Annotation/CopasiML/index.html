@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "MIRIAM compliant Annotation in COPASI"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 This page describes the support of MIRIAM compliant annotation in COPASI. COPASI stores the information in a <a target="_blank" href="http://www.w3.org/TR/rdf-primer/" rel="external">Resource Description Framework (RDF)</a> graph which is saved in <a target="_blank" href="http://www.w3.org/TR/rdf-syntax-grammar/" rel="external">RDF/XML Syntax</a> in the COPASI file. MIRIAM annotation is currently provided for the model, the species, the compartments, the global quantities, the reactions, and the kinetic functions.<br />
 <h3 name="Graph">Graph</h3>
@@ -59,11 +54,5 @@ The Miriam Annotation element may contain any legal <a target="_blank" href="htt
 COPASI will import all correct RDF from existing <a target="_blank" href="http://sbml.org" rel="external">SBML</a> files which can be mapped onto our schema. In particular we are able to import the information specified in L2V2 and L2V3 as well as the L2V1 information provided by Biomodels.net as long as it correct RDF/XML. If we encounter incorrect RDF/XML we will only ignore the part which is incorrect.<br />
 <h4 name="Export">Export</h4>
 COPASI currently does not export MIRIAM annotation to SBML. We are working on a solution to overcome the differences between the SBML specification and the simpler but richer COPASI information.<br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

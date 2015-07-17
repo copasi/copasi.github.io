@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Connectivity Relations"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 A particularly useful and important feature of MCA is that it can relate the kinetic properties of the individual reactions (local properties) with (global) properties of the whole intact pathway. This is done through the connectivity theorems [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Kacser73/" >Kacser73</a>] that relate the control coefficients and the elasticity coefficients of steps with common intermediate species.<br />
 <br />
@@ -25,11 +20,5 @@ The first equation applies to the case in which the reference species <i>A</i> i
 <br />
 The connectivity theorems allow MCA to describe how perturbations on species of a pathway propagate through the chain of enzymes. The local (kinetic) properties of each enzyme effectively propagate the perturbation to and from its immediate neighbors.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

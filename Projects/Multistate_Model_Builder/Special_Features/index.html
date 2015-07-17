@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Special Features"
 structure: "Multistate_Model_Builder"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 <span name='toc'><div name='toctitle'><h3>In this section:</h3></div><ul class="toc"><li><a href='#Autosave' class='link'>Autosave</a>
 </li><li><a href='#Consistency_checks' class='link'>Consistency checks</a>
 </li><li><a href='#Preferences' class='link'>Preferences</a>
@@ -201,11 +196,5 @@ A final remark:
 Since there can be situations in which a modeler wants to define, for example, a Species "a" and a Global Quantity "a", mathematical expressions using the simple "a" symbol are ambiguous (because the tool cannot know if the expression refers to the Species or to the Global Quantity). In this case, use of the proper suffix qualifier is mandatory to allow the tool to disambiguate between the two. Note that also in this case some qualifiers can be left unspecified (i.e. the timing qualifier transient in our example) so the tool will append it automatically at export time.
 However when the choice of qualifier is ambiguous, it is the user's responsibility to provide the tool the correct information. If all names of the different elements of the model are unique, the tool will make this expansion completely transparent to the user; this is why we highly encourage modelers to use unique names throughout the entire model.
 
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

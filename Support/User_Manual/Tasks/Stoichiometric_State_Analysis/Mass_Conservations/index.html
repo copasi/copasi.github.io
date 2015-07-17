@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Mass Conservations"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Calculating mass conservations in COPASI is also very easy. Navigate to the Tasks-&gt;Stoichiometry-&gt;Mass Conservation branch in the object tree and click on the Run button as with every other task.<br />
 <br />
@@ -20,11 +15,5 @@ Moieties are the result of stoichiometric analysis. The result of this analysis 
 <br />
 However, often people like to know the total preserved amount of a moiety. Since the moiety calculation is not unique COPASI provides a convenience method to create a global quantity of type assignment to calculate this value. This method is accessible through the tool button. The result of this assignment is now independent from the algorithm chosen to calculate the moieties and thus may even be exported to SBML.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

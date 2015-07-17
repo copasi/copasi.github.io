@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Diagrams"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Starting with version 4.4.28, COPASI has the possibility to read and display layout information from COPASI and SBML files. An additional feature that comes with the diagram display is the possibility to display animations of time course data from simulations. Currently there is no way to create new diagrams within COPASI, but we hope to change that in the future. The layout information can either be obtained in the form of the SBML layout extension (see the <a target="_blank" href="http://otto.bioquant.uni-heidelberg.de/sbml/" rel="external">SBML Layout Extension Specification</a> for further information) or from a COPASI file that includes layout information. Since there is no way to create new diagrams in COPASI, the only way to come up with a COPASI file that includes layout information is to create an SBML file with layout information and convert it to a COPASI file. The layout in COPASI files is also stored in the form of the SBML layout extension. Only that the SBML object ids are replaced by the corresponding COPASI keys.<br />
 <br />
@@ -58,11 +53,5 @@ There is also the possibility to export the current layout as a bitmap. In order
 <br />
 Since this is an early version of the diagram display, there certainly are still many issues, but we hope that it might be helpful nevertheless. If you have suggestions or complaints, please tell us, preferably via the <a title="userforum" href="{{ site.baseurl }}/Support/User_Forum/">User Support Forum</a> or if you think it is a bug via our <a  href="{{ site.baseurl }}/Support/Issue_Tracker/" rel="">Issue Tracker</a>.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

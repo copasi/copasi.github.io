@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Species"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 A species is characterized by how much of it is present at a given time. This can be expressed as a particle number or as a concentration. COPASI makes sure that those two are consistent at any time. An initial value can be provided for concentration or particle number of each species. This initial value will be used as a starting point for simulations or other calculations. A species can have four different modes (called &quot;types&quot; in the GUI).<br />
 <br />
@@ -21,11 +16,5 @@ A species is characterized by how much of it is present at a given time. This ca
 <br />
 Associated to the species is also a value called transition time. It is calculated as the current particle number of the species divided by either the sum of all reaction fluxes going into the species or the sum of all reaction fluxes going out of the species, whichever is smaller (the fluxes are also expressed in number of particles per second). The transition time gives a rough heuristic measure for how long a particle of this species will exist on average before it is consumed. A short transition time in a stable steady state may indicate that the equilibrium is a &quot;fast&quot; equilibrium which could be used for a simplification of the model. Note however that this calculation is inexact if any reversible reactions are involved.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

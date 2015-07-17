@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Configuration with Conflicts"
 structure: "JigCell_Run_Manager_2_0"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 <h3 name="Hierarchical_configuration_with_conflicts">Hierarchical configuration with conflicts</h3>
 <br />
 JC-RM guides the user in creating a hierarchy of parameter configurations for a single model defining nodes in terms of minor differences from adjacent nodes.<br />
@@ -74,11 +69,5 @@ As shown in the image above the modeler can:<br />
 (b) pick the value from the base set (which is the base model value, the one that is shown in the MSMB tables before opening the Run Manager window)<br />
 (c) the new local expression can be a complex algebraic expression involving values from the parents with the syntax &quot;<i>parameter_name@parent_name</i>&quot;. In the example above M has a combination (in the form of sum) of the value of k1 in WT1 and of k1 in WT2. Note that the expression can involve other variables, both from the current node as well as from the parents, allowing complex parameter definitions. The complex expression will be very maintainable because changes in the current value of k1 in the parents now will be carried out seamlessly by the tool into all nodes referring to those parameters.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

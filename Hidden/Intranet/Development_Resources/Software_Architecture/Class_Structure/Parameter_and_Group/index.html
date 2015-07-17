@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "The CCopasiParameter and CCopasiParameterGroup Classes"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 <h3 name="Parameter">Parameter</h3>
 The class CCopasiParameter is a specialized container (derived from CCopasiContainer) which is designed to store any information of the form<code><b> name = value</b></code>. Currently the type of the value is restricted to:<br />
@@ -37,11 +32,5 @@ const Value &amp; getValue() const;</pre> Please note that the set method will f
 The class CCopasiParameterGroup is derived from CCopasiParameter. It is intended to handle an arbitrary list of parameters, i.e., it may contain an other parameter group. It provides convenient methods to access contained parameters by name as well as iterator to process all parameters.<br />
 <br />
 The class CCopasiParamterGroup is the base class for all problems and methods used in the task structure. As long as one knows the type of the derived class it is possible to elevate a CCopasiParameterGroup to a specific method or problem. This mechanism is used when loading a COPASI file. For it to function properly each derived class must implement a constructor which takes a CCopasiParameterGroup as argument. In some cases it is also necessary to overload the virtual method elevateChidren.<br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

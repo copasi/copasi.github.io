@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Evolutionary Strategy (SRES)"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Evolutionary Strategies with Stochastic Ranking (SRES) [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Runarsson00/" >Runarsson00</a>] is similar to <a title="COPASI: Support/User Manual/Methods/Optimization Methods/Evolutionary Programming" href="{{ site.baseurl }}/Support/User_Manual/Methods/Optimization_Methods/Evolutionary_Programming" >Evolutionary Programming</a>. However, a parent has multiple offsprings during each generation. Each offspring will contain a recombination of genes with another parent and additional mutations. The algorithm assures that each parameter value will be within its boundaries. But constraints to the solutions may be violated. Whenever this happens the square of the size of the violation is summed up, i.e., we calculate<br />
 <br />
@@ -24,11 +19,5 @@ where the constraints are given by <img class="latex-equation" style="vertical-a
 <dl><dt><b>Seed</b></dt><dd> The parameter is a positive integer value to determine the seed for the random number generator. A value of zero instructs COPASI to select a &quot;random&quot; value.</dd></dl><br />
 <dl><dt><b>Pf</b></dt><dd> This parameter is a numerical value in the interval (0, 1) determining the chance that individuals either outside the parameter boundaries or violating the constraints are compared during the selection. The default is '0.475'.</dd></dl><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "ILDM (Deuflhard)"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 <br />
 The ILDM (Deuflhard) method utilizes the algorithm developed by Deuflhard and Heroth (see [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Deuflhard96/" >Deuflhard96</a>, <a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Zobeley05" > Zobeley05</a>, <a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Surovtsova09" >Surovtsova09</a>] for details).<br />
@@ -27,11 +22,5 @@ This basis procedure results in a transformation of state vectors in new modes, 
 The Jacobian is calculated by using finite differences. The Schur transformation and the solution of Sylvester equation are performed using CLAPACK. Results in COPASI  are displayed in  four matrices and four vectors. The matrix &quot;Species&quot;  provides the contribution of each metabolite to  every mode, whereas the table &quot;Modes&quot;  summarizes the mode distribution for each metabolite. Vector &quot;Slow space&quot;  (&quot;Fast space&quot; respectively)  displays the contribution of each concentration variable to the set of all slow (fast) modes. The matrices &quot;Reactions contributions to modes&quot;  and &quot;Reactions distribution between modes&quot;  are the product of stoichiometric matrix and transformation matrix normed by column and row respectively. Two vectors &quot;Reactions slow space&quot; and &quot;Reactions fast space&quot; provide the contribution of each reaction to the slow and fast spaces. The metabolites with largest   contribution to the fast space could be supposed to be &quot;fast&quot; and thus, its ordinary differential equation is replaced by the corresponding algebraic equation (i.e. with the same right-hand side). In the specific case that a subset of species does not contribute to the slow space (but contributes only to the fast space), the time-scale decomposition results in a dissection of the reaction network. The reactions dominating in the fast modes are fast reactions.<br />
 <br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

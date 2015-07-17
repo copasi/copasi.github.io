@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "Mutliple Models"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 A while ago I proposed some changes to COPASI that would allow the COPASI backend to work with several models at the same time. Right now, some code in the backend still assumes that there is only one instance of CCopasiDataModel called CCopasiDataModel::Global.<br />
 <br />
 Why would it be necessary to work with several models at the same time? Here are some scenarios I can think of:<br />
@@ -75,11 +70,5 @@ Some of this has come out of the discussion on the COPASI mailing list and some 
 <br />
 <br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

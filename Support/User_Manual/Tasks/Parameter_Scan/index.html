@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Parameter Scan"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 The leaf for Parameter Scan in the object tree is located under Multiple Tasks. At the top, the dialog displays a box called New scan item together with a ... Create! button. When the dialog is opened for the first time, the only item in the widget below is a green box called Task. This widget contains a drop down list with all the tasks that can be used in a scan. Additionally there are a check box called always use initial conditions and a check box called output from subtask.<br />
 <br />
@@ -62,11 +57,5 @@ What we have left out so far are the two check boxes at the bottom of the Task w
 <br />
 The second check box is labeled output from subtask. If it is checked, COPASI will plot or write the complete time series result each time a time series task runs. Correspondingly it will output intermediate results for the other tasks. So if during your scan, 10 time series are calculated, all ten are overloaded in the same window. If the check box is unchecked, COPASI will only plot the end result, i.e. the concentrations after the last step, of each time series. This applies to reports correspondingly. This feature is useful if you want to plot some calculation results as a function of the parameter that is scanned. So e.g. you could plot the end result of a Steady-State calculation on the y-Axis versus a kinetic parameter on the x-Axis.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

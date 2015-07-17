@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "First RM project"
 structure: "JigCell_Run_Manager_2_0"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 <h3 name="Creating_a_graph_of_Parameter_lists">Creating a graph of Parameter lists</h3>
 In this section we describe step-by-step how to import an existing model of cell cycle and how to link few mutant configurations of parameters and simulations to the model.<br />
 <br />
@@ -153,11 +148,5 @@ As today, multiple parameter sets can be exported and stored in a single COPASI 
 The library used to display the graphs and to run the different automatic layout has some issues when graphs created running Java 6 are displayed on a machine running Java 7 (and viceversa). If compatibility issues are found, an error message is shown and the layout is not performed.<br />
 The model, the parameters, and the content of the graph is not affected by this error and all other automatic layouts works fine. We are working to find a solution for this issue.<br />
 In the meantime an easy workaround is to run JCMSMB with the same version of the JRE used to create the initial graph (i.e., Java 6 for the examples provided within the installer).<br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "Dependency Graph"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Each mathematical object knows the prerequisites, which need to be up to date for the object to be calculated correctly. Based on these prerequisites a dependency graph which can be traversed in the direction of prerequisites and dependents can be constructed. This dependency graph can than be used to determine a sequence of calculations which is sufficient to update a list of required objects based on a list of changed objects.<br />
 <br />
@@ -154,11 +149,5 @@ This class represents the nodes and their edges to dependent and prerequisite no
    */
   const bool & isRequested() const;</pre><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

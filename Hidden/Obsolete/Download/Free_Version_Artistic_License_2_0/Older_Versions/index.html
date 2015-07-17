@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "Installation Packages"
 structure: "Obsolete"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 <b>Select version:</b><form method="GET" action="/static/mirrorSelected.php"><input type="hidden" name="returnTo" value="tiki-index.php?page_ref_id=109" /><select name=build><br />
 <option value="95">COPASI 4.15 (Build 95)</option><br />
@@ -51,11 +46,5 @@ Build 32 and older:&nbsp;&nbsp; <input type="submit" name="mirror" value="VBI (U
 <br />
 <a title="COPASI: Support/Change History" href="{{ site.baseurl }}/Support/Change_History" >Change History</a> <a title="OldVersions" href="OldVersions.html">Really Old Versions</a><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Hooke &amp; Jeeves"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 The method of Hooke and Jeeves [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Bell66/" >Bell66</a> <a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Hooke61" >Hooke61</a> <a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Kaupe63" >Kaupe63</a> <a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Swann72" >Swann72</a>] is a direct search algorithm that searches for the minimum of a nonlinear function without requiring (or attempting to calculate) derivatives of the function. Instead it is based on a heuristic that suggests a descent direction using the values of the function calculated in a number of previous iterations.<br />
 <br />
@@ -19,11 +14,5 @@ The method of Hooke and Jeeves [<a title="COPASI: Support/User Manual/Bibliograp
 <dl><dt><b>Tolerance</b></dt><dd> This parameter is a positive value determining the tolerance with which the solution shall be determined. If the improvement between two steps is less than the tolerance the algorithm stops. The default is '<img class="latex-equation" style="vertical-align: text-bottom; position: relative; bottom: +3px; height: 13; width: 27;" src="0a23a82fd3eb4213a6e86874ad0a6f44.png" alt="$10^{-5}$">'.</dd></dl><br />
 <dl><dt><b>Rho</b></dt><dd> This parameter is a value in (0, 1) determining the factor with which the steps size is reduced between iterations. The default is '0.2'.</dd></dl><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

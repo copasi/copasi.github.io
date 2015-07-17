@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Sliders"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Sliders are user interface elements that let the user change model values without having to go to the corresponding dialog first. This way the user can change certain model values and immediately see the result this has on e.g. a time course simulation. The use of sliders is not limited to the Time Course task, but they can also be used for the Steady-State task and the Metabolic Control Analysis.<br />
 <br />
@@ -43,11 +38,5 @@ Modifying a slider is essentially the same as defining a slider. The only differ
 Most people will probably use the sliders in combination with the mouse, dragging the sliders pointer to the desired new value. Since this way of using a slider is rather coarse, especially if the slider contains a large number of steps, you can also use the keyboard to change a sliders value. In order to do this, the slider you want to manipulate needs to have the keyboard focus. To give the keyboard focus, you have to hit the TAB key several times until the slider is surrounded by a small frame. Once the slider has this frame, you can increment and decrement the sliders value via the cursor and the page up/down keys on the keyboard. The cursor keys are used to change the value in small steps, the page up/down keys can be used to change the value in larger steps (see the explanation for major and minor keys above).<br />
 <br />
 <div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="Sliders_05.png" style="width:100%" border="0"  /></td></tr><tr><td class="mini">COPASI&nbsp;with&nbsp;Plot&nbsp;Window&nbsp;and&nbsp;Sliders</td></tr></table></div><br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

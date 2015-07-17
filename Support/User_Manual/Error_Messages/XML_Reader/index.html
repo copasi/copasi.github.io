@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "XML Reader"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 These error messages can occur when reading COPASI files. Many of the error messages of the XML file reader are not serious. Since the COPASI file format has changed during development, current versions of COPASI might not recognize some elements used in older versions of the file format. And vice versa if you try to read a COPASI file generated with a version newer than the one you are currently using, the file might contain new elements unknown to the older version of COPASI. In the worst case some task settings might be lost.<br />
 <div style=" text-align: left; float: none; clear: none;" class='errorbox' ><br />
@@ -70,11 +65,5 @@ These error messages can occur when reading COPASI files. Many of the error mess
 <dl><dt><b>Message</b></dt><dd>Local reaction parameters may no longer be used in any expression in the model. The following automatic corrections have been applied: AUTOMATIC_CORRECTIONS Please note: Tasks, reports, and plots may have been affected by these changes and may no longer work as expected.</dd></dl><br />
 <dl><dt><b>Description</b></dt><dd>!!!UNDOCUMENTED!!!</div></dd></dl><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

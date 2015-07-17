@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Simulated Annealing"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Simulated annealing is an optimization algorithm first proposed by Kirkpatrick et al. [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Kirkpatrick83/" >Kirkpatrick83</a>] and was inspired by statistical mechanics and the way in which perfect crystals are formed. Perfect crystals are formed by first melting the substance of interest, and then cooling it very slowly. At large temperatures the particles vibrate with wide amplitude and this allows a search for global optimum. As the temperature decreases so do the vibrations until the system settles to the global optimum (the perfect crystal).<br />
 <br />
@@ -33,11 +28,5 @@ This implementation of simulated annealing is based on the code of Corana et al.
 <dl><dt><b>Random Number Generator</b></dt><dd>The parameter is an enumeration value to determine which random number generator this method shall use. COPASI provides two random number generators R250 [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Maier91/" >Maier91</a>] (selected through the value 0) and the <a target="_blank" href="http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/emt.html" rel="external">Mersenne Twister</a> [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Matsumoto98" >Matsumoto98</a>] (selected through the value 1 (default)).</dd></dl><br />
 <dl><dt><b>Seed</b></dt><dd> The parameter is a positive integer value to determine the seed for the random number generator. A value of zero instructs COPASI to select a &quot;random&quot; value.</dd></dl><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

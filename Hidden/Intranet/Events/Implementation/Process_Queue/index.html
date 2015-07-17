@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "Process Queue"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 To keep track of the processing steps involved in <b><i>carrying out</i></b> event assignments we create a process queue. If an event <b><i>fires</i></b> two steps are added to the processing queue for each assignment which are the <b><i>calculation</i></b> and the <b><i>execution</i></b> of the assignment. For each step we must provide additional information about the time point when they must be executed. The time point is either the current time or the current time plus delay.<br />
 <br />
@@ -39,11 +34,5 @@ bool mIsCalculation</pre><br />
 <div class="simplebox">TODO: For backwards integration the order needs to be corrected with respect to time.</div><br />
 Comment to TODO: We should rather disable backwards integration if we have events. In general it is not possible to reverse events.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

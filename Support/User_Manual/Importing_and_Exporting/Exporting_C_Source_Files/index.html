@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Exporting C Source files"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Sometimes it is of advantage to have the differential equations that make up your model in the form of source code for some programming language. This allows you to integrate your model into some experimental analysis software that you might have written, or some analysis software that expect the input as C source code like <a target="_blank" href="http://indy.cs.concordia.ca/auto/" rel="external">AUTO</a>.<br />
 <br />
@@ -30,11 +25,5 @@ The file contains the following sections:<br />
 <br />
 In order to export the set of differential equations to a C source code file, you select the Export ODEs menu entry from COPASI's File menu. In the save dialog that shows up, you select <i>C Files (*.c)</i> from the File type drop down and specify the name of the file you want to write the ODEs to. After clicking on the Save the ODEs will be saved to the specified file.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

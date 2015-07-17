@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "Simultaneous Events"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 There are three ways in which simultaneity can occur for events:<br />
 <ol><li> <b><i>firing</i></b>
@@ -25,11 +20,5 @@ Simultaneous <b><i>calculation</i></b> occurs when the time point <b><i>firing</
 <h3 name="Execution">Execution</h3>
 Simultaneous <b><i>execution</i></b> occurs when the time point <b><i>calculation</i></b> or <b><i>calculation + delay</i></b>  for several events and the &quot;Execution PRIOR to Processing&quot; are equal. In the case that simultaneous <b><i>executions</i></b> occur we stop the execution since the outcome of the simulation may depend on the order of processing.  Later we may implement checks for situations in which the outcome is independent of the order of processing.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

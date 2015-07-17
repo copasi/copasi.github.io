@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Build Instructions"
 structure: "Installation"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 COPASI's sources are available as <a title="COPASI: Download" href="{{ site.baseurl }}/Download">source packages</a> or from our <a target="_blank" href="https://github.com/copasi/COPASI" rel="external">github  repository</a>. These sources are written in standard C++ and will compile on Linux, OS X and Windows.<br />
 <h3 name="Dependencies">Dependencies</h3>
@@ -31,11 +26,5 @@ In the above ../copasi-dependencies is the location of the compiled copasi-depen
 There are many more compile options available, options for building the language bindings as well as options to enable some experimental features that are not yet available in the stable builds that are released publicly. To view the complete set of options, start the graphical cmake frontend in the continuing from the above command this would be done with:<br />
 <pre class="codelisting" dir="ltr" style="overflow:auto;">cmake-gui ../COPASI</pre><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

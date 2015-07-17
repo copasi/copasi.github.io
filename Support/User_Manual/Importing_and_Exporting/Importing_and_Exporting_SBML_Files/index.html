@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Importing and Exporting SBML files"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 COPASI is able to import <a target="_blank" href="http://www.sbml.org" rel="external">SBML</a> level 1 and level 2 files as well as export SBML level 2 files through the corresponding entries in the File menu. Export of SBML files to Level 1 Version 2 is also enabled, but since SBML Level 1 Version 2 does not support many features of SBML Level 2 and above, export to this level and version will often fail and COPASI should tell you why the export failed.<br />
 For the import and export the SBML Model is read with <a target="_blank" href="http://www.sbml.org/libsbml.html" rel="external">libsbml</a> and converted to the COPASI model structure and vice versa. On exporting, COPASI converts its native model structure to an SBML model that is again written out using libsbml. Since the SBML model structure is converted into the COPASI model structure upon import, some of the information in the SBML file gets lost because COPASI does not support the corresponding model elements. Examples of data that gets lost are e.g. algebraic rules rules.<br />
@@ -33,11 +28,5 @@ One notable feature from SBML that is currently not fully supported in COPASI is
 <br />
 Another issue with the delay function in COPASI is the fact that COPASI does not allow a call to the delay function to appear in a function definition. This includes function definitions that are created from kinetic law expressions upon import (see above). If COPASI encounters a call to the delay function in a kinetic law expression, the delay call is converted to a global variable which is then passed as an extra argument to the kinetic function. If there are references to local variables within a call to the delay function, those local parameters are also converted to global parameters. If you reexport  such a model to SBML, all those changes remain in the model. However, those changes do not change the results you get when you e.g. simulate the model.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

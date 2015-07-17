@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Steady State Calculation"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 The steady state is the state in which the state variables of the model, e.g. the species concentrations do not change in time. Mathematically this is expressed by setting the differential equations that describe the time evolution of the metabolic system to zero. This forms a system of algebraic non-linear equations. To solve them, COPASI can use a series of strategies using more than one numerical method.<br />
 <br />
@@ -24,11 +19,5 @@ All calculations are done based on particle numbers and particle number rates ra
 <dl><dt><b>Derivation Factor</b></dt><dd> This is a numeric value to determine the step size used to calculate <img class="latex-equation" style="vertical-align: text-bottom; position: relative; bottom: +1px; height: 14; width: 48;" src="79543b63972da1758b7033dd59fc0b86.png" alt="$f'(x_{i-1})$">. The default is '0.001'.</dd></dl><br />
 <dl><dt><b>Resolution</b></dt><dd> This is a positive numeric value to determine the resolution used to decide whether the current state is acceptable as a steady-state. If the absolute change of each state variable is smaller than the resolutions the state is accepted. The default is <img class="latex-equation" style="vertical-align: text-bottom; position: relative; bottom: +3px; height: 12; width: 27;" src="89aeab660920787b9a075e175fe69751.png" alt="$10^{-9}$">.<br /> <br /> Note, this value is interpreted as a concentration value, even though the calculation internally uses particle numbers. The reason for that is purely heuristic: In many cases the modeler will choose the units in a way that concentration values are neither extremely large nor extremely small numerically so that the default value for this parameter leads to useful results. However generally it is not save to just keep the default value without checking.</dd></dl><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

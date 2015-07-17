@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "Profiling Tools"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 <h3 name="Prof_and_Gprof">Prof and Gprof</h3>
 Prof and <a target="_blank" href="http://www.cs.utah.edu/dept/old/texinfo/as/gprof_toc.html" rel="external">Gprof</a> are GNU profilers which are freely available on many Unix platforms(Linux, IBM, Sun Solaris etc.). The code is linked or compiled  with special -pg flags. The executable is then run, generating a file called gmon.out. Gprof is then run on the generated file, giving statistics about the run of the program.<br />
@@ -28,11 +23,5 @@ Massif is a heap profiler. It performs detailed heap profiling by taking regular
 <h4 name="Kcachegrind">Kcachegrind</h4>
 KCachegrind is available separately as a visualization tool and gives a much better overview of the data that Callgrind collects. It can also be used to visualize Cachegrind's output.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

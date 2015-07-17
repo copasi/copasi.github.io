@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "Objects and containers"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Many classes in COPASI are derived of the CCopasiObject class. They all inherit some common properties:<br />
 <ul><li> All Objects have a name and a type
@@ -126,11 +121,5 @@ Constructors of derived classes should at least have the first two<br />
 arguments: name and parent. The other arguments are only necessary<br />
 if you expect that the class will be used as a base class for further<br />
 derived classes which may want to change the flags or type.<br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

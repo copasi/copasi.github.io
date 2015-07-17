@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Lyapunov Exponents Calculation"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 COPASI allows the calculation of Lyapunov exponents of a trajectory as well as the average divergence of the system. The exponents are calculated for the reduced system (see ), so the maximum number of exponents that can be calculated is the number of independent variables. If less than this number of exponents is requested, the largest exponents are calculated.<br />
 <br />
@@ -28,11 +23,5 @@ The Jacobian that is used for both Lyapunov exponents and divergence calculation
 <br />
 The rest of the options apply for the LSODA numerical integrator that is used for the calculation. They are described in the section for <a title="COPASI: Support/User Manual/Methods/Time Course Calculation/Deterministic Simulation" href="{{ site.baseurl }}/Support/User_Manual/Methods/Time_Course_Calculation/Deterministic_Simulation/" >deterministic simulation</a>.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

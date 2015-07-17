@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Java Bindings Installation"
 structure: "Installation"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 <h3 name="Java_Bindings_Installation">Java Bindings Installation</h3>
 Once you downloaded the binary package for the Java bindings you have to unpack it. It will be unpacked to a directory called copasi_java. This directory contains the native library, three jar files, a documentation file and the license file.<br />
 The copasi.jar file contains the actual language bindings for COPASI. The copasi_gui.jar file contains a little sample swing application that loads an SBML file and can run a time course simulation on the model contained in the SBML file. The unittests.jar file contains some unittests that can be used to check whether the bindings are working.<br />
@@ -25,11 +20,5 @@ For Windows XP running all tests at once did not work using junit 4.4, running t
 <br />
 Please note that under Microsoft Windows the language bindings require certain versions of the Microsoft runtime libraries. If these are not installed, the bindings might not work. Please see the download page for the individual language binding versions for the runtime requirements.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

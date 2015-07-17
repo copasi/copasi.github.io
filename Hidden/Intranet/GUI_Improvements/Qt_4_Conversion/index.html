@@ -1,17 +1,12 @@
 ---
+layout: structure
 title: "Qt 4 Conversion Issues"
 structure: "Intranet"
 sitemap: false
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 <br />
 Qt Designer has changed significantly in the Qt 4 release. It is no longer an IDE. Instead, it concentrates on creating a robust form builder which can be extended and embedded in existing IDEs. That means, Qt Designer 4 is no longer able to edit source files (ie., .ui.h files), but can now read and edit .ui files without a need of project file (ie., .pro file). However, no implementation files will be generated anymore by uic. The .ui file is now converted only into a single header file containing the declaration and inline definition of a POD class.<br />
@@ -31,11 +26,5 @@ Note that the last two ways needs .ui file readable by Qt Designer 4. For this p
 <h3 name="Issue_Reporting">Issue Reporting</h3>
 Any GUI layout and presentation issues which are found in the branch cvs development branch HEAD must be assigned to the component <b>Qt 4 Conversion</b>.<br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

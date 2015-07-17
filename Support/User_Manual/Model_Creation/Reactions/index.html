@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Reactions"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 Again adding reactions essentially works the same way as adding compartments or species. When you navigate to the Reactions branch of the object tree which is located under the Model-&gt;Biochemical branch, you will see a table with five columns. The first two are Status and Name of the reaction. The third column called Equation describes the chemical formula and maybe additional modifiers of the reaction. The fourth column states the name of the kinetics for the reaction which depends on the equation. We will come to this in a second. The last column shows the flux through this reaction. The flux can not be set by  the user but is calculated automatically when you <a title="COPASI: Support/User Manual/Tasks/Time Course Simulation" href="{{ site.baseurl }}/Support/User_Manual/Tasks/Time_Course_Simulation/" >do a time course simulation</a>.<br />
 <br />
@@ -37,11 +32,5 @@ So far we did not go into the details of how chemical equations are to be specif
 <br />
 E.g. in the reaction A -&gt; B, if A and B are in the same compartment, the kinetic function for the reaction returns its result in mol/(l*s). If A and B reside in different compartments, the result is returned in mol/s. (This assumes that your default units are set to mol, l and s.)</div><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}

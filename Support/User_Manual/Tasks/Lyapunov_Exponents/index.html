@@ -1,16 +1,11 @@
 ---
+layout: structure
 title: "Lyapunov Exponents"
 structure: "User_Manual"
 ---
 
-{% include header.html %}
-{% include navbar.html %}
-{% include structure.html %}
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="row">
+  <div class="col-xs-12">
 
 The widget to calculate Lyapunov exponents in COPASI is located in the Task branch of COPASI's tree view. If you select the Lyapunov Exponents item in the tree, the corresponding widget will be displayed. The first input field in the widget labeled Number of Exponents lets you specify how many Lyapunov exponents are to be calculated. This number should be between one and the number of independent variables in the system (that is the number of species that are not constant minus the number of mass conservation relations). If you specify a number that is higher than the number of independent variables in the system, COPASI will issue a warning telling you to lower the number and will also tell what the maximal number should be. During the calculation of the Lyapunov exponents, a time course simulation is carried out. If your model shows a long transient, you might want to exclude the beginning of the trajectory from the calculation of the Lyapunov exponents. For this, COPASI lets you specify at which time point the averaging for the Lyapunov exponents should start. You can specify this delay in the field labeled start averaging after t= &quot;.<br />
 <br />
@@ -24,11 +19,5 @@ After clicking the Run button, COPASI will start the time course simulation in o
 <br />
 <div class="img" align="center"><table cellpadding="0" cellspacing="0"><tr><td><img alt="" src="Lyapunov_02.png" style="width:100%" border="0"  /></td></tr><tr><td class="mini">Results&nbsp;for&nbsp;the&nbsp;Lyapunov&nbsp;Exponent&nbsp;Calculation</td></tr></table></div><br />
 <br />
-
-      </div>
-    </div>
   </div>
 </div>
-
-<!-- FOOTER  -->
-{% include footer.html %}
