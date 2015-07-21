@@ -18,7 +18,7 @@ project: COPASI
 github_repo_url: https://github.com/copasi/COPASI
 
 # Exclude tmp directory
-exclude: [tmp]
+exclude: [tmp, README.md]
 
 # Add Processing features
 gems:
