@@ -1,6 +1,6 @@
 # COPASI Website
 
-This repository is the source for the [COPASI Website](www.copasi.org). You can edit the pages directly in this github repository.
+This repository is the source for the [COPASI Website](http://www.copasi.org). You can edit the pages directly in this github repository.
 
 Each page is located in its own directory which contains the `index.html` file and supporting files like attachments or images. The `index.html` file contains the html content plus the Front Matter. The Front Matter provides information for the [jekyll](http://jekyllrb.com/) page generator, which is triggered on any commit to the master branch of this repository. It is possible to replace the `index.html` file with an `index.md` file which uses [Markdown](http://daringfireball.net/projects/markdown/syntax) instead of html.
 
