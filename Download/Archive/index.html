@@ -1,6 +1,6 @@
 ---
 layout:  default
-title:   Download
+title:   Archive
 section: Download
 ---
 
@@ -9,6 +9,7 @@ var github_json_url = 'https://api.github.com/repos/copasi/COPASI/releases';
 
 // global variable to be reused for updating on selector changes
 var github_json;
+var cps_ReleaseOffset = 0;
 
 function suggest_package(release_idx) {
     var pltfrm = navigator.platform;
@@ -86,9 +87,13 @@ function suggest_package(release_idx) {
 function load_releases(json_obj){
     var vslct = document.getElementById('version_selector');
     var name, txt;
+    cps_ReleaseOffset = 0;
 
     for (rel_idx in json_obj) {
-        if (parseInt(github_json[rel_idx]["tag_name"].substr(6), 10) < 33) break;
+        if (parseInt(github_json[rel_idx]["tag_name"].substr(6), 10) >= 33) {
+          cps_ReleaseOffset++;
+          continue;
+        }
 
         name = json_obj[rel_idx]["name"].replace('Released', ''); //Remove 'Released'
         txt = txt + '<option value="' + name + '">' + name + '</option>';
@@ -162,7 +167,7 @@ function cps_getUse(filename) {
 
 function update_packages() {
     var vsltr = document.getElementById('version_selector');
-    var release_idx = vsltr.selectedIndex;
+    var release_idx = vsltr.selectedIndex + cps_ReleaseOffset;
     
     suggest_package(release_idx);
     
@@ -230,20 +235,11 @@ AJAX_req.send();
 <div class="row">
   <div class="col-xs-12">
     <h4>
-      The packages available on this page are provided under
-      the <a href="{{ site.baseurl }}/Download/License" >Artistic
-      License 2.0</a>, which is an <a target="_blank"
-      href="http://www.opensource.org/" >OSI</a> approved
-      license. This license allows non-commercial and commercial use
-      free of charge. If you are looking for older versions please goto
-      the 
-      <a title="Download Archive" href="{{ site.baseurl }}/Download/Archive/" >
-        archive
-      </a>.
+      The packages available on this page are provided under the <a href="{{ site.baseurl }}/Download/Archive/License" >COPASI Non-Commercial License</a>, which restricts the use to non-commercial activities.
     </h4>
     <h4>
       <label for="version_selector">Select Version:</label>
-      <select id="version_selector" onchange="update_packages()" ;="">undefined<option value="COPASI 4.14 (Build 89)  "></select>
+      <select id="version_selector" onchange="update_packages()" ;="">undefined<option value="COPASI 4.5 (Build 32)"></select>
     </h4>
     <div id="suggest_div"></div>
   </div>
