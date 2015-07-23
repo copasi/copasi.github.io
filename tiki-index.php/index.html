@@ -44,27 +44,30 @@ sitemap: false
 
   var e = document.getElementById('ErrorMessage');
 
+  var regex = new RegExp("/(\\?|$)");
+
+  var oldLocation = window.location.href.replace(regex, '$1');
+
   if (found == 'FALSE') {
     e.innerHTML = '<h1>Error 404: Page not found</h1>'
     e.innerHTML += '<p>The page you are looking cannot be found:</p>';
     e.innerHTML += '<p>&nbsp;&nbsp;' + window.location.href + '</p>';
   } else {
-    e.innerHTML = '<h1>Page Moved (You will be redirected shortly)</h1>'
-    e.innerHTML += '<p>The page you are looking for has moved. Please update your link!</p>';
-    e.innerHTML += '<p>&nbsp;&nbsp;' + window.location.href + '</p>';
-    e.innerHTML += '<p>to</p>';
+
+    found = '{{ site.baseurl }}/' + found;
+
+    while (found[0] == '/') found = found.substr(1);
+
+    e.innerHTML = '<h1>Page Moved (' + oldLocation + ')</h1>'
+    e.innerHTML += '<p>The content you are looking for has moved. You will be redirected to the new location automatically in 5 seconds. Please bookmark the correct page at </p>';
  
-    if (found != '') {
-      e.innerHTML += '<p>&nbsp;&nbsp;{{ site.baseurl }}/' + found + '</p>';
-    } else {
-       e.innerHTML += '<p>&nbsp;&nbsp;{{ site.baseurl }}';
-    }
+    e.innerHTML += '<a href="http://www.copasi.org/' + found + '" >http://www.copasi.org/' + found + '</a>';
  
     $(document).ready(function () {
       // Handler for .ready() called.
 
       window.setTimeout(function () {
-        location.href = "{{ site.baseurl }}/" + found;
+        location.href = '/' + found;
         }, 5000);
     })  
   } 
