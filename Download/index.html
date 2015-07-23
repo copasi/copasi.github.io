@@ -38,7 +38,7 @@ function suggest_package(release_idx) {
         bit_match = '32';
     }
     
-    var Build = parseInt(github_json[release_idx]["tag_name"].substr(6), 10);
+    var Build = cps_getBuildNumber(github_json[release_idx]["name"]);
 
     var candidate_fn, candidate_url;
     var assets = github_json[release_idx]['assets'];
@@ -88,13 +88,20 @@ function load_releases(json_obj){
     var name, txt;
 
     for (rel_idx in json_obj) {
-        if (parseInt(github_json[rel_idx]["tag_name"].substr(6), 10) < 33) break;
+        if (cps_getBuildNumber(json_obj[rel_idx]["name"]) < 33) break;
 
         name = json_obj[rel_idx]["name"].replace('Released', ''); //Remove 'Released'
         txt = txt + '<option value="' + name + '">' + name + '</option>';
     }
 
     vslct.innerHTML = txt;
+}
+
+function cps_getBuildNumber(name) {
+    var regex_build = /\(Build ([0-9]+)\)/;
+    var match = regex_build.exec(name);
+
+    return parseInt(match[1], 10);
 }
 
 function cps_getPlatform(filename) {
@@ -172,7 +179,7 @@ function update_packages() {
     var assets = github_json[release_idx]['assets'];
     var div_txt = '<table class="table display" id="download_table"><thead><tr><th>Content</th><th>Platform</th><th>File</th></thead></tr>';
     var clean_fn, notes;
-    var Build = parseInt(github_json[release_idx]["tag_name"].substr(6), 10);
+    var Build = cps_getBuildNumber(github_json[release_idx]["name"]);
 
     for (asset_idx in assets) {
         filename = assets[asset_idx]['name'];
@@ -218,7 +225,7 @@ AJAX_req.onreadystatechange = function() {
         // store in global variable, for subsequent selector changes
         // github_json = JSON.parse( AJAX_req.responseText ).reverse();
         github_json = JSON.parse( AJAX_req.responseText ).sort(function(a,b) {
-            return parseInt(b["tag_name"].substr(6), 10) - parseInt(a["tag_name"].substr(6), 10)});
+            return cps_getBuildNumber(b["name"]) - cps_getBuildNumber(a["name"])});
 
         load_releases(github_json); // seems to need to be passed in, rather than accessed in function; perhaps related to asynchronous nature
         update_packages();
@@ -229,6 +236,7 @@ AJAX_req.send();
 
 <div class="row">
   <div class="col-xs-12">
+    <h1>Download</h1>
     <h4>
       The packages available on this page are provided under
       the <a href="{{ site.baseurl }}/Download/License" >Artistic
