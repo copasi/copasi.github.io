@@ -23,8 +23,8 @@
     <script src="{{ site.baseurl }}/javascripts/email.js"></script>
 
     <title>COPASI{% if cps_url != '' %}: {{ cps_url | replace: '_', ' ' }}{% endif %}</title>
-{% if page.redirect_to %}
-    <META http-equiv="refresh" content="{{ page.redirect_to }}">
+{% if page.cps_redirect_to %}
+    <META http-equiv="refresh" content="{{ page.cps_redirect_to }}">
 {% endif %}
   </head>
   <body>
