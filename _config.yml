@@ -1,5 +1,5 @@
 ### Global gh-pages pre-amble
-safe: false
+safe: true
 lsi: false
 
 ### The following properties will change on a project-by-project basis
