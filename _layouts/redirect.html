@@ -1,0 +1,59 @@
+{% include header.html %}
+{% include navbar.html %}
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <center id="404-section" >
+          <h1>Error 404: Content not Found</h1>
+          <p>The content you are looking for (<span id="404-oldLocation"></span>) is not available on this server.</p>
+        </center>
+        <center id="301-section">
+          <h1>Warning 301: Content Moved</h1>
+          <p>
+            The content you are looking for (<span id="301-oldLocation"></span>) has moved. You will be
+            redirected to the new location automatically in {{ page.cps_redirect_delay }}
+            seconds. Please bookmark the correct page
+            at 
+            <a id="newLocation" href="{{ page.cps_redirect_to }}" >
+              {{ page.cps_redirect_to }}
+            </a> 
+          </p>
+        </center>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">   
+
+  var newLocation = '{{ page.cps_redirect_to }}';
+
+{{ content }}
+
+  var regex = new RegExp("/(\\?|$)");
+  var oldLocation = window.location.href.replace(regex, '$1');
+
+  if (newLocation != '') {
+    document.getElementById('404-section').style.display = 'none';
+    document.getElementById('301-oldLocation').innerHTML = oldLocation;
+
+    var e = document.getElementById('newLocation');
+    e.innerHTML = newLocation;
+    e.href = newLocation;
+  } else {
+    document.getElementById('301-section').style.display = 'none';
+    document.getElementById('404-oldLocation').innerHTML = oldLocation;
+  }
+
+  if (newLocation != '' && newLocation != '{{ page.cps_redirect_to }}') {
+    $(document).ready(function () {
+      window.setTimeout(function () {
+        location.href = newLocation;
+        },  {{ page.cps_redirect_delay }}000);
+    })  
+  }
+</script>
+
+{% include footer.html %}

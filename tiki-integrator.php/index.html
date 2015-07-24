@@ -1,37 +1,17 @@
 ---
-layout:  default
-title:   Redirect
-section: Home
+layout:  redirect
+title:   "Redirect: 301"
+cps_redirect_delay: 5
 sitemap: false
 ---
 
-<div class="row">
-  <div style="text-align: center;" class="col-xs-12" id="ErrorMessage">
-  </div>
-</div>
+  var regex = new RegExp('https?://[^/]*');
+  var match = regex.exec(window.location.href);
+  var domain;
 
-<script type="text/javascript">   
-  var e = document.getElementById('ErrorMessage');
-
-  var regex = new RegExp("/(\\?|$)");
-
-  var oldLocation = window.location.href.replace(regex, '$1');
+  if (match) domain = match[0];
 
   var found = '{{ site.baseurl }}/static/API_Documentation/';
+  while (found.substr(0,2) == '//') found = found.substr(1);
 
-  while (found[0] == '/') found = found.substr(1);
-
-
-  e.innerHTML = '<h1>Page Moved (' + oldLocation + ')</h1>'
-  e.innerHTML += '<p>The content you are looking for has moved. You will be redirected to the new location automatically in 5 seconds. Please bookmark the correct page at </p>';
- 
-  e.innerHTML += '<a href="http://www.copasi.org/' + found + '" >http://www.copasi.org/' + found + '</a>';
- 
-  $(document).ready(function () {
-    // Handler for .ready() called.
-
-    window.setTimeout(function () {
-      location.href = '/' + found;
-      }, 5000);
-  })  
-</script>
+  newLocation = domain + found;
