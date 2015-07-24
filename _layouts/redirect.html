@@ -27,7 +27,7 @@
 </div>
 
 <script type="text/javascript">   
-
+'
   var newLocation = '{{ page.cps_redirect_to }}';
 
 {{ content }}
@@ -47,13 +47,15 @@
     document.getElementById('404-oldLocation').innerHTML = oldLocation;
   }
 
-  if (newLocation != '' && newLocation != '{{ page.cps_redirect_to }}') {
+{% if page.cps_redirect_to == nil %}
+  if (newLocation != '') {
     $(document).ready(function () {
       window.setTimeout(function () {
         location.href = newLocation;
-        },  {{ page.cps_redirect_delay }}000);
+        }, {{ page.cps_redirect_delay }}000);
     })  
   }
+{% endif %}
 </script>
 
 {% include footer.html %}

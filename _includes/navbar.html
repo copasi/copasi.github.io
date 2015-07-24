@@ -18,12 +18,12 @@
           <a title="Download" href="{{ site.baseurl }}/Download/">Download</a>
         </li>
         <li {% if cps_path.first == "Features" %} class="active" {% endif %} >
-          <a title="Download"  href="{{ site.baseurl }}/Features/">Features</a>
+          <a title="Features"  href="{{ site.baseurl }}/Features/">Features</a>
         </li>
         <li class="dropdown{% if cps_path.first == "Support" %} active{% endif %}">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support <span class="caret"></span></a>
+          <a title="Support" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a title="Support" href="{{ site.baseurl }}/Support/">Overview</a></li>
+            <li><a title="Support Overview" href="{{ site.baseurl }}/Support/">Overview</a></li>
             <li role="separator" class="divider"></li>
             <li><a title="Video Tutorials" href="{{ site.baseurl }}/Support/Video_Tutorials/">Video Tutorials</a></li>
             <li><a title="User Forum" href="{{ site.baseurl }}/Support/User_Forum/">User Forum</a></li>
@@ -36,7 +36,7 @@
           </ul>
         </li>
         <li class="dropdown{% if cps_path.first == "Projects" %} active{% endif %}">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+          <a title="Projects" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a title="Multistate Model Builder" href="{{ site.baseurl }}/Projects/Multistate_Model_Builder/">Multistate Model Builder</a></li>
             <li><a title="JigCell Run Manager 2.0" href="{{ site.baseurl }}/Projects/JigCell_Run_Manager_2_0/">JigCell Run Manager 2.0</a></li>
@@ -48,7 +48,7 @@
         </li>
         </li>
         <li class="dropdown{% if cps_path.first == "About" %} active{% endif %}">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
+          <a title="About" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a title="Team" href="{{ site.baseurl }}/About/Team/">Team</a></li>
             <li><a title="Funding" href="{{ site.baseurl }}/About/Funding/">Funding</a></li>
