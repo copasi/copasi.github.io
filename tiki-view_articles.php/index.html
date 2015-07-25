@@ -1,0 +1,17 @@
+---
+layout:  redirect
+title:   "Redirect: 301"
+cps_redirect_delay: 5
+sitemap: false
+---
+
+  var regex = new RegExp('https?://[^/]*');
+  var match = regex.exec(window.location.href);
+  var domain;
+
+  if (match) domain = match[0];
+
+  var found = '{{ site.baseurl }}/';
+  while (found.substr(0,2) == '//') found = found.substr(1);
+
+  newLocation = domain + found;
