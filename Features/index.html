@@ -7,19 +7,38 @@ section: Features
 <div class="row">
   <div class="col-xs-12">
     <h1>Features</h1>
-    <p>COPASI carries out <i>simulation</i> and <i>analysis</i> of biochemical networks.</p>
+    <p>COPASI carries out <i><b>simulation</b></i> and <i><b>analysis</b></i> of biochemical network 
+     <i><b>models</b></i>.</p>
+    <h2>Models</h2>
+    <p>Models in COPASI are based on <i>reactions</i> that convert a set of <i>species</i> into 
+     another set of <i>species</i>. Each <i>species</i> is located in a <i>compartment</i>, which is 
+     a physical location with a size (volume, area, etc). This maps directly to biochemical reaction 
+     networks, but can also represent other types of processes (for example, the species could be
+     cell types). COPASI automatically converts the reaction network to a set of differential equations 
+     or to a system of stochastic reaction events &mdash; the user does not have to write down the math
+     explicitly, the software does that. Models can also have:</p>
+     <ul>
+       <li>Unlimited number of species, reactions, and compartments.</li>
+       <li>Arbitrary discrete events; these can be used to change the model, or just to monitor 
+       the progress of simulations.</li>
+       <li>Arbitrary differential equations; these have to be added explicitly by the user and can
+       be mapped to species, compartments, or generic variables.</li>
+       <li>Compartments can have variable sizes (ie they can be variables of the model).</li>
+       <li>The rates of reaction can be picked from a set of predefined kinetic functions (the most
+       common in biochemistry), or arbitrary functions defined by the user.</li>
+     </ul>
     <h2>Simulation</h2>
     <p>Simulation can be performed either with stochastic kinetics or with differential equations, 
     and the software easily allows swithcing between them.</p>
     <p>Algorithms available for simulation:</p>
     <ul>
-       <li>LSODAR for ordinary differential equation modeling;</li>
-       <li>Gillespie's direct method for exact stochastic kinetics;</li>
-       <li>Gibson &amp; Brooke's version of Gillespie's algorithm for exact stochastic kinetics;</li>
-       <li>&tau;-leap algorithm for faster (approximate) stochastic kinetics</li>
-       <li>Adaptive SSA/&tau;-leap algorithm for faster (approximate) stochastic kinetics</li>
-       <li>Hybrid Runge-Kutta/SSA for hybrid simulations with stochastic kinetics and differential equations</li>
-       <li>Hybrid LSODA/SSA for hybrid simulations with stochastic kinetics and differential equations</li>
+       <li>LSODAR for ordinary differential equation modeling.</li>
+       <li>Gillespie's direct method for exact stochastic kinetics.</li>
+       <li>Gibson &amp; Brooke's version of Gillespie's algorithm for exact stochastic kinetics.</li>
+       <li>&tau;-leap algorithm for faster (approximate) stochastic kinetics.</li>
+       <li>Adaptive SSA/&tau;-leap algorithm for faster (approximate) stochastic kinetics.</li>
+       <li>Hybrid Runge-Kutta/SSA for hybrid simulations with stochastic kinetics and differential equations.</li>
+       <li>Hybrid LSODA/SSA for hybrid simulations with stochastic kinetics and differential equations.</li>
     </ul>
     
 <!-- Place content here -->
