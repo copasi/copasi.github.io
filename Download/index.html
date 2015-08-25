@@ -4,6 +4,8 @@ title:   Download
 section: Download
 ---
 
+<script src="{{ site.baseurl }}/javascripts/ua-parser.js"></script>
+
 <script>
 var github_json_url = 'https://api.github.com/repos/copasi/COPASI/releases';
 
@@ -11,33 +13,38 @@ var github_json_url = 'https://api.github.com/repos/copasi/COPASI/releases';
 var github_json;
 
 function suggest_package(release_idx) {
-    var pltfrm = navigator.platform;
-    var plt_match, bit_match;
+    var plt_match = 'source';
+    var bit_match;
     var icon_filename = 'none';
-    
-    // set to debug specific cases
-    //pltfrm = 'MacIntel';
-    //pltfrm = 'Linux';
-    //pltfrm = 'Win32';
-    
-    if (pltfrm.match('Linux') && !pltfrm.match('arm')) {
-        plt_match = 'Linux';
-        bit_match = '64';
-        icon_filename = 'linux_icon.png';
-    } else if (pltfrm.match('MacIntel')) {
-        plt_match = 'Mac OS X';
-        icon_filename = 'osx_icon.png';
-    } else if (pltfrm.match('Win') && !pltfrm.match('Win16')) {
-        plt_match = 'Windows';
-        icon_filename = 'windows_icon.png';
-    } else {plt_match = 'source';}
 
-    if (pltfrm.match('64')) {
-        bit_match = '64';
-    } else if (pltfrm.match('32')) {
-        bit_match = '32';
-    }
+    var parser = new UAParser();
+    var pltfrm = parser.getOS().name;
     
+    if (typeof pltfrm !== "undefined")
+    {
+        if (pltfrm.match('Linux') && ! pltfrm.match('arm')) {
+            plt_match = 'Linux';
+            icon_filename = 'linux_icon.png';
+        } else if (pltfrm.match('Mac OS')) {
+            plt_match = 'Mac OS X';
+            icon_filename = 'osx_icon.png';
+        } else if (pltfrm.match('Win') && !pltfrm.match('Win16')) {
+            plt_match = 'Windows';
+            icon_filename = 'windows_icon.png';
+        }
+    }
+
+    var architecture =  parser.getCPU().architecture;
+
+    if (typeof architecture !== "undefined")
+    {
+        if (architecture.match('64')) {
+            bit_match = '64';
+        } else if (architecture.match('32')) {
+            bit_match = '32';
+        }
+    }
+
     var Build = cps_getBuildNumber(github_json[release_idx]["name"]);
 
     var candidate_fn, candidate_url;
@@ -61,8 +68,11 @@ function suggest_package(release_idx) {
             candidate_fn = filename;
             candidate_url = dnld_url;
             
+            if (plt_match != 'Linux' && 
+                (Platform.match(bit_match) || Build > 65 )) break;
+
             if (plt_match == 'Linux' && Platform.match(bit_match) && 
-                (Build > 65 || filename.match('Dynamic') || plt_match != 'Linux' )) break;
+                (Build > 65 || filename.match('Dynamic'))) break;
         }  
     }
     
@@ -76,7 +86,7 @@ function suggest_package(release_idx) {
         pltfrm_icon_code = '<img src="{{ site.baseurl }}/images/' + icon_filename + '">&nbsp';
     }
 
-    sug_div.innerHTML = "<h3>It seems your are running on " + pltfrm + ". You may want to download . . . </h3>";
+    sug_div.innerHTML = "<h3>It seems your are running on " + pltfrm + " (" + bit_match + "). You may want to download . . . </h3>";
     dnld_name.innerHTML = "<h3>" + pltfrm_icon_code + candidate_fn + "</h3>"
     dnld_btn.title = 'Download ' + candidate_fn;
     dnld_btn.src = "{{ site.baseurl }}/images/download-button.png";
