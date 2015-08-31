@@ -36,8 +36,7 @@ function suggest_package(release_idx) {
 
     var architecture =  parser.getCPU().architecture;
 
-    if (typeof architecture !== "undefined")
-    {
+    if (typeof architecture !== "undefined") {
         if (architecture.match('64')) {
             bit_match = '64';
         } else if (architecture.match('32')) {
@@ -86,7 +85,12 @@ function suggest_package(release_idx) {
         pltfrm_icon_code = '<img src="{{ site.baseurl }}/images/' + icon_filename + '">&nbsp';
     }
 
-    sug_div.innerHTML = "<h3>It seems your are running on " + pltfrm + " (" + bit_match + "). You may want to download . . . </h3>";
+    if (typeof architecture !== "undefined") {
+        sug_div.innerHTML = "<h3>It seems your are running on " + pltfrm + " (" + bit_match + "-bit). You may want to download . . . </h3>";
+    } else {
+        sug_div.innerHTML = "<h3>It seems your are running on " + pltfrm + " (" + bit_match + "). You may want to download . . . </h3>";
+    }
+    
     dnld_name.innerHTML = "<h3>" + pltfrm_icon_code + candidate_fn + "</h3>"
     dnld_btn.title = 'Download ' + candidate_fn;
     dnld_btn.src = "{{ site.baseurl }}/images/download-button.png";
