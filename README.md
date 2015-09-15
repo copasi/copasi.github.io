@@ -6,7 +6,7 @@ Each page is located in its own directory which contains the `index.html` file a
 
 You can also clone:  
 &nbsp;&nbsp;&nbsp;&nbsp;`git clone git@github.com:copasi/copasi.github.io.git`  
-this repository and edit and create pages in your local computer. In order to preview the pages you need to [install jekyll](https://help.github.com/articles/using-jekyll-with-pages/). To create the pages an preview them on your local machine execute:  
+this repository and edit and create pages in your local computer. In order to preview the pages you need to [install jekyll](https://help.github.com/articles/using-jekyll-with-pages/). To create the pages and preview them on your local machine execute:  
 &nbsp;&nbsp;&nbsp;&nbsp;`bundle exec jekyll serve`  
 You publish your changes by commiting and pushing them to the repository
 
