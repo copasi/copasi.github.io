@@ -99,13 +99,13 @@ function suggest_package(release_idx) {
 
 function load_releases(json_obj){
     var vslct = document.getElementById('version_selector');
-    var name, txt;
+    var name, txt = '';
 
     for (rel_idx in json_obj) {
         if (cps_getBuildNumber(json_obj[rel_idx]["name"]) < 33) break;
 
         name = json_obj[rel_idx]["name"].replace('Released', ''); //Remove 'Released'
-        txt = txt + '<option value="' + name + '">' + name + '</option>';
+        txt += '<option value="' + name + '">' + name + '</option>';
     }
 
     vslct.innerHTML = txt;

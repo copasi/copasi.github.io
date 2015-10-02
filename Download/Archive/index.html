@@ -99,7 +99,7 @@ function suggest_package(release_idx) {
 
 function load_releases(json_obj){
     var vslct = document.getElementById('version_selector');
-    var name, txt;
+    var name, txt = '';
     cps_ReleaseOffset = 0;
 
     for (rel_idx in json_obj) {
@@ -109,7 +109,7 @@ function load_releases(json_obj){
         }
 
         name = json_obj[rel_idx]["name"].replace('Released', ''); //Remove 'Released'
-        txt = txt + '<option value="' + name + '">' + name + '</option>';
+        txt += '<option value="' + name + '">' + name + '</option>';
     }
 
     vslct.innerHTML = txt;
