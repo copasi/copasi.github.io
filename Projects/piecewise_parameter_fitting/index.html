@@ -1,0 +1,86 @@
+---
+layout: structure
+title: "Piecewise parameter estimation in COPASI"
+structure: "piecewise_parameter_fitting"
+---
+
+			<div class="row">
+			  <div class="col-md-12">
+				<h2>Examples for piecewise parameter fitting with COPASI</h2>
+				<p>This page contains several examples files that allow to ascertain
+				how a new feature in COPASI can be used to set up piecewise parameter
+				fits that can be used for both, stochastic and deterministic models. Each example will be given as archive, that archive contains the COPASI as well as all the experimental data associated with it. To run the examples simply:</p>
+				<ul>
+				<li>download the archive</li>
+				<li>extract the archive (including the subfolder contained in it)</li>
+				<li>change into the subfolder and open the COPASI file <em>(*.cps)</em></li>
+				<li>within COPASI click on <em>Tools\Create Events For Timeseries Experiment</em>. Once this is done COPASI will turn all the individual rows of the timeseries experiment file into events that are added to the model.</li>
+				<li>select the parameter estimation task, and press run. <a href="http://copasi.org/Support/User_Manual/Tasks/Parameter_Estimation/" target="_blank">Learn more </a></li></li>
+				<li>the results can be examined using plots or the result widget. <a  href="https://www.youtube.com/embed/qiYLMTsa-_Y" target="_blank">Learn more </a></li>
+				</ul>
+				</div>
+			</div>
+      <div class="row">
+			  <div class="col-md-12">
+				  <div class="row">
+					  <div class="col-md-12">
+				      <h2>Examples for parameter stimations of stochastic models</h2>
+					    <p>These examples have been described originally in <a href="http://www.omicsonline.org/parameter-estimation-for-stochastic-models-of-biochemical-reactions-jcsb.1000095.php?aid=10759" target="_blank"><em>Zimmer and Sahle (2012)</em></a>. They can be reproduced using the method outlined above.</p>
+							<p>For each example the archive will contain two models: the first one being the base model <em>&lt;file&gt;-model.cps</em>, it does not yet contain any events. The second model <em>&lt;file&gt;-model1.cps</em> contains the events added from <em>zr1.txt</em>. To select a different set of measurements we replaced the experiment set of <em>zr1.txt</em> with the one of the other files. </p>
+							<p>For each of the files below we give a visualization of the first to time series to give you an idea for the data </p>
+					  </div>
+				  </div>
+				  <div class="row">						
+            <div class="col-md-4">
+             <h3>Immigration-Death</h3>
+						 <img src="ID.png" alt="Example of the first two timeseries" class="img-responsive" />
+             <p>In this archive &lt;file&gt; will be called <em>id</em> so for example <em>id-model.cps</em>. </p>
+             <p><a class="btn btn-default" href="./ID.zip" role="button"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download &raquo;</a></p>
+           </div>
+           <div class="col-md-4">
+             <h3>Lotka-Volterra - full observation</h3>
+						 <img src="LVfull.png" alt="Example of the first two timeseries" class="img-responsive" />
+             <p>In this archive &lt;file&gt; will be called <em>lv</em> so for example <em>lv-model.cps</em>. </p>
+             <p><a class="btn btn-default" href="./LVfull.zip" role="button"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download &raquo;</a></p>
+           </div>
+           <div class="col-md-4">
+             <h3>Lotka-Volterra - partial observation</h3>
+						 <img src="LVpartial.png" alt="Example of the first two timeseries" class="img-responsive" />
+             <p>In this archive &lt;file&gt; will be called <em>lvp</em> so for example <em>lvp-model.cps</em>. </p>
+             <p><a class="btn btn-default" href="./LVpartial.zip" role="button"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download &raquo;</a></p>
+           </div>
+						
+					</div>
+        
+        </div>
+      </div>
+      <div class="row">
+			  <div class="col-md-12">
+				  <div class="row">
+					  <div class="col-md-12">
+				      <h2>Examples for piecewise parameter stimations of deterministic models</h2>
+					    <p>These examples allow to compare how the fitness landsape differes when simply applying parameter estimation (thus using a least square objective function), or using the method outlined above (thus using the MSS objective function). To compare the differences you would run the parameter estimation, once with the events being added (i.e. LSQ) and then once again with the events being added.</p>
+							<p>One dimensional plots of the fitness landscape can be obtained, by first finding a good fit, then changing the optimization method to <em>Current Solution Statistic</em> (which just evaluates the objective function), and then defining a Parameter Scan. This has already been done in the models contained in the archives below.</p>
+					  </div>
+				  </div>
+				  <div class="row">						
+            <div class="col-md-4">
+             <h3>Lotka-Volterra</h3>
+             <p>This example contains four models: <em>lv.cps</em>,<em>lvBIG.cps</em>, <em>lvmss.cps</em>, <em>lvmssBIG.cps</em>. The files ending in <em>BIG</em> use a bigger parameter range.</p>
+             <p><a class="btn btn-default" href="./LV.zip" role="button"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download &raquo;</a></p>
+           </div>
+           <div class="col-md-4">
+             <h3>Fitz-Hugh Nagumo</h3>
+             <p>This example contains four models: <em>fhn.cps</em>,<em>fhnBIG.cps</em>, <em>fhnmss.cps</em>, <em>fhnmssBIG.cps</em>. The files ending in <em>BIG</em> use a bigger parameter range.</p>
+             <p><a class="btn btn-default" href="./FHN.zip" role="button"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download &raquo;</a></p>
+           </div>
+           <div class="col-md-4">
+             <h3>Calcium</h3>
+             <p>This example contains seven models: <em>calcium.cps</em>,<em>calciumMSS.cps</em>, <em>calciumMSS_2steps.cps</em>, <em>calciumMSS_4steps.cps</em>, <em>calciumMSS_10steps.cps</em>, <em>calciumMSS_20steps.cps</em>, <em>calciumMSS_50steps.cps</em>. The different step files 
+						 denote how many events have been included.</p>
+             <p><a class="btn btn-default" href="./Ca.zip" role="button"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download &raquo;</a></p>
+           </div>
+					</div>
+        </div>
+      </div>
+
