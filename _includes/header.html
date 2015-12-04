@@ -23,7 +23,9 @@
     <script src="{{ site.baseurl }}/javascripts/DataTables-1.10.7/jquery.dataTables.js"></script>
     <script src="{{ site.baseurl }}/stylesheets/bootstrap-3.3.4/js/bootstrap.js"></script>
     <script src="{{ site.baseurl }}/javascripts/email.js"></script>
-
+{% if page.use_math %}
+   {% include mathjax.html %}
+{% endif %}
     <title>COPASI{% if cps_url != '' %}: {{ cps_url | replace: '_', ' ' }}{% endif %}</title>
 
 {% if page.cps_redirect_to %}
@@ -39,4 +41,3 @@
     <![endif]-->
   </head>
   <body>
-

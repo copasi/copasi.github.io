@@ -31,3 +31,5 @@ permalink: News/:year/:month/:day/:title/
 # Paginate posts
 paginate: 5
 paginate_path: "/News/Page_:num/"
+
+markdown: kramdown
