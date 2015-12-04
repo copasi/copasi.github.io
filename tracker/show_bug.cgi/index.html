@@ -1,0 +1,16 @@
+---
+layout:  redirect
+title:   "Redirect: 301"
+cps_redirect_delay: 5
+sitemap: false
+---
+
+  var regex = new RegExp('(https?://[^/]*){{ site.baseurl }}/tracker/show_bug\.cgi/(\\?.*)?', 'i'); 
+  var match = regex.exec(window.location.href);
+  newLocation = "http://tracker.copasi.org/show_bug.cgi";
+
+  if (match) {
+      if (match[2]) {
+          newLocation += match[2];
+      }
+  }
