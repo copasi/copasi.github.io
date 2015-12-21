@@ -13,21 +13,33 @@ You publish your changes by commiting and pushing them to the repository
 ## Front Matter
 This COPASI Website makes use of the following values in the Front Matter
 <pre>
+---
 layout:    default | structure | post
 title:     The title of the page
 section:   The menu section which shall be higlighted
 structure: The structure to which the page belongs (optional)
+---
 </pre>
 
 ## Creating News Items
 The news items are located in the _post directory. The file name convention is:
 <pre>YYYY-MM-DD-[topic].(md|html)</pre>
-where topic is one of COPASI, Release, Meetings, Media, or Collaboration. The front matter for post is:
+where topic is one of COPASI, Release, Meetings, Media, or Collaboration. The front matter for a post is:
 
 <pre>
+---
 layout: "post"
 title:  "Your title here"
 author: "Your name"
 topic:  "COPASI"
 date:   "YYYY-MM-DD hh:mm:ss"
+---
+</pre>
+
+## Adding Mathematical Formulas
+To add mathematical formulas we can use the full LaTeX syntax. For LaTeX to be rendered correctly
+you will have to add the following to the front matter:
 <pre>
+use_math: true
+</pre>
+
