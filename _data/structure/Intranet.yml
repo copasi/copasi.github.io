@@ -131,6 +131,12 @@ pages:
   title: "Mathematical Analysis"
 - path: Hidden/Intranet/Fast_Reactions/ODE_Implementation
   title: "ODE Implementation"
+- path: Hidden/Intranet/Stochastic_Differential_Equations
+  title: "Stochastic Differential Equations"
+- path: Hidden/Intranet/Stochastic_Differential_Equations/Theory
+  title: "Theory"
+- path: Hidden/Intranet/Stochastic_Differential_Equations/Implementation
+  title: "Implementation"
 - path: Hidden/Intranet/Code_Profiling
   title: "Code Profiling"
 - path: Hidden/Intranet/Code_Profiling/Introduction

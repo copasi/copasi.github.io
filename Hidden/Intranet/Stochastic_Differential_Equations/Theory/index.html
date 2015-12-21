@@ -1,0 +1,50 @@
+---
+layout: structure
+title: "Theory"
+structure: "Intranet"
+sitemap: false
+use_math: true
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      Stochastic Differential Equations have the form:
+      \begin{equation}
+      dX = f(t,X) \, dt + g(t,X) \, dW
+      \end{equation}
+     
+      Where the regular ODE is given by $f(t,X) \, dt$ and the noise is 
+      given by $g(t,X) \, dW$). Please note that $f(t,X)$ 
+      and $g(t,X) \, dW$ are vectors. In general the noice terms are 
+      independ stochastic processes with mean 0, i.e., we have one stochastic variable 
+      for each integration variable.
+    </p>
+    <p>
+      Let us look at a chemical reaction system in which the deterministic part is given by:
+      \begin{equation}
+      f(t,X) = N\, v(t,X)
+      \end{equation}
+      where $N$ is the $m$ x $n$ stoichiometry matrix, $m$ the number of species and $n$ 
+      the number of reactions.
+    </p>
+    <p>
+      To assure that the stochastic term does not violate mass conservation the random 
+      variables may no longer be independent. We introduce the following stochastic term 
+      where $\tilde{g}(t,X) \, d\widetilde{W}$ is a vector of dimension $n$.
+      \begin{equation}
+      g(t,X) \, dW = N \, \tilde{g}(t,X) \, d\widetilde{W}
+      \end{equation}
+      Here $\tilde{g}(t,X) \, d\widetilde{W}$ are independ stochastic processes with mean 0. Since 
+      the linear combination of independent mean 0 processes leads to a mean 0 process $g(t,X) \, dW$
+      has still mean 0 as required.
+    </p>
+    <p>
+      This leads us to the following SDE for chemical reaction systems which obviously does
+      not violate the mass conservation.
+      \begin{equation}
+      dX = N \left( v(t,X) \, dt + \tilde{g}(t,X) \, d\widetilde{W} \right)
+      \end{equation}
+    </p>
+  </div>
+</div>
