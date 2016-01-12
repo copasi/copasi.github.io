@@ -43,3 +43,56 @@ you will have to add the following to the front matter:
 use_math: true
 </pre>
 
+## Publications citing COPASI
+The list of publications of COPASI is kept in 
+<pre>
+  _data/articles/db.yml
+</pre>
+The data for each reference may contain the following fields, where lines starting with a minus may be repeated to supply multiple Keywords, Locations, or Funding sources:
+<pre>
+-
+ Reference:
+ URL:
+ Year:
+ Keywords:
+  - 
+ Locations:
+  - Coordinates:
+ Funding: 
+  - 
+</pre>
+Each entry in the file must start wit a line including only a singe - and indentation is crucial an must be as in the example below.
+<pre>
+-
+ Reference: "Diao T, Pun D, Stahl SS (2013) Aerobic Dehydrogenation of Cyclohexanone to Cyclohexenone Catalyzed by Pd(DMSO)2(TFA)2: Evidence for Ligand-Controlled Chemoselectivity. J. Am. Chem. Soc. 135:8205-8212"
+ URL: http://dx.doi.org/10.1021/ja4031648 
+ Year: 2013
+ Keywords:
+  - Chemistry
+ Locations:
+  - Coordinates: 43.1063674,-89.4954946
+ Funding: 
+  - NIH
+  - NSF
+-
+ Reference: "Firczuk H, Kannambath S, Pahle J, Claydon A, Beynon R, Duncan J, Westerhoff H, Mendes P, McCarthy JEG (2013) An in vivo control map for the eukaryotic mRNA translation machinery. Molecular Systems Biology 9:635"
+ URL: http://dx.doi.org/10.1038/msb.2012.73
+ Year: 2013
+ Keywords:
+  - Macromolecular biochemistry
+ Locations:
+  - Coordinates: 52.3792558,-1.5636591
+  - Coordinates: 53.466853,-2.2360724
+  - Coordinates: 37.2209322,-80.4284957
+  - Coordinates: 53.4059392,-2.9677609
+ Funding: 
+  - BBSRC
+-
+ Reference: "Sier JH (2015) Investigation of the impact of MRP3 and MRP4 on the disposition of drugs and conjugates in rat and human. Doctoral thesis, University of Surrey."
+ URL: http://epubs.surrey.ac.uk/id/eprint/807179
+ Year: 2015
+ Keywords: 
+  - Physiology
+ Locations:
+  - Coordinates: 51.2427253,-0.5917031
+</pre>
