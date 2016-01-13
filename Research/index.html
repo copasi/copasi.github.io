@@ -21,10 +21,10 @@ section: Research
          COPASI to their research problems. Check out these publications 
          for details!</p>
 
-        <div class="panel panel-default" style="padding-bottom:0">
+        <div class="panel panel-default">
 
           {% for item in site.data.articles.db %}
-          <div class="panel-body">
+          <div class="panel-body" style="padding-bottom:0">
             {{ item.Reference }} 
 
             {% for key in item.Keywords %}
