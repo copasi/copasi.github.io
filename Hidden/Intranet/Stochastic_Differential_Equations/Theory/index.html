@@ -31,7 +31,8 @@ use_math: true
     <p>
       To assure that the stochastic term does not violate mass conservation the random 
       variables may no longer be independent. We introduce the following stochastic term 
-      where $\tilde{g}(t,X) \, d\widetilde{W}$ is a vector of dimension $n$.
+      where $\tilde{g}(t,X)$ is a $n$ x $n$ matrix of real valued functions and thus
+      $\tilde{g}(t,X) \, d\widetilde{W}$ is a vector of dimension $n$.
       \begin{equation}
       g(t,X) \, dW = N \, \tilde{g}(t,X) \, d\widetilde{W}
       \end{equation}
@@ -45,6 +46,32 @@ use_math: true
       \begin{equation}
       dX = N \left( v(t,X) \, dt + \tilde{g}(t,X) \, d\widetilde{W} \right)
       \end{equation}
+    </p>
+    <p>
+      The above SDE for a chemical reaction system can be augmented with additional variables Y
+      which are also determined by stochastic differential equations leading to:
+      \begin{equation}
+      \begin{pmatrix}dX\\dY\end{pmatrix} = \begin{pmatrix}N \, v(t,X,Y) \, dt + N \,\tilde{g}(t,X,Y) \, d\widetilde{W}\\ f(t,X,Y) \, dt + g(t,X,Y) \, dW\end{pmatrix}
+      \end{equation}
+      Euqation (5) is the form to which any model represented in COPASI can be transformed.
+    </p>
+    <p>
+      To fully specify the stochastic differential equation we need to define the functions 
+      $\tilde{g}(t,X,Y)$ and $g(t,X,Y)$. We choose:
+      \begin{equation}
+      \begin{matrix}
+      \tilde{g}_{i,j}(t,X,Y) & = & 
+      \begin{cases}
+      k_{i} \, \sqrt{v_{i}(t,X,Y)} & \mbox{for } i = j
+      \\
+      0 & \mbox{otherwise}
+      \end{cases}
+      \\
+      g_{i}(t,X,Y) & = & l_{i} \sqrt{f_{i}(t,X,Y)}
+      \end{matrix}
+      \end{equation}
+      In equation (6) the $k_i$ can be interpreted as the standard variation of the reaction rate $v_i$ 
+      and $l_i$ as the standard variation of the rate of the variable $Y_i$.
     </p>
   </div>
 </div>

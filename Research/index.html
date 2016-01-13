@@ -1,0 +1,31 @@
+---
+layout:  default
+title:   Research
+section: Research
+---
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1>{{ page.title }}</h1> 
+        <div class="panel panel-default">
+
+          {% for item in site.data.articles.db %}
+          <div class="panel-body">
+            {{ item.Reference }} 
+
+            {% for key in item.Keywords %}
+            <span class="label label-default">{{ key }}</span>
+            {% endfor %}
+
+            <a href="{{ item.URL }}" target="_blank">Link</a>
+          </div>
+          {% endfor %}
+
+          </div>
+      </div>
+    </div> 
+  </div>
+</div>
+
