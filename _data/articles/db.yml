@@ -1,9 +1,21 @@
 -
+ Reference: "Daneshjou N, Sieracki N, van Nieuw Amerongen GP, Schwartz MA, Komarova YA, Malik AB, Conway DE (2015) Rac1 functions as a reversible tension modulator to stabilize VE-cadherin trans-interaction. J. Cell Biol. 208:23-32"
+ Year: 2015
+ URL: http://dx.doi.org/10.1083/jcb.201409108
+ Keywords:
+  - Macromolecular biochemistry
+-
  Reference:  "Emiola A, George J, Andrews SS (2015) A Complete Pathway Model for Lipid A Biosynthesis in Escherichia coli. PLoS ONE 10:e0121216"
  Year: 2015
  URL: http://dx.doi.org/10.1371/journal.pone.0121216
  Keywords:
   - Metabolism
+-
+ Reference: "Hudson DA, Gannon SA, Thorpe C, (2015) Oxidative protein folding: From thiol-disulfide exchange reactions to the redox poise of the endoplasmic reticulum. Free Radical Biol. Med. 80:171-182"
+ Year: 2015
+ URL: http://dx.doi.org/10.1016/j.freeradbiomed.2014.07.037
+ Keywords:
+  - Macromolecular biochemistry
 -
  Reference: "Jeong H, John JM, Schrock RR, Hoveyda AH (2015) Synthesis of Alternating trans-AB Copolymers through Ring-Opening Metathesis Polymerization Initiated by Molybdenum Alkylidenes. J. Am. Chem. Soc. 137:2239-42"
  URL: http://dx.doi.org/10.1021/jacs.5b00221
@@ -47,6 +59,12 @@
  Keywords:
   - Metabolism
 -
+ Reference: "Lee TW, Yang AS-P, Brittain T, Birch NP (2015) An analysis approach to identify specific functional sites in orthologous proteins using sequence and structural information: Application to neuroserpin reveals regions that differentially regulate inhibitory activity. Proteins Struct. Funct. Bioinformatics 83:135-52"
+ Year: 2015
+ URL: http://dx.doi.org/10.1002/prot.24711
+ Keywords:
+  - Macromolecular biochemistry
+-
  Reference: "Luo J, Theron R, Sewell LJ, Hooper TN, Weller AS, Oliver AG, McIndoe JS (2015) Rhodium-Catalyzed Selective Partial Hydrogenation of Alkynes. Organometallics 34:3021-8"
  URL: http://dx.doi.org/10.1021/acs.organomet.5b00322
  Year: 2015
@@ -85,6 +103,20 @@
  URL: http://dx.doi.org/10.1371/journal.pone.0127918
  Keywords:
   - Metabolism
+-
+ Reference: "Sier JH (2015) Investigation of the impact of MRP3 and MRP4 on the disposition of drugs and conjugates in rat and human. Doctoral thesis, University of Surrey."
+ URL: http://epubs.surrey.ac.uk/id/eprint/807179
+ Year: 2015
+ Keywords: 
+  - Physiology
+ Locations:
+  - Coordinates: 51.2427253,-0.5917031
+-
+ Reference: "Subburaj Y, Ros U, Hermann E, Tong R, García-Sáez AJ (2015) Toxicity of an alpha-Pore-forming Toxin Depends on the Assembly Mechanism on the Target Membrane as Revealed by Single Molecule Imaging. J. Biol. Chem. 290:4856-4865"
+ Year: 2015
+ URL: http://dx.doi.org/10.1074/jbc.M114.600676
+ Keywords:
+  - Macromolecular biochemistry
 -
  Reference: "Torbensen K, Rossi F, Pantani OL, Ristori S, Abou-Hassan A (2015) Interaction of the Belousov-Zhabotinsky Reaction with Phospholipid Engineered Membranes. J. Phys. Chem. B 119:10224-30"
  URL: http://dx.doi.org/10.1021/acs.jpcb.5b04572
@@ -142,6 +174,12 @@
  Keywords:
   - Chemistry
 -
+ Reference: "James AI, Imran HAQ, Jennifer AD, Sarah VF, David AL (2014) Altered native stability is the dominant basis for susceptibility of alpha1-antitrypsin mutants to polymerization. Biochem. J. 460:103-115"
+ Year: 2014
+ URL: http://dx.doi.org/10.1042/BJ20131650
+ Keywords:
+  - Macromolecular biochemistry
+-
  Reference: "Kefalidis CE, Davi M, Holstein PM, Clot E, Baudoin O (2014) Mechanistic Study of the Selectivity of Olefin versus Cyclobutene Formation by Palladium (0)-Catalyzed Intramolecular C (sp3)-H Activation. J. Organic Chem. 79:11903-11910"
  URL: http://dx.doi.org/10.1021/jo501610x
  Year: 2014
@@ -194,6 +232,12 @@
  Keywords:
   - Metabolism
 -
+ Reference: "Tunnicliffe RB, Hautbergue GM, Wilson SA, Kalra P, Golovanov AP (2014) Competitive and Cooperative Interactions Mediate RNA Transfer from Herpesvirus Saimiri ORF57 to the Mammalian Export Adaptor ALYREF. PLoS Pathog 10(2): e1003907."
+ Year: 2014
+ URL: http://dx.doi.org/10.1371/journal.ppat.1003907
+ Keywords:
+  - Macromolecular biochemistry
+-
  Reference: "Valero González G (2014) Estudis mecanístics i metodològics de processos d'autocatàlisi i organocatàlisi asimètriques. Ph.D. Thesis, Department of Organic Chemistry, University of Barcelona"
  URL: http://hdl.handle.net/10803/285338
  Year: 2014
@@ -230,6 +274,37 @@
   - NSF
  Keywords:
   - Chemistry
+-
+ Reference: "Firczuk H, Kannambath S, Pahle J, Claydon A, Beynon R, Duncan J, Westerhoff H, Mendes P, McCarthy JEG (2013) An in vivo control map for the eukaryotic mRNA translation machinery. Molecular Systems Biology 9:635"
+ URL: http://dx.doi.org/10.1038/msb.2012.73
+ Year: 2013
+ Keywords:
+  - Macromolecular biochemistry
+ Locations:
+  - Coordinates: 52.3792558,-1.5636591
+  - Coordinates: 53.466853,-2.2360724
+  - Coordinates: 37.2209322,-80.4284957
+  - Coordinates: 53.4059392,-2.9677609
+ Funding: 
+  - BBSRC
+-
+ Reference: "Haq I,  Irving JA, Faull SV, Dickens JA, Ordonez A, Belorgey D, Gooptu B, Lomas, DA (2013) Reactive centre loop mutants of alpha-1-antitrypsin reveal position-specific effects on intermediate formation along the polymerization pathway. Biosci. Rep. 33:499-511"
+ Year: 2013
+ URL: http://dx.doi.org/10.1042/BSR20130038
+ Keywords:
+  - Macromolecular biochemistry
+-
+ Reference: "Helgeson LA, Nolen BJ (2013) Mechanism of synergistic activation of Arp2/3 complex by cortactin and N-WASP. eLife 2:e00884"
+ Year: 2013
+ URL: http://dx.doi.org/10.7554/eLife.00884
+ Keywords:
+  - Macromolecular biochemistry
+-
+ Reference: "Incicco JJ, Gebhard LG, González-Lebrero RM, Gamarnik AV, Kaufman SB (2013) Steady-State NTPase Activity of Dengue Virus NS3: Number of Catalytic Sites, Nucleotide Specificity and Activation by ssRNA. PLoS ONE 8:e58508"
+ Year: 2013
+ URL: http://dx.doi.org/10.1371/journal.pone.0058508
+ Keywords:
+  - Macromolecular biochemistry
 -
  Reference:  "Kerkhoven EJ, Achcar F, Alibu VP, Burchmore RJ, Gilbert IH, Trybilo M, Driessen NN, Gilbert D, Breitling R, Bakker BM, Barrett MP (2013) Handling Uncertainty in Dynamic Models: The Pentose Phosphate Pathway in Trypanosoma brucei. PLoS Comput. Biol. 9:e1003371."
  Year: 2013
@@ -378,6 +453,12 @@
  Funding:
   -  National Research Foundation (South Africa)
 -
+ Reference: "Proctor CJ, Boche D, Gray DA, Nicoll JAR (2013) Investigating Interventions in Alzheimer's Disease with Computer Simulation Models. PLoS ONE 8:e73631"
+ Year: 2013
+ URL: http://dx.doi.org/10.1371/journal.pone.0073631
+ Keywords:
+  - Macromolecular biochemistry
+-
  Reference: "Reeves BD, Hilmer JK, Mellmann L, Hartzheim M, Poffenberger K, Johnson K, Joshi N, Singel DJ, Grieco PA (2013) Selective trapping of SNO-BSA and GSNO by benzenesulfinic acid sodium salt: mechanistic study of thiosulfonate formation and feasibility as a protein S-nitrosothiol detection strategy. Tetrahedron Lett. 54:5707-10"
  URL: http://dx.doi.org/10.1016/j.tetlet.2013.08.011
  Year: 2013
@@ -399,6 +480,12 @@
   - Coordinates: 51.7548179,-1.2273439
  Funding:
   - Latvian European Social Fund
+-
+ Reference: "Sarma U, Gade PM, Saha B (2013) A mathematical model for dynamics of CD40 clustering. Systems and Synthetic Biol. 7:197-208"
+ Year: 2013
+ URL: http://dx.doi.org/10.1007/s11693-013-9112-8
+ Keywords:
+  - Macromolecular biochemistry
 -
  Reference:  "Schäuble S, Stavrum AK, Puntervoll P, Schuster S, Heiland I (2013) Effect of substrate competition in kinetic models of metabolic networks. FEBS Lett. 587:2818-2824"
  Year: 2013
@@ -551,6 +638,12 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Huang R, Grabarek Z,  Wang C-LA (2010) Differential effects of caldesmon on the intermediate conformational states of polymerizing actin. J. Biol. Chem. 285:71-79"
+ Year: 2010
+ URL: http://dx.doi.org/10.1074/jbc.M109.065078
+ Keywords:
+  - Macromolecular biochemistry
+-
  Reference:  "Curien G, Bastien O, Robert-Genthon M, Cornish-Bowden A, Cárdenas ML, Dumas R (2009) Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters. Mol. Sys. Biol. 5:271"
  URL: http://dx.doi.org/10.1038/msb.2009.29
  Year: 2009
@@ -560,6 +653,12 @@
   - Coordinates: 43.2563419,5.4027633
  Keywords:
   - Metabolism
+-
+ Reference: "Pingoud V, Wende W, Friedhoff P, Reuter M, Alves J, Jeltsch A, Mones L, Fuxreiter M, Pingoud A (2009) On the Divalent Metal Ion Dependence of DNA Cleavage by Restriction Endonucleases of the EcoRI Family. J. Mol. Biol. 393:140-60"
+ Year: 2009
+ URL: http://dx.doi.org/10.1016/j.jmb.2009.08.011
+ Keywords:
+  - Macromolecular biochemistry
 -
  Reference: "Shen Z, Dornan PK, Khan HA, WooTK, Dong VM (2009) Mechanistic Insights into the Rhodium-Catalyzed Intramolecular Ketone Hydroacylation (2009) J. Am. Chem. Soc. 131:1077-91"
  URL: http://dx.doi.org/10.1021/ja806758m
@@ -573,6 +672,12 @@
   - NSERC
  Keywords:
   - Chemistry
+-
+ Reference: "Rippe K, Schrader A, Riede P, Strohner R, Lehmann E,Längst G (2007) DNA sequence- and conformation-directed positioning of nucleosomes by chromatin-remodeling complexes. PNAS 104:15635-40"
+ Year: 2007
+ URL: http://dx.doi.org/10.1073/pnas.0702430104
+ Keywords:
+  - Macromolecular biochemistry
 -
  Reference:  "Uys L, Botha FC, Hofmeyr J-HS, Rohwer JM (2007) Kinetic model of sucrose accumulation in maturing sugarcane culm tissue. Phytochemistry 68:2375-92"
  URL: http://dx.doi.org/10.1016/j.phytochem.2007.04.023
