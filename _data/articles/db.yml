@@ -72,6 +72,19 @@
  Keywords:
   - Chemistry
 -
+ Reference:  "Beauvoit BP, Colombié S, Monier A, Andrieu M-H, Biais B, Bénard C, Chéniclet C, Dieuaide-Noubhani M, Nazaret C, Mazat J-P, Gibon Y (2014) Model-assisted analysis of sugar metabolism throughout tomato fruit development reveals enzyme and carrier properties in relation to vacuole expansion. Plant Cell 26:3224-42 "
+ Year: 2014
+ URL: http://dx.doi.org/10.1105/tpc.114.127761
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 44.787683,-0.5792078
+  - Coordinates: 44.8268942,-0.6070696
+  - Coordinates: 44.8061916,-0.5986267
+ Funding:
+  - EraSysBio
+  - INRA
+-
  Reference: "Carrasco D, Pérez-Temprano MH, Casares JA, Espinet P (2014) Cross Alkyl-Aryl versus Homo Aryl-Aryl Coupling in Palladium-Catalyzed Coupling of Alkyl-Gold (I) and Aryl-Halide. Organometallics 33:3540-3545"
  URL: http://dx.doi.org/10.1021/om500446x
  Year: 2014
@@ -240,10 +253,10 @@
   - Metabolism
  Locations:
   - Coordinates: 52.3337601,4.8635312
-  - Coordinates: 53.4730735,-2.2400469
   - Coordinates: 53.2208632,6.5749903
   - Coordinates: 52.3562403,4.9541497
-  - Coordinates: 37.2209322,-80.4284957
+  - Coordinates: 53.4726871,-2.2394139
+  - Coordinates: 37.2209365,-80.4306844
  Funding:
   - NWO
   - SysMO
@@ -264,6 +277,28 @@
   - John Innes Foundation
   - Jürgen Manchot Foundation
 -
+ Reference:  "Mitchell S, Mendes P (2013) A Computational Model of Liver Iron Metabolism. PLoS Comput. Biol. 9:e1003299"
+ Year: 2013
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1003299
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 53.4726871,-2.2394139
+  - Coordinates: 37.2209365,-80.4306844
+ Funding:
+  - BBSRC
+  - NIH
+-
+ Reference:  "Nägele T, Weckwerth W (2013) A workflow for mathematical modeling of subcellular metabolic pathways in leaf metabolism of Arabidopsis thaliana. Frontiers Plant Sci. 4:541"
+ Year: 2013
+ URL: http://dx.doi.org/10.3389/fpls.2013.00541
+ Locations:
+  - Coordinates: 48.2131891,16.3578617
+ Funding:
+  - EU-Marie-Curie
+ Keywords:
+  - Metabolism
+-
  Reference:  "Palai T, Bhattacharya PK (2013) Kinetics of lactose conversion to galacto-oligosaccharides by beta-galactosidase immobilized on PVDF membrane. J. Biosci. Bioeng. 115:668-673"
  Year: 2013
  URL: http://dx.doi.org/10.1016/j.jbiosc.2012.12.014
@@ -274,6 +309,16 @@
  Funding:
   - Government of India
 -
+ Reference:  "Penkler GP (2013) A kinetic model of glucose catabolism in Plasmodium falciparum. Ph.D. Thesis, Faculty of Science, University of Stellenbosch, South Africa"
+ Year: 2013
+ URL: http://hdl.handle.net/10019.1/79843
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: -33.9562001,18.4582946
+ Funding:
+  -  National Research Foundation (South Africa)
+-
  Reference: "Reeves BD, Hilmer JK, Mellmann L, Hartzheim M, Poffenberger K, Johnson K, Joshi N, Singel DJ, Grieco PA (2013) Selective trapping of SNO-BSA and GSNO by benzenesulfinic acid sodium salt: mechanistic study of thiosulfonate formation and feasibility as a protein S-nitrosothiol detection strategy. Tetrahedron Lett. 54:5707-10"
  URL: http://dx.doi.org/10.1016/j.tetlet.2013.08.011
  Year: 2013
@@ -283,6 +328,33 @@
   - NIH
  Keywords:
   - Chemistry
+-
+ Reference:  "Rutkis R, Kalnenieks U, Stalidzans E, Fell DA (2013) Kinetic modeling of Zymomonas mobilis Entner-Doudoroff pathway: insights into control and functionality. Microbiol. 159:2674-2689"
+ Year: 2013
+ URL: http://dx.doi.org/10.1099/mic.0.071340-0
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 56.9508127,24.1141245
+  - Coordinates: 56.6553629,23.7309819
+  - Coordinates: 51.7548179,-1.2273439
+ Funding:
+  - Latvian European Social Fund
+-
+ Reference:  "Schäuble S, Stavrum AK, Puntervoll P, Schuster S, Heiland I (2013) Effect of substrate competition in kinetic models of metabolic networks. FEBS Lett. 587:2818-2824"
+ Year: 2013
+ URL: http://dx.doi.org/10.1016/j.febslet.2013.06.025
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 69.6798045,18.9690275
+  - Coordinates: 50.9295547,11.5876308
+  - Coordinates: 60.38438,5.3310534
+  - Coordinates: 60.3878612,5.3195662
+ Funding:
+  - Research Council of Norway
+  - BMBF
+  - German academic exchange service
 -
  Reference: "Scheller S, Goenrich M, Thauer RK, Jaun B (2013) Methyl-coenzyme M reductase from methanogenic archaea: isotope effects on label exchange and ethane formation with the homologous substrate ethyl-coenzyme M. J. Am. Chem. Soc 135:14985-14995"
  URL: http://dx.doi.org/10.1021/ja4064876
@@ -296,6 +368,63 @@
   - Fonds der Chemischen Industrie
  Keywords:
   - Chemistry
+-
+ Reference:  "Shemirani MI (2013) Construction of metabolic pathway of catecholamine from tyrosine in human fibroblast cell. Degree Proejct in Medicine, School of Medicine and Health Science, Orerbo University, Sweden"
+ Year: 2013
+ URL: http://www.researchgate.net/profile/Mahnaz_Shemirani/publication/259692806_CONSTRUCTION_OF_METABOLIC_PATHWAY_OF_CATECHOLAMINE_FROM_TYROSINE_IN_HUMAN_FIBROBLAST_CELL/links/00b4952d58fb25f430000000.pdf
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 59.254719,15.2462573
+-
+ Reference:  "Singh VK, Ghosh I (2013) Methylerythritol phosphate pathway to isoprenoids: kinetic modeling and in silico enzyme inhibitions in Plasmodium falciparum. FEBS Lett. 587:2806-2817"
+ Year: 2013
+ URL: http://dx.doi.org/10.1016/j.febslet.2013.06.024
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 28.5426035,77.1666813
+ Funding:
+  - Government of India
+-
+ Reference:  "Smallbone K, Messiha HL, Carroll KM, Winder CL, Malys N, Dunn WB, Murabito E, Swainston N, Dada JO, Khan F, Pir P, Simeonidis E, Spasic I, Wishart J, Weichart D, Hayes NW, Jameson D, Broomhead DS, Oliver SG, Gaskell SJ, McCarthy JEG, Paton NW, Westerhoff HV, Kell DB, Mendes P (2013) A model of yeast glycolysis based on a consistent kinetic characterization of all its enzymes. FEBS Letters 587:2832-41"
+ Year: 2013
+ URL: http://dx.doi.org/10.1016/j.febslet.2013.06.043
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 53.4726871,-2.2394139
+  - Coordinates: 37.2209365,-80.4306844
+  - Coordinates: 52.3792558,-1.5636591
+  - Coordinates: 52.1987783,0.1205574
+  - Coordinates: 49.5042575,5.9461973
+  - Coordinates: 47.6225004,-122.3395644
+  - Coordinates: 51.484144,-3.1717929
+  - Coordinates: 50.7371403,-3.5373362
+  - Coordinates: 51.5240704,-0.0425632
+  - Coordinates: 52.1325641,0.2034138
+ Funding:
+  - BBSRC
+  - EPSRC
+  - EU-FP7
+  - NIH
+-
+ Reference:  "Stavrum A-K, Heiland I, Schuster S, Puntervoll P, Ziegler M (2013) Model of tryptophan metabolism, readily scalable using tissue-specific gene expression data. J. Biol. Chem. 288:34555-34566"
+ Year: 2013
+ URL: http://dx.doi.org/10.1074/jbc.M113.474908
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 69.6798045,18.9690275
+  - Coordinates: 50.9295547,11.5876308
+  - Coordinates: 60.38438,5.3310534
+  - Coordinates: 60.3878612,5.3195662
+ Funding:
+  - German academic exchange service
+  - BMBF
+  - Norwegian Cancer Society
+  - Research Council of Norway
+  - German-Norwegian Collaborative Research Support Scheme
 -
  Reference: "Sundin S, Dahlgren B, Roth O, Jonsson M (2013) H2O2 and radiation induced dissolution of UO2 and SIMFUEL in deficient aqueous solution. J. Nuclear Materials 443:291-297"
  URL: http://dx.doi.org/10.1016/j.jnucmat.2013.07.025
@@ -314,6 +443,19 @@
   - Enzymology
  Locations:
   - Coordinates: 38.5382364,-121.7639012
+-
+ Reference:  "Veith N, Feldman-Salit A, Cojocaru V, Henrich S, Kummer U, Wade RC (2013) Organism-Adapted Specificity of the Allosteric Regulation of Pyruvate Kinase in Lactic Acid Bacteria. PLoS Comput. Biol. 9:e1003159"
+ Year: 2013
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1003159
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 49.4183338,8.6707814
+ Funding:
+  - SysMO
+  - SysMO2
+  - BMBF
+  - Klaus Tschira Foundation
 -
  Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. J. Am. Chem. Soc., 133:14566-9"
  URL: http://dx.doi.org/10.1021/ja206575j
