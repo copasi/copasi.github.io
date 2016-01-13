@@ -171,7 +171,7 @@
   - Coordinates: 56.4582476,-2.9843315
   - Coordinates: 51.5327386,-0.4774332
   - Coordinates: 52.3337601,4.8635312
-  - Coordinates: 53.4730703,-2.2378582
+  - Coordinates: 53.4730735,-2.2400469
   - Coordinates: 53.2208632,6.5749903
  Funding:
   - NWO
@@ -232,6 +232,24 @@
   - ERC
  Keywords:
   - Chemistry
+-
+ Reference:  "Mensonides FIC, Bakker BM, Cremazy F, Messiha HL , Mendes P, Boogerd FC, Westerhoff HV (2013) A new regulatory principle for in vivo biochemistry: pleiotropic low affinity regulation by the adenine nucleotides illustrated for the glycolytic enzymes of Saccharomyces cerevisiae. FEBS Lett. 587:2860-7"
+ Year: 2013
+ URL: http://dx.doi.org/10.1016/j.febslet.2013.07.013
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 52.3337601,4.8635312
+  - Coordinates: 53.4730735,-2.2400469
+  - Coordinates: 53.2208632,6.5749903
+  - Coordinates: 52.3562403,4.9541497
+  - Coordinates: 37.2209322,-80.4284957
+ Funding:
+  - NWO
+  - SysMO
+  - BBSRC
+  - EPSRC
+  - EU-FP7
 -
  Reference:  "Palai T, Bhattacharya PK (2013) Kinetics of lactose conversion to galacto-oligosaccharides by beta-galactosidase immobilized on PVDF membrane. J. Biosci. Bioeng. 115:668-673"
  Year: 2013
