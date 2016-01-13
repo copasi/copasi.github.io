@@ -1,143 +1,76 @@
 -
- Reference: "Shen Z, Dornan PK, Khan HA, WooTK, Dong VM (2009) Mechanistic Insights into the Rhodium-Catalyzed Intramolecular Ketone Hydroacylation (2009) J. Am. Chem. Soc. 131:1077-91"
- URL: http://dx.doi.org/10.1021/ja806758m
- Year: 2009
+ Reference: "Jeong H, John JM, Schrock RR, Hoveyda AH (2015) Synthesis of Alternating trans-AB Copolymers through Ring-Opening Metathesis Polymerization Initiated by Molybdenum Alkylidenes. J. Am. Chem. Soc. 137:2239-42"
+ URL: http://dx.doi.org/10.1021/jacs.5b00221
+ Year: 2015
  Locations:
-  - Coordinates: 43.6617219,-79.4006796
-  - Coordinates: 45.4231101,-75.6853216
+  - Coordinates: 42.3355527,-71.1706832
+  - Coordinates: 42.3600949,-71.0963487
  Funding:
-  - Canada Foundation for Innovation
-  - Ontario Research Foundation
+  - DOE
+  - NIH
+ Keywords:
+  - Chemistry
+-
+ Reference: "Ji Y, Benkovics T, Beutner GL, Sfouggatakis C, Eastgate MD, Blackmond DG (2015) Mechanistic Insights into the Vanadium-Catalyzed Achmatowicz Rearrangement of Furfurol. J. Organic Chem. 80:1696-1702"
+ URL: http://dx.doi.org/10.1021/jo502641d
+ Year: 2015
+ Locations:
+  - Coordinates: 40.4712942,-74.4425329
+  - Coordinates: 32.8873957,-117.2639054
+ Funding:
+  - Bristol-Myers Squibb Company
+  - Scripps Research Institute
+ Keywords:
+  - Chemistry
+-
+ Reference:  "Jones AR, Rentergent J, Scrutton NS, Hay S (2015) Probing reversible chemistry in coenzyme B12-dependent ethanolamine amonnia lyase with kinetic isotope effects. Chem. Eur. J. 21:8826-31"
+ Year: 2015
+ URL: http://dx.doi.org/10.1002/chem.201500958
+ Keywords:
+  - Enzymology
+ Locations:
+  - Coordinates: 53.4730703,-2.2378582
+ Funding:
+  - BBSRC
+  - EPSRC
+  - Royal Society
+-
+ Reference: "Luo J, Theron R, Sewell LJ, Hooper TN, Weller AS, Oliver AG, McIndoe JS (2015) Rhodium-Catalyzed Selective Partial Hydrogenation of Alkynes. Organometallics 34:3021-8"
+ URL: http://dx.doi.org/10.1021/acs.organomet.5b00322
+ Year: 2015
+ Locations:
+  - Coordinates: 48.4634102,-123.3138822
+  - Coordinates: 51.756406,-1.2544172
+  - Coordinates: 41.7055756,-86.2375275
+ Funding:
   - NSERC
+  - CFI
+  - BCKDF
+  - EPSRC
  Keywords:
   - Chemistry
 -
- Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. J. Am. Chem. Soc., 133:14566-9"
- URL: http://dx.doi.org/10.1021/ja206575j
- Year: 2011
- Locations:
-  - Coordinates: 43.0741849,-89.4117159
- Funding:
-  - NIH
-  - Eastman Chemical
-  - NSF
- Keywords:
-  - Chemistry
--
- Reference: "Izawa Y, Pun D, Stahl SS (2011) Palladium-Catalyzed Aerobic Dehydrogenation of Substituted Cyclohexanones to Phenols. Science  333:209-213"
- URL: http://dx.doi.org/10.1126/science.1204183
- Year: 2011
- Locations:
-  - Coordinates: 43.0741849,-89.4117159
- Funding:
-  - NIH
-  - Eastman Chemical
-  - NSF
- Keywords:
-  - Chemistry
--
- Reference: "Keitz BK, Grubbs RH (2011) Probing the origin of degenerate metathesis selectivity via characterization and dynamics of ruthenacyclobutanes containing variable NHCs. J. Am. Chem. Soc. 133:16277-16284"
- URL: http://dx.doi.org/10.1021/ja207252r
- Year: 2011
- Locations:
-  - Coordinates: 34.137662,-118.1274577
- Funding:
-  - NIH
-  - NDSEG
- Keywords:
-  - Chemistry
--
- Reference: "Diao T, Pun D, Stahl SS (2013) Aerobic Dehydrogenation of Cyclohexanone to Cyclohexenone Catalyzed by Pd(DMSO)2(TFA)2: Evidence for Ligand-Controlled Chemoselectivity. J. Am. Chem. Soc. 135:8205-8212"
- URL: http://dx.doi.org/10.1021/ja4031648
- Year: 2013
- Locations:
-  - Coordinates: 43.0741849,-89.4117159
- Funding:
-  - NIH
-  - NSF
- Keywords:
-  - Chemistry
--
- Reference: "Khan HA (2013) Asymmetric Synthesis of Lactones and Lactams: Rhodium Catalysis in the Hydroacylation of Ketones and the Hydrogenation of Cyclic Dehydropeptides. Ph.D. Thesis, Department of Chemistry, University of Toronto"
- URL: http://hdl.handle.net/1807/35862
- Year: 2013
- Locations:
-  - Coordinates: 43.6627215,-79.3978422
- Keywords:
-  - Chemistry
--
- Reference:  "Kraut DA (2013) Slippery substrates impair ATP-dependent protease function by slowing unfolding. J. Biol. Chem. 288:34729-34735"
- Year: 2013
- URL: http://dx.doi.org/10.1074/jbc.M113.512533
+ Reference:  "Montes MR, Ferreira-Gomes MS, Centeno M, Rossi RC (2015) The E2P-like state induced by magnesium fluoride complexes in the Na, K-ATPase. Kinetics of formation and interaction with Rb+. Biochim. Biophys Acta 1848:1514-23"
+ Year: 2015
+ URL: http://dx.doi.org/10.1016/j.bbamem.2015.03.023
  Keywords:
   - Enzymology
  Locations:
-  - Coordinates: 40.0349052,-75.3395391
--
- Reference: "Lv H, Rudd JA, Zhuk PF, Lee JY, Constable EC, Housecroft CE, Hill CL, Musaev DG, Geletii YV (2013) Bis (4'-(4-pyridyl)-2,2':6',2''-terpyridine)ruthenium (ii) complexes and their N-alkylated derivatives in catalytic light-driven water oxidation. Royal Soc. Chem. Advances 3:20647-20654"
- URL: http://dx.doi.org/10.1039/C3RA44192J
- Year: 2013
- Locations:
-  - Coordinates: 33.7925239,-84.3261876
-  - Coordinates: 47.5627441,7.5769399
-  - Coordinates: 50.4374798,30.4261333
+  - Coordinates: -34.5977666,-58.3999597
  Funding:
-  - NSF
-  - Swiss National Science Foundation
-  - ERC
+  - Agencia Nacional de Promoción Científica y Tecnológica
+  - Consejo Nacional de Investigaciones Científicas y Técnicas
+  - UBACYT-University of Buenos Aires
+-
+ Reference: "Torbensen K, Rossi F, Pantani OL, Ristori S, Abou-Hassan A (2015) Interaction of the Belousov-Zhabotinsky Reaction with Phospholipid Engineered Membranes. J. Phys. Chem. B 119:10224-30"
+ URL: http://dx.doi.org/10.1021/acs.jpcb.5b04572
+ Locations:
+  - Coordinates: 48.8464146,2.3526581
+  - Coordinates: 40.7687158,14.7898292
+  - Coordinates: 43.781652,11.2240368
+ Year: 2015
  Keywords:
   - Chemistry
--
- Reference:  "Palai T, Bhattacharya PK (2013) Kinetics of lactose conversion to galacto-oligosaccharides by beta-galactosidase immobilized on PVDF membrane. J. Biosci. Bioeng. 115:668-673"
- Year: 2013
- URL: http://dx.doi.org/10.1016/j.jbiosc.2012.12.014
- Keywords:
-  - Enzymology
- Locations:
-  - Coordinates: 26.513541,80.230523
- Funding:
-  - Government of India
--
- Reference: "Reeves BD, Hilmer JK, Mellmann L, Hartzheim M, Poffenberger K, Johnson K, Joshi N, Singel DJ, Grieco PA (2013) Selective trapping of SNO-BSA and GSNO by benzenesulfinic acid sodium salt: mechanistic study of thiosulfonate formation and feasibility as a protein S-nitrosothiol detection strategy. Tetrahedron Lett. 54:5707-10"
- URL: http://dx.doi.org/10.1016/j.tetlet.2013.08.011
- Year: 2013
- Locations:
-  - Coordinates: 45.6691267,-111.0521695
- Funding:
-  - NIH
- Keywords:
-  - Chemistry
--
- Reference: "Scheller S, Goenrich M, Thauer RK, Jaun B (2013) Methyl-coenzyme M reductase from methanogenic archaea: isotope effects on label exchange and ethane formation with the homologous substrate ethyl-coenzyme M. J. Am. Chem. Soc 135:14985-14995"
- URL: http://dx.doi.org/10.1021/ja4064876
- Year: 2013
- Locations:
-  - Coordinates: 50.8068216,8.8087063
-  - Coordinates: 47.3757262,8.545752
- Funding:
-  - Swiss National Science Foundation
-  - Max Planck Society 
-  - Fonds der Chemischen Industrie
- Keywords:
-  - Chemistry
--
- Reference: "Sundin S, Dahlgren B, Roth O, Jonsson M (2013) H2O2 and radiation induced dissolution of UO2 and SIMFUEL in deficient aqueous solution. J. Nuclear Materials 443:291-297"
- URL: http://dx.doi.org/10.1016/j.jnucmat.2013.07.025
- Year: 2013
- Locations:
-  - Coordinates: 59.3498092,18.0684758
- Funding:
-  - Swedish Nuclear Fuel and Waste Management Co
- Keywords:
-  - Chemistry
--
-Reference:  "Toney MD (2013) Common enzymological experiments allow free energy profile determination. Biochemistry 52:5952-5965"
- Year: 2013
- URL: http://dx.doi.org/10.1021/bi400696j
- Keywords:
-  - Enzymology
- Locations:
-  - Coordinates: 38.5382364,-121.7639012
 -
  Reference: "Carrasco D, Pérez-Temprano MH, Casares JA, Espinet P (2014) Cross Alkyl-Aryl versus Homo Aryl-Aryl Coupling in Palladium-Catalyzed Coupling of Alkyl-Gold (I) and Aryl-Halide. Organometallics 33:3540-3545"
  URL: http://dx.doi.org/10.1021/om500446x
@@ -215,75 +148,207 @@ Reference:  "Toney MD (2013) Common enzymological experiments allow free energy 
  Keywords:
   - Chemistry
 -
- Reference: "Jeong H, John JM, Schrock RR, Hoveyda AH (2015) Synthesis of Alternating trans-AB Copolymers through Ring-Opening Metathesis Polymerization Initiated by Molybdenum Alkylidenes. J. Am. Chem. Soc. 137:2239-42"
- URL: http://dx.doi.org/10.1021/jacs.5b00221
- Year: 2015
+ Reference: "Diao T, Pun D, Stahl SS (2013) Aerobic Dehydrogenation of Cyclohexanone to Cyclohexenone Catalyzed by Pd(DMSO)2(TFA)2: Evidence for Ligand-Controlled Chemoselectivity. J. Am. Chem. Soc. 135:8205-8212"
+ URL: http://dx.doi.org/10.1021/ja4031648
+ Year: 2013
  Locations:
-  - Coordinates: 42.3355527,-71.1706832
-  - Coordinates: 42.3600949,-71.0963487
+  - Coordinates: 43.0741849,-89.4117159
  Funding:
-  - DOE
+  - NIH
+  - NSF
+ Keywords:
+  - Chemistry
+-
+ Reference:  "Kerkhoven EJ, Achcar F, Alibu VP, Burchmore RJ, Gilbert IH, Trybilo M, Driessen NN, Gilbert D, Breitling R, Bakker BM, Barrett MP (2013) Handling Uncertainty in Dynamic Models: The Pentose Phosphate Pathway in Trypanosoma brucei. PLoS Comput. Biol. 9:e1003371."
+ Year: 2013
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1003371
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 55.8721241,-4.2903892
+  - Coordinates: 57.6891209,11.9765016
+  - Coordinates: 53.2192666,6.5607985
+  - Coordinates: 56.4582476,-2.9843315
+  - Coordinates: 51.5327386,-0.4774332
+  - Coordinates: 52.3337601,4.8635312
+  - Coordinates: 53.4730703,-2.2378582
+  - Coordinates: 53.2208632,6.5749903
+ Funding:
+  - NWO
+  - SysMO2
+  - Wellcome Trust
+  - SULSA
+-
+ Reference: "Khan HA (2013) Asymmetric Synthesis of Lactones and Lactams: Rhodium Catalysis in the Hydroacylation of Ketones and the Hydrogenation of Cyclic Dehydropeptides. Ph.D. Thesis, Department of Chemistry, University of Toronto"
+ URL: http://hdl.handle.net/1807/35862
+ Year: 2013
+ Locations:
+  - Coordinates: 43.6627215,-79.3978422
+ Keywords:
+  - Chemistry
+-
+ Reference:  "Kraut DA (2013) Slippery substrates impair ATP-dependent protease function by slowing unfolding. J. Biol. Chem. 288:34729-34735"
+ Year: 2013
+ URL: http://dx.doi.org/10.1074/jbc.M113.512533
+ Keywords:
+  - Enzymology
+ Locations:
+  - Coordinates: 40.0349052,-75.3395391
+-
+ Reference:  "Leroux AE, Haanstra JR, Bakker BM, Krauth-Siegel RL (2013) Dissecting the catalytic mechanism of Trypanosoma brucei trypanothione synthetase by kinetic analysis and computational modeling. J. Biol. Chem. 288:23751-23764"
+ Year: 2013
+ URL: http://dx.doi.org/10.1074/jbc.M113.483289
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 49.4175309,8.6676395
+  - Coordinates: 52.3337601,4.8635312
+ Funding:
+  - BMBF
+  - NWO
+  - SysMO2
+-
+ Reference:  "Levering, J, Kummer U, Becker K, Sahle S (2013) Glycolytic oscillations in a model of a lactic acid bacterium metabolism. Biophys. Chem. 172:53-60"
+ Year: 2013
+ URL: http://dx.doi.org/10.1016/j.bpc.2012.11.002
+ Keywords:
+  - Metabolism
+ Locations:
+  - Coordinates: 49.4183338,8.6707814
+ Funding:
+  - SysMO-LAB
+  - Klaus Tschira Foundation
+-
+ Reference: "Lv H, Rudd JA, Zhuk PF, Lee JY, Constable EC, Housecroft CE, Hill CL, Musaev DG, Geletii YV (2013) Bis (4'-(4-pyridyl)-2,2':6',2''-terpyridine)ruthenium (ii) complexes and their N-alkylated derivatives in catalytic light-driven water oxidation. Royal Soc. Chem. Advances 3:20647-20654"
+ URL: http://dx.doi.org/10.1039/C3RA44192J
+ Year: 2013
+ Locations:
+  - Coordinates: 33.7925239,-84.3261876
+  - Coordinates: 47.5627441,7.5769399
+  - Coordinates: 50.4374798,30.4261333
+ Funding:
+  - NSF
+  - Swiss National Science Foundation
+  - ERC
+ Keywords:
+  - Chemistry
+-
+ Reference:  "Palai T, Bhattacharya PK (2013) Kinetics of lactose conversion to galacto-oligosaccharides by beta-galactosidase immobilized on PVDF membrane. J. Biosci. Bioeng. 115:668-673"
+ Year: 2013
+ URL: http://dx.doi.org/10.1016/j.jbiosc.2012.12.014
+ Keywords:
+  - Enzymology
+ Locations:
+  - Coordinates: 26.513541,80.230523
+ Funding:
+  - Government of India
+-
+ Reference: "Reeves BD, Hilmer JK, Mellmann L, Hartzheim M, Poffenberger K, Johnson K, Joshi N, Singel DJ, Grieco PA (2013) Selective trapping of SNO-BSA and GSNO by benzenesulfinic acid sodium salt: mechanistic study of thiosulfonate formation and feasibility as a protein S-nitrosothiol detection strategy. Tetrahedron Lett. 54:5707-10"
+ URL: http://dx.doi.org/10.1016/j.tetlet.2013.08.011
+ Year: 2013
+ Locations:
+  - Coordinates: 45.6691267,-111.0521695
+ Funding:
   - NIH
  Keywords:
   - Chemistry
 -
- Reference: "Ji Y, Benkovics T, Beutner GL, Sfouggatakis C, Eastgate MD, Blackmond DG (2015) Mechanistic Insights into the Vanadium-Catalyzed Achmatowicz Rearrangement of Furfurol. J. Organic Chem. 80:1696-1702"
- URL: http://dx.doi.org/10.1021/jo502641d
- Year: 2015
+ Reference: "Scheller S, Goenrich M, Thauer RK, Jaun B (2013) Methyl-coenzyme M reductase from methanogenic archaea: isotope effects on label exchange and ethane formation with the homologous substrate ethyl-coenzyme M. J. Am. Chem. Soc 135:14985-14995"
+ URL: http://dx.doi.org/10.1021/ja4064876
+ Year: 2013
  Locations:
-  - Coordinates: 40.4712942,-74.4425329
-  - Coordinates: 32.8873957,-117.2639054
+  - Coordinates: 50.8068216,8.8087063
+  - Coordinates: 47.3757262,8.545752
  Funding:
-  - Bristol-Myers Squibb Company
-  - Scripps Research Institute
+  - Swiss National Science Foundation
+  - Max Planck Society 
+  - Fonds der Chemischen Industrie
  Keywords:
   - Chemistry
 -
- Reference:  "Jones AR, Rentergent J, Scrutton NS, Hay S (2015) Probing reversible chemistry in coenzyme B12-dependent ethanolamine amonnia lyase with kinetic isotope effects. Chem. Eur. J. 21:8826-31"
- Year: 2015
- URL: http://dx.doi.org/10.1002/chem.201500958
+ Reference: "Sundin S, Dahlgren B, Roth O, Jonsson M (2013) H2O2 and radiation induced dissolution of UO2 and SIMFUEL in deficient aqueous solution. J. Nuclear Materials 443:291-297"
+ URL: http://dx.doi.org/10.1016/j.jnucmat.2013.07.025
+ Year: 2013
+ Locations:
+  - Coordinates: 59.3498092,18.0684758
+ Funding:
+  - Swedish Nuclear Fuel and Waste Management Co
+ Keywords:
+  - Chemistry
+-
+Reference:  "Toney MD (2013) Common enzymological experiments allow free energy profile determination. Biochemistry 52:5952-5965"
+ Year: 2013
+ URL: http://dx.doi.org/10.1021/bi400696j
  Keywords:
   - Enzymology
  Locations:
-  - Coordinates: 53.4730703,-2.2378582
- Funding:
-  - BBSRC
-  - EPSRC
-  - Royal Society
+  - Coordinates: 38.5382364,-121.7639012
 -
- Reference: "Luo J, Theron R, Sewell LJ, Hooper TN, Weller AS, Oliver AG, McIndoe JS (2015) Rhodium-Catalyzed Selective Partial Hydrogenation of Alkynes. Organometallics 34:3021-8"
- URL: http://dx.doi.org/10.1021/acs.organomet.5b00322
- Year: 2015
+ Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. J. Am. Chem. Soc., 133:14566-9"
+ URL: http://dx.doi.org/10.1021/ja206575j
+ Year: 2011
  Locations:
-  - Coordinates: 48.4634102,-123.3138822
-  - Coordinates: 51.756406,-1.2544172
-  - Coordinates: 41.7055756,-86.2375275
+  - Coordinates: 43.0741849,-89.4117159
  Funding:
+  - NIH
+  - Eastman Chemical
+  - NSF
+ Keywords:
+  - Chemistry
+-
+ Reference: "Izawa Y, Pun D, Stahl SS (2011) Palladium-Catalyzed Aerobic Dehydrogenation of Substituted Cyclohexanones to Phenols. Science  333:209-213"
+ URL: http://dx.doi.org/10.1126/science.1204183
+ Year: 2011
+ Locations:
+  - Coordinates: 43.0741849,-89.4117159
+ Funding:
+  - NIH
+  - Eastman Chemical
+  - NSF
+ Keywords:
+  - Chemistry
+-
+ Reference: "Keitz BK, Grubbs RH (2011) Probing the origin of degenerate metathesis selectivity via characterization and dynamics of ruthenacyclobutanes containing variable NHCs. J. Am. Chem. Soc. 133:16277-16284"
+ URL: http://dx.doi.org/10.1021/ja207252r
+ Year: 2011
+ Locations:
+  - Coordinates: 34.137662,-118.1274577
+ Funding:
+  - NIH
+  - NDSEG
+ Keywords:
+  - Chemistry
+-
+ Reference:  "Curien G, Bastien O, Robert-Genthon M, Cornish-Bowden A, Cárdenas ML, Dumas R (2009) Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters. Mol. Sys. Biol. 5:271"
+ URL: http://dx.doi.org/10.1038/msb.2009.29
+ Year: 2009
+ Locations:
+  - Coordinates: 45.195973,5.7021953
+  - Coordinates: 45.1917101,5.7650876
+  - Coordinates: 43.2563419,5.4027633
+ Keywords:
+  - Metabolism
+-
+ Reference: "Shen Z, Dornan PK, Khan HA, WooTK, Dong VM (2009) Mechanistic Insights into the Rhodium-Catalyzed Intramolecular Ketone Hydroacylation (2009) J. Am. Chem. Soc. 131:1077-91"
+ URL: http://dx.doi.org/10.1021/ja806758m
+ Year: 2009
+ Locations:
+  - Coordinates: 43.6617219,-79.4006796
+  - Coordinates: 45.4231101,-75.6853216
+ Funding:
+  - Canada Foundation for Innovation
+  - Ontario Research Foundation
   - NSERC
-  - CFI
-  - BCKDF
-  - EPSRC
  Keywords:
   - Chemistry
 -
- Reference:  "Montes MR, Ferreira-Gomes MS, Centeno M, Rossi RC (2015) The E2P-like state induced by magnesium fluoride complexes in the Na, K-ATPase. Kinetics of formation and interaction with Rb+. Biochim. Biophys Acta 1848:1514-23"
- Year: 2015
- URL: http://dx.doi.org/10.1016/j.bbamem.2015.03.023
+ Reference:  "Uys L, Botha FC, Hofmeyr J-HS, Rohwer JM (2007) Kinetic model of sucrose accumulation in maturing sugarcane culm tissue. Phytochemistry 68:2375-92"
+ URL: http://dx.doi.org/10.1016/j.phytochem.2007.04.023
+ Year: 2007
  Keywords:
-  - Enzymology
+  - Metabolism
  Locations:
-  - Coordinates: -34.5977666,-58.3999597
+  - Coordinates: -33.9328033,18.8622583
+  - Coordinates: -29.7421453,31.0328613
  Funding:
-  - Agencia Nacional de Promoción Científica y Tecnológica
-  - Consejo Nacional de Investigaciones Científicas y Técnicas
-  - UBACYT-University of Buenos Aires
--
- Reference: "Torbensen K, Rossi F, Pantani OL, Ristori S, Abou-Hassan A (2015) Interaction of the Belousov-Zhabotinsky Reaction with Phospholipid Engineered Membranes. J. Phys. Chem. B 119:10224-30"
- URL: http://dx.doi.org/10.1021/acs.jpcb.5b04572
- Locations:
-  - Coordinates: 48.8464146,2.3526581
-  - Coordinates: 40.7687158,14.7898292
-  - Coordinates: 43.781652,11.2240368
- Year: 2015
- Keywords:
-  - Chemistry
+  - National Bioinformatics Network (South Africa)
