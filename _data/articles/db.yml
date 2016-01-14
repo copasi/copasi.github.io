@@ -80,6 +80,12 @@
   - Cell biology
   - Signaling
 -
+ Reference: "Luna A, McFadden GB, Aladjem MI, Kohn KW (2015) Predicted Role of NAD Utilization in the Control of Circadian Rhythms during DNA Damage Response. PLoS Comput Biol 11:e1004144"
+ Year: 2015
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1004144
+ Keywords:
+  - Cell biology
+-
  Reference: "Luo J, Theron R, Sewell LJ, Hooper TN, Weller AS, Oliver AG, McIndoe JS (2015) Rhodium-Catalyzed Selective Partial Hydrogenation of Alkynes. Organometallics 34:3021-8"
  URL: http://dx.doi.org/10.1021/acs.organomet.5b00322
  Year: 2015
@@ -106,6 +112,12 @@
   - Agencia Nacional de Promoción Científica y Tecnológica
   - Consejo Nacional de Investigaciones Científicas y Técnicas
   - UBACYT-University of Buenos Aires
+-
+ Reference: "Peñarrubia L, Romero P, Carrió-Seguí A, Andrés-Bordería A, Moreno J and Sanz A (2015) Temporal aspects of copper homeostasis and its crosstalk with hormones. Front. Plant Sci. 6:255."
+ Year: 2015
+ URL: http://dx.doi.org/10.3389/fpls.2015.00255
+ Keywords:
+  - Physiology
 -
  Reference:  "Pineda E, Encalada R, Vázquez C, González Z, Moreno-Sánchez R, Saavedra E (2015) Glucose Metabolism and Its Controlling Mechanisms in Entamoeba histolytica. In Amebiasis. Part IV Biology and Pathogenesis of Entamoeba (Nozaki T, Bhattacharya A eds.) Springer pp.351-372"
  Year: 2015
@@ -214,6 +226,12 @@
  Keywords:
   - Signaling
 -
+ Reference: "Godfrey L, Yamada-Fowler N, Smith J, Thornalley PJ, Rabbani N (2014) Arginine-directed glycation and decreased HDL plasma concentration and functionality. Nutrition & Diabetes 4:e134"
+ Year: 2014
+ URL: http://dx.doi.org/10.1038/nutd.2014.31
+ Keywords:
+  - Physiology
+-
  Reference: "Graybill C, Prehoda KE (2014) Ordered multisite phosphorylation of lethal giant larvae by atypical protein kinase C. Biochemistry 53:4931-7"
  Year: 2014
  URL: http://dx.doi.org/10.1021/bi500748w
@@ -278,6 +296,13 @@
  Year: 2014
  URL: http://dx.doi.org/10.1371/journal.pone.0111006
  Keywords:
+  - Metabolism
+-
+ Reference: "Saller S, Kunz L, Berg D, Berg U, Lara H, Urra J, Hecht S, Pavlik R, Thaler CJ, Mayerhofer A (2014) Dopamine in human follicular fluid is associated with cellular uptake and metabolism-dependent generation of reactive oxygen species in granulosa cells: implications for physiology and pathology. Human Reproduction 29:555-67"
+ Year: 2014
+ URL: http://dx.doi.org/10.1093/humrep/det422
+ Keywords:
+  - Physiology
   - Metabolism
 -
  Reference: "Schaber J, Lapytsko A, Flockerzi D (2014) Nested autoinhibitory feedbacks alter the resistance of homeostatic adaptive biochemical networks. J. Royal Soc. Interface 11:20130971"
@@ -349,6 +374,12 @@
   - Coordinates: 53.4059392,-2.9677609
  Funding: 
   - BBSRC
+-
+ Reference: "Fröhlich M (2013) Computational and experimental investigation of the mechanisms involved in cellular water transport and (cat)ion homeostasis. Ph.D. Thesis, Department of Mathematics and Computer Science, Free University of Berlin"
+ Year: 2013
+ URL: http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000095294?lang=en
+ Keywords:
+  - Physiology
 -
  Reference: "Haq I,  Irving JA, Faull SV, Dickens JA, Ordonez A, Belorgey D, Gooptu B, Lomas, DA (2013) Reactive centre loop mutants of alpha-1-antitrypsin reveal position-specific effects on intermediate formation along the polymerization pathway. Biosci. Rep. 33:499-511"
  Year: 2013
@@ -706,6 +737,13 @@
  Keywords:
   - Signaling
 -
+ Reference: "Ray JCJ, Igoshin OA (2012) Interplay of Gene Expression Noise and Ultrasensitive Dynamics Affects Bacterial Operon Organization. PLoS Comput. Biol. 8:e1002672"
+ Year: 2012
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1002672
+ Keywords:
+  - Microbiology
+  - Genetics
+-
  Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. J. Am. Chem. Soc., 133:14566-9"
  URL: http://dx.doi.org/10.1021/ja206575j
  Year: 2011
@@ -741,11 +779,42 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Lee MV, Topper SE, Hubler SL, Hose J, Wenger CD, Coon JJ, Gasch AP (2011) A dynamic model of proteome changes reveals new roles for transcript alteration in yeast. Molecular Systems Biology 7:514"
+ Year: 2011
+ URL: http://dx.doi.org/10.1038/msb.2011.48 
+ Keywords:
+  - Genomics
+-
+ Reference: "Yao G, Tan C, West M, Nevins JR, You L (2011) Origin of bistability underlying mammalian cell cycle entry. Mol. Systems Biol. 7:485"
+ Year: 2011
+ URL: http://dx.doi.org/10.1038/msb.2011.19
+ Keywords:
+  - Cell biology
+-
+ Reference: "Adra S, Sun T, MacNeil S, Holcombe M, Smallwood R (2010) Development of a Three Dimensional Multiscale Computational Model of the Human Epidermis. PLoS ONE 5:e8511."
+ Year: 2010
+ URL: http://dx.doi.org/10.1371/journal.pone.0008511
+ Keywords:
+  - Physiology
+-
  Reference: "Huang R, Grabarek Z,  Wang C-LA (2010) Differential effects of caldesmon on the intermediate conformational states of polymerizing actin. J. Biol. Chem. 285:71-79"
  Year: 2010
  URL: http://dx.doi.org/10.1074/jbc.M109.065078
  Keywords:
   - Macromolecular biochemistry
+-
+ Reference: "Nakano T, Doi T, Yoshimoto J, Doya K (2010) A Kinetic Model of Dopamine- and Calcium-Dependent Striatal Synaptic Plasticity. PLoS Comput Biol 6(2): e1000670."
+ Year: 2010
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1000670
+ Keywords:
+  - Physiology
+-
+ Reference: "Samorodnitsky E, Pugh BF (2010) Genome-Wide Modeling of Transcription Preinitiation Complex Disassembly Mechanisms using ChIP-chip Data. PLoS Comput. Biol. 6:e1000733"
+ Year: 2010
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1000733
+ Keywords:
+  - Macromolecular biochemistry
+  - Genomics
 -
  Reference:  "Curien G, Bastien O, Robert-Genthon M, Cornish-Bowden A, Cárdenas ML, Dumas R (2009) Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters. Mol. Sys. Biol. 5:271"
  URL: http://dx.doi.org/10.1038/msb.2009.29
@@ -782,6 +851,12 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Colvin RA, Bush AI, Volitakis I, Fontaine CP, Thomas D, Kikuchi K, Holmes WR (2008) Insights into Zn2+ homeostasis in neurons from experimental and modeling studies. Am. J. Physiol. 294:C726-C742"
+ Year: 2008
+ URL: http://dx.doi.org/10.1152/ajpcell.00541.2007 
+ Keywords:
+  - Physiology
+-
  Reference: "Del Conte-Zerial P, Brusch L, Rink JC, Collinet C, Kalaidzidis Y, Zerial M, Deutsch A (2008) Membrane identity and GTPase cascades regulated by toggle and cut-out switches. Mol. Sys. Biol. 4:206"
  Year: 2008
  URL: http://dx.doi.org/10.1038/msb.2008.45
@@ -794,6 +869,14 @@
  Keywords:
   - Cell biology
   - Signaling
+-
+ Reference: "Stefan MI, Edelstein SJ, Le Novère N (2008) An allosteric model of calmodulin explains differential activation of PP2B and CaMKII. PNAS 105:10768-73"
+ Year: 2008
+ URL: http://dx.doi.org/10.1073/pnas.0804672105
+ Keywords:
+  - Physiology
+  - Signaling
+  - Macromolecular biochemistry
 -
  Reference: "Rippe K, Schrader A, Riede P, Strohner R, Lehmann E,Längst G (2007) DNA sequence- and conformation-directed positioning of nucleosomes by chromatin-remodeling complexes. PNAS 104:15635-40"
  Year: 2007
