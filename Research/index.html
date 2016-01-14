@@ -3,6 +3,7 @@ layout:  default
 title:   COPASI's Use In Research
 section: Research
 ---
+{% include articles.html %}
 <div class="section">
   <div class="container">
     <div class="row">
@@ -21,10 +22,13 @@ section: Research
          COPASI to their research problems. Check out these publications 
          for details!</p>
 
+        {% for year in cps_article_years %}
         <div class="panel panel-default">
-
+          <div class="panel-heading">{{ year }}</div>
           {% for item in site.data.articles.db %}
-          <div class="panel-body" style="padding-bottom:0">
+          {% assign delta = item.Year | minus: year %}
+          {% if delta == 0 %}
+          <div class="panel-body" style="padding-bottom: 0;" >
             {{ item.Reference }} 
 
             {% for key in item.Keywords %}
@@ -33,9 +37,11 @@ section: Research
 
             <a href="{{ item.URL }}" target="_blank">Link</a>
           </div>
+          {% endif %}
           {% endfor %}
-          <p><br /></p>
+          <br/>
         </div>
+        {% endfor %}
       </div>
     </div> 
   </div>
