@@ -1,4 +1,10 @@
 -
+ Reference: "D'Aguanno E, Altamura E, Mavelli F, Fahr A, Stano P, Luisi PL (2015) Physical Routes to Primitive Cells: An Experimental Model Based on the Spontaneous Entrapment of Enzymes inside Micrometer-Sized Liposomes. Life 5:969-96"
+ Year: 2015
+ URL: http://dx.doi.org/10.3390/life5010969
+ Keywords:
+  - Synthetic biology
+-
  Reference: "Daneshjou N, Sieracki N, van Nieuw Amerongen GP, Schwartz MA, Komarova YA, Malik AB, Conway DE (2015) Rac1 functions as a reversible tension modulator to stabilize VE-cadherin trans-interaction. J. Cell Biol. 208:23-32"
  Year: 2015
  URL: http://dx.doi.org/10.1083/jcb.201409108
@@ -12,6 +18,12 @@
  Keywords:
   - Metabolism
   - Microbiology
+-
+ Reference: "Gladkovskaya O, Greaney P, Gun'ko YK, O'Connor GM, Meere M, Rochev Y (2015) An experimental and theoretical assessment of quantum dot cytotoxicity. Toxicol. Res. 4:1409-15"
+ Year: 2015
+ URL: http://dx.doi.org/10.1039/C5TX00149H
+ Keywords:
+  - Toxicology
 -
  Reference: "Hamacher-Brady A, Brady NR (2015) Bax/Bak-Dependent, Drp1-Independent Targeting of XIAP into Inner-Mitochondrial Compartments Counteracts Smac-Dependent Effector Caspase Activation. J. Biol. Chem. in press jbc-M115"
  Year: 2015
@@ -67,6 +79,14 @@
  Keywords:
   - Metabolism
 -
+ Reference: "Leber A, Viladomiu M, Hontecillas R, Abedi V, Philipson C, Hoops S, Howard B, Bassaganya-Riera J (2015) Systems Modeling of Interactions between Mucosal Immunity and the Gut Microbiome during Clostridium difficile Infection. PLoS ONE 10:e0134849"
+ Year: 2015
+ URL: http://dx.doi.org/10.1371/journal.pone.0134849
+ Keywords:
+  - Immunology
+ Funding:
+  - NIH
+-
  Reference: "Lee TW, Yang AS-P, Brittain T, Birch NP (2015) An analysis approach to identify specific functional sites in orthologous proteins using sequence and structural information: Application to neuroserpin reveals regions that differentially regulate inhibitory activity. Proteins Struct. Funct. Bioinformatics 83:135-52"
  Year: 2015
  URL: http://dx.doi.org/10.1002/prot.24711
@@ -101,6 +121,12 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Mei Y, Abedi V, Carbo A, Zhang X, Lu P, Philipson C, Hontecillas R, Hoops S, Liles N, Bassaganya-Riera J. (2015) Multiscale modeling of mucosal immune responses. BMC Bioinformatics. 16 Suppl 12:S2"
+ Year: 2015
+ URL: http://dx.doi.org/10.1186/1471-2105-16-S12-S2
+ Keywords:
+  - Immunology
+-
  Reference:  "Montes MR, Ferreira-Gomes MS, Centeno M, Rossi RC (2015) The E2P-like state induced by magnesium fluoride complexes in the Na, K-ATPase. Kinetics of formation and interaction with Rb+. Biochim. Biophys Acta 1848:1514-23"
  Year: 2015
  URL: http://dx.doi.org/10.1016/j.bbamem.2015.03.023
@@ -118,6 +144,12 @@
  URL: http://dx.doi.org/10.3389/fpls.2015.00255
  Keywords:
   - Physiology
+-
+ Reference: "Philipson CW, Bassaganya-Riera J, Viladomiu M, Kronsteiner B, Abedi V, Hoops S, et al. (2015) Modeling the Regulatory Mechanisms by Which NLRX1 Modulates Innate Immune Responses to Helicobacter pylori Infection. PLoS ONE 10(9):e0137839"
+ Year: 2015
+ URL: http://dx.doi.org/10.1371/journal.pone.0137839
+ Keywords:
+  - Immunology
 -
  Reference:  "Pineda E, Encalada R, Vázquez C, González Z, Moreno-Sánchez R, Saavedra E (2015) Glucose Metabolism and Its Controlling Mechanisms in Entamoeba histolytica. In Amebiasis. Part IV Biology and Pathogenesis of Entamoeba (Nozaki T, Bhattacharya A eds.) Springer pp.351-372"
  Year: 2015
@@ -168,6 +200,12 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Tóth A, Brózik A, Szakács G, Sarkadi B, Hegedüs T (2015) A Novel Mathematical Model Describing Adaptive Cellular Drug Metabolism and Toxicity in the Chemoimmune System. PLoS ONE 10:e0115533"
+ Year: 2015
+ URL: http://dx.doi.org/10.1371/journal.pone.0115533
+ Keywords:
+  - Toxicology
+-
  Reference: "Wang, H-Y, Huang Y-X, Zheng L-H, Bao Y-L, Sun L-G, Wu Y, Yu C-L, Song Z-B, Sun Y, Wang G-N, Ma Z-Q, Li Y-X Li (2015) Modelling Coupled Oscillations in the Notch, Wnt, and FGF Signaling Pathways during Somitogenesis: A Comprehensive Mathematical Model. Comput. Intelligence Neurosci. 2015:387409"
  Year: 2015
  URL: http://dx.doi.org/10.1155/2015/387409
@@ -199,6 +237,12 @@
  Keywords:
   - Metabolism
 -
+ Reference: "Carbo A, Olivares-Villagómez D, Hontecillas R, Bassaganya-Riera J, Chaturvedi R, Piazuelo MB, Delgado A, Washington MK, Wilson KT, Algood HMS (2014) Systems modeling of the role of IL-21 in the maintenance of effector CD4+ T cell responses during chronic Helicobacter pylori infection. mBio 5:e01243-14"
+ Year: 2014
+ URL: http://dx.doi.org/10.1128/mBio.01243-14
+ Keywords:
+  - Immunology
+-
  Reference: "Carrasco D, Pérez-Temprano MH, Casares JA, Espinet P (2014) Cross Alkyl-Aryl versus Homo Aryl-Aryl Coupling in Palladium-Catalyzed Coupling of Alkyl-Gold (I) and Aryl-Halide. Organometallics 33:3540-3545"
  URL: http://dx.doi.org/10.1021/om500446x
  Year: 2014
@@ -220,11 +264,31 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Costa RS, Hartmann A, Gaspar P, Neves AR, Vinga S (2014) An extended dynamic model of Lactococcus lactis metabolism for mannitol and 2,3-butanediol production. Mol. BioSystems 10:628-639"
+ Year: 2014
+ URL: http://dx.doi.org/10.1039/C3MB70265K
+ Keywords:
+  - Microbiology
+  - Metabolism
+-
  Reference: "Dalle Pezze P, Nelson G, Otten EG, Korolchuk VI, Kirkwood TBL, von Zglinicki T, Shanley DP (2014) Dynamic Modelling of Pathways to Cellular Senescence Reveals Strategies for Targeted Interventions. PLoS Comput Biol 10:e1003728."
  Year: 2014
  URL: http://dx.doi.org/10.1371/journal.pcbi.1003728
  Keywords:
   - Signaling
+-
+ Reference: "Drees B, Reiger M, Jung K, Bischofs IB (2014) A modular view of the diversity of cell-density-encoding schemes in bacterial quorum-sensing systems. Biophys. J. 107:266-277"
+ Year: 2014
+ URL: http://dx.doi.org/10.1016/j.bpj.2014.05.031
+ Keywords:
+  - Microbiology
+-
+ Reference: "Fadda A, Ryten M, Droll D, Rojas F, Färber V, Haanstra JR, Merce C, Bakker BM, Matthews K, Clayton C (2014) Transcriptome-wide analysis of trypanosome mRNA decay reveals complex degradation kinetics and suggests a role for co-transcriptional degradation in determining mRNA levels. Mol. Microbiol. 94:307-326"
+ Year: 2014
+ URL: http://dx.doi.org/10.1111/mmi.12764
+ Keywords:
+  - Microbiology
+  - Genomics
 -
  Reference: "Godfrey L, Yamada-Fowler N, Smith J, Thornalley PJ, Rabbani N (2014) Arginine-directed glycation and decreased HDL plasma concentration and functionality. Nutrition & Diabetes 4:e134"
  Year: 2014
@@ -239,6 +303,18 @@
   - Signaling
  Funding:
   - NIH
+-
+ Reference: "Hallinan JS, Gilfellon O, Misirli G, Wipat A (2014) Tuning receiver characteristics in bacterial quorum communication: An evolutionary approach using standard virtual biological parts. Proceedings of the 2014 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology, 1-8"
+ Year: 2014
+ URL: http://dx.doi.org/10.1109/CIBCB.2014.6845520
+ Keywords:
+  - Synthetic biology
+-
+ Reference: "Ihekwaba AEC, Mura I, Barker GC (2014) Computational modelling and analysis of the molecular network regulating sporulation initiation in Bacillus subtilis. BMC Systems Biology 8:119"
+ Year: 2014
+ URL: http://dx.doi.org/10.1186/s12918-014-0119-x
+ Keywords:
+  - Microbiology
 -
  Reference: "James AI, Imran HAQ, Jennifer AD, Sarah VF, David AL (2014) Altered native stability is the dominant basis for susceptibility of alpha1-antitrypsin mutants to polymerization. Biochem. J. 460:103-115"
  Year: 2014
@@ -268,11 +344,37 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Lakin MR, Minnich A, Lane T, Stefanovic D (2014) Design of a biochemical circuit motif for learning linear functions. J. Royal Soc. Interface 11:20140902"
+ Year: 2014
+ URL: http://dx.doi.org/10.1098/rsif.2014.0902
+ Keywords:
+  - Synthetic biology
+-
+ Reference: "Lutz A, Sanwald J, Thomas M, Feuer R, Sawodny O, Ederer M,  Borner C, Humar M, Merfort I (2014) Interleukin-1beta Enhances FasL-Induced Caspase-3/-7 Activity without Increasing Apoptosis in Primary Mouse Hepatocytes. PLoS ONE 9:e115603."
+ Year: 2014
+ URL: http://dx.doi.org/10.1371/journal.pone.0115603
+ Keywords:
+  - Immunology
+-
+ Reference: "Machado D, Rodrigues LR, Rocha I (2014) A kinetic model for curcumin production in Escherichia coli. BioSystems 125:16-21"
+ Year: 2014
+ URL: http://dx.doi.org/10.1016/j.biosystems.2014.09.0010
+ Keywords:
+  - Synthetic biology
+  - Metabolism
+-
  Reference:  "Marín-Hernández A, López-Ramírez SY, Gallardo-Pérez JC, Rodríguez-Enríquez S, Moreno-Sánchez R, Saavedra E (2014) Systems biology approaches to cancer energy metabolism. in M.A. Aon et al. (eds.), Systems Biology of Metabolic and Signaling Networks, Springer-Verlag pp.213-239"
  Year: 2014
- URL: http://dx.doi.org/10.1007/978-3-642-38505-6_9,
+ URL: http://dx.doi.org/10.1007/978-3-642-38505-6_9
  Keywords:
   - Metabolism
+-
+ Reference: "Marwaha S, Schumacher MA, Zavros Y, Eghbalnia HR (2014) Crosstalks between Cytokines and Sonic Hedgehog in Helicobacter pylori Infection: A Mathematical Model. PLoS ONE 9:e111338."
+ Year: 2014
+ URL: http://dx.doi.org/10.1371/journal.pone.0111338
+ Keywords:
+  - Immunology
+  - Signaling
 -
  Reference: "Miller AJM, Kaminsky W, Goldberg KI (2014) Arene Activation at Iridium Facilitates C-O Bond Cleavage of Aryl Ethers. Organometallics 33:1245-1252"
  URL: http://dx.doi.org/10.1021/om5000166
@@ -286,7 +388,14 @@
  Keywords:
   - Chemistry
 -
- Reference:  "Pandey V (2014) Metabolic modeling of different degrees of steatohepatitis in mice. PhD Thesis, Department of Mathematics and Computer Science, Free University of Berlin."
+ Reference: "Palai T, Singh AK, Bhattacharya PK (2014) Enzyme, beta-galactosidase immobilized on membrane surface for galacto-oligosaccharides formation from lactose: kinetic study with feed flow under recirculation loop. Biochem. Eng. J. 88:68-76"
+ Year: 2014
+ URL: http://dx.doi.org/10.1016/j.bej.2014.03.017
+ Keywords:
+  - Biotechnology
+  - Enzymology
+-
+ Reference: "Pandey V (2014) Metabolic modeling of different degrees of steatohepatitis in mice. PhD Thesis, Department of Mathematics and Computer Science, Free University of Berlin."
  Year: 2014
  URL: http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000097819?lang=en
  Keywords:
@@ -297,6 +406,12 @@
  URL: http://dx.doi.org/10.1371/journal.pone.0111006
  Keywords:
   - Metabolism
+-
+ Reference: "Proctor CJ, Macdonald C, Milner JM, Rowan AD, Cawston TE (2014) A Computer Simulation Approach to Assessing Therapeutic Intervention Points for the Prevention of Cytokine-Induced Cartilage Breakdown. Arthritis & Rheumatology 66:979-989"
+ Year: 2014
+ URL: http://dx.doi.org/10.1002/art.38297
+ Keywords:
+  - Immunology
 -
  Reference: "Saller S, Kunz L, Berg D, Berg U, Lara H, Urra J, Hecht S, Pavlik R, Thaler CJ, Mayerhofer A (2014) Dopamine in human follicular fluid is associated with cellular uptake and metabolism-dependent generation of reactive oxygen species in granulosa cells: implications for physiology and pathology. Human Reproduction 29:555-67"
  Year: 2014
@@ -310,6 +425,13 @@
  URL: http://dx.doi.org/10.1098/rsif.2013.0971
  Keywords:
   - Signaling
+-
+ Reference: "Shinde S, Mol M, Singh S (2014) Regulatory networks, genes and glycerophospholipid biosynthesis pathway in schistosomiasis: A systems biology view for pharmacological intervention. Gene 550:214-22."
+ Year: 2014
+ URL: http://dx.doi.org/10.1016/j.gene.2014.08.031
+ Keywords:
+  - Pharmacology
+  - Genomics
 -
  Reference: "Tunnicliffe RB, Hautbergue GM, Wilson SA, Kalra P, Golovanov AP (2014) Competitive and Cooperative Interactions Mediate RNA Transfer from Herpesvirus Saimiri ORF57 to the Mammalian Export Adaptor ALYREF. PLoS Pathog 10(2): e1003907."
  Year: 2014
@@ -350,6 +472,12 @@
   - Metabolism
   - Microbiology
 -
+ Reference: "Carbo A, Bassaganya-Riera J, Pedragosa M, Viladomiu M, Marathe M, Eubank S, Wendelsdorf K, Bisset K, Hoops S, Deng X, Alam M, Kronsteiner B, Mei Y, Hontecillas R (2013) Predictive Computational Modeling of the Mucosal Immune Responses during Helicobacter pylori Infection. PLoS ONE 8(9): e73365."
+ Year: 2013
+ URL: http://dx.doi.org/10.1371/journal.pone.0073365
+ Keywords:
+  - Immunology
+-
  Reference: "Diao T, Pun D, Stahl SS (2013) Aerobic Dehydrogenation of Cyclohexanone to Cyclohexenone Catalyzed by Pd(DMSO)2(TFA)2: Evidence for Ligand-Controlled Chemoselectivity. J. Am. Chem. Soc. 135:8205-8212"
  URL: http://dx.doi.org/10.1021/ja4031648
  Year: 2013
@@ -380,6 +508,13 @@
  URL: http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000095294?lang=en
  Keywords:
   - Physiology
+-
+ Reference: "Geenen S, du Preez FB, Snoep JL, Foster AJ, Sarda S, Kenna JG, Wilson ID, Westerhoff HV (2013) Glutathione metabolism modeling: a mechanism for liver drug-robustness and a new biomarker strategy. Biochim. Biophys. Acta 1830:4943- 4959"
+ Year: 2013
+ URL: http://dx.doi.org/10.1016/j.bbagen.2013.04.014
+ Keywords:
+  - Toxicology
+  - Metabolism
 -
  Reference: "Haq I,  Irving JA, Faull SV, Dickens JA, Ordonez A, Belorgey D, Gooptu B, Lomas, DA (2013) Reactive centre loop mutants of alpha-1-antitrypsin reveal position-specific effects on intermediate formation along the polymerization pathway. Biosci. Rep. 33:499-511"
  Year: 2013
@@ -553,6 +688,12 @@
  Funding:
   -  National Research Foundation (South Africa)
 -
+ Reference: "Philipson CW, Bassaganya-Riera J, Hontecillas R (2013) Animal models of enteroaggregative Escherichia coli infection. Gut Microbes 4:281-291"
+ Year: 2013
+ URL http://dx.doi.org/10.4161/gmic.24826
+ Keywords:
+  - Immunology
+-
  Reference: "Proctor CJ, Boche D, Gray DA, Nicoll JAR (2013) Investigating Interventions in Alzheimer's Disease with Computer Simulation Models. PLoS ONE 8:e73631"
  Year: 2013
  URL: http://dx.doi.org/10.1371/journal.pone.0073631
@@ -717,6 +858,12 @@
  Locations:
   - Coordinates: 38.5382364,-121.7639012
 -
+ Reference: "van't Erve TJ (2013) Discoveries on the storage of red blood cells and the exposure of cells in culture to xenobiotics.  D.Phil. Thesis, The University of Iowa"
+ Year: 2013
+ URL: http://ir.uiowa.edu/etd/4782/
+ Keywords:
+  - Toxicology
+-
  Reference:  "Veith N, Feldman-Salit A, Cojocaru V, Henrich S, Kummer U, Wade RC (2013) Organism-Adapted Specificity of the Allosteric Regulation of Pyruvate Kinase in Lactic Acid Bacteria. PLoS Comput. Biol. 9:e1003159"
  Year: 2013
  URL: http://dx.doi.org/10.1371/journal.pcbi.1003159
@@ -730,6 +877,12 @@
   - SysMO2
   - BMBF
   - Klaus Tschira Foundation
+-
+ Reference: "Viladomiu M, Hontecillas R, Yuan L, Lu P, Bassaganya-Riera J (2013) Nutritional protective mechanisms against gut inflammation. J. Nutritional Biochem. 24:929-939"
+ Year: 2013
+ URL: http://dx.doi.org/10.1016/j.jnutbio.2013.01.006
+ Keywords:
+  - Immunology
 -
  Reference: "Dalle Pezze P, Sonntag AG, Thien A, Prentzell MT, Gödel M, Fischer S, Neumann-Haefelin E, Huber TB, Baumeister R, Shanley DP, Thedieck K (2012) A Dynamic Network Model of mTOR Signaling Reveals TSC-Independent mTORC2 Regulation. Science Signaling  5:ra25"
  Year: 2012
@@ -756,6 +909,13 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Iwasaki H, Takeuchi O, Teraguchi S, Matsushita K, Uehata T, Kuniyoshi K, Satoh T, Saitoh T, Matsushita M, Standley DM, Akira S (2011) The IkB kinase complex regulates the stability of cytokine-encoding mRNA induced by TLR-IL-1R by controlling degradation of regnase-1. Nature Immunology 12:1167-75"
+ Year: 2011
+ URL: http://dx.doi.org/10.1038/ni.2137 
+ Keywords:
+  - Immunology
+  - Signaling
+-
  Reference: "Izawa Y, Pun D, Stahl SS (2011) Palladium-Catalyzed Aerobic Dehydrogenation of Substituted Cyclohexanones to Phenols. Science  333:209-213"
  URL: http://dx.doi.org/10.1126/science.1204183
  Year: 2011
@@ -779,11 +939,35 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Klotz C, Ziegler T, Figueiredo AS, Rausch S, Hepworth MR, Obsivac N, Sers C, Lang R, Hammerstein P, Lucius R, Hartmann S (2011) A Helminth Immunomodulator Exploits Host Signaling Events to Regulate Cytokine Production in Macrophages. PLoS Pathog. 7:e1001248"
+ Year: 2011
+ URL: http://dx.doi.org/10.1371/journal.ppat.1001248
+ Keywords:
+  - Immunology
+-
+ Reference: "Lauro FM, DeMaere MZ, Yau S, Brown MV, Ng C, Wilkins D, Raftery MJ, Gibson JAE, Andrews-Pfannkoch C,  Lewis M,  Hoffman JM, Thomas T, Cavicchioli R (2011) An integrative study of a meromictic lake ecosystem in Antarctica. ISME J. 5:879-95"
+ Year: 2011
+ URL: http://dx.doi.org/10.1038/ismej.2010.185
+ Keywords:
+  - Ecology
+-
  Reference: "Lee MV, Topper SE, Hubler SL, Hose J, Wenger CD, Coon JJ, Gasch AP (2011) A dynamic model of proteome changes reveals new roles for transcript alteration in yeast. Molecular Systems Biology 7:514"
  Year: 2011
  URL: http://dx.doi.org/10.1038/msb.2011.48 
  Keywords:
   - Genomics
+-
+ Reference: "Marchisio MA, Stelling J (2011) Automatic Design of Digital Synthetic Gene Circuits. PLoS Comput. Biol. 7:e1001083"
+ Year: 2011
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1001083
+ Keywords:
+  - Synthetic biology
+-
+ Reference: "Qian L, Winfree E (2011) A simple DNA gate motif for synthesizing large-scale circuits. J. Royal Soc. Interface 8:1281-97"
+ Year: 2011
+ URL: http://dx.doi.org/10.1098/rsif.2010.0729 
+ Keywords:
+  - Synthetic biology
 -
  Reference: "Yao G, Tan C, West M, Nevins JR, You L (2011) Origin of bistability underlying mammalian cell cycle entry. Mol. Systems Biol. 7:485"
  Year: 2011
@@ -815,6 +999,19 @@
  Keywords:
   - Macromolecular biochemistry
   - Genomics
+-
+ Reference: "Smallbone, K, Simeonidis, E, Swainston, N, Mendes, P (2010) Towards a genome-scale kinetic model of cellular metabolism. BMC Sys. Biol. 4:6"
+ Year: 2010
+ URL: http://dx.doi.org/10.1186/1752-0509-4-6
+ Keywords:
+  - Genomics
+  - Whole-cell models
+-
+ Reference: "Wendelsdorf K, Bassaganya-Riera J, Hontecillas R,  Eubank S (2010) Model of colonic inflammation: immune modulatory mechanisms in inflammatory bowel disease. J. Theoret. Biol. 264:1225-1239"
+ Year: 2010
+ URL: http://dx.doi.org/10.1016/j.jtbi.2010.03.027
+ Keywords:
+  - Immunology
 -
  Reference:  "Curien G, Bastien O, Robert-Genthon M, Cornish-Bowden A, Cárdenas ML, Dumas R (2009) Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters. Mol. Sys. Biol. 5:271"
  URL: http://dx.doi.org/10.1038/msb.2009.29
@@ -863,6 +1060,18 @@
  Keywords:
   - Signaling
 -
+ Reference: "Jordao L,  Bleck CKE, Mayorga L, Griffiths G,  Anes E (2008) On the killing of mycobacteria by macrophages. Cell. Microbiol. 10:529-48"
+ Year: 2008
+ URL: http://dx.doi.org/10.1111/j.1462-5822.2007.01067.x
+ Keywords:
+  - Immunology
+-
+ Reference: "Marchisio MA, Stelling J (2008) Computational design of synthetic gene circuits with composable parts. Bioinformatics 24:1903-10."
+ Year: 2008
+ URL: http://dx.doi.org/10.1093/bioinformatics/btn330 
+ Keywords:
+  - Synthetic biology
+-
  Reference: "Schmierer B, Tournier AL, Bates PA, Hill CS (2008) Mathematical modeling identifies Smad nucleocytoplasmic shuttling as a dynamic signal-interpreting system. PNAS 105:6608-13"
  Year: 2008
  URL: http://dx.doi.org/10.1073/pnas.0710134105
@@ -877,6 +1086,19 @@
   - Physiology
   - Signaling
   - Macromolecular biochemistry
+-
+ Reference: "Kelly MP, Isiegas C, Cheung YF, Tokarczyk J, Yang X, Esposito MF, Rapoport DA, Fabian SA, Siegel SJ, Wand G, Houslay MD, Kanes SJ, Abel T (2007) Constitutive activation of Galphas within forebrain neurons causes deficits in sensorimotor gating because of PKA-dependent decreases in cAMP. Neuropsychopharmacology 32:577-88"
+ Year: 2007
+ URL: http://dx.doi.org/10.1038/sj.npp.1301099
+ Keywords:
+  - Pharmacology
+  - Signaling
+-
+ Reference: "Kummer U, Zobeley J, Brasen JC, Fahmy R, Kindzelskii AL, Petty AR, Clark AJ, Petty HR (2007) Elevated Glucose Concentrations Promote Receptor-Independent Activation of Adherent Human Neutrophils: An Experimental and Computational Approach. Biophys. J. 92:2597-2607"
+ Year: 2007
+ URL: http://dx.doi.org/10.1529/biophysj.106.086769
+ Keywords:
+  - Immunology
 -
  Reference: "Rippe K, Schrader A, Riede P, Strohner R, Lehmann E,Längst G (2007) DNA sequence- and conformation-directed positioning of nucleosomes by chromatin-remodeling complexes. PNAS 104:15635-40"
  Year: 2007
