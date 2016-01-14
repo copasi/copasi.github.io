@@ -28,7 +28,7 @@ section: Research
           {% for item in site.data.articles.db %}
           {% assign delta = item.Year | minus: year %}
           {% if delta == 0 %}
-          <div class="panel-body" style="padding-bottom: 0" >
+          <div class="panel-body" style="padding-bottom:0" >
             {{ item.Reference }} 
 
             {% for key in item.Keywords %}
