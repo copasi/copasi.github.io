@@ -4,12 +4,20 @@
  URL: http://dx.doi.org/10.1083/jcb.201409108
  Keywords:
   - Macromolecular biochemistry
+  - Cell biology
 -
  Reference:  "Emiola A, George J, Andrews SS (2015) A Complete Pathway Model for Lipid A Biosynthesis in Escherichia coli. PLoS ONE 10:e0121216"
  Year: 2015
  URL: http://dx.doi.org/10.1371/journal.pone.0121216
  Keywords:
   - Metabolism
+  - Microbiology
+-
+ Reference: "Hamacher-Brady A, Brady NR (2015) Bax/Bak-Dependent, Drp1-Independent Targeting of XIAP into Inner-Mitochondrial Compartments Counteracts Smac-Dependent Effector Caspase Activation. J. Biol. Chem. in press jbc-M115"
+ Year: 2015
+ URL: http://dx.doi.org/10.1074/jbc.M115.643064
+ Keywords:
+  - Signaling
 -
  Reference: "Hudson DA, Gannon SA, Thorpe C, (2015) Oxidative protein folding: From thiol-disulfide exchange reactions to the redox poise of the endoplasmic reticulum. Free Radical Biol. Med. 80:171-182"
  Year: 2015
@@ -65,6 +73,13 @@
  Keywords:
   - Macromolecular biochemistry
 -
+ Reference: "Li L, Gervasi N, Girault J-A (2015) Dendritic geometry shapes neuronal cAMP signalling to the nucleus. Nature Comm. 6:6319"
+ Year: 2015
+ URL: http://dx.doi.org/10.1038/ncomms7319
+ Keywords:
+  - Cell biology
+  - Signaling
+-
  Reference: "Luo J, Theron R, Sewell LJ, Hooper TN, Weller AS, Oliver AG, McIndoe JS (2015) Rhodium-Catalyzed Selective Partial Hydrogenation of Alkynes. Organometallics 34:3021-8"
  URL: http://dx.doi.org/10.1021/acs.organomet.5b00322
  Year: 2015
@@ -97,6 +112,7 @@
  URL: http://dx.doi.org/10.1007/978-4-431-55200-0_20
  Keywords:
   - Metabolism
+  - Microbiology
 -
  Reference:  "Sengupta A, Grover M, Chakraborty A, Saxena S (2015) HEPNet: A Knowledge Base Model of Human Energy Pool Network for Predicting the Energy Availability Status of an Individual. PLoS ONE 10(6):e0127918"
  Year: 2015
@@ -118,6 +134,18 @@
  Keywords:
   - Macromolecular biochemistry
 -
+ Reference: "Suwanmajo T, Krishnan J (2015) Mixed mechanisms of multi-site phosphorylation. J. Royal Soc. Interface 12:20141405"
+ Year: 2015
+ URL: http://dx.doi.org/10.1098/rsif.2014.1405
+ Keywords:
+  - Signaling
+-
+ Reference: "Sveshnikova AN, Ataullakhanov FL, Panteleev MA (2015) Compartmentalized calcium signaling triggers subpopulation formation upon platelet activation through PAR1. Molecular BioSystems 11:1052-60"
+ Year: 2015
+ URL: http://dx.doi.org/10.1039/C4MB00667D
+ Keywords:
+  - Signaling
+-
  Reference: "Torbensen K, Rossi F, Pantani OL, Ristori S, Abou-Hassan A (2015) Interaction of the Belousov-Zhabotinsky Reaction with Phospholipid Engineered Membranes. J. Phys. Chem. B 119:10224-30"
  URL: http://dx.doi.org/10.1021/acs.jpcb.5b04572
  Locations:
@@ -127,6 +155,12 @@
  Year: 2015
  Keywords:
   - Chemistry
+-
+ Reference: "Wang, H-Y, Huang Y-X, Zheng L-H, Bao Y-L, Sun L-G, Wu Y, Yu C-L, Song Z-B, Sun Y, Wang G-N, Ma Z-Q, Li Y-X Li (2015) Modelling Coupled Oscillations in the Notch, Wnt, and FGF Signaling Pathways during Somitogenesis: A Comprehensive Mathematical Model. Comput. Intelligence Neurosci. 2015:387409"
+ Year: 2015
+ URL: http://dx.doi.org/10.1155/2015/387409
+ Keywords:
+  - Signaling
 -
  Reference:  "Beauvoit BP, Colombié S, Monier A, Andrieu M-H, Biais B, Bénard C, Chéniclet C, Dieuaide-Noubhani M, Nazaret C, Mazat J-P, Gibon Y (2014) Model-assisted analysis of sugar metabolism throughout tomato fruit development reveals enzyme and carrier properties in relation to vacuole expansion. Plant Cell 26:3224-42 "
  Year: 2014
@@ -173,6 +207,20 @@
   - Swedish Research Council
  Keywords:
   - Chemistry
+-
+ Reference: "Dalle Pezze P, Nelson G, Otten EG, Korolchuk VI, Kirkwood TBL, von Zglinicki T, Shanley DP (2014) Dynamic Modelling of Pathways to Cellular Senescence Reveals Strategies for Targeted Interventions. PLoS Comput Biol 10:e1003728."
+ Year: 2014
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1003728
+ Keywords:
+  - Signaling
+-
+ Reference: "Graybill C, Prehoda KE (2014) Ordered multisite phosphorylation of lethal giant larvae by atypical protein kinase C. Biochemistry 53:4931-7"
+ Year: 2014
+ URL: http://dx.doi.org/10.1021/bi500748w
+ Keywords:
+  - Signaling
+ Funding:
+  - NIH
 -
  Reference: "James AI, Imran HAQ, Jennifer AD, Sarah VF, David AL (2014) Altered native stability is the dominant basis for susceptibility of alpha1-antitrypsin mutants to polymerization. Biochem. J. 460:103-115"
  Year: 2014
@@ -232,6 +280,12 @@
  Keywords:
   - Metabolism
 -
+ Reference: "Schaber J, Lapytsko A, Flockerzi D (2014) Nested autoinhibitory feedbacks alter the resistance of homeostatic adaptive biochemical networks. J. Royal Soc. Interface 11:20130971"
+ Year: 2014
+ URL: http://dx.doi.org/10.1098/rsif.2013.0971
+ Keywords:
+  - Signaling
+-
  Reference: "Tunnicliffe RB, Hautbergue GM, Wilson SA, Kalra P, Golovanov AP (2014) Competitive and Cooperative Interactions Mediate RNA Transfer from Herpesvirus Saimiri ORF57 to the Mammalian Export Adaptor ALYREF. PLoS Pathog 10(2): e1003907."
  Year: 2014
  URL: http://dx.doi.org/10.1371/journal.ppat.1003907
@@ -259,10 +313,17 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Wang CCN, Chang P-C, Ng K-L, Chang C-M, Sheu PCY, Tsai JJP (2014) A model comparison study of the flowering time regulatory network in Arabidopsis. BMC Systems Biology 8:15"
+ Year: 2014
+ URL: http://dx.doi.org/10.1186/1752-0509-8-15
+ Keywords:
+  - Signaling
+-
  Reference:  "Yang X, Zhang Y, Zheng Y, Ma H (2014) Development and analysis of a kinetic model for Escherichia coli threonine biosynthesis. Chinese J. Biotechnol. 30:18-29."
  Year: 2014
  Keywords:
   - Metabolism
+  - Microbiology
 -
  Reference: "Diao T, Pun D, Stahl SS (2013) Aerobic Dehydrogenation of Cyclohexanone to Cyclohexenone Catalyzed by Pd(DMSO)2(TFA)2: Evidence for Ligand-Controlled Chemoselectivity. J. Am. Chem. Soc. 135:8205-8212"
  URL: http://dx.doi.org/10.1021/ja4031648
@@ -280,6 +341,7 @@
  Year: 2013
  Keywords:
   - Macromolecular biochemistry
+  - Cell Biology
  Locations:
   - Coordinates: 52.3792558,-1.5636591
   - Coordinates: 53.466853,-2.2360724
@@ -299,6 +361,7 @@
  URL: http://dx.doi.org/10.7554/eLife.00884
  Keywords:
   - Macromolecular biochemistry
+  - Signaling
 -
  Reference: "Incicco JJ, Gebhard LG, González-Lebrero RM, Gamarnik AV, Kaufman SB (2013) Steady-State NTPase Activity of Dengue Virus NS3: Number of Catalytic Sites, Nucleotide Specificity and Activation by ssRNA. PLoS ONE 8:e58508"
  Year: 2013
@@ -333,6 +396,12 @@
   - Coordinates: 43.6627215,-79.3978422
  Keywords:
   - Chemistry
+-
+ Reference: "Kolodkin A, Sahin N, Phillips A, Hood SR, Bruggeman FJ, Westerhoff HV, Plant N (2013) Optimization of stress response through the nuclear receptor-mediated cortisol signalling network. Nature Communications 4:1792"
+ Year: 2013
+ URL: http://dx.doi.org/10.1038/ncomms2799
+ Keywords:
+  - Signaling
 -
  Reference:  "Kraut DA (2013) Slippery substrates impair ATP-dependent protease function by slowing unfolding. J. Biol. Chem. 288:34729-34735"
  Year: 2013
@@ -459,6 +528,12 @@
  Keywords:
   - Macromolecular biochemistry
 -
+ Reference: "Ravichandran S, Rao KVS, Jain S (2013) Bistability in a model of early B cell receptor activation and its role in tonic signaling and system tunability. Molecular BioSystems 9:2498-2511"
+ Year: 2013
+ URL: http://dx.doi.org/10.1039/C3MB70099B
+ Keywords:
+  - Signaling
+-
  Reference: "Reeves BD, Hilmer JK, Mellmann L, Hartzheim M, Poffenberger K, Johnson K, Joshi N, Singel DJ, Grieco PA (2013) Selective trapping of SNO-BSA and GSNO by benzenesulfinic acid sodium salt: mechanistic study of thiosulfonate formation and feasibility as a protein S-nitrosothiol detection strategy. Tetrahedron Lett. 54:5707-10"
  URL: http://dx.doi.org/10.1016/j.tetlet.2013.08.011
  Year: 2013
@@ -474,12 +549,20 @@
  URL: http://dx.doi.org/10.1099/mic.0.071340-0
  Keywords:
   - Metabolism
+  - Microbiology
  Locations:
   - Coordinates: 56.9508127,24.1141245
   - Coordinates: 56.6553629,23.7309819
   - Coordinates: 51.7548179,-1.2273439
  Funding:
   - Latvian European Social Fund
+-
+ Reference: "Sahaboglu A, Paquet-Durand O, Dietter J, Dengler K, Bernhard-Kurz S, Ekström PAR, Hitzmann B, Ueffing M, Paquet-Durand F (2013) Retinitis pigmentosa: rapid neurodegeneration is governed by slow cell death mechanisms. Cell Death & Disease 4:e488"
+ Year: 2013
+ URL: http://dx.doi.org/10.1038/cddis.2013.12
+ Keywords:
+  - Cell biology
+  - Signaling
 -
  Reference: "Sarma U, Gade PM, Saha B (2013) A mathematical model for dynamics of CD40 clustering. Systems and Synthetic Biol. 7:197-208"
  Year: 2013
@@ -514,6 +597,13 @@
   - Fonds der Chemischen Industrie
  Keywords:
   - Chemistry
+  - Enzymology
+-
+ Reference: "Sharp GC, Ma H, Saunders PTK, Norman JE (2013) A Computational Model of Lipopolysaccharide-Induced Nuclear Factor Kappa B Activation: A Key Signalling Pathway in Infection-Induced Preterm Labour. PLoS ONE 8:e70180"
+ Year: 2013
+ URL: http://dx.doi.org/10.1371/journal.pone.0070180
+ Keywords:
+  - Signaling
 -
  Reference:  "Shemirani MI (2013) Construction of metabolic pathway of catecholamine from tyrosine in human fibroblast cell. Degree Proejct in Medicine, School of Medicine and Health Science, Orerbo University, Sweden"
  Year: 2013
@@ -555,6 +645,12 @@
   - EU-FP7
   - NIH
 -
+ Reference: "Smith GR, Shanley, DP (2013) Computational modelling of the regulation of Insulin signalling by oxidative stress. BMC Systems Biol. 7:41"
+ Year: 2013
+ URL: http://dx.doi.org/10.1186/1752-0509-7-41
+ Keywords:
+  - Signaling
+-
  Reference:  "Stavrum A-K, Heiland I, Schuster S, Puntervoll P, Ziegler M (2013) Model of tryptophan metabolism, readily scalable using tissue-specific gene expression data. J. Biol. Chem. 288:34555-34566"
  Year: 2013
  URL: http://dx.doi.org/10.1074/jbc.M113.474908
@@ -595,6 +691,7 @@
  URL: http://dx.doi.org/10.1371/journal.pcbi.1003159
  Keywords:
   - Metabolism
+  - Microbiology
  Locations:
   - Coordinates: 49.4183338,8.6707814
  Funding:
@@ -602,6 +699,12 @@
   - SysMO2
   - BMBF
   - Klaus Tschira Foundation
+-
+ Reference: "Dalle Pezze P, Sonntag AG, Thien A, Prentzell MT, Gödel M, Fischer S, Neumann-Haefelin E, Huber TB, Baumeister R, Shanley DP, Thedieck K (2012) A Dynamic Network Model of mTOR Signaling Reveals TSC-Independent mTORC2 Regulation. Science Signaling  5:ra25"
+ Year: 2012
+ URL: http://dx.doi.org/10.1126/scisignal.2002469
+ Keywords:
+  - Signaling
 -
  Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. J. Am. Chem. Soc., 133:14566-9"
  URL: http://dx.doi.org/10.1021/ja206575j
@@ -654,6 +757,12 @@
  Keywords:
   - Metabolism
 -
+ Reference: "Goyal M, Rizzo M, Schumacher F,  Wong CF (2009) Beyond thermodynamics: drug binding kinetics could influence epidermal growth factor signaling. J. Medicinal Chem. 52:5582-5585"
+ Year: 2009
+ URL: http://dx.doi.org/10.1021/jm900974p
+ Keywords:
+  - Signaling
+-
  Reference: "Pingoud V, Wende W, Friedhoff P, Reuter M, Alves J, Jeltsch A, Mones L, Fuxreiter M, Pingoud A (2009) On the Divalent Metal Ion Dependence of DNA Cleavage by Restriction Endonucleases of the EcoRI Family. J. Mol. Biol. 393:140-60"
  Year: 2009
  URL: http://dx.doi.org/10.1016/j.jmb.2009.08.011
@@ -673,11 +782,25 @@
  Keywords:
   - Chemistry
 -
+ Reference: "Del Conte-Zerial P, Brusch L, Rink JC, Collinet C, Kalaidzidis Y, Zerial M, Deutsch A (2008) Membrane identity and GTPase cascades regulated by toggle and cut-out switches. Mol. Sys. Biol. 4:206"
+ Year: 2008
+ URL: http://dx.doi.org/10.1038/msb.2008.45
+ Keywords:
+  - Signaling
+-
+ Reference: "Schmierer B, Tournier AL, Bates PA, Hill CS (2008) Mathematical modeling identifies Smad nucleocytoplasmic shuttling as a dynamic signal-interpreting system. PNAS 105:6608-13"
+ Year: 2008
+ URL: http://dx.doi.org/10.1073/pnas.0710134105
+ Keywords:
+  - Cell biology
+  - Signaling
+-
  Reference: "Rippe K, Schrader A, Riede P, Strohner R, Lehmann E,Längst G (2007) DNA sequence- and conformation-directed positioning of nucleosomes by chromatin-remodeling complexes. PNAS 104:15635-40"
  Year: 2007
  URL: http://dx.doi.org/10.1073/pnas.0702430104
  Keywords:
   - Macromolecular biochemistry
+  - Cell biology
 -
  Reference:  "Uys L, Botha FC, Hofmeyr J-HS, Rohwer JM (2007) Kinetic model of sucrose accumulation in maturing sugarcane culm tissue. Phytochemistry 68:2375-92"
  URL: http://dx.doi.org/10.1016/j.phytochem.2007.04.023
