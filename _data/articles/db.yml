@@ -32,6 +32,15 @@
  Funding:
   - Spanish Ministerio de Economía y Competitividad
 -
+ Reference: "Azimi S, Czeizler E, Gratie C, Gratie D, Iancu B, Ibssa N, Petre I, Rogojin V, Shadbahr T, Shokri F (2015) An Excursion Through Quantitative Model Refinement. Lecture Notes in Computer Science 9504:25-47"
+ Year: 2015
+ URL: http://dx.doi.org/10.1007/978-3-319-28475-0_3
+ Keywords:
+  - Computational method
+  - Software
+ Funding:
+  - Academy of Finland
+-
  Reference: "Bodei C, Bortolussi L, Chiarugi D, Guerriero ML, Policriti A, Romanel A (2015) On the impact of discreteness and abstractions on modelling noise in gene regulatory networks. Comput. Biol Chem. 56:98-1089"
  Year: 2015
  URL: http://dx.doi.org/10.1016/j.compbiolchem.2015.04.004
@@ -124,6 +133,13 @@
   - Metabolism
   - Microbiology
 -
+ Reference: "Everetts NJ (2015) Computational Analysis of the Control of Cell Cycle Entry. Bachelor's Thesis, Department of Molecular and Cellular Biology, University of Arizona"
+ Year: 2015
+ URL: http://hdl.handle.net/10150/579262
+ Keywords:
+  - Cell biology
+  - Signaling
+-
  Reference: "Gladkovskaya O, Greaney P, Gun'ko YK, O'Connor GM, Meere M, Rochev Y (2015) An experimental and theoretical assessment of quantum dot cytotoxicity. Toxicol. Res. 4:1409-15"
  Year: 2015
  URL: http://dx.doi.org/10.1039/C5TX00149H
@@ -135,6 +151,23 @@
  URL: http://dx.doi.org/10.1074/jbc.M115.643064
  Keywords:
   - Signaling
+-
+ Reference: "Hinze T, Kirkici K, Sauer P, Sauer P, Behre J (2015) Membrane Computing Meets Temperature: A Thermoreceptor Model as Molecular Slide Rule with Evolutionary Potential. Lecture Notes Comp. Sci. 9504:215-235"
+ Year: 2015
+ URL: http://dx.doi.org/10.1007/978-3-319-28475-0_15
+ Keywords:
+  - Computational method
+ Locations:
+  - Coordinates: 51.7669933,14.3244443
+  - Coordinates: 50.9282046,11.5809524
+  - Coordinates: 51.0338789,13.7133819
+  - Coordinates: 52.6235842,1.2219993
+-
+ Reference: "Hristova-Neeley D, Neshchadin D, Gescheidt G (2015) Time-Resolved EPR as a Tool to Investigate Oxygen Quenching in Photoinitiated Radical Polymerizations. J. Phys. Chem. B, 119:13883-7"
+ Year: 2015
+ URL: http://dx.doi.org/10.1021/acs.jpcb.5b04263
+ Keywords:
+  - Chemistry
 -
  Reference: "Hudson DA, Gannon SA, Thorpe C, (2015) Oxidative protein folding: From thiol-disulfide exchange reactions to the redox poise of the endoplasmic reticulum. Free Radicals Biol. Med. 80:171-182"
  Year: 2015
@@ -207,11 +240,27 @@
   - NIH
   - Burroughs Wellcome Fund
 -
+ Reference: "Kashyap R, Palai T, Bhattacharya PK (2015) Kinetics and model development for enzymatic synthesis of fructo-oligosaccharides using fructosyltransferase. Bioprocess Biosystems Eng. 38:2417-26"
+ Year: 2015
+ URL: http://dx.doi.org/10.1007/s00449-015-1478-4
+ Keywords:
+  - Biotechnology
+  - Metabolism
+-
  Reference: "Kesten D, Kummer U, Sahle S, Hübner K (2015) A new model for the aerobic metabolism of yeast allows the detailed analysis of the metabolic regulation during glucose pulse. Biophys. Chem. 206:40-57."
  Year: 2015
  URL: http://dx.doi.org/10.1016/j.bpc.2015.06.010
  Keywords:
   - Metabolism
+-
+ Reference: "Koutsouradis E, Provelengios G, Kouskoumvekakis E, Manolakos ES (2015) Scalable FPGA Accelerator of the NRM Algorithm for Efficient Stochastic Simulation of Large-Scale Biochemical Reaction Networks. in 2015 Euromicro Conference on Digital System Design (DSD) pp.583-590"
+ Year: 2015
+ URL: http://dx.doi.org/10.1109/DSD.2015.53
+ Keywords:
+  - Computational method
+ Funding:
+  - European Social Fund
+  - Greek Government
 -
  Reference: "Laurell Nash A, Hertzberg R, Wen YQ, Dahlgren B, Brinck T, Moberg C (2015) Dual Lewis Acid-Lewis Base Catalyzed Acylcyanation of Aldehydes: A Mechanistic Study. Chemistry doi:10.1002/chem.201503782"
  Year: 2015
@@ -279,6 +328,23 @@
  Keywords:
   - Computational method
 -
+ Reference: "Mandlik V, Gurav M, Singh S (2015) Regulatory dynamics of network architecture and function in tristable genetic circuit of Leishmania: a mathematical biology approach. J Biomol. Struct. Dyn. 33:2554-62"
+ Year: 2015
+ URL: http://dx.doi.org/10.1080/07391102.2015.1082150
+ Keywords:
+  - Synthetic biology
+  - Genetics
+  - Metabolism
+ Funding:
+  - Department of Biotechnology, Government of India
+-
+ Reference: "Marwaha S (2015) A Genomics and Mathematical Modeling Approach for the study of Helicobacter pylori associated Gastritis and Gastric Cancer. PhD Thesis, University of Cincinnati"
+ Year: 2015
+ URL: https://etd.ohiolink.edu/!etd.send_file?accession=ucin1439308645&disposition=attachment
+ Keywords:
+  - Immunology
+  - Signaling
+-
  Reference: "Mei Y, Abedi V, Carbo A, Zhang X, Lu P, Philipson C, Hontecillas R, Hoops S, Liles N, Bassaganya-Riera J. (2015) Multiscale modeling of mucosal immune responses. BMC Bioinformatics. 16 Suppl 12:S2"
  Year: 2015
  URL: http://dx.doi.org/10.1186/1471-2105-16-S12-S2
@@ -329,6 +395,15 @@
  Funding:
   - NSF
 -
+ Reference: "Palaia T, Kumarb A, Bhattacharyaa PK (2015) Kinetic studies and model development for the formation of galacto-oligosaccharides from lactose using synthesized thermo-responsive bioconjugate. Enzyme Microbial Technol. 70:42-49"
+ Year: 2015
+ URL: http://dx.doi.org/10.1016/j.enzmictec.2014.12.01067
+ Keywords:
+  - Biotechnology
+  - Enzymology
+ Funding:
+  - Department of Biotechnology, Government of India
+-
  Reference: "Palmisano A, Hoops S, Watson LT, Jones TC Jr, Tyson JJ, Shaffer CA (2015) JigCell Run Manager (JC-RM): a tool for managing large sets of biochemical model parametrizations. BMC Systems Biol. 9:95"
  Year: 2015
  URL: http://dx.doi.org/10.1186/s12918-015-0237-0.
@@ -336,6 +411,12 @@
   - Software
  Funding:
   - NIH
+-
+ Reference: "Patschinski P (2015) Chemoselective Silylation of Alcohols Through Lewis Base-catalyzed Reactions. Experimental and Theoretical Studies. PhD Thesis, Ludwig-Maximilians University of Munich"
+ Year: 2015
+ URL: https://edoc.ub.uni-muenchen.de/18504
+ Keywords:
+  - Chemistry
 -
  Reference: "Paul D, Dasgupta A, De RK (2015) Exploring the Altered Dynamics of Mammalian Central Carbon Metabolic Pathway in Cancer Cells: A Classical Control Theoretic Approach. PLoS ONE 10:e0137728."
  Year: 2015
@@ -376,6 +457,17 @@
   - Metabolism
   - Microbiology
 -
+ Reference: "Raganatia F, Procentese A, Olivieri G, Götzc P, Salatino P, Marzocchella A (2015) Kinetic study of butanol production from various sugars by Clostridium acetobutylicum using a dynamic model. Biochem. Eng. J. 99:156-66."
+ Year: 2015
+ URL: http://dx.doi.org/10.1016/j.bej.2015.03.001
+ Keywords:
+  - Biotechnology
+  - Metabolism
+  - Microbiology
+ Funding:
+  - Ministero dello Sviluppo Economico (Italy)
+  - BMBF
+-
  Reference: "Rastgou Talemi S, Kollarovic G, Lapytsko A, Schaber J (2015) Development of a robust DNA damage model including persistent telomere-associated damage with application to secondary cancer risk assessment. Sci. Rep. 5:13540"
  URL: http://dx.doi.org/10.1038/srep13540
  Year: 2015
@@ -402,13 +494,30 @@
  Funding:
   - Swiss National Science Foundation
 -
+ Reference: "Roy RD, Stefan MI (2015) Cooperative Binding Mitigates the High-Dose Hook Effect. BioArchive doi:10.1101/021717"
+ Year: 2015
+ URL: http://dx.doi.org/10.1101/021717
+ Keywords:
+  - Theory
+  - Macromolecular biochemistry
+-
+ Reference: "Samal SS, Grigoriev D, Fröhlich H, Weber A, Radulescu O (2015) A Geometric Method for Model Reduction of Biochemical Networks with Polynomial Rate Functions. Bull. Math. Biol. 77:2180-211."
+ Year: 2015
+ URL: 10.1007/s11538-015-0118-0
+ Keywords:
+  - Computational method
+  - Theory
+ Funding:
+  - CNRS
+  - Labex CEMPI
+-
  Reference: "Sengupta A, Grover M, Chakraborty A, Saxena S (2015) HEPNet: A Knowledge Base Model of Human Energy Pool Network for Predicting the Energy Availability Status of an Individual. PLoS ONE 10(6):e0127918"
  Year: 2015
  URL: http://dx.doi.org/10.1371/journal.pone.0127918
  Keywords:
   - Metabolism
 -
- Reference: "Sier JH (2015) Investigation of the impact of MRP3 and MRP4 on the disposition of drugs and conjugates in rat and human. Doctoral thesis, University of Surrey."
+ Reference: "Sier JH (2015) Investigation of the impact of MRP3 and MRP4 on the disposition of drugs and conjugates in rat and human. Doctoral thesis, University of Surrey"
  URL: http://epubs.surrey.ac.uk/id/eprint/807179
  Year: 2015
  Keywords: 
@@ -421,6 +530,15 @@
  URL: http://dx.doi.org/10.1074/jbc.M114.600676
  Keywords:
   - Macromolecular biochemistry
+-
+ Reference: "Subramanian A, Singh V, Sarkar RR (2015) Understanding Visceral Leishmaniasis Disease Transmission and its Control—A Study Based on Mathematical Modeling. Mathematics 3:913-944"
+ Year: 2015
+ URL: http://dx.doi.org/10.3390/math3030913
+ Keywords:
+  - Epidemiology
+ Funding:
+  - Council of Scientific and Industrial Research (CSIR), India
+  - DBT-BINC
 -
  Reference: "Suwanmajo T, Krishnan J (2015) Mixed mechanisms of multi-site phosphorylation. J. Royal Soc. Interface 12:20141405"
  Year: 2015
@@ -1474,6 +1592,17 @@
  URL: http://dx.doi.org/10.1098/rsif.2010.0729 
  Keywords:
   - Synthetic biology
+-
+ Reference: "Rodriguez F, Bustos MA, Zanetti MN, Ruete MC, Mayorga LS, Tomes CN (2011) alpha-SNAP prevents docking of the acrosome during sperm exocytosis because it sequesters monomeric syntaxin. PLoS ONE 6:e21925"
+ Year: 2011
+ URL: http://dx.doi.org/10.1371/journal.pone.0021925
+ Funding:
+  - CONICET (Argentina)
+  - Secretaría de Ciencia y Técnica-Universidad Nacional de Cuyo (Argentina)
+  - ANPCYT (Argentina)
+ Keywords:
+  - Cell biology
+  - Macromolecular biochemistry
 -
  Reference: "Yao G, Tan C, West M, Nevins JR, You L (2011) Origin of bistability underlying mammalian cell cycle entry. Mol. Systems Biol. 7:485"
  Year: 2011
