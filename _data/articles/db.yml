@@ -5,11 +5,47 @@
  Keywords:
   - Software
 -
+ Reference: "Kilner J, Corfe BM, McAuley MT, Wilkinson SJ (2016) A deterministic oscillatory model of microtubule growth and shrinkage for differential actions of short chain fatty acids. Mol. BioSystems 12:93-101"
+ Year: 2016
+ URL: http://dx.doi.org/10.1039/C5MB00211G
+ Funding:
+  - EPSRC
+ Keywords:
+  - Cell biology
+-
+ Reference: "Amemiya T, Honma M, Kariya Y, Ghosh S, Kitano H, Kurachi Y, Fujita K, Sasaki Y, Homma Y, Abernethy DR, Kume H, Suzuki H (2015) Elucidation of the molecular mechanisms underlying adverse reactions associated with a kinase inhibitor using systems toxicology. npj Systems Biology and Applications 1:15005"
+ Year: 2015
+ URL: http://dx.doi.org/10.1038/npjsba.2015.5
+ Keywords:
+  - Toxicology
+  - Signaling
+ Funding:
+  - Japan Society for the Promotion of Science
+  - Japan Ministry of Education, Culture, Sports, Science and Technology
+  - FDA
+-
+ Reference: "Aullón G, Crespo M, Font-Bardia M, Jover J, Martínez M, Pike J (2015) A combined kinetico-mechanistic and computational study on the competitive formation of seven- versus five-membered platinacycles; the relevance of spectator halide ligands. Dalton Trans. 44:17968-79"
+ Year: 2015
+ URL: http://dx.doi.org/10.1039/c5dt02657a
+ Keywords:
+  - Chemistry
+ Funding:
+  - Spanish Ministerio de Economía y Competitividad
+-
  Reference: "Bodei C, Bortolussi L, Chiarugi D, Guerriero ML, Policriti A, Romanel A (2015) On the impact of discreteness and abstractions on modelling noise in gene regulatory networks. Comput. Biol Chem. 56:98-1089"
  Year: 2015
  URL: http://dx.doi.org/10.1016/j.compbiolchem.2015.04.004
  Keywords:
   - Computational method
+-
+ Reference: "Compel WS, Wong OA, Chen X, Yi C, Geiss R, Häkkinen H, Knappenberger KL Jr, Ackerson CJ (2015) Dynamic Diglyme-Mediated Self-Assembly of Gold Nanoclusters. ACS Nano. 9:11690-8."
+ Year: 2015
+ URL: http://dx.doi.org/10.1021/acsnano.5b02850
+ Keywords:
+  - Chemistry
+ Funding:
+  - NSF
+  - Academy of Finland
 -
  Reference: "Czabany T; Schmölzer K, Luley-Goedl C, Ribitsch D, Nidetzky B (2015) All-in-one assay for beta-D-galactoside sialyltransferases: quantification of productive turnover, error hydrolysis and site selectivity. Anal. Biochem. 483:47-53"
  Year: 2015
@@ -17,6 +53,15 @@
  Keywords:
   - Laboratory method
   - Enzymology
+-
+ Reference: "Dacheux E, Firczuk H, McCarthy JEG (2015) Rate control in yeast protein synthesis at the population and single-cell levels. Bioch. Soc. Trans. 43:1266-70"
+ URL: http://dx.doi.org/10.1042/BST20150169 
+ Year: 2015
+ Keywords: 
+  - Macromolecular biochemistry
+ Funding:
+  - BBSRC
+  - EPSRC
 -
  Reference: "D'Aguanno E, Altamura E, Mavelli F, Fahr A, Stano P, Luisi PL (2015) Physical Routes to Primitive Cells: An Experimental Model Based on the Spontaneous Entrapment of Enzymes inside Micrometer-Sized Liposomes. Life 5:969-96"
  Year: 2015
@@ -31,11 +76,30 @@
   - Macromolecular biochemistry
   - Cell biology
 -
+ Reference: "della Sala F, Kay ER (2015) Reversible Control of Nanoparticle Functionalization and Physicochemical Properties by Dynamic Covalent Exchange. Angew. Chem. 127:4261-5"
+ Year: 2015
+ URL: http://dx.doi.org/10.1002/anie.201409602
+ Keywords:
+  - Chemistry
+ Funding:
+  - EPSRC
+  - Royal Society of Edinburgh
+  - Scottish Government
+-
  Reference: "Donovan S, Eaton CD, Gower ST, Jenkins KP, LaMar MD, Poli DB, Sheehy R, Wojdak JM (2015) QUBES: a community focused on supporting teaching and learning in quantitative biology, Lett. Biomath. 2:46-55"
  Year: 2015
  URL: http://dx.doi.org/10.1080/23737867.2015.1049969
  Keywords:
   - Education
+-
+ Reference: "Dornseifer S, Willkomm S, Far RK, Liebschwager J, Beltsiou F, Frank K, Laufer SD, Martinetz T, Sczakiel G, Claussen JC, Restle T (2015) RNAi revised - target mRNA-dependent enhancement of gene silencing. Nucl. Acids Res. 43:10623-32."
+ Year: 2015
+ URL: http://dx.doi.org/10.1093/nar/gkv1200
+ Funding:
+  - "Germany's Excellence Initiative (DFG)"
+ Keywords:
+  - Macromolecular biochemistry
+  - Genetics
 -
  Reference: "Dromms RA, Styczynski MP (2015) Improved metabolite profile smoothing for flux estimation. Molecular BioSystems 11:2394-2405"
  Year: 2015
@@ -45,6 +109,13 @@
   - Laboratory method
  Funding: 
   - NSF
+-
+ Reference: "Dutta-Roy R, Rosenmund C, Edelstein SJ, Le Novère N (2015) Ligand-Dependent Opening of the Multiple AMPA Receptor Conductance States: A Concerted Model. PLoS ONE 10:e0116616"
+ Year: 2015
+ URL: http://dx.doi.org/10.1371/journal.pone.0116616
+ Keywords:
+  - Physiology
+  - Macromolecular biochemistry
 -
  Reference: "Emiola A, George J, Andrews SS (2015) A Complete Pathway Model for Lipid A Biosynthesis in Escherichia coli. PLoS ONE 10:e0121216"
  Year: 2015
@@ -71,6 +142,19 @@
  Keywords:
   - Macromolecular biochemistry
 -
+ Reference: "Intosalmi J, Ahlfors H, Rautio S, Mannerstöm H, Chen ZJ, Lahesmaa R, Stockinger B, Lähdesmäki H. (2015) Analyzing Th17 cell differentiation dynamics using a novel integrative modeling framework for time-course RNA sequencing data. BMC Systems Biol. 9:81."
+ URL: http://dx.doi.org/10.1186/s12918-015-0223-6
+ Year: 2015
+ Keywords:
+  - Immunology
+  - Cell biology
+  - Signaling
+ Funding:
+  - Academy of Finland
+  - EU-FP7
+  - EraSysBio
+  - Sigrid Juselius Foundation
+-
  Reference: "Jeong H, John JM, Schrock RR, Hoveyda AH (2015) Synthesis of Alternating trans-AB Copolymers through Ring-Opening Metathesis Polymerization Initiated by Molybdenum Alkylidenes. J. Am. Chem. Soc. 137:2239-42"
  URL: http://dx.doi.org/10.1021/jacs.5b00221
  Year: 2015
@@ -95,7 +179,7 @@
  Keywords:
   - Chemistry
 -
- Reference:  "Jones AR, Rentergent J, Scrutton NS, Hay S (2015) Probing reversible chemistry in coenzyme B12-dependent ethanolamine amonnia lyase with kinetic isotope effects. Chem. Eur. J. 21:8826-31"
+ Reference: "Jones AR, Rentergent J, Scrutton NS, Hay S (2015) Probing reversible chemistry in coenzyme B12-dependent ethanolamine amonnia lyase with kinetic isotope effects. Chem. Eur. J. 21:8826-31"
  Year: 2015
  URL: http://dx.doi.org/10.1002/chem.201500958
  Keywords:
@@ -113,11 +197,30 @@
  Keywords:
   - Software
 -
+ Reference: "Karapetyan S, Buchler NE (2015) Role of DNA binding sites and slow unbinding kinetics in titration-based oscillators. Phys. Rev. E 92:062712"
+ Year: 2015
+ URL: http://dx.doi.org/10.1103/PhysRevE.92.062712
+ Keywords:
+  - Macromolecular biochemistry
+  - Theory
+ Funding:
+  - NIH
+  - Burroughs Wellcome Fund
+-
  Reference: "Kesten D, Kummer U, Sahle S, Hübner K (2015) A new model for the aerobic metabolism of yeast allows the detailed analysis of the metabolic regulation during glucose pulse. Biophys. Chem. 206:40-57."
  Year: 2015
  URL: http://dx.doi.org/10.1016/j.bpc.2015.06.010
  Keywords:
   - Metabolism
+-
+ Reference: "Laurell Nash A, Hertzberg R, Wen YQ, Dahlgren B, Brinck T, Moberg C (2015) Dual Lewis Acid-Lewis Base Catalyzed Acylcyanation of Aldehydes: A Mechanistic Study. Chemistry doi:10.1002/chem.201503782"
+ Year: 2015
+ URL: http://dx.doi.org/10.1002/chem.201503782
+ Keywords:
+  - Chemistry
+ Funding:
+  - Swedish Research Council
+  - Wenner-Gren Foundations
 -
  Reference: "Leber A, Viladomiu M, Hontecillas R, Abedi V, Philipson C, Hoops S, Howard B, Bassaganya-Riera J (2015) Systems Modeling of Interactions between Mucosal Immunity and the Gut Microbiome during Clostridium difficile Infection. PLoS ONE 10:e0134849"
  Year: 2015
@@ -218,6 +321,22 @@
  Keywords:
   - Laboratory method
 -
+ Reference: "Nelsen ER, Brezny AC, Landis CR (2015) Interception and Characterization of Catalyst Species in Rhodium Bis(diazaphospholane)-Catalyzed Hydroformylation of Octene, Vinyl Acetate, Allyl Cyanide, and 1-Phenyl-1,3-butadiene. J. Am. Chem. Soc., 2015, 137:14208-219"
+ Year: 2015
+ URL: http://dx.doi.org/10.1021/jacs.5b09858
+ Keywords:
+  - Chemistry
+ Funding:
+  - NSF
+-
+ Reference: "Palmisano A, Hoops S, Watson LT, Jones TC Jr, Tyson JJ, Shaffer CA (2015) JigCell Run Manager (JC-RM): a tool for managing large sets of biochemical model parametrizations. BMC Systems Biol. 9:95"
+ Year: 2015
+ URL: http://dx.doi.org/10.1186/s12918-015-0237-0.
+ Keywords:
+  - Software
+ Funding:
+  - NIH
+-
  Reference: "Paul D, Dasgupta A, De RK (2015) Exploring the Altered Dynamics of Mammalian Central Carbon Metabolic Pathway in Cancer Cells: A Classical Control Theoretic Approach. PLoS ONE 10:e0137728."
  Year: 2015
  URL: http://dx.doi.org/10.1371/journal.pone.0137728
@@ -229,6 +348,14 @@
  URL: http://dx.doi.org/10.3389/fpls.2015.00255
  Keywords:
   - Physiology
+-
+ Reference: "Penkler G, du Toit F, Adams W, Rautenbach M, Palm DC, van Niekerk DD, Snoep JL (2015) Construction and validation of a detailed kinetic model of glycolysis in Plasmodium falciparum. FEBS J. 282:1481-511"
+ Year: 2015
+ URL: http://dx.doi.org/10.1111/febs.13237
+ Keywords:
+  - Metabolism
+ Funding:
+  - National Research Foundation in South Africa
 -
  Reference: "Phelix CF, Feltus FA (2015) Plant stress biomarkers from biosimulations: the Transcriptome-To-Metabolome(TTM) technology-effects of drought stress on rice. Plant Biol. 17:63-73"
  Year: 2015
@@ -249,12 +376,31 @@
   - Metabolism
   - Microbiology
 -
+ Reference: "Rastgou Talemi S, Kollarovic G, Lapytsko A, Schaber J (2015) Development of a robust DNA damage model including persistent telomere-associated damage with application to secondary cancer risk assessment. Sci. Rep. 5:13540"
+ URL: http://dx.doi.org/10.1038/srep13540
+ Year: 2015
+ Keywords:
+  - Genetics
+  - Macromolecular biochemistry
+ Funding: 
+  - BMBF
+  - Ministry of Science and Economy of Saxony-Anhalt
+  - International Max Planck Research School
+-
  Reference: "Rezgui A, Madec M, Lallement C, Haiech J (2015) Integration of SBML models for the description of biological system in a lab-on-chip. Proceedings of the 22nd International Conference Mixed Design of Integrated Circuits & Systems 165-70"
  Year: 2015
  URL: http://dx.doi.org/10.1109/MIXDES.2015.7208504
  Keywords:
   - Computational method
   - Laboratory method
+-
+ Reference: "Rosenthal RG, Vögeli B, Quade N, Capitani G, Kiefer P, Vorholt JA, Ebert MO, Erb TJ (2015) The use of ene adducts to study and engineer enoyl-thioester reductases. Nature Chem. Biol. 11:398-400."
+ URL: http://dx.doi.org/10.1038/nchembio.1794
+ Year: 2015
+ Keywords:
+  - Enzymology
+ Funding:
+  - Swiss National Science Foundation
 -
  Reference: "Sengupta A, Grover M, Chakraborty A, Saxena S (2015) HEPNet: A Knowledge Base Model of Human Energy Pool Network for Predicting the Energy Availability Status of an Individual. PLoS ONE 10(6):e0127918"
  Year: 2015
@@ -310,13 +456,22 @@
  Keywords:
   - Toxicology
 -
+ Reference: "Trausinger G, Gruber C, Krahulec S, Magnes C, Nidetzky B, Klimacek M (2015) Identification of novel metabolic interactions controlling carbon flux from xylose to ethanol in natural and recombinant yeasts. Biotechnol. Biofuels 8:157"
+ Year: 2015
+ URL: http://dx.doi.org/10.1186/s13068-015-0340-x
+ Keywords:
+  - Biotechnology
+  - Metabolism
+ Funding:
+  - Austrian Federal Ministry for Transport, Innovation and Technology
+-
  Reference: "Tummler K, Kühn C, Klipp E (2015) Dynamic metabolic models in context: biomass backtracking. Integr. Biol.7:940-51"
  Year: 2015
  URL: http://dx.doi.org/10.1039/C5IB00050E
  Keywords:
   - Computational method
 -
- Reference: "Villaverde AF, Henriques D, Smallbone K; Bongard S, Schmid J, Cicin-Sain D, Crombach A, Saez-Rodriguez J, Mauch K, Balsa-Canto E, Mendes P, Jaeger J, Banga JR (2015) BioPreDyn-bench: a suite of benchmark problems for dynamic modelling in systems biology. BMC Sys. Biol. 9:8"
+ Reference: "Villaverde AF, Henriques D, Smallbone K; Bongard S, Schmid J, Cicin-Sain D, Crombach A, Saez-Rodriguez J, Mauch K, Balsa-Canto E, Mendes P, Jaeger J, Banga JR (2015) BioPreDyn-bench: a suite of benchmark problems for dynamic modelling in systems biology. BMC Systems Biol. 9:8"
  Year: 2015
  URL: http://dx.doi.org/10.1186/s12918-015-0144-4
  Keywords:
@@ -327,6 +482,27 @@
  URL: http://dx.doi.org/10.1155/2015/387409
  Keywords:
   - Signaling
+- 
+ Reference: "Willems PH, Pahle J, Stalpers XL, Mugahid D, Nikolaew A, Koopman WJ, Kummer U (2015) PKC-mediated inhibitory feedback of the cholecystokinin 1 receptor controls the shape of oscillatory Ca2+ signals. FEBS J. 282:2187-201"
+ Year: 2015
+ URL: http://dx.doi.org/10.1111/febs.13267
+ Keywords:
+  - Signaling
+ Funding:
+  - NWO
+  - Klaus Tschira Foundation
+-
+ Reference: "Zhou J, Aponte-Santamaría C, Sturm S, Bullerjahn JT, Bronowska A, Gräter F (2015) Mechanism of Focal Adhesion Kinase Mechanosensing. PLoS Comput. Biol. 11:e1004593"
+ Year: 2015
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1004593
+ Keywords:
+  - Macromolecular biochemistry
+  - Cell biology
+ Funding:
+  - Klaus Tschira Foundation
+  - BMBF
+  - DFG
+  - Free State of Saxony
 -
  Reference: "Zimmer C (2015) Reconstructing the hidden states in time course data of stochastic models. Math. Biosci. 269:117-29"
  Year: 2015
