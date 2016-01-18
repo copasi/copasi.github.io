@@ -28,6 +28,15 @@
   - Toxicology
   - Signaling
  Type: 2
+ Locations:
+  - University of Tokyo, Tokyo, Japan
+  - Okinawa Institute of Science and Technology, Okinawa, Japan
+  - The Systems Biology Institute, Tokyo, Japan
+  - Sony Computer Science Laboratories Inc., Tokyo, Japan
+  - RIKEN Center for Integrative Medical Sciences, Kanagawa, Japan
+  - Osaka University, Osaka, Japan
+  - Showa University, Tokyo, Japan
+  - US Food and Drug Administration, Silver Spring MD, USA
  Funding:
   - Japan Society for the Promotion of Science
   - Japan Ministry of Education, Culture, Sports, Science and Technology
@@ -39,6 +48,8 @@
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - University of Barcelona, Barcelona, Spain
  Funding:
   - Spanish Ministerio de Economía y Competitividad
 -
@@ -49,6 +60,10 @@
   - Computational method
   - Software
  Type: 3
+ Locations: 
+  - Åbo Akademi University, Turku, Finland 
+  - Turku Centre for Computer Science, Turku, Finland
+  - University of Turku, Turku, Finland
  Funding:
   - Academy of Finland
 -
@@ -58,6 +73,15 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - University of Pisa, Pisa, Italy
+  - University of Trieste, Trieste, Italy
+  - University of Udine, Udine, Italy
+  - University of Trento, Trento, Italy
+  - CNR-ISTI, Pisa, Italy
+  - University College Dublin, Dublin, Ireland
+  - Max Planck Institut of Colloids and Interfaces, Potsdam, Germany
+  - University of Saarland, Saarbruecken, Germany
 -
  Reference: "Compel WS, Wong OA, Chen X, Yi C, Geiss R, Häkkinen H, Knappenberger KL Jr, Ackerson CJ (2015) Dynamic Diglyme-Mediated Self-Assembly of Gold Nanoclusters. ACS Nano. 9:11690-8."
  Year: 2015
@@ -68,6 +92,10 @@
  Funding:
   - NSF
   - Academy of Finland
+ Locations:
+ - Colorado State University, Fort Collins CO, USA
+ - University of Jyväskylä, Jyväskylä, Finland
+ - Florida State University, Tallahassee FL, United States
 -
  Reference: "Czabany T; Schmölzer K, Luley-Goedl C, Ribitsch D, Nidetzky B (2015) All-in-one assay for beta-D-galactoside sialyltransferases: quantification of productive turnover, error hydrolysis and site selectivity. Anal. Biochem. 483:47-53"
  Year: 2015
