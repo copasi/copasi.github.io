@@ -4,7 +4,7 @@
  URL: http://dx.doi.org/10.1007/978-3-319-23742-8_6
  Keywords:
   - Software
- type: 3
+ Type: 3
  Locations: 
   - University of Sheffield, Sheffield, UK
   - STFC Rutherford Apple Labs, Didcot, UK 
@@ -27,6 +27,7 @@
  Keywords:
   - Toxicology
   - Signaling
+ Type: 2
  Funding:
   - Japan Society for the Promotion of Science
   - Japan Ministry of Education, Culture, Sports, Science and Technology
@@ -37,6 +38,7 @@
  URL: http://dx.doi.org/10.1039/c5dt02657a
  Keywords:
   - Chemistry
+ Type: 2
  Funding:
   - Spanish Ministerio de Economía y Competitividad
 -
@@ -46,6 +48,7 @@
  Keywords:
   - Computational method
   - Software
+ Type: 3
  Funding:
   - Academy of Finland
 -
@@ -54,12 +57,14 @@
  URL: http://dx.doi.org/10.1016/j.compbiolchem.2015.04.004
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Compel WS, Wong OA, Chen X, Yi C, Geiss R, Häkkinen H, Knappenberger KL Jr, Ackerson CJ (2015) Dynamic Diglyme-Mediated Self-Assembly of Gold Nanoclusters. ACS Nano. 9:11690-8."
  Year: 2015
  URL: http://dx.doi.org/10.1021/acsnano.5b02850
  Keywords:
   - Chemistry
+ Type: 2
  Funding:
   - NSF
   - Academy of Finland
@@ -70,12 +75,14 @@
  Keywords:
   - Laboratory method
   - Enzymology
+ Type: 3
 -
  Reference: "Dacheux E, Firczuk H, McCarthy JEG (2015) Rate control in yeast protein synthesis at the population and single-cell levels. Bioch. Soc. Trans. 43:1266-70"
  URL: http://dx.doi.org/10.1042/BST20150169 
  Year: 2015
  Keywords: 
   - Macromolecular biochemistry
+ Type: 2
  Funding:
   - BBSRC
   - EPSRC
@@ -85,6 +92,7 @@
  URL: http://dx.doi.org/10.3390/life5010969
  Keywords:
   - Synthetic biology
+ Type: 2
 -
  Reference: "Daneshjou N, Sieracki N, van Nieuw Amerongen GP, Schwartz MA, Komarova YA, Malik AB, Conway DE (2015) Rac1 functions as a reversible tension modulator to stabilize VE-cadherin trans-interaction. J. Cell Biol. 208:23-32"
  Year: 2015
@@ -92,12 +100,14 @@
  Keywords:
   - Macromolecular biochemistry
   - Cell biology
+ Type: 2
 -
  Reference: "della Sala F, Kay ER (2015) Reversible Control of Nanoparticle Functionalization and Physicochemical Properties by Dynamic Covalent Exchange. Angew. Chem. 127:4261-5"
  Year: 2015
  URL: http://dx.doi.org/10.1002/anie.201409602
  Keywords:
   - Chemistry
+ Type: 2
  Funding:
   - EPSRC
   - Royal Society of Edinburgh
@@ -117,6 +127,7 @@
  Keywords:
   - Macromolecular biochemistry
   - Genetics
+ Type: 2
 -
  Reference: "Dromms RA, Styczynski MP (2015) Improved metabolite profile smoothing for flux estimation. Molecular BioSystems 11:2394-2405"
  Year: 2015
@@ -124,6 +135,7 @@
  Keywords:
   - Computational method
   - Laboratory method
+ Type: 3
  Funding: 
   - NSF
 -
@@ -133,6 +145,7 @@
  Keywords:
   - Physiology
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Emiola A, George J, Andrews SS (2015) A Complete Pathway Model for Lipid A Biosynthesis in Escherichia coli. PLoS ONE 10:e0121216"
  Year: 2015
@@ -140,6 +153,7 @@
  Keywords:
   - Metabolism
   - Microbiology
+ Type: 2
 -
  Reference: "Everetts NJ (2015) Computational Analysis of the Control of Cell Cycle Entry. Bachelor's Thesis, Department of Molecular and Cellular Biology, University of Arizona"
  Year: 2015
@@ -147,24 +161,28 @@
  Keywords:
   - Cell biology
   - Signaling
+ Type: 2
 -
  Reference: "Gladkovskaya O, Greaney P, Gun'ko YK, O'Connor GM, Meere M, Rochev Y (2015) An experimental and theoretical assessment of quantum dot cytotoxicity. Toxicol. Res. 4:1409-15"
  Year: 2015
  URL: http://dx.doi.org/10.1039/C5TX00149H
  Keywords:
   - Toxicology
+ Type: 2
 -
  Reference: "Hamacher-Brady A, Brady NR (2015) Bax/Bak-Dependent, Drp1-Independent Targeting of XIAP into Inner-Mitochondrial Compartments Counteracts Smac-Dependent Effector Caspase Activation. J. Biol. Chem. 290:22005-18."
  Year: 2015
  URL: http://dx.doi.org/10.1074/jbc.M115.643064
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Hinze T, Kirkici K, Sauer P, Sauer P, Behre J (2015) Membrane Computing Meets Temperature: A Thermoreceptor Model as Molecular Slide Rule with Evolutionary Potential. Lecture Notes Comp. Sci. 9504:215-235"
  Year: 2015
  URL: http://dx.doi.org/10.1007/978-3-319-28475-0_15
  Keywords:
   - Computational method
+ Type: 3
  Locations:
   - Coordinates: 51.7669933,14.3244443
   - Coordinates: 50.9282046,11.5809524
@@ -176,12 +194,14 @@
  URL: http://dx.doi.org/10.1021/acs.jpcb.5b04263
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Hudson DA, Gannon SA, Thorpe C, (2015) Oxidative protein folding: From thiol-disulfide exchange reactions to the redox poise of the endoplasmic reticulum. Free Radicals Biol. Med. 80:171-182"
  Year: 2015
  URL: http://dx.doi.org/10.1016/j.freeradbiomed.2014.07.037
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Intosalmi J, Ahlfors H, Rautio S, Mannerstöm H, Chen ZJ, Lahesmaa R, Stockinger B, Lähdesmäki H. (2015) Analyzing Th17 cell differentiation dynamics using a novel integrative modeling framework for time-course RNA sequencing data. BMC Systems Biol. 9:81."
  URL: http://dx.doi.org/10.1186/s12918-015-0223-6
@@ -190,6 +210,7 @@
   - Immunology
   - Cell biology
   - Signaling
+ Type: 2
  Funding:
   - Academy of Finland
   - EU-FP7
@@ -207,6 +228,7 @@
   - NIH
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Ji Y, Benkovics T, Beutner GL, Sfouggatakis C, Eastgate MD, Blackmond DG (2015) Mechanistic Insights into the Vanadium-Catalyzed Achmatowicz Rearrangement of Furfurol. J. Organic Chem. 80:1696-1702"
  URL: http://dx.doi.org/10.1021/jo502641d
@@ -219,12 +241,14 @@
   - Scripps Research Institute
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Jones AR, Rentergent J, Scrutton NS, Hay S (2015) Probing reversible chemistry in coenzyme B12-dependent ethanolamine amonnia lyase with kinetic isotope effects. Chem. Eur. J. 21:8826-31"
  Year: 2015
  URL: http://dx.doi.org/10.1002/chem.201500958
  Keywords:
   - Enzymology
+ Type: 2
  Locations:
   - Coordinates: 53.4730703,-2.2378582
  Funding:
@@ -237,6 +261,7 @@
  URL: http://dx.doi.org/10.1002/psp4.3
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Karapetyan S, Buchler NE (2015) Role of DNA binding sites and slow unbinding kinetics in titration-based oscillators. Phys. Rev. E 92:062712"
  Year: 2015
@@ -244,6 +269,7 @@
  Keywords:
   - Macromolecular biochemistry
   - Theory
+ Type: 2
  Funding:
   - NIH
   - Burroughs Wellcome Fund
@@ -254,6 +280,7 @@
  Keywords:
   - Biotechnology
   - Metabolism
+ Type: 2
 -
  Reference: "Kesten D, Kummer U, Sahle S, Hübner K (2015) A new model for the aerobic metabolism of yeast allows the detailed analysis of the metabolic regulation during glucose pulse. Biophys. Chem. 206:40-57."
  Year: 2015
@@ -266,6 +293,7 @@
  URL: http://dx.doi.org/10.1109/DSD.2015.53
  Keywords:
   - Computational method
+ Type: 3
  Funding:
   - European Social Fund
   - Greek Government
@@ -275,6 +303,7 @@
  URL: http://dx.doi.org/10.1002/chem.201503782
  Keywords:
   - Chemistry
+ Type: 2
  Funding:
   - Swedish Research Council
   - Wenner-Gren Foundations
@@ -284,6 +313,7 @@
  URL: http://dx.doi.org/10.1371/journal.pone.0134849
  Keywords:
   - Immunology
+ Type: 2
  Funding:
   - NIH
 -
@@ -292,6 +322,7 @@
  URL: http://dx.doi.org/10.1002/prot.24711
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Li L, Gervasi N, Girault J-A (2015) Dendritic geometry shapes neuronal cAMP signalling to the nucleus. Nature Comm. 6:6319"
  Year: 2015
@@ -299,6 +330,7 @@
  Keywords:
   - Cell biology
   - Signaling
+ Type: 2
 -
  Reference: "Lu P, Abedi V, Mei Y, Hontecillas R, Hoops S, Carbo A, Bassaganya-Riera J (2015) Supervised learning methods in modeling of CD4+ T cell heterogeneity. BioData Mining 8:1-21"
  Year: 2015
@@ -306,6 +338,7 @@
  Keywords:
   - Computational method
   - Immunology
+ Type: 3
  Funding:
   - NIH
 -
@@ -314,6 +347,7 @@
  URL: http://dx.doi.org/10.1371/journal.pcbi.1004144
  Keywords:
   - Cell biology
+ Type: 2
 -
  Reference: "Luo J, Theron R, Sewell LJ, Hooper TN, Weller AS, Oliver AG, McIndoe JS (2015) Rhodium-Catalyzed Selective Partial Hydrogenation of Alkynes. Organometallics 34:3021-8"
  URL: http://dx.doi.org/10.1021/acs.organomet.5b00322
@@ -329,12 +363,14 @@
   - EPSRC
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Madsen C, Shmarov F, Zuliani P (2015) BioPSy: An SMT-based Tool for Guaranteed Parameter Set Synthesis of Biological Models. Proceedings 13th International Conference, CMSB 2015 (Roux O, Bourdon J, Eds.), Springer pp182-94"
  Year: 2015
  URL: http://dx.doi.org/10.1007/978-3-319-23401-4
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Mandlik V, Gurav M, Singh S (2015) Regulatory dynamics of network architecture and function in tristable genetic circuit of Leishmania: a mathematical biology approach. J Biomol. Struct. Dyn. 33:2554-62"
  Year: 2015
@@ -343,6 +379,7 @@
   - Synthetic biology
   - Genetics
   - Metabolism
+ Type: 2
  Funding:
   - Department of Biotechnology, Government of India
 -
@@ -352,18 +389,21 @@
  Keywords:
   - Immunology
   - Signaling
+ Type: 2
 -
  Reference: "Mei Y, Abedi V, Carbo A, Zhang X, Lu P, Philipson C, Hontecillas R, Hoops S, Liles N, Bassaganya-Riera J. (2015) Multiscale modeling of mucosal immune responses. BMC Bioinformatics. 16 Suppl 12:S2"
  Year: 2015
  URL: http://dx.doi.org/10.1186/1471-2105-16-S12-S2
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Mei Y, Carbo A, Hoops S, Hontecillas R, Bassaganya-Riera J (2015) ENISI SDE: A New Web-Based Tool for Modeling Stochastic Processes. IEEE/ACM Trans. Comput. Biol. Bioinformatics 12:289-97"
  Year: 2015
  URL: http://dx.doi.org/10.1109/TCBB.2014.2351823
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Mendes P, Oliver SG, Kell DB (2015) Fitting Transporter Activities to Cellular Drug Concentrations and Fluxes: Why the Bumblebee Can Fly. Trends Pharmacological Sciences 36:710-23"
  Year: 2015
@@ -371,6 +411,7 @@
  Keywords:
   - Physiology
   - Pharmacology
+ Type: 2
  Funding:
   - BBSRC
   - NIH
@@ -382,6 +423,7 @@
  URL: http://dx.doi.org/10.1016/j.bbamem.2015.03.023
  Keywords:
   - Enzymology
+ Type: 2
  Locations:
   - Coordinates: -34.5977666,-58.3999597
  Funding:
@@ -394,6 +436,7 @@
  URL: http://dx.doi.org/10.1002/elsc.201400227
  Keywords:
   - Laboratory method
+ Type: 3
 -
  Reference: "Nelsen ER, Brezny AC, Landis CR (2015) Interception and Characterization of Catalyst Species in Rhodium Bis(diazaphospholane)-Catalyzed Hydroformylation of Octene, Vinyl Acetate, Allyl Cyanide, and 1-Phenyl-1,3-butadiene. J. Am. Chem. Soc., 2015, 137:14208-219"
  Year: 2015
@@ -402,6 +445,7 @@
   - Chemistry
  Funding:
   - NSF
+ Type: 2
 -
  Reference: "Palaia T, Kumarb A, Bhattacharyaa PK (2015) Kinetic studies and model development for the formation of galacto-oligosaccharides from lactose using synthesized thermo-responsive bioconjugate. Enzyme Microbial Technol. 70:42-49"
  Year: 2015
@@ -409,6 +453,7 @@
  Keywords:
   - Biotechnology
   - Enzymology
+ Type: 2
  Funding:
   - Department of Biotechnology, Government of India
 -
@@ -417,6 +462,7 @@
  URL: http://dx.doi.org/10.1186/s12918-015-0237-0.
  Keywords:
   - Software
+ Type: 3
  Funding:
   - NIH
 -
@@ -425,24 +471,28 @@
  URL: https://edoc.ub.uni-muenchen.de/18504
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Paul D, Dasgupta A, De RK (2015) Exploring the Altered Dynamics of Mammalian Central Carbon Metabolic Pathway in Cancer Cells: A Classical Control Theoretic Approach. PLoS ONE 10:e0137728."
  Year: 2015
  URL: http://dx.doi.org/10.1371/journal.pone.0137728
  Keywords:
   - Theory
+ Type: 2
 -
  Reference: "Peñarrubia L, Romero P, Carrió-Seguí A, Andrés-Bordería A, Moreno J and Sanz A (2015) Temporal aspects of copper homeostasis and its crosstalk with hormones. Front. Plant Sci. 6:255."
  Year: 2015
  URL: http://dx.doi.org/10.3389/fpls.2015.00255
  Keywords:
   - Physiology
+ Type: 2
 -
  Reference: "Penkler G, du Toit F, Adams W, Rautenbach M, Palm DC, van Niekerk DD, Snoep JL (2015) Construction and validation of a detailed kinetic model of glycolysis in Plasmodium falciparum. FEBS J. 282:1481-511"
  Year: 2015
  URL: http://dx.doi.org/10.1111/febs.13237
  Keywords:
   - Metabolism
+ Type: 2
  Funding:
   - National Research Foundation in South Africa
 -
@@ -451,12 +501,14 @@
  URL: http://dx.doi.org/10.1111/plb.12221
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Philipson CW, Bassaganya-Riera J, Viladomiu M, Kronsteiner B, Abedi V, Hoops S, et al. (2015) Modeling the Regulatory Mechanisms by Which NLRX1 Modulates Innate Immune Responses to Helicobacter pylori Infection. PLoS ONE 10(9):e0137839"
  Year: 2015
  URL: http://dx.doi.org/10.1371/journal.pone.0137839
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference:  "Pineda E, Encalada R, Vázquez C, González Z, Moreno-Sánchez R, Saavedra E (2015) Glucose Metabolism and Its Controlling Mechanisms in Entamoeba histolytica. In Amebiasis. Part IV Biology and Pathogenesis of Entamoeba (Nozaki T, Bhattacharya A eds.) Springer pp.351-372"
  Year: 2015
@@ -464,6 +516,7 @@
  Keywords:
   - Metabolism
   - Microbiology
+ Type: 2
 -
  Reference: "Raganatia F, Procentese A, Olivieri G, Götzc P, Salatino P, Marzocchella A (2015) Kinetic study of butanol production from various sugars by Clostridium acetobutylicum using a dynamic model. Biochem. Eng. J. 99:156-66."
  Year: 2015
@@ -472,6 +525,7 @@
   - Biotechnology
   - Metabolism
   - Microbiology
+ Type: 2
  Funding:
   - Ministero dello Sviluppo Economico (Italy)
   - BMBF
@@ -482,6 +536,7 @@
  Keywords:
   - Genetics
   - Macromolecular biochemistry
+ Type: 2
  Funding: 
   - BMBF
   - Ministry of Science and Economy of Saxony-Anhalt
@@ -493,12 +548,14 @@
  Keywords:
   - Computational method
   - Laboratory method
+ Type: 3
 -
  Reference: "Rosenthal RG, Vögeli B, Quade N, Capitani G, Kiefer P, Vorholt JA, Ebert MO, Erb TJ (2015) The use of ene adducts to study and engineer enoyl-thioester reductases. Nature Chem. Biol. 11:398-400."
  URL: http://dx.doi.org/10.1038/nchembio.1794
  Year: 2015
  Keywords:
   - Enzymology
+ Type: 2
  Funding:
   - Swiss National Science Foundation
 -
@@ -508,6 +565,7 @@
  Keywords:
   - Theory
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Samal SS, Grigoriev D, Fröhlich H, Weber A, Radulescu O (2015) A Geometric Method for Model Reduction of Biochemical Networks with Polynomial Rate Functions. Bull. Math. Biol. 77:2180-211."
  Year: 2015
@@ -515,6 +573,7 @@
  Keywords:
   - Computational method
   - Theory
+ Type: 3
  Funding:
   - CNRS
   - Labex CEMPI
@@ -524,6 +583,7 @@
  URL: http://dx.doi.org/10.1371/journal.pone.0127918
  Keywords:
   - Metabolism
+ Type: 2
 -
  Reference: "Sier JH (2015) Investigation of the impact of MRP3 and MRP4 on the disposition of drugs and conjugates in rat and human. Doctoral thesis, University of Surrey"
  URL: http://epubs.surrey.ac.uk/id/eprint/807179
@@ -532,18 +592,21 @@
   - Physiology
  Locations:
   - Coordinates: 51.2427253,-0.5917031
+ Type: 2
 -
  Reference: "Subburaj Y, Ros U, Hermann E, Tong R, García-Sáez AJ (2015) Toxicity of an alpha-Pore-forming Toxin Depends on the Assembly Mechanism on the Target Membrane as Revealed by Single Molecule Imaging. J. Biol. Chem. 290:4856-4865"
  Year: 2015
  URL: http://dx.doi.org/10.1074/jbc.M114.600676
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Subramanian A, Sarkar RR (2015) Dynamics Of GLI Regulation And A Strategy To Control Cancerous Situation: Hedgehog Signaling Pathway Revisited. J. Biol. Systems 23:681-719"
  Year: 2015
  URL: http://dx.doi.org/10.1142/S0218339015500333
  Keywords:
   - Signaling
+ Type: 2
  Funding:
   - Council of Scientific and Industrial Research (CSIR), India
   - DBT-BINC
@@ -553,6 +616,7 @@
  URL: http://dx.doi.org/10.3390/math3030913
  Keywords:
   - Epidemiology
+ Type: 2
  Funding:
   - Council of Scientific and Industrial Research (CSIR), India
   - DBT-BINC
@@ -562,18 +626,21 @@
  URL: http://dx.doi.org/10.1098/rsif.2014.1405
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Sveshnikova AN, Ataullakhanov FL, Panteleev MA (2015) Compartmentalized calcium signaling triggers subpopulation formation upon platelet activation through PAR1. Molecular BioSystems 11:1052-60"
  Year: 2015
  URL: http://dx.doi.org/10.1039/C4MB00667D
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Talawar B (2015) A Crossbar Interconnection Network in DNA. Proceedings of 2015 IEEE International Parallel and Distributed Processing Symposium Workshop, pp. 342-5"
  Year: 2015
  URL: http://dx.doi.org/10.1109/IPDPSW.2015.103
  Keywords:
   - Synthetic biology
+ Type: 2
 -
  Reference: "Torbensen K, Rossi F, Pantani OL, Ristori S, Abou-Hassan A (2015) Interaction of the Belousov-Zhabotinsky Reaction with Phospholipid Engineered Membranes. J. Phys. Chem. B 119:10224-30"
  URL: http://dx.doi.org/10.1021/acs.jpcb.5b04572
@@ -584,12 +651,14 @@
   - Coordinates: 43.781652,11.2240368
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Tóth A, Brózik A, Szakács G, Sarkadi B, Hegedüs T (2015) A Novel Mathematical Model Describing Adaptive Cellular Drug Metabolism and Toxicity in the Chemoimmune System. PLoS ONE 10:e0115533"
  Year: 2015
  URL: http://dx.doi.org/10.1371/journal.pone.0115533
  Keywords:
   - Toxicology
+ Type: 2
 -
  Reference: "Trausinger G, Gruber C, Krahulec S, Magnes C, Nidetzky B, Klimacek M (2015) Identification of novel metabolic interactions controlling carbon flux from xylose to ethanol in natural and recombinant yeasts. Biotechnol. Biofuels 8:157"
  Year: 2015
@@ -597,6 +666,7 @@
  Keywords:
   - Biotechnology
   - Metabolism
+ Type: 2
  Funding:
   - Austrian Federal Ministry for Transport, Innovation and Technology
 -
@@ -605,24 +675,28 @@
  URL: http://dx.doi.org/10.1039/C5IB00050E
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Villaverde AF, Henriques D, Smallbone K; Bongard S, Schmid J, Cicin-Sain D, Crombach A, Saez-Rodriguez J, Mauch K, Balsa-Canto E, Mendes P, Jaeger J, Banga JR (2015) BioPreDyn-bench: a suite of benchmark problems for dynamic modelling in systems biology. BMC Systems Biol. 9:8"
  Year: 2015
  URL: http://dx.doi.org/10.1186/s12918-015-0144-4
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Wang, H-Y, Huang Y-X, Zheng L-H, Bao Y-L, Sun L-G, Wu Y, Yu C-L, Song Z-B, Sun Y, Wang G-N, Ma Z-Q, Li Y-X Li (2015) Modelling Coupled Oscillations in the Notch, Wnt, and FGF Signaling Pathways during Somitogenesis: A Comprehensive Mathematical Model. Comput. Intelligence Neurosci. 2015:387409"
  Year: 2015
  URL: http://dx.doi.org/10.1155/2015/387409
  Keywords:
   - Signaling
+ Type: 2
 - 
  Reference: "Willems PH, Pahle J, Stalpers XL, Mugahid D, Nikolaew A, Koopman WJ, Kummer U (2015) PKC-mediated inhibitory feedback of the cholecystokinin 1 receptor controls the shape of oscillatory Ca2+ signals. FEBS J. 282:2187-201"
  Year: 2015
  URL: http://dx.doi.org/10.1111/febs.13267
  Keywords:
   - Signaling
+ Type: 2
  Funding:
   - NWO
   - Klaus Tschira Foundation
@@ -633,6 +707,7 @@
  Keywords:
   - Macromolecular biochemistry
   - Cell biology
+ Type: 2
  Funding:
   - Klaus Tschira Foundation
   - BMBF
@@ -644,24 +719,28 @@
  URL: http://dx.doi.org/10.1016/j.mbs.2015.08.015
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Zimmer C, Sahle S. (2015) A termination criterion for parameter estimation in stochastic models in systems biology. Biosystems 9:181-92"
  Year: 2015
  URL: http://dx.doi.org/10.1016/j.biosystems.2015.08.003
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Aubert N, Mosca C, Fujii T, Hagiya M, Rondelez Y (2014) Computer-assisted design for scaling up systems based on DNA reaction networks J. Royal Soc. Interface 11:20131167"
  Year: 2014
  URL: http://dx.doi.org/10.1098/rsif.2013.1167
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Beauvoit BP, Colombié S, Monier A, Andrieu M-H, Biais B, Bénard C, Chéniclet C, Dieuaide-Noubhani M, Nazaret C, Mazat J-P, Gibon Y (2014) Model-assisted analysis of sugar metabolism throughout tomato fruit development reveals enzyme and carrier properties in relation to vacuole expansion. Plant Cell 26:3224-42 "
  Year: 2014
  URL: http://dx.doi.org/10.1105/tpc.114.127761
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 44.787683,-0.5792078
   - Coordinates: 44.8268942,-0.6070696
@@ -675,18 +754,21 @@
  URL: http://dx.doi.org/10.1016/j.freeradbiomed.2014.06.007
  Keywords:
   - Metabolism
+ Type: 2
 -
  Reference: "Bhosle A, Chandra N (2014) Different cancer cell lines resistant to the same drug exhibit differences in folate pathway dynamics. Proceedings of the 2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 209-213"
  Year: 2014
  URL: http://dx.doi.org/10.1109/BIBM.2014.6999156
  Keywords:
   - Metabolism
+ Type: 2
 -
  Reference: "Carbo A, Olivares-Villagómez D, Hontecillas R, Bassaganya-Riera J, Chaturvedi R, Piazuelo MB, Delgado A, Washington MK, Wilson KT, Algood HMS (2014) Systems modeling of the role of IL-21 in the maintenance of effector CD4+ T cell responses during chronic Helicobacter pylori infection. mBio 5:e01243-14"
  Year: 2014
  URL: http://dx.doi.org/10.1128/mBio.01243-14
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Carrasco D, Pérez-Temprano MH, Casares JA, Espinet P (2014) Cross Alkyl-Aryl versus Homo Aryl-Aryl Coupling in Palladium-Catalyzed Coupling of Alkyl-Gold (I) and Aryl-Halide. Organometallics 33:3540-3545"
  URL: http://dx.doi.org/10.1021/om500446x
@@ -698,12 +780,14 @@
   - Junta de Castilla y León
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Cazzaniga P, Nobile MS, Besozzi D, Bellini M, Mauri G (2014) Massive exploration of perturbed conditions of the blood coagulation cascade through GPU parallelization. BioMed Res. Int. 2014:863298"
  Year: 2014
  URL: http://dx.doi.org/10.1155/2014/863298
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Claudino M, Jonsson M, Johansson M (2014) Utilizing thiol-ene coupling kinetics in the design of renewable thermoset resins based on D-limonene and polyfunctional thiols. Royal Soc. Chem. Advances 4:10317-10329"
  URL: http://dx.doi.org/10.1039/C3RA47922F
@@ -714,6 +798,7 @@
   - Swedish Research Council
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Costa RS, Hartmann A, Gaspar P, Neves AR, Vinga S (2014) An extended dynamic model of Lactococcus lactis metabolism for mannitol and 2,3-butanediol production. Mol. BioSystems 10:628-639"
  Year: 2014
@@ -721,18 +806,21 @@
  Keywords:
   - Microbiology
   - Metabolism
+ Type: 2
 -
  Reference: "Dalle Pezze P, Nelson G, Otten EG, Korolchuk VI, Kirkwood TBL, von Zglinicki T, Shanley DP (2014) Dynamic Modelling of Pathways to Cellular Senescence Reveals Strategies for Targeted Interventions. PLoS Comput. Biol. 10:e1003728."
  Year: 2014
  URL: http://dx.doi.org/10.1371/journal.pcbi.1003728
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Drees B, Reiger M, Jung K, Bischofs IB (2014) A modular view of the diversity of cell-density-encoding schemes in bacterial quorum-sensing systems. Biophys. J. 107:266-277"
  Year: 2014
  URL: http://dx.doi.org/10.1016/j.bpj.2014.05.031
  Keywords:
   - Microbiology
+ Type: 2
 -
  Reference: "Fadda A, Ryten M, Droll D, Rojas F, Färber V, Haanstra JR, Merce C, Bakker BM, Matthews K, Clayton C (2014) Transcriptome-wide analysis of trypanosome mRNA decay reveals complex degradation kinetics and suggests a role for co-transcriptional degradation in determining mRNA levels. Mol. Microbiol. 94:307-326"
  Year: 2014
@@ -740,18 +828,21 @@
  Keywords:
   - Microbiology
   - Genomics
+ Type: 2
 -
  Reference: "Godfrey L, Yamada-Fowler N, Smith J, Thornalley PJ, Rabbani N (2014) Arginine-directed glycation and decreased HDL plasma concentration and functionality. Nutrition & Diabetes 4:e134"
  Year: 2014
  URL: http://dx.doi.org/10.1038/nutd.2014.31
  Keywords:
   - Physiology
+ Type: 2
 -
  Reference: "Graybill C, Prehoda KE (2014) Ordered multisite phosphorylation of lethal giant larvae by atypical protein kinase C. Biochemistry 53:4931-7"
  Year: 2014
  URL: http://dx.doi.org/10.1021/bi500748w
  Keywords:
   - Signaling
+ Type: 2
  Funding:
   - NIH
 -
@@ -760,24 +851,28 @@
  URL: http://dx.doi.org/10.1109/CIBCB.2014.6845520
  Keywords:
   - Synthetic biology
+ Type: 2
 -
  Reference: "Ihekwaba AEC, Mura I, Barker GC (2014) Computational modelling and analysis of the molecular network regulating sporulation initiation in Bacillus subtilis. BMC Systems Biology 8:119"
  Year: 2014
  URL: http://dx.doi.org/10.1186/s12918-014-0119-x
  Keywords:
   - Microbiology
+ Type: 2
 -
  Reference: "James AI, Imran HAQ, Jennifer AD, Sarah VF, David AL (2014) Altered native stability is the dominant basis for susceptibility of alpha1-antitrypsin mutants to polymerization. Biochem. J. 460:103-115"
  Year: 2014
  URL: http://dx.doi.org/10.1042/BJ20131650
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Karonen M, Mattila H, Huang P, Mamedov F, Styring S, Tyystjärvi E (2014) A tandem mass spectrometric method for singlet oxygen measurement. Photochem. Photobiol. 90:965-971"
  Year: 2014
  URL: http://dx.doi.org/10.1111/php.12291
  Keywords:
   - Laboratory method
+ Type: 3
 -
  Reference: "Kefalidis CE, Davi M, Holstein PM, Clot E, Baudoin O (2014) Mechanistic Study of the Selectivity of Olefin versus Cyclobutene Formation by Palladium (0)-Catalyzed Intramolecular C (sp3)-H Activation. J. Organic Chem. 79:11903-11910"
  URL: http://dx.doi.org/10.1021/jo501610x
@@ -790,6 +885,7 @@
   - Institut Universitaire de France
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Kent PD, Mondloch JE, Finke RG (2014) A Four-Step Mechanism for the Formation of Supported-Nanoparticle Heterogenous Catalysts in Contact with Solution: The Conversion of Ir (1, 5-COD) Cl/gamma-Al2O3 to Ir (0) 170/gamma-Al2O3. J Am. Chem. Soc. 136:1930-41"
  URL: http://dx.doi.org/10.1021/ja410194r
@@ -800,24 +896,28 @@
   - DOE
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Lakin MR, Minnich A, Lane T, Stefanovic D (2014) Design of a biochemical circuit motif for learning linear functions. J. Royal Soc. Interface 11:20140902"
  Year: 2014
  URL: http://dx.doi.org/10.1098/rsif.2014.0902
  Keywords:
   - Synthetic biology
+ Type: 2
 -
  Reference: "Le Muzic M, Parulek J, Stavrum A-K, Viola I (2014) Illustrative visualization of molecular reactions using omniscient intelligence and passive agents. Computer Graphics Forum 33:141-150"
  Year: 2014
  URL: http://dx.doi.org/10.1111/cgf.12370
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Lutz A, Sanwald J, Thomas M, Feuer R, Sawodny O, Ederer M,  Borner C, Humar M, Merfort I (2014) Interleukin-1beta Enhances FasL-Induced Caspase-3/-7 Activity without Increasing Apoptosis in Primary Mouse Hepatocytes. PLoS ONE 9:e115603."
  Year: 2014
  URL: http://dx.doi.org/10.1371/journal.pone.0115603
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Machado D, Rodrigues LR, Rocha I (2014) A kinetic model for curcumin production in Escherichia coli. BioSystems 125:16-21"
  Year: 2014
@@ -825,12 +925,14 @@
  Keywords:
   - Synthetic biology
   - Metabolism
+ Type: 2
 -
  Reference: "Marín-Hernández A, López-Ramírez SY, Gallardo-Pérez JC, Rodríguez-Enríquez S, Moreno-Sánchez R, Saavedra E (2014) Systems biology approaches to cancer energy metabolism. in M.A. Aon et al. (eds.), Systems Biology of Metabolic and Signaling Networks, Springer-Verlag pp.213-239"
  Year: 2014
  URL: http://dx.doi.org/10.1007/978-3-642-38505-6_9
  Keywords:
   - Metabolism
+ Type: 2
 -
  Reference: "Marwaha S, Schumacher MA, Zavros Y, Eghbalnia HR (2014) Crosstalks between Cytokines and Sonic Hedgehog in Helicobacter pylori Infection: A Mathematical Model. PLoS ONE 9:e111338."
  Year: 2014
@@ -838,18 +940,21 @@
  Keywords:
   - Immunology
   - Signaling
+ Type: 2
 -
  Reference: "Matsuoka Y, Funahashi A, Ghosh S, Kitano H (2014) Modeling and simulation using CellDesigner. Methods Mol. Biol. 1164:121-145"
  Year: 2014
  URL: http://dx.doi.org/10.1007/978-1-4939-0805-9_11
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Mei Y, Carbo A, Hontecillas R, Hoops S, Liles N, Lu P, Philipson C, Bassaganya-Riera J (2014) ENISI MSM: A novel multi-scale modeling platform for computational immunology. Proceedings of the 2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 391-396"
  Year: 2014
  URL: http://dx.doi.org/10.1109/BIBM.2014.6999190
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Miller AJM, Kaminsky W, Goldberg KI (2014) Arene Activation at Iridium Facilitates C-O Bond Cleavage of Aryl Ethers. Organometallics 33:1245-1252"
  URL: http://dx.doi.org/10.1021/om5000166
@@ -862,18 +967,21 @@
  Year: 2014
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Nobile MS, Cazzaniga P, Besozzi D, Mauri G (2014) GPU-accelerated simulations of mass-action kinetics models with cupSODA. J. Supercomputing 69:17-24"
  Year: 2014
  URL: http://dx.doi.org/10.1007/s11227-014-1208-8
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Nobile MS, Cazzaniga P, Besozzi D, Pescini D, Mauri G (2014) cuTauLeaping: A GPU-Powered Tau-Leaping Stochastic Simulator for Massive Parallel Analyses of Biological Systems. PLoS ONE 9:e91963."
  Year: 2014
  URL: http://dx.doi.org/10.1371/journal.pone.0091963
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Palai T, Singh AK, Bhattacharya PK (2014) Enzyme, beta-galactosidase immobilized on membrane surface for galacto-oligosaccharides formation from lactose: kinetic study with feed flow under recirculation loop. Biochem. Eng. J. 88:68-76"
  Year: 2014
@@ -881,36 +989,42 @@
  Keywords:
   - Biotechnology
   - Enzymology
+ Type: 2
 -
  Reference: "Pandey V (2014) Metabolic modeling of different degrees of steatohepatitis in mice. PhD Thesis, Department of Mathematics and Computer Science, Free University of Berlin."
  Year: 2014
  URL: http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000097819?lang=en
  Keywords:
   - Metabolism
+ Type: 2
 -
  Reference: "Pandey V, Sultan M, Kashofer K, Ralser M, Amstislavskiy V, Starmann J, Osprian I, Grimm C, Hache H, Yaspo M-L, Sültmann H, Trauner M, Denk M, Zatloukal K, Lehrach H, Wierling C (2014) Comparative Analysis and Modeling of the Severity of Steatohepatitis in DDC-Treated Mouse Strains. PLoS ONE 9:e111006."
  Year: 2014
  URL: http://dx.doi.org/10.1371/journal.pone.0111006
  Keywords:
   - Metabolism
+ Type: 2
 -
  Reference: "Proctor CJ, Macdonald C, Milner JM, Rowan AD, Cawston TE (2014) A Computer Simulation Approach to Assessing Therapeutic Intervention Points for the Prevention of Cytokine-Induced Cartilage Breakdown. Arthritis & Rheumatology 66:979-989"
  Year: 2014
  URL: http://dx.doi.org/10.1002/art.38297
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Rao S, van der Schaft A, van Eunen K, Bakker BM, Jayawardhana B (2014) A model reduction method for biochemical reaction networks. BMC systems biology 8:52"
  Year: 2014
  URL: http://dx.doi.org/10.1186/1752-0509-8-52
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Sakkalis V, Sfakianakis S, Tzamali E, Marias K, Stamatakos G, Misichroni F, Ouzounoglou E, Kolokotroni E, Dionysiou D, Johnson D, McKeever S, Graf N (2014) Web-based workflow planning platform supporting the design and execution of complex multiscale cancer models. IEEE J. Biomed. Health Informatics 18:824-31"
  Year: 2014
  URL: http://dx.doi.org/10.1109/JBHI.2013.2297167
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Saller S, Kunz L, Berg D, Berg U, Lara H, Urra J, Hecht S, Pavlik R, Thaler CJ, Mayerhofer A (2014) Dopamine in human follicular fluid is associated with cellular uptake and metabolism-dependent generation of reactive oxygen species in granulosa cells: implications for physiology and pathology. Human Reproduction 29:555-67"
  Year: 2014
@@ -918,18 +1032,21 @@
  Keywords:
   - Physiology
   - Metabolism
+ Type: 2
 -
  Reference: "Schaber J, Lapytsko A, Flockerzi D (2014) Nested autoinhibitory feedbacks alter the resistance of homeostatic adaptive biochemical networks. J. Royal Soc. Interface 11:20130971"
  Year: 2014
  URL: http://dx.doi.org/10.1098/rsif.2013.0971
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Schmitz U, Lai X, Winter F, Wolkenhauer O, Vera J, Gupta SK (2014) Cooperative gene regulation by microRNA pairs and their identification using a computational workflow. Nucleic Acids Res. 42:7539-7552"
  Year: 2014
  URL: http://dx.doi.org/10.1093/nar/gku465
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Shinde S, Mol M, Singh S (2014) Regulatory networks, genes and glycerophospholipid biosynthesis pathway in schistosomiasis: A systems biology view for pharmacological intervention. Gene 550:214-22."
  Year: 2014
@@ -937,12 +1054,14 @@
  Keywords:
   - Pharmacology
   - Genomics
+ Type: 2
 -
  Reference: "Tunnicliffe RB, Hautbergue GM, Wilson SA, Kalra P, Golovanov AP (2014) Competitive and Cooperative Interactions Mediate RNA Transfer from Herpesvirus Saimiri ORF57 to the Mammalian Export Adaptor ALYREF. PLoS Pathog 10(2): e1003907."
  Year: 2014
  URL: http://dx.doi.org/10.1371/journal.ppat.1003907
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Valero González G (2014) Estudis mecanístics i metodològics de processos d'autocatàlisi i organocatàlisi asimètriques. Ph.D. Thesis, Department of Organic Chemistry, University of Barcelona"
  URL: http://hdl.handle.net/10803/285338
@@ -953,6 +1072,7 @@
   - Ministerio de Ciencia e Innovación (Spain)
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Vickers JW, Sumliner JM, Lv H, Morris M, Geletii YV, Hill CL (2014) Collecting meaningful early-time kinetic data in homogeneous catalytic water oxidation with a sacrificial oxidant. Phys. Chem. Chemical Physics 16:11942-11949"
  URL: http://dx.doi.org/10.1039/C3CP55406F
@@ -964,54 +1084,63 @@
   - DOE
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Wang CCN, Chang P-C, Ng K-L, Chang C-M, Sheu PCY, Tsai JJP (2014) A model comparison study of the flowering time regulatory network in Arabidopsis. BMC Systems Biology 8:15"
  Year: 2014
  URL: http://dx.doi.org/10.1186/1752-0509-8-15
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference:  "Yang X, Zhang Y, Zheng Y, Ma H (2014) Development and analysis of a kinetic model for Escherichia coli threonine biosynthesis. Chinese J. Biotechnol. 30:18-29."
  Year: 2014
  Keywords:
   - Metabolism
   - Microbiology
+ Type: 2
 -
  Reference: "Zimmer C, Sahle S, Pahle J (2014) Exploiting intrinsic fluctuations to identify model parameters. IET Systems Biology 9:64-73"
  Year: 2014
  URL: http://dx.doi.org/10.1049/iet-syb.2014.0010
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Berestovsky N, Nakhleh L (2013) An Evaluation of Methods for Inferring Boolean Networks from Time-Series Data. PLoS ONE 8:e66031"
  Year: 2013
  URL: http://dx.doi.org/10.1371/journal.pone.0066031
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Bulipopa N,  Sulins J (2013) Automatic termination of parallel optimization runs of global stochastic optimization methods by upper limit criterion. Biosystems and Information Technol. 2:15-18"
  Year: 2013
  URL: http://dx.doi.org/10.11592/bit.130504 
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Carbo A, Bassaganya-Riera J, Pedragosa M, Viladomiu M, Marathe M, Eubank S, Wendelsdorf K, Bisset K, Hoops S, Deng X, Alam M, Kronsteiner B, Mei Y, Hontecillas R (2013) Predictive Computational Modeling of the Mucosal Immune Responses during Helicobacter pylori Infection. PLoS ONE 8(9): e73365"
  Year: 2013
  URL: http://dx.doi.org/10.1371/journal.pone.0073365
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Cornish-Bowden A, Piedrafita G, Morán F, Cárdenas ML, Montero F (2013) Simulating a model of metabolic closure. Biological Theory 8:383-390"
  Year: 2013
  URL: http://dx.doi.org/10.1007/s13752-013-0132-0
  Keywords:
   - Theory
+ Type: 2
 -
  Reference: "Coskun SA, Cicek AE, Lai N, Dash RK, Ozsoyoglu ZM, Ozsoyoglu G (2013) An online model composition tool for system biology models. BMC Systems Biol. 7:88"
  Year: 2013
  URL: http://dx.doi.org/10.1186/1752-0509-7-88
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Diao T, Pun D, Stahl SS (2013) Aerobic Dehydrogenation of Cyclohexanone to Cyclohexenone Catalyzed by Pd(DMSO)2(TFA)2: Evidence for Ligand-Controlled Chemoselectivity. J. Am. Chem. Soc. 135:8205-8212"
  URL: http://dx.doi.org/10.1021/ja4031648
@@ -1023,6 +1152,7 @@
   - NSF
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Firczuk H, Kannambath S, Pahle J, Claydon A, Beynon R, Duncan J, Westerhoff H, Mendes P, McCarthy JEG (2013) An in vivo control map for the eukaryotic mRNA translation machinery. Molecular Systems Biology 9:635"
  URL: http://dx.doi.org/10.1038/msb.2012.73
@@ -1030,6 +1160,7 @@
  Keywords:
   - Macromolecular biochemistry
   - Cell Biology
+ Type: 2
  Locations:
   - Coordinates: 52.3792558,-1.5636591
   - Coordinates: 53.466853,-2.2360724
@@ -1043,6 +1174,7 @@
  URL: http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000095294?lang=en
  Keywords:
   - Physiology
+ Type: 2
 -
  Reference: "Geenen S, du Preez FB, Snoep JL, Foster AJ, Sarda S, Kenna JG, Wilson ID, Westerhoff HV (2013) Glutathione metabolism modeling: a mechanism for liver drug-robustness and a new biomarker strategy. Biochim. Biophys. Acta 1830:4943- 59"
  Year: 2013
@@ -1050,12 +1182,14 @@
  Keywords:
   - Toxicology
   - Metabolism
+ Type: 2
 -
  Reference: "Haq I,  Irving JA, Faull SV, Dickens JA, Ordonez A, Belorgey D, Gooptu B, Lomas, DA (2013) Reactive centre loop mutants of alpha-1-antitrypsin reveal position-specific effects on intermediate formation along the polymerization pathway. Biosci. Rep. 33:499-511"
  Year: 2013
  URL: http://dx.doi.org/10.1042/BSR20130038
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Helgeson LA, Nolen BJ (2013) Mechanism of synergistic activation of Arp2/3 complex by cortactin and N-WASP. eLife 2:e00884"
  Year: 2013
@@ -1063,30 +1197,35 @@
  Keywords:
   - Macromolecular biochemistry
   - Signaling
+ Type: 2
 -
  Reference: "Incicco JJ, Gebhard LG, González-Lebrero RM, Gamarnik AV, Kaufman SB (2013) Steady-State NTPase Activity of Dengue Virus NS3: Number of Catalytic Sites, Nucleotide Specificity and Activation by ssRNA. PLoS ONE 8:e58508"
  Year: 2013
  URL: http://dx.doi.org/10.1371/journal.pone.0058508
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Kennedy N, Mizeranschi A, Thompson P, Zheng H, Dubitzky W (2013) Reverse engineering of gene regulation models from multi-condition experiments. Proceedings of the 2013 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), pp.112-119"
  Year: 2013
  URL: http://dx.doi.org/10.1109/CIBCB.2013.6595396
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Kent E, Neumann S, Kummer U, Mendes P (2013) What Can We Learn from Global Sensitivity Analysis of Biochemical Systems? PLoS ONE 8:e79244"
  Year: 2013
  URL: http://dx.doi.org/10.1371/journal.pone.0079244
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Kerkhoven EJ, Achcar F, Alibu VP, Burchmore RJ, Gilbert IH, Trybilo M, Driessen NN, Gilbert D, Breitling R, Bakker BM, Barrett MP (2013) Handling Uncertainty in Dynamic Models: The Pentose Phosphate Pathway in Trypanosoma brucei. PLoS Comput. Biol. 9:e1003371."
  Year: 2013
  URL: http://dx.doi.org/10.1371/journal.pcbi.1003371
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 55.8721241,-4.2903892
   - Coordinates: 57.6891209,11.9765016
@@ -1109,30 +1248,35 @@
   - Coordinates: 43.6627215,-79.3978422
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Klement M, Safránek D, Ded T, Pejznoch A, Nedbal L, Steuer R, Cerveny J, Müller S (2013) A comprehensive web-based platform for domain-specific biological models. Electronic Notes in Theoretical Computer Science 299:61-67"
  Year: 2013
  URL: http://dx.doi.org/10.1016/j.entcs.2013.11.006
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Kolodkin A, Sahin N, Phillips A, Hood SR, Bruggeman FJ, Westerhoff HV, Plant N (2013) Optimization of stress response through the nuclear receptor-mediated cortisol signalling network. Nature Communications 4:1792"
  Year: 2013
  URL: http://dx.doi.org/10.1038/ncomms2799
  Keywords:
   - Signaling
+ Type: 2
 -
- Reference: "Kourdis PD, Goussis DA (2013) Glycolysis in saccharomyces cerevisiae: Algorithmic exploration of robustness and origin of oscillations. Math. Biosci. 243:190-214"
+ Reference: "Kourdis PD, Goussis DA (2013) Glycolysis in Saccharomyces cerevisiae: Algorithmic exploration of robustness and origin of oscillations. Math. Biosci. 243:190-214"
  Year: 2013
  URL: http://dx.doi.org/10.1016/j.mbs.2013.03.002
  Keywords:
   - Theory
+ Type: 2
 -
  Reference: "Kraut DA (2013) Slippery substrates impair ATP-dependent protease function by slowing unfolding. J. Biol. Chem. 288:34729-34735"
  Year: 2013
  URL: http://dx.doi.org/10.1074/jbc.M113.512533
  Keywords:
   - Enzymology
+ Type: 2
  Locations:
   - Coordinates: 40.0349052,-75.3395391
 -
@@ -1141,6 +1285,7 @@
  URL: http://dx.doi.org/10.1074/jbc.M113.483289
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 49.4175309,8.6676395
   - Coordinates: 52.3337601,4.8635312
@@ -1154,6 +1299,7 @@
  URL: http://dx.doi.org/10.1016/j.bpc.2012.11.002
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 49.4183338,8.6707814
  Funding:
@@ -1173,18 +1319,21 @@
   - ERC
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Mednis M, Vigants A (2013) Automatic comparison of metabolites names: impact of criteria thresholds. Biosystems and Information Technol. 2:1-5"
  Year: 2013
  URL: http://dx.doi.org/10.11592/bit.130501
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Mensonides FIC, Bakker BM, Cremazy F, Messiha HL , Mendes P, Boogerd FC, Westerhoff HV (2013) A new regulatory principle for in vivo biochemistry: pleiotropic low affinity regulation by the adenine nucleotides illustrated for the glycolytic enzymes of Saccharomyces cerevisiae. FEBS Lett. 587:2860-7"
  Year: 2013
  URL: http://dx.doi.org/10.1016/j.febslet.2013.07.013
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 52.3337601,4.8635312
   - Coordinates: 53.2208632,6.5749903
@@ -1204,18 +1353,21 @@
  Keywords:
   - Computational method
   - Software
+ Type: 3
 -
  Reference: "Mei Y, Hontecillas R,  Zhang X; Carbo A, Bassaganya-Riera J (2013) Neural network models for classifying immune cell subsets. 2013 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 18-21 Dec. 2013, pp.5-11"
  Year: 2013
  URL: http://dx.doi.org/10.1109/BIBM.2013.6732614
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Miah F, Koliwer-Brandl H, Rejzek M, Field RA, Kalscheuer R, Bornemann S (2013) Flux through trehalose synthase flows from trehalose to the alpha anomer of maltose in mycobacteria. Chem. Biol. 20:487-493"
  Year: 2013
  URL: http://dx.doi.org/10.1016/j.chembiol.2013.02.014
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 52.6222742,1.2191923
   - Coordinates: 51.1959454,6.7874395
@@ -1229,6 +1381,7 @@
  URL: http://dx.doi.org/10.1371/journal.pcbi.1003299
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 53.4726871,-2.2394139
   - Coordinates: 37.2209365,-80.4306844
@@ -1245,18 +1398,21 @@
   - EU-Marie-Curie
  Keywords:
   - Metabolism
+ Type: 2
 -
  Reference: "Nobile MS , Besozzi D, Cazzaniga P, Mauri G, Pescini D (2013) cupSODA: a CUDA-powered simulator of mass-action kinetics. Parallel Computing Technologies Proceedings of the 12th International Conference, PaCT 2013, St. Petersburg, pp.344-357"
  Year: 2013
  URL: http://dx.doi.org/10.1007/978-3-642-39958-9_32
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Palai T, Bhattacharya PK (2013) Kinetics of lactose conversion to galacto-oligosaccharides by beta-galactosidase immobilized on PVDF membrane. J. Biosci. Bioeng. 115:668-673"
  Year: 2013
  URL: http://dx.doi.org/10.1016/j.jbiosc.2012.12.014
  Keywords:
   - Enzymology
+ Type: 2
  Locations:
   - Coordinates: 26.513541,80.230523
  Funding:
@@ -1267,12 +1423,14 @@
  URL: http://scholarbank.nus.edu.sg/handle/10635/43755
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Penkler GP (2013) A kinetic model of glucose catabolism in Plasmodium falciparum. Ph.D. Thesis, Faculty of Science, University of Stellenbosch, South Africa"
  Year: 2013
  URL: http://hdl.handle.net/10019.1/79843
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: -33.9562001,18.4582946
  Funding:
@@ -1283,18 +1441,21 @@
  URL: http://dx.doi.org/10.4161/gmic.24826
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Proctor CJ, Boche D, Gray DA, Nicoll JAR (2013) Investigating Interventions in Alzheimer's Disease with Computer Simulation Models. PLoS ONE 8:e73631"
  Year: 2013
  URL: http://dx.doi.org/10.1371/journal.pone.0073631
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Ravichandran S, Rao KVS, Jain S (2013) Bistability in a model of early B cell receptor activation and its role in tonic signaling and system tunability. Molecular BioSystems 9:2498-2511"
  Year: 2013
  URL: http://dx.doi.org/10.1039/C3MB70099B
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Reeves BD, Hilmer JK, Mellmann L, Hartzheim M, Poffenberger K, Johnson K, Joshi N, Singel DJ, Grieco PA (2013) Selective trapping of SNO-BSA and GSNO by benzenesulfinic acid sodium salt: mechanistic study of thiosulfonate formation and feasibility as a protein S-nitrosothiol detection strategy. Tetrahedron Lett. 54:5707-10"
  URL: http://dx.doi.org/10.1016/j.tetlet.2013.08.011
@@ -1305,12 +1466,14 @@
   - NIH
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Roberts E, Stone JE, Luthey-Schulten Z (2013) Lattice microbes: High-performance stochastic simulation method for the reaction-diffusion master equation. J. Comput. Chem. 34:245-255"
  Year: 2013
  URL: http://dx.doi.org/10.1002/jcc.23130
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Rutkis R, Kalnenieks U, Stalidzans E, Fell DA (2013) Kinetic modeling of Zymomonas mobilis Entner-Doudoroff pathway: insights into control and functionality. Microbiol. 159:2674-2689"
  Year: 2013
@@ -1318,6 +1481,7 @@
  Keywords:
   - Metabolism
   - Microbiology
+ Type: 2
  Locations:
   - Coordinates: 56.9508127,24.1141245
   - Coordinates: 56.6553629,23.7309819
@@ -1331,18 +1495,21 @@
  Keywords:
   - Cell biology
   - Signaling
+ Type: 2
 -
  Reference: "Sarma U, Gade PM, Saha B (2013) A mathematical model for dynamics of CD40 clustering. Systems and Synthetic Biol. 7:197-208"
  Year: 2013
  URL: http://dx.doi.org/10.1007/s11693-013-9112-8
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Schäuble S, Stavrum AK, Puntervoll P, Schuster S, Heiland I (2013) Effect of substrate competition in kinetic models of metabolic networks. FEBS Lett. 587:2818-2824"
  Year: 2013
  URL: http://dx.doi.org/10.1016/j.febslet.2013.06.025
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 69.6798045,18.9690275
   - Coordinates: 50.9295547,11.5876308
@@ -1366,6 +1533,7 @@
  Keywords:
   - Chemistry
   - Enzymology
+ Type: 2
 -
  Reference: "Sharma V, Compagnoni A (2013) Computational and mathematical models of the JAK-STAT signal transduction pathway. Proceedings of the 2013 Summer Computer Simulation Conference 15"
  Year: 2013
@@ -1373,18 +1541,21 @@
  Keywords:
   - Computational method
   - Signaling
+ Type: 2
 -
  Reference: "Sharp GC, Ma H, Saunders PTK, Norman JE (2013) A Computational Model of Lipopolysaccharide-Induced Nuclear Factor Kappa B Activation: A Key Signalling Pathway in Infection-Induced Preterm Labour. PLoS ONE 8:e70180"
  Year: 2013
  URL: http://dx.doi.org/10.1371/journal.pone.0070180
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Shemirani MI (2013) Construction of metabolic pathway of catecholamine from tyrosine in human fibroblast cell. Degree Proejct in Medicine, School of Medicine and Health Science, Orerbo University, Sweden"
  Year: 2013
  URL: http://www.researchgate.net/profile/Mahnaz_Shemirani/publication/259692806_CONSTRUCTION_OF_METABOLIC_PATHWAY_OF_CATECHOLAMINE_FROM_TYROSINE_IN_HUMAN_FIBROBLAST_CELL/links/00b4952d58fb25f430000000.pdf
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 59.254719,15.2462573
 -
@@ -1393,6 +1564,7 @@
  URL: http://dx.doi.org/10.1016/j.febslet.2013.06.024
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 28.5426035,77.1666813
  Funding:
@@ -1403,12 +1575,14 @@
  URL: http://dx.doi.org/10.1155/2013/230906
  Keywords:
   - Laboratory method
+ Type: 3
 -
  Reference: "Smallbone K, Messiha HL, Carroll KM, Winder CL, Malys N, Dunn WB, Murabito E, Swainston N, Dada JO, Khan F, Pir P, Simeonidis E, Spasic I, Wishart J, Weichart D, Hayes NW, Jameson D, Broomhead DS, Oliver SG, Gaskell SJ, McCarthy JEG, Paton NW, Westerhoff HV, Kell DB, Mendes P (2013) A model of yeast glycolysis based on a consistent kinetic characterization of all its enzymes. FEBS Letters 587:2832-41"
  Year: 2013
  URL: http://dx.doi.org/10.1016/j.febslet.2013.06.043
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 53.4726871,-2.2394139
   - Coordinates: 37.2209365,-80.4306844
@@ -1431,12 +1605,14 @@
  URL: http://dx.doi.org/10.1186/1752-0509-7-41
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Stavrum A-K, Heiland I, Schuster S, Puntervoll P, Ziegler M (2013) Model of tryptophan metabolism, readily scalable using tissue-specific gene expression data. J. Biol. Chem. 288:34555-34566"
  Year: 2013
  URL: http://dx.doi.org/10.1074/jbc.M113.474908
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: 69.6798045,18.9690275
   - Coordinates: 50.9295547,11.5876308
@@ -1458,12 +1634,14 @@
   - Swedish Nuclear Fuel and Waste Management Co
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Sütterlin T, Kolb C, Dickhaus H, Jäger D, Grabe N (2013) Bridging the scales: semantic integration of quantitative SBML in graphical multi-cellular models and simulations with EPISIM and COPASI. Bioinformatics 29:223-9"
  Year: 2013
  URL: http://dx.doi.org/10.1093/bioinformatics/bts659
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Tapinos A, Mendes P (2013) A Method for Comparing Multivariate Time Series with Different Dimensions. PLoS ONE 8:e54201"
  Year: 2013
@@ -1471,12 +1649,14 @@
  Keywords:
   - Computational method
   - Theory
+ Type: 3
 -
  Reference: "Toney MD (2013) Common enzymological experiments allow free energy profile determination. Biochemistry 52:5952-5965"
  Year: 2013
  URL: http://dx.doi.org/10.1021/bi400696j
  Keywords:
   - Enzymology
+ Type: 2
  Locations:
   - Coordinates: 38.5382364,-121.7639012
 -
@@ -1485,6 +1665,7 @@
  URL: http://ir.uiowa.edu/etd/4782/
  Keywords:
   - Toxicology
+ Type: 2
 -
  Reference: "Veith N, Feldman-Salit A, Cojocaru V, Henrich S, Kummer U, Wade RC (2013) Organism-Adapted Specificity of the Allosteric Regulation of Pyruvate Kinase in Lactic Acid Bacteria. PLoS Comput. Biol. 9:e1003159"
  Year: 2013
@@ -1492,6 +1673,7 @@
  Keywords:
   - Metabolism
   - Microbiology
+ Type: 2
  Locations:
   - Coordinates: 49.4183338,8.6707814
  Funding:
@@ -1505,18 +1687,21 @@
  URL: http://dx.doi.org/10.1016/j.jnutbio.2013.01.006
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Chua HE, Bhowmick SS, Tucker-Kellogg L,  Forbes Dewey, Jr C (2012) STEROID: in silico heuristic target combination identification for disease-related signaling networks. Proceedings of the 2012 ACM Conference on Bioinformatics, Computational Biology and Biomedicine BCB'12 pp. 4-11"
  Year: 2012
  URL: http://dx.doi.org/10.1145/2382936.2382937
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Dalle Pezze P, Sonntag AG, Thien A, Prentzell MT, Gödel M, Fischer S, Neumann-Haefelin E, Huber TB, Baumeister R, Shanley DP, Thedieck K (2012) A Dynamic Network Model of mTOR Signaling Reveals TSC-Independent mTORC2 Regulation. Science Signaling  5:ra25"
  Year: 2012
  URL: http://dx.doi.org/10.1126/scisignal.2002469
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Ray JCJ, Igoshin OA (2012) Interplay of Gene Expression Noise and Ultrasensitive Dynamics Affects Bacterial Operon Organization. PLoS Comput. Biol. 8:e1002672"
  Year: 2012
@@ -1524,6 +1709,7 @@
  Keywords:
   - Microbiology
   - Genetics
+ Type: 2
 -
  Reference: "Bandaru P, Bansal M, Nemenman I (2011) Mass Conservation and Inference of Metabolic Networks from High-Throughput Mass Spectrometry Data. J. Comput. Biol. 18:147-154"
  Year: 2011
@@ -1531,6 +1717,7 @@
  Keywords:
   - Laboratory method
   - Computational method
+ Type: 3
 -
  Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. J. Am. Chem. Soc., 133:14566-9"
  URL: http://dx.doi.org/10.1021/ja206575j
@@ -1543,6 +1730,7 @@
   - NSF
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Iwasaki H, Takeuchi O, Teraguchi S, Matsushita K, Uehata T, Kuniyoshi K, Satoh T, Saitoh T, Matsushita M, Standley DM, Akira S (2011) The IkB kinase complex regulates the stability of cytokine-encoding mRNA induced by TLR-IL-1R by controlling degradation of regnase-1. Nature Immunology 12:1167-75"
  Year: 2011
@@ -1550,6 +1738,7 @@
  Keywords:
   - Immunology
   - Signaling
+ Type: 2
 -
  Reference: "Izawa Y, Pun D, Stahl SS (2011) Palladium-Catalyzed Aerobic Dehydrogenation of Substituted Cyclohexanones to Phenols. Science  333:209-213"
  URL: http://dx.doi.org/10.1126/science.1204183
@@ -1562,6 +1751,7 @@
   - NSF
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Keitz BK, Grubbs RH (2011) Probing the origin of degenerate metathesis selectivity via characterization and dynamics of ruthenacyclobutanes containing variable NHCs. J. Am. Chem. Soc. 133:16277-16284"
  URL: http://dx.doi.org/10.1021/ja207252r
@@ -1573,42 +1763,49 @@
   - NDSEG
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Klotz C, Ziegler T, Figueiredo AS, Rausch S, Hepworth MR, Obsivac N, Sers C, Lang R, Hammerstein P, Lucius R, Hartmann S (2011) A Helminth Immunomodulator Exploits Host Signaling Events to Regulate Cytokine Production in Macrophages. PLoS Pathog. 7:e1001248"
  Year: 2011
  URL: http://dx.doi.org/10.1371/journal.ppat.1001248
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Lauro FM, DeMaere MZ, Yau S, Brown MV, Ng C, Wilkins D, Raftery MJ, Gibson JAE, Andrews-Pfannkoch C,  Lewis M,  Hoffman JM, Thomas T, Cavicchioli R (2011) An integrative study of a meromictic lake ecosystem in Antarctica. ISME J. 5:879-95"
  Year: 2011
  URL: http://dx.doi.org/10.1038/ismej.2010.185
  Keywords:
   - Ecology
+ Type: 2
 -
  Reference: "Lee MV, Topper SE, Hubler SL, Hose J, Wenger CD, Coon JJ, Gasch AP (2011) A dynamic model of proteome changes reveals new roles for transcript alteration in yeast. Molecular Systems Biology 7:514"
  Year: 2011
  URL: http://dx.doi.org/10.1038/msb.2011.48 
  Keywords:
   - Genomics
+ Type: 2
 -
  Reference: "Marchisio MA, Stelling J (2011) Automatic Design of Digital Synthetic Gene Circuits. PLoS Comput. Biol. 7:e1001083"
  Year: 2011
  URL: http://dx.doi.org/10.1371/journal.pcbi.1001083
  Keywords:
   - Synthetic biology
+ Type: 2
 -
  Reference: "Mauch S, Stalzer M (2011) Efficient formulations for exact stochastic simulation of chemical systems. IEEE/ACM Transactions on Computational Biology and Bioinformatics 8:27-35"
  Year: 2011
  URL: http://dx.doi.org/10.1109/TCBB.2009.47
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Qian L, Winfree E (2011) A simple DNA gate motif for synthesizing large-scale circuits. J. Royal Soc. Interface 8:1281-97"
  Year: 2011
  URL: http://dx.doi.org/10.1098/rsif.2010.0729 
  Keywords:
   - Synthetic biology
+ Type: 2
 -
  Reference: "Rodriguez F, Bustos MA, Zanetti MN, Ruete MC, Mayorga LS, Tomes CN (2011) alpha-SNAP prevents docking of the acrosome during sperm exocytosis because it sequesters monomeric syntaxin. PLoS ONE 6:e21925"
  Year: 2011
@@ -1620,36 +1817,42 @@
  Keywords:
   - Cell biology
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Yao G, Tan C, West M, Nevins JR, You L (2011) Origin of bistability underlying mammalian cell cycle entry. Mol. Systems Biol. 7:485"
  Year: 2011
  URL: http://dx.doi.org/10.1038/msb.2011.19
  Keywords:
   - Cell biology
+ Type: 2
 -
  Reference: "Adra S, Sun T, MacNeil S, Holcombe M, Smallwood R (2010) Development of a Three Dimensional Multiscale Computational Model of the Human Epidermis. PLoS ONE 5:e8511."
  Year: 2010
  URL: http://dx.doi.org/10.1371/journal.pone.0008511
  Keywords:
   - Physiology
+ Type: 2
 -
  Reference: "Dimitrova ES, Vera Licona MP, McGee J, Laubenbacher R. (2010) Discretization of Time Series Data. J. Comput. Biol. J17:853-68."
  Year: 2010
  URL: http://dx.doi.org/10.1089/cmb.2008.0023
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Huang R, Grabarek Z,  Wang C-LA (2010) Differential effects of caldesmon on the intermediate conformational states of polymerizing actin. J. Biol. Chem. 285:71-79"
  Year: 2010
  URL: http://dx.doi.org/10.1074/jbc.M109.065078
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Nakano T, Doi T, Yoshimoto J, Doya K (2010) A Kinetic Model of Dopamine- and Calcium-Dependent Striatal Synaptic Plasticity. PLoS Comput Biol 6(2): e1000670."
  Year: 2010
  URL: http://dx.doi.org/10.1371/journal.pcbi.1000670
  Keywords:
   - Physiology
+ Type: 2
 -
  Reference: "Samorodnitsky E, Pugh BF (2010) Genome-Wide Modeling of Transcription Preinitiation Complex Disassembly Mechanisms using ChIP-chip Data. PLoS Comput. Biol. 6:e1000733"
  Year: 2010
@@ -1657,6 +1860,7 @@
  Keywords:
   - Macromolecular biochemistry
   - Genomics
+ Type: 2
 -
  Reference: "Smallbone, K, Simeonidis, E, Swainston, N, Mendes, P (2010) Towards a genome-scale kinetic model of cellular metabolism. BMC Sys. Biol. 4:6"
  Year: 2010
@@ -1664,12 +1868,14 @@
  Keywords:
   - Genomics
   - Whole-cell models
+ Type: 2
 -
  Reference: "Wendelsdorf K, Bassaganya-Riera J, Hontecillas R,  Eubank S (2010) Model of colonic inflammation: immune modulatory mechanisms in inflammatory bowel disease. J. Theoret. Biol. 264:1225-1239"
  Year: 2010
  URL: http://dx.doi.org/10.1016/j.jtbi.2010.03.027
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Curien G, Bastien O, Robert-Genthon M, Cornish-Bowden A, Cárdenas ML, Dumas R (2009) Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters. Mol. Sys. Biol. 5:271"
  URL: http://dx.doi.org/10.1038/msb.2009.29
@@ -1680,24 +1886,28 @@
   - Coordinates: 43.2563419,5.4027633
  Keywords:
   - Metabolism
+ Type: 2
 -
  Reference: "Gallagher SS, Sable JE, Sheetz MP, Cornish VW (2009) An In Vivo Covalent TMP-Tag Based on Proximity-Induced Reactivity. ACS Chem. Biol. 4:547-56"
  Year: 2009
  URL: http://dx.doi.org/10.1021/cb900062k 
  Keywords:
   - Laboratory method
+ Type: 3
 -
  Reference: "Goyal M, Rizzo M, Schumacher F,  Wong CF (2009) Beyond thermodynamics: drug binding kinetics could influence epidermal growth factor signaling. J. Medicinal Chem. 52:5582-5585"
  Year: 2009
  URL: http://dx.doi.org/10.1021/jm900974p
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Pingoud V, Wende W, Friedhoff P, Reuter M, Alves J, Jeltsch A, Mones L, Fuxreiter M, Pingoud A (2009) On the Divalent Metal Ion Dependence of DNA Cleavage by Restriction Endonucleases of the EcoRI Family. J. Mol. Biol. 393:140-60"
  Year: 2009
  URL: http://dx.doi.org/10.1016/j.jmb.2009.08.011
  Keywords:
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Shen Z, Dornan PK, Khan HA, WooTK, Dong VM (2009) Mechanistic Insights into the Rhodium-Catalyzed Intramolecular Ketone Hydroacylation (2009) J. Am. Chem. Soc. 131:1077-91"
  URL: http://dx.doi.org/10.1021/ja806758m
@@ -1711,36 +1921,42 @@
   - NSERC
  Keywords:
   - Chemistry
+ Type: 2
 -
  Reference: "Colvin RA, Bush AI, Volitakis I, Fontaine CP, Thomas D, Kikuchi K, Holmes WR (2008) Insights into Zn2+ homeostasis in neurons from experimental and modeling studies. Am. J. Physiol. 294:C726-C742"
  Year: 2008
  URL: http://dx.doi.org/10.1152/ajpcell.00541.2007 
  Keywords:
   - Physiology
+ Type: 2
 -
  Reference: "Del Conte-Zerial P, Brusch L, Rink JC, Collinet C, Kalaidzidis Y, Zerial M, Deutsch A (2008) Membrane identity and GTPase cascades regulated by toggle and cut-out switches. Mol. Sys. Biol. 4:206"
  Year: 2008
  URL: http://dx.doi.org/10.1038/msb.2008.45
  Keywords:
   - Signaling
+ Type: 2
 -
  Reference: "Jordao L,  Bleck CKE, Mayorga L, Griffiths G,  Anes E (2008) On the killing of mycobacteria by macrophages. Cell. Microbiol. 10:529-48"
  Year: 2008
  URL: http://dx.doi.org/10.1111/j.1462-5822.2007.01067.x
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Marchisio MA, Stelling J (2008) Computational design of synthetic gene circuits with composable parts. Bioinformatics 24:1903-10."
  Year: 2008
  URL: http://dx.doi.org/10.1093/bioinformatics/btn330 
  Keywords:
   - Synthetic biology
+ Type: 2
 -
  Reference: "Roy S, Werner-Washburne M, Lane T (2008) A system for generating transcription regulatory networks with combinatorial control of transcription. Bioinformatics 24:1318-1320"
  Year: 2008
  URL: http://dx.doi.org/10.1093/bioinformatics/btn126
  Keywords:
   - Software
+ Type: 3
 -
  Reference: "Schmierer B, Tournier AL, Bates PA, Hill CS (2008) Mathematical modeling identifies Smad nucleocytoplasmic shuttling as a dynamic signal-interpreting system. PNAS 105:6608-13"
  Year: 2008
@@ -1748,6 +1964,7 @@
  Keywords:
   - Cell biology
   - Signaling
+ Type: 2
 -
  Reference: "Stefan MI, Edelstein SJ, Le Novère N (2008) An allosteric model of calmodulin explains differential activation of PP2B and CaMKII. PNAS 105:10768-73"
  Year: 2008
@@ -1756,12 +1973,14 @@
   - Physiology
   - Signaling
   - Macromolecular biochemistry
+ Type: 2
 -
  Reference: "Camacho, D, Vera-Licona P, Mendes P, Laubenbacher R (2007) Comparison of reverse-engineering methods using an in silico network. Ann. N.Y. Acad. Sci. 1115:73-89."
  Year: 2007
  URL: http://dx.doi.org/10.1196/annals.1407.006
  Keywords:
   - Computational method
+ Type: 3
 -
  Reference: "Kelly MP, Isiegas C, Cheung YF, Tokarczyk J, Yang X, Esposito MF, Rapoport DA, Fabian SA, Siegel SJ, Wand G, Houslay MD, Kanes SJ, Abel T (2007) Constitutive activation of Galphas within forebrain neurons causes deficits in sensorimotor gating because of PKA-dependent decreases in cAMP. Neuropsychopharmacology 32:577-88"
  Year: 2007
@@ -1769,12 +1988,14 @@
  Keywords:
   - Pharmacology
   - Signaling
+ Type: 2
 -
  Reference: "Kummer U, Zobeley J, Brasen JC, Fahmy R, Kindzelskii AL, Petty AR, Clark AJ, Petty HR (2007) Elevated Glucose Concentrations Promote Receptor-Independent Activation of Adherent Human Neutrophils: An Experimental and Computational Approach. Biophys. J. 92:2597-2607"
  Year: 2007
  URL: http://dx.doi.org/10.1529/biophysj.106.086769
  Keywords:
   - Immunology
+ Type: 2
 -
  Reference: "Rippe K, Schrader A, Riede P, Strohner R, Lehmann E,Längst G (2007) DNA sequence- and conformation-directed positioning of nucleosomes by chromatin-remodeling complexes. PNAS 104:15635-40"
  Year: 2007
@@ -1782,12 +2003,14 @@
  Keywords:
   - Macromolecular biochemistry
   - Cell biology
+ Type: 2
 -
  Reference: "Uys L, Botha FC, Hofmeyr J-HS, Rohwer JM (2007) Kinetic model of sucrose accumulation in maturing sugarcane culm tissue. Phytochemistry 68:2375-92"
  URL: http://dx.doi.org/10.1016/j.phytochem.2007.04.023
  Year: 2007
  Keywords:
   - Metabolism
+ Type: 2
  Locations:
   - Coordinates: -33.9328033,18.8622583
   - Coordinates: -29.7421453,31.0328613
