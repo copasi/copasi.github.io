@@ -104,6 +104,9 @@
   - Laboratory method
   - Enzymology
  Type: 3
+ Locations:
+  - Graz University of Technology, Graz, Austrian
+  - Austrian Centre of Industrial Biotechnology, Graz, Austria
 -
  Reference: "Dacheux E, Firczuk H, McCarthy JEG (2015) Rate control in yeast protein synthesis at the population and single-cell levels. Bioch. Soc. Trans. 43:1266-70"
  URL: http://dx.doi.org/10.1042/BST20150169 
@@ -114,6 +117,8 @@
  Funding:
   - BBSRC
   - EPSRC
+ Locations:
+  - University of Warwick, Warwick, UK
 -
  Reference: "D'Aguanno E, Altamura E, Mavelli F, Fahr A, Stano P, Luisi PL (2015) Physical Routes to Primitive Cells: An Experimental Model Based on the Spontaneous Entrapment of Enzymes inside Micrometer-Sized Liposomes. Life 5:969-96"
  Year: 2015
@@ -121,6 +126,10 @@
  Keywords:
   - Synthetic biology
  Type: 2
+ Locations:
+  - Roma Tre University, Rome, Italy 
+  - Friedrich-Schiller University of Jena, Jena, Germany 
+  - University of Bari, Bari, Italy 
 -
  Reference: "Daneshjou N, Sieracki N, van Nieuw Amerongen GP, Schwartz MA, Komarova YA, Malik AB, Conway DE (2015) Rac1 functions as a reversible tension modulator to stabilize VE-cadherin trans-interaction. J. Cell Biol. 208:23-32"
  Year: 2015
@@ -129,6 +138,10 @@
   - Macromolecular biochemistry
   - Cell biology
  Type: 2
+ - University of Illinois, Chicago IL, USA
+ - Vrije University of Amsterdam, Amsterdam, Netherlands
+ - Yale University, New Haven CT, USA
+ - Virginia Commonwealth University, Richmond VA, USA
 -
  Reference: "della Sala F, Kay ER (2015) Reversible Control of Nanoparticle Functionalization and Physicochemical Properties by Dynamic Covalent Exchange. Angew. Chem. 127:4261-5"
  Year: 2015
@@ -140,12 +153,21 @@
   - EPSRC
   - Royal Society of Edinburgh
   - Scottish Government
+ Locations:
+  - University of St Andrews, St Andrews, UK
 -
  Reference: "Donovan S, Eaton CD, Gower ST, Jenkins KP, LaMar MD, Poli DB, Sheehy R, Wojdak JM (2015) QUBES: a community focused on supporting teaching and learning in quantitative biology, Lett. Biomath. 2:46-55"
  Year: 2015
  URL: http://dx.doi.org/10.1080/23737867.2015.1049969
  Keywords:
   - Education
+  - University of Pittsburgh, Pittsburgh PA, USA
+  - Unity College, Unity ME, USA
+  - North Carolina State University, Raleigh NC, USA
+  - BioQUEST, Madison WI, USA
+  - College of William and Mary, Williamsburg VA, USA
+  - Roanoke College, Salem VA, USA
+  - Radford University, Radford VA, USA
 -
  Reference: "Dornseifer S, Willkomm S, Far RK, Liebschwager J, Beltsiou F, Frank K, Laufer SD, Martinetz T, Sczakiel G, Claussen JC, Restle T (2015) RNAi revised - target mRNA-dependent enhancement of gene silencing. Nucl. Acids Res. 43:10623-32."
  Year: 2015
@@ -156,6 +178,8 @@
   - Macromolecular biochemistry
   - Genetics
  Type: 2
+ Locations:
+  - University of Lübeck, Lübeck, Germany 
 -
  Reference: "Dromms RA, Styczynski MP (2015) Improved metabolite profile smoothing for flux estimation. Molecular BioSystems 11:2394-2405"
  Year: 2015
@@ -166,6 +190,8 @@
  Type: 3
  Funding: 
   - NSF
+ Locations:
+  - Georgia Institute of Technology, Atlanta GA, USA 
 -
  Reference: "Dutta-Roy R, Rosenmund C, Edelstein SJ, Le Novère N (2015) Ligand-Dependent Opening of the Multiple AMPA Receptor Conductance States: A Concerted Model. PLoS ONE 10:e0116616"
  Year: 2015
@@ -174,6 +200,11 @@
   - Physiology
   - Macromolecular biochemistry
  Type: 2
+ Locations:
+  - Karolinska Insitutet, Stockholm, Sweden
+  - Charite University of Medicine, Berlin, Germany
+  - European Bioinformatics Institute, Hinxton, UK
+  - Babraham Institute, Babraham, UK
 -
  Reference: "Emiola A, George J, Andrews SS (2015) A Complete Pathway Model for Lipid A Biosynthesis in Escherichia coli. PLoS ONE 10:e0121216"
  Year: 2015
@@ -182,6 +213,9 @@
   - Metabolism
   - Microbiology
  Type: 2
+ Locations:
+  - University of East London, London, UK
+  - Fred Hutchinson Cancer Research Center, Seattle WA, USA
 -
  Reference: "Everetts NJ (2015) Computational Analysis of the Control of Cell Cycle Entry. Bachelor's Thesis, Department of Molecular and Cellular Biology, University of Arizona"
  Year: 2015
@@ -190,6 +224,8 @@
   - Cell biology
   - Signaling
  Type: 2
+ Locations:
+  - University of Arizona, Tucson AZ, USA
 -
  Reference: "Gladkovskaya O, Greaney P, Gun'ko YK, O'Connor GM, Meere M, Rochev Y (2015) An experimental and theoretical assessment of quantum dot cytotoxicity. Toxicol. Res. 4:1409-15"
  Year: 2015
@@ -197,6 +233,10 @@
  Keywords:
   - Toxicology
  Type: 2
+ Locations:
+  - National University of Ireland, Galway, Ireland
+  - Network of Excellence for Functional Biomaterials, Galway, Ireland
+  - Trinity College Dublin, Ireland
 -
  Reference: "Hamacher-Brady A, Brady NR (2015) Bax/Bak-Dependent, Drp1-Independent Targeting of XIAP into Inner-Mitochondrial Compartments Counteracts Smac-Dependent Effector Caspase Activation. J. Biol. Chem. 290:22005-18."
  Year: 2015
@@ -204,6 +244,9 @@
  Keywords:
   - Signaling
  Type: 2
+ Locations:
+  - German Cancer Research Center, Heidelberg, Germany
+  - Heidelberg University, Heidelberg, Germany 
 -
  Reference: "Hinze T, Kirkici K, Sauer P, Sauer P, Behre J (2015) Membrane Computing Meets Temperature: A Thermoreceptor Model as Molecular Slide Rule with Evolutionary Potential. Lecture Notes Comp. Sci. 9504:215-235"
  Year: 2015
@@ -212,10 +255,10 @@
   - Computational method
  Type: 3
  Locations:
-  - Coordinates: 51.7669933,14.3244443
-  - Coordinates: 50.9282046,11.5809524
-  - Coordinates: 51.0338789,13.7133819
-  - Coordinates: 52.6235842,1.2219993
+  - Brandenburg University of Technology, Cottbus, Germany
+  - Friedrich Schiller University Jena, Jena, Germany
+  - Dresden University of Technology, Dresden, Germany
+  - Institute of Food Research, Norwich, UK 
 -
  Reference: "Hristova-Neeley D, Neshchadin D, Gescheidt G (2015) Time-Resolved EPR as a Tool to Investigate Oxygen Quenching in Photoinitiated Radical Polymerizations. J. Phys. Chem. B, 119:13883-7"
  Year: 2015
@@ -223,6 +266,8 @@
  Keywords:
   - Chemistry
  Type: 2
+ Locations: 
+  - Graz University of Technology, Graz, Austria
 -
  Reference: "Hudson DA, Gannon SA, Thorpe C, (2015) Oxidative protein folding: From thiol-disulfide exchange reactions to the redox poise of the endoplasmic reticulum. Free Radicals Biol. Med. 80:171-182"
  Year: 2015
@@ -230,6 +275,8 @@
  Keywords:
   - Macromolecular biochemistry
  Type: 2
+ Locations:
+  - University of Delaware, Newark DE, USA
 -
  Reference: "Intosalmi J, Ahlfors H, Rautio S, Mannerstöm H, Chen ZJ, Lahesmaa R, Stockinger B, Lähdesmäki H. (2015) Analyzing Th17 cell differentiation dynamics using a novel integrative modeling framework for time-course RNA sequencing data. BMC Systems Biol. 9:81."
  URL: http://dx.doi.org/10.1186/s12918-015-0223-6
@@ -244,13 +291,18 @@
   - EU-FP7
   - EraSysBio
   - Sigrid Juselius Foundation
+ Locations:
+  - Aalto University, Helsinki, Finland
+  - The Francis Crick Institute, London, UK
+  - University of Turku, Turku, Finland
+  - Åbo Akademi, Turku, Finland
 -
  Reference: "Jeong H, John JM, Schrock RR, Hoveyda AH (2015) Synthesis of Alternating trans-AB Copolymers through Ring-Opening Metathesis Polymerization Initiated by Molybdenum Alkylidenes. J. Am. Chem. Soc. 137:2239-42"
  URL: http://dx.doi.org/10.1021/jacs.5b00221
  Year: 2015
  Locations:
-  - Coordinates: 42.3355527,-71.1706832
-  - Coordinates: 42.3600949,-71.0963487
+  - Massachusetts Institute of Technology, Cambridge MA, USA
+  - Boston College, Chestnut Hill MA, United States
  Funding:
   - DOE
   - NIH
@@ -262,11 +314,11 @@
  URL: http://dx.doi.org/10.1021/jo502641d
  Year: 2015
  Locations:
-  - Coordinates: 40.4712942,-74.4425329
-  - Coordinates: 32.8873957,-117.2639054
+  - Scripps Research Institute, La Jolla CA, USA
+  - Bristol-Myers Squibb, New Brunswick NJ, USA
  Funding:
-  - Bristol-Myers Squibb Company
   - Scripps Research Institute
+  - Bristol-Myers Squibb Company
  Keywords:
   - Chemistry
  Type: 2
@@ -278,7 +330,7 @@
   - Enzymology
  Type: 2
  Locations:
-  - Coordinates: 53.4730703,-2.2378582
+  - University of Manchester, Manchester, UK
  Funding:
   - BBSRC
   - EPSRC
@@ -301,6 +353,8 @@
  Funding:
   - NIH
   - Burroughs Wellcome Fund
+ Locations:
+  - Duke University, Durham NC, USA
 -
  Reference: "Kashyap R, Palai T, Bhattacharya PK (2015) Kinetics and model development for enzymatic synthesis of fructo-oligosaccharides using fructosyltransferase. Bioprocess Biosystems Eng. 38:2417-26"
  Year: 2015
@@ -309,12 +363,17 @@
   - Biotechnology
   - Metabolism
  Type: 2
+ Locations:
+  - Indian Institute of Technology Kanpur, Kanpur, India
+  - Birla Institute of Technology Mesra, Ranchi, India
 -
  Reference: "Kesten D, Kummer U, Sahle S, Hübner K (2015) A new model for the aerobic metabolism of yeast allows the detailed analysis of the metabolic regulation during glucose pulse. Biophys. Chem. 206:40-57."
  Year: 2015
  URL: http://dx.doi.org/10.1016/j.bpc.2015.06.010
  Keywords:
   - Metabolism
+ Locations:
+  - Heidelberg University, Heidelberg, Germany 
 -
  Reference: "Koutsouradis E, Provelengios G, Kouskoumvekakis E, Manolakos ES (2015) Scalable FPGA Accelerator of the NRM Algorithm for Efficient Stochastic Simulation of Large-Scale Biochemical Reaction Networks. in 2015 Euromicro Conference on Digital System Design (DSD) pp.583-590"
  Year: 2015
@@ -325,6 +384,8 @@
  Funding:
   - European Social Fund
   - Greek Government
+ Locations:
+  - University of Athens, Athens, Greece 
 -
  Reference: "Laurell Nash A, Hertzberg R, Wen YQ, Dahlgren B, Brinck T, Moberg C (2015) Dual Lewis Acid-Lewis Base Catalyzed Acylcyanation of Aldehydes: A Mechanistic Study. Chemistry doi:10.1002/chem.201503782"
  Year: 2015
