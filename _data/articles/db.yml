@@ -396,6 +396,8 @@
  Funding:
   - Swedish Research Council
   - Wenner-Gren Foundations
+ Locations:
+  - KTH Royal Institute of Technology, Stockholm, Sweden
 -
  Reference: "Leber A, Viladomiu M, Hontecillas R, Abedi V, Philipson C, Hoops S, Howard B, Bassaganya-Riera J (2015) Systems Modeling of Interactions between Mucosal Immunity and the Gut Microbiome during Clostridium difficile Infection. PLoS ONE 10:e0134849"
  Year: 2015
@@ -405,6 +407,8 @@
  Type: 2
  Funding:
   - NIH
+ Locations:
+  - Virginia Tech, Blacksburg VA, USA
 -
  Reference: "Lee TW, Yang AS-P, Brittain T, Birch NP (2015) An analysis approach to identify specific functional sites in orthologous proteins using sequence and structural information: Application to neuroserpin reveals regions that differentially regulate inhibitory activity. Proteins Struct. Funct. Bioinformatics 83:135-52"
  Year: 2015
@@ -412,6 +416,8 @@
  Keywords:
   - Macromolecular biochemistry
  Type: 2
+ Locations:
+  - University of Auckland, Auckland, New Zealand
 -
  Reference: "Li L, Gervasi N, Girault J-A (2015) Dendritic geometry shapes neuronal cAMP signalling to the nucleus. Nature Comm. 6:6319"
  Year: 2015
@@ -420,6 +426,10 @@
   - Cell biology
   - Signaling
  Type: 2
+ Locations:
+  - Inserm, Paris, France
+  - Pierre and Marie Curie University, Paris, France
+  - Institut du Fer à Moulin, Paris, France
 -
  Reference: "Lu P, Abedi V, Mei Y, Hontecillas R, Hoops S, Carbo A, Bassaganya-Riera J (2015) Supervised learning methods in modeling of CD4+ T cell heterogeneity. BioData Mining 8:1-21"
  Year: 2015
@@ -430,6 +440,9 @@
  Type: 3
  Funding:
   - NIH
+ Locations:
+  - BioTherapeutics Inc, Blacksburg VA, USA
+  - Virginia Tech, Blacksburg VA, USA
 -
  Reference: "Luna A, McFadden GB, Aladjem MI, Kohn KW (2015) Predicted Role of NAD Utilization in the Control of Circadian Rhythms during DNA Damage Response. PLoS Comput Biol 11:e1004144"
  Year: 2015
@@ -437,14 +450,18 @@
  Keywords:
   - Cell biology
  Type: 2
+ Locations:
+  - National Cancer Institute, Bethesda MD, USA
+  - Boston University, Boston MA, USA
+  - National Institute of Standards and Technology, Gaithersburg MD, USA
 -
  Reference: "Luo J, Theron R, Sewell LJ, Hooper TN, Weller AS, Oliver AG, McIndoe JS (2015) Rhodium-Catalyzed Selective Partial Hydrogenation of Alkynes. Organometallics 34:3021-8"
  URL: http://dx.doi.org/10.1021/acs.organomet.5b00322
  Year: 2015
  Locations:
-  - Coordinates: 48.4634102,-123.3138822
-  - Coordinates: 51.756406,-1.2544172
-  - Coordinates: 41.7055756,-86.2375275
+  - University of Victoria, Victoria BC, Canada
+  - University of Oxford, Oxford, UK
+  - University of Notre Dame, Notre Dame IN, USA
  Funding:
   - NSERC
   - CFI
