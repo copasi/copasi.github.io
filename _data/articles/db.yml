@@ -473,10 +473,12 @@
 -
  Reference: "Madsen C, Shmarov F, Zuliani P (2015) BioPSy: An SMT-based Tool for Guaranteed Parameter Set Synthesis of Biological Models. Proceedings 13th International Conference, CMSB 2015 (Roux O, Bourdon J, Eds.), Springer pp182-94"
  Year: 2015
- URL: http://dx.doi.org/10.1007/978-3-319-23401-4
+ URL: http://dx.doi.org/10.1007/978-3-319-23401-4_16
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, UK
 -
  Reference: "Mandlik V, Gurav M, Singh S (2015) Regulatory dynamics of network architecture and function in tristable genetic circuit of Leishmania: a mathematical biology approach. J Biomol. Struct. Dyn. 33:2554-62"
  Year: 2015
@@ -488,6 +490,8 @@
  Type: 2
  Funding:
   - Department of Biotechnology, Government of India
+ Locations:
+  - National Centre for Cell Science, Pune, India
 -
  Reference: "Marwaha S (2015) A Genomics and Mathematical Modeling Approach for the study of Helicobacter pylori associated Gastritis and Gastric Cancer. PhD Thesis, University of Cincinnati"
  Year: 2015
@@ -496,6 +500,8 @@
   - Immunology
   - Signaling
  Type: 2
+ Locations:
+  - University of Cincinnati, Cincinnati OH, USA
 -
  Reference: "Mei Y, Abedi V, Carbo A, Zhang X, Lu P, Philipson C, Hontecillas R, Hoops S, Liles N, Bassaganya-Riera J. (2015) Multiscale modeling of mucosal immune responses. BMC Bioinformatics. 16 Suppl 12:S2"
  Year: 2015
@@ -503,6 +509,9 @@
  Keywords:
   - Immunology
  Type: 2
+ Locations:
+  - Virginia Tech, Blacksburg VA, USA
+  - BioTherapeutics Inc, Blacksburg VA, USA
 -
  Reference: "Mei Y, Carbo A, Hoops S, Hontecillas R, Bassaganya-Riera J (2015) ENISI SDE: A New Web-Based Tool for Modeling Stochastic Processes. IEEE/ACM Trans. Comput. Biol. Bioinformatics 12:289-97"
  Year: 2015
@@ -510,10 +519,12 @@
  Keywords:
   - Software
  Type: 3
+ Locations:
+  - Virginia Tech, Blacksburg VA, USA
 -
  Reference: "Mendes P, Oliver SG, Kell DB (2015) Fitting Transporter Activities to Cellular Drug Concentrations and Fluxes: Why the Bumblebee Can Fly. Trends Pharmacological Sciences 36:710-23"
  Year: 2015
- URL: http://dx.doi.org/10.1016/j.tips.2015.07.0060
+ URL: http://dx.doi.org/10.1016/j.tips.2015.07.006
  Keywords:
   - Physiology
   - Pharmacology
@@ -523,6 +534,10 @@
   - NIH
   - UK Technology Strategy Board
   - EU-FP7
+ Locations:
+  - University of Manchester, Manchester, UK
+  - University of Cambridge, Cambridge, UK
+  - UConn Health, Farmington CT, USA
 -
  Reference: "Montes MR, Ferreira-Gomes MS, Centeno M, Rossi RC (2015) The E2P-like state induced by magnesium fluoride complexes in the Na, K-ATPase. Kinetics of formation and interaction with Rb+. Biochim. Biophys Acta 1848:1514-23"
  Year: 2015
@@ -531,7 +546,7 @@
   - Enzymology
  Type: 2
  Locations:
-  - Coordinates: -34.5977666,-58.3999597
+  - Universidad de Buenos Aires, Buenos Aires, Argentina
  Funding:
   - Agencia Nacional de Promoción Científica y Tecnológica
   - Consejo Nacional de Investigaciones Científicas y Técnicas
@@ -543,6 +558,8 @@
  Keywords:
   - Laboratory method
  Type: 3
+ Locations:
+  - Bielefeld University, Bielefeld, Germany
 -
  Reference: "Nelsen ER, Brezny AC, Landis CR (2015) Interception and Characterization of Catalyst Species in Rhodium Bis(diazaphospholane)-Catalyzed Hydroformylation of Octene, Vinyl Acetate, Allyl Cyanide, and 1-Phenyl-1,3-butadiene. J. Am. Chem. Soc., 2015, 137:14208-219"
  Year: 2015
@@ -552,16 +569,20 @@
  Funding:
   - NSF
  Type: 2
+ Locations:
+  -  University of Wisconsin-Madison, Madison WI, USA
 -
  Reference: "Palaia T, Kumarb A, Bhattacharyaa PK (2015) Kinetic studies and model development for the formation of galacto-oligosaccharides from lactose using synthesized thermo-responsive bioconjugate. Enzyme Microbial Technol. 70:42-49"
  Year: 2015
- URL: http://dx.doi.org/10.1016/j.enzmictec.2014.12.01067
+ URL: http://dx.doi.org/10.1016/j.enzmictec.2014.12.010
  Keywords:
   - Biotechnology
   - Enzymology
  Type: 2
  Funding:
   - Department of Biotechnology, Government of India
+ Locations:
+  - Indian Institute of Technology Kanpur, Kanpur, India
 -
  Reference: "Palmisano A, Hoops S, Watson LT, Jones TC Jr, Tyson JJ, Shaffer CA (2015) JigCell Run Manager (JC-RM): a tool for managing large sets of biochemical model parametrizations. BMC Systems Biol. 9:95"
  Year: 2015
