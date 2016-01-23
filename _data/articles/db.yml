@@ -642,6 +642,10 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - University of Texas at San Antonio, San Antonio TX, USA
+  - AL Phahelix Biometrics Inc, San Antonio TX, USA
+  - Clemson University, Clemson SC, USA
 -
  Reference: "Philipson CW, Bassaganya-Riera J, Viladomiu M, Kronsteiner B, Abedi V, Hoops S, et al. (2015) Modeling the Regulatory Mechanisms by Which NLRX1 Modulates Innate Immune Responses to Helicobacter pylori Infection. PLoS ONE 10(9):e0137839"
  Year: 2015
@@ -649,6 +653,10 @@
  Keywords:
   - Immunology
  Type: 2
+ Locations:
+  - Virginia Tech, Blacksburg VA, USA
+  - Virginia-Maryland Regional College of Veterinary Medicine, Blacksburg VA, USA
+  - University of Toronto, Toronto, Canada
 -
  Reference:  "Pineda E, Encalada R, Vázquez C, González Z, Moreno-Sánchez R, Saavedra E (2015) Glucose Metabolism and Its Controlling Mechanisms in Entamoeba histolytica. In Amebiasis. Part IV Biology and Pathogenesis of Entamoeba (Nozaki T, Bhattacharya A eds.) Springer pp.351-372"
  Year: 2015
@@ -657,6 +665,8 @@
   - Metabolism
   - Microbiology
  Type: 2
+ Locations:
+  - Instituto Nacional de Cardiología Ignacio Chávez, México, Mexico
 -
  Reference: "Raganatia F, Procentese A, Olivieri G, Götzc P, Salatino P, Marzocchella A (2015) Kinetic study of butanol production from various sugars by Clostridium acetobutylicum using a dynamic model. Biochem. Eng. J. 99:156-66."
  Year: 2015
@@ -669,6 +679,10 @@
  Funding:
   - Ministero dello Sviluppo Economico (Italy)
   - BMBF
+ Locations:
+  - Università Degli Studi di Napoli Federico II, Naples, Italy
+  - Wageningen University, Wageningen, The Netherlands
+  - Beuth University of Applied Sciences Berlin, Berlin, Germany
 -
  Reference: "Rastgou Talemi S, Kollarovic G, Lapytsko A, Schaber J (2015) Development of a robust DNA damage model including persistent telomere-associated damage with application to secondary cancer risk assessment. Sci. Rep. 5:13540"
  URL: http://dx.doi.org/10.1038/srep13540
@@ -689,6 +703,9 @@
   - Computational method
   - Laboratory method
  Type: 3
+ Locations:
+  - Otto von Guericke University, Magdeburg, Germany
+  - Slovak Academy of Sciences, Bratislava, Slovakia
 -
  Reference: "Rosenthal RG, Vögeli B, Quade N, Capitani G, Kiefer P, Vorholt JA, Ebert MO, Erb TJ (2015) The use of ene adducts to study and engineer enoyl-thioester reductases. Nature Chem. Biol. 11:398-400."
  URL: http://dx.doi.org/10.1038/nchembio.1794
@@ -698,6 +715,10 @@
  Type: 2
  Funding:
   - Swiss National Science Foundation
+ Funding:
+  - ETH Zurich, Zurich, Switzerland
+  - Max Planck Institute for Terrestrial Microbiology, Marburg, Germany
+  - Paul Scherrer Institute, Villigen, Switzerland
 -
  Reference: "Roy RD, Stefan MI (2015) Cooperative Binding Mitigates the High-Dose Hook Effect. BioArchive doi:10.1101/021717"
  Year: 2015
@@ -706,10 +727,13 @@
   - Theory
   - Macromolecular biochemistry
  Type: 2
+ Locations:
+  - Karolinska Institutet, Stockholm, Sweden
+  - University of Edinburgh, Edinburgh, UK
 -
  Reference: "Samal SS, Grigoriev D, Fröhlich H, Weber A, Radulescu O (2015) A Geometric Method for Model Reduction of Biochemical Networks with Polynomial Rate Functions. Bull. Math. Biol. 77:2180-211."
  Year: 2015
- URL: 10.1007/s11538-015-0118-0
+ URL: http://dx.doi.org/10.1007/s11538-015-0118-0
  Keywords:
   - Computational method
   - Theory
@@ -717,6 +741,11 @@
  Funding:
   - CNRS
   - Labex CEMPI
+ Locations:
+  - International Center for IT, Bonn, Germany
+  - University of Lille, Villeneuve d’Ascq, France
+  - University of Bonn, Bonn, Germany
+  - University of Montpellier, Montpellier, France 
 -
  Reference: "Sengupta A, Grover M, Chakraborty A, Saxena S (2015) HEPNet: A Knowledge Base Model of Human Energy Pool Network for Predicting the Energy Availability Status of an Individual. PLoS ONE 10(6):e0127918"
  Year: 2015
@@ -724,6 +753,9 @@
  Keywords:
   - Metabolism
  Type: 2
+ Locations:
+  - Amity University Uttar Pradesh, Uttar Pradesh, India
+  - Indian Agricultural Statistics Research Institute, New Delhi, India
 -
  Reference: "Sier JH (2015) Investigation of the impact of MRP3 and MRP4 on the disposition of drugs and conjugates in rat and human. Doctoral thesis, University of Surrey"
  URL: http://epubs.surrey.ac.uk/id/eprint/807179
@@ -733,6 +765,8 @@
  Locations:
   - Coordinates: 51.2427253,-0.5917031
  Type: 2
+ Locations:
+  - University of Surrey, Guildford, United Kingdom.
 -
  Reference: "Subburaj Y, Ros U, Hermann E, Tong R, García-Sáez AJ (2015) Toxicity of an alpha-Pore-forming Toxin Depends on the Assembly Mechanism on the Target Membrane as Revealed by Single Molecule Imaging. J. Biol. Chem. 290:4856-4865"
  Year: 2015
@@ -740,6 +774,11 @@
  Keywords:
   - Macromolecular biochemistry
  Type: 2
+ Locations:
+  - Max Planck Institute for Intelligent Systems, Stuttgart, Germany
+  - German Cancer Research Center, Heidelberg, Germany
+  - Faculty of Biology, Habana, Cuba
+  - University of Tübingen, Tübingen, Germany 
 -
  Reference: "Subramanian A, Sarkar RR (2015) Dynamics Of GLI Regulation And A Strategy To Control Cancerous Situation: Hedgehog Signaling Pathway Revisited. J. Biol. Systems 23:681-719"
  Year: 2015
@@ -750,6 +789,9 @@
  Funding:
   - Council of Scientific and Industrial Research (CSIR), India
   - DBT-BINC
+ Locations:
+  - National Chemical Laboratory, Pune, India
+  - Academy of Scientific & Innovative Research, Pune, India  
 -
  Reference: "Subramanian A, Singh V, Sarkar RR (2015) Understanding Visceral Leishmaniasis Disease Transmission and its Control - A Study Based on Mathematical Modeling. Mathematics 3:913-944"
  Year: 2015
@@ -760,6 +802,9 @@
  Funding:
   - Council of Scientific and Industrial Research (CSIR), India
   - DBT-BINC
+ Locations:
+  - National Chemical Laboratory, Pune, India
+  - Academy of Scientific & Innovative Research, Pune, India  
 -
  Reference: "Suwanmajo T, Krishnan J (2015) Mixed mechanisms of multi-site phosphorylation. J. Royal Soc. Interface 12:20141405"
  Year: 2015
@@ -767,6 +812,8 @@
  Keywords:
   - Signaling
  Type: 2
+ Locations:
+  - Imperial College London, London, UK
 -
  Reference: "Sveshnikova AN, Ataullakhanov FL, Panteleev MA (2015) Compartmentalized calcium signaling triggers subpopulation formation upon platelet activation through PAR1. Molecular BioSystems 11:1052-60"
  Year: 2015
@@ -774,6 +821,12 @@
  Keywords:
   - Signaling
  Type: 2
+ Locations:
+  - Moscow State University, Moscow, Russia
+  - Russian Academy of Sciences, Moscow, Russia
+  - Federal Research and Clinical Center of Pediatric Hematology, Oncology and Immunology, Moscow, Russia 
+  - National Research Center for Hematology, Moscow, Russia
+  - Moscow Institute of Physics and Technology, Dolgoprudny, Russia
 -
  Reference: "Talawar B (2015) A Crossbar Interconnection Network in DNA. Proceedings of 2015 IEEE International Parallel and Distributed Processing Symposium Workshop, pp. 342-5"
  Year: 2015
@@ -781,14 +834,16 @@
  Keywords:
   - Synthetic biology
  Type: 2
+ Locations:
+  - National Institute of Technology Karnataka, Mangalore, India 
 -
  Reference: "Torbensen K, Rossi F, Pantani OL, Ristori S, Abou-Hassan A (2015) Interaction of the Belousov-Zhabotinsky Reaction with Phospholipid Engineered Membranes. J. Phys. Chem. B 119:10224-30"
  URL: http://dx.doi.org/10.1021/acs.jpcb.5b04572
  Year: 2015
  Locations:
-  - Coordinates: 48.8464146,2.3526581
-  - Coordinates: 40.7687158,14.7898292
-  - Coordinates: 43.781652,11.2240368
+  - Sorbonne University, Paris, France
+  - University of Salerno, Fisciano, Italy
+  - University of Florence, Firenze, Italy
  Keywords:
   - Chemistry
  Type: 2
@@ -799,6 +854,9 @@
  Keywords:
   - Toxicology
  Type: 2
+ Locations:
+  - Semmelweis University, Budapest, Hungary
+  - Hungarian Academy of Sciences, Budapest, Hungary
 -
  Reference: "Trausinger G, Gruber C, Krahulec S, Magnes C, Nidetzky B, Klimacek M (2015) Identification of novel metabolic interactions controlling carbon flux from xylose to ethanol in natural and recombinant yeasts. Biotechnol. Biofuels 8:157"
  Year: 2015
@@ -809,6 +867,9 @@
  Type: 2
  Funding:
   - Austrian Federal Ministry for Transport, Innovation and Technology
+ Locations:
+  - Graz University of Technology, Graz, Austria
+  - Joanneum Research HEALTH Foundation, Graz, Austria
 -
  Reference: "Tummler K, Kühn C, Klipp E (2015) Dynamic metabolic models in context: biomass backtracking. Integr. Biol.7:940-51"
  Year: 2015
@@ -816,6 +877,8 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - Humboldt-University of Berlin, Berlin, Germany 
 -
  Reference: "Villaverde AF, Henriques D, Smallbone K; Bongard S, Schmid J, Cicin-Sain D, Crombach A, Saez-Rodriguez J, Mauch K, Balsa-Canto E, Mendes P, Jaeger J, Banga JR (2015) BioPreDyn-bench: a suite of benchmark problems for dynamic modelling in systems biology. BMC Systems Biol. 9:8"
  Year: 2015
@@ -823,6 +886,13 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - IIM-CSIC, Vigo, Spain. 
+  - European Bioinformatics Institute Hinxton, UK
+  - University of Manchester, Manchester, UK
+  - Insilico Biotechnology AG, Stuttgart, Germany
+  - Centre for Genomic Regulation, Barcelona, Spain
+  - University Pompeu Fabra, Barcelona, Spain
 -
  Reference: "Wang, H-Y, Huang Y-X, Zheng L-H, Bao Y-L, Sun L-G, Wu Y, Yu C-L, Song Z-B, Sun Y, Wang G-N, Ma Z-Q, Li Y-X Li (2015) Modelling Coupled Oscillations in the Notch, Wnt, and FGF Signaling Pathways during Somitogenesis: A Comprehensive Mathematical Model. Comput. Intelligence Neurosci. 2015:387409"
  Year: 2015
@@ -830,6 +900,8 @@
  Keywords:
   - Signaling
  Type: 2
+ Locations:
+  - Northeast Normal University, Changchun, China
 - 
  Reference: "Willems PH, Pahle J, Stalpers XL, Mugahid D, Nikolaew A, Koopman WJ, Kummer U (2015) PKC-mediated inhibitory feedback of the cholecystokinin 1 receptor controls the shape of oscillatory Ca2+ signals. FEBS J. 282:2187-201"
  Year: 2015
@@ -840,6 +912,10 @@
  Funding:
   - NWO
   - Klaus Tschira Foundation
+ Locations:
+  - Radboud University Medical Center, Nijmegen, Netherlands
+  - Heidelberg University, Heidelberg, Germany
+  - University of Manchester, Manchester, UK
 -
  Reference: "Zhou J, Aponte-Santamaría C, Sturm S, Bullerjahn JT, Bronowska A, Gräter F (2015) Mechanism of Focal Adhesion Kinase Mechanosensing. PLoS Comput. Biol. 11:e1004593"
  Year: 2015
@@ -853,6 +929,10 @@
   - BMBF
   - DFG
   - Free State of Saxony
+ Locations:
+  - Heidelberg Institute for Theoretical Studies, Heidelberg, Germany
+  - Leipzig University, Leipzig, Germany
+  - Heidelberg University, Heidelberg, Germany
 -
  Reference: "Zimmer C (2015) Reconstructing the hidden states in time course data of stochastic models. Math. Biosci. 269:117-29"
  Year: 2015
@@ -860,6 +940,8 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - Heidelberg University, Heidelberg, Germany
 -
  Reference: "Zimmer C, Sahle S. (2015) A termination criterion for parameter estimation in stochastic models in systems biology. Biosystems 9:181-92"
  Year: 2015
@@ -867,6 +949,8 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - Heidelberg University, Heidelberg, Germany
 -
  Reference: "Aubert N, Mosca C, Fujii T, Hagiya M, Rondelez Y (2014) Computer-assisted design for scaling up systems based on DNA reaction networks J. Royal Soc. Interface 11:20131167"
  Year: 2014
