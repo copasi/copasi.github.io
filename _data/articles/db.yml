@@ -138,6 +138,7 @@
   - Macromolecular biochemistry
   - Cell biology
  Type: 2
+ Locations:
  - University of Illinois, Chicago IL, USA
  - Vrije University of Amsterdam, Amsterdam, Netherlands
  - Yale University, New Haven CT, USA
@@ -161,6 +162,7 @@
  URL: http://dx.doi.org/10.1080/23737867.2015.1049969
  Keywords:
   - Education
+ Locations:
   - University of Pittsburgh, Pittsburgh PA, USA
   - Unity College, Unity ME, USA
   - North Carolina State University, Raleigh NC, USA
@@ -342,6 +344,9 @@
  Keywords:
   - Software
  Type: 3
+ Locations:
+  - European Bioinformatics Institute, Hinxton, UK
+  - Babraham Institute, Babraham, UK
 -
  Reference: "Karapetyan S, Buchler NE (2015) Role of DNA binding sites and slow unbinding kinetics in titration-based oscillators. Phys. Rev. E 92:062712"
  Year: 2015
@@ -586,12 +591,14 @@
 -
  Reference: "Palmisano A, Hoops S, Watson LT, Jones TC Jr, Tyson JJ, Shaffer CA (2015) JigCell Run Manager (JC-RM): a tool for managing large sets of biochemical model parametrizations. BMC Systems Biol. 9:95"
  Year: 2015
- URL: http://dx.doi.org/10.1186/s12918-015-0237-0.
+ URL: http://dx.doi.org/10.1186/s12918-015-0237-0
  Keywords:
   - Software
  Type: 3
  Funding:
   - NIH
+ Locations:
+  - Virginia Tech, Blacksburg VA, USA
 -
  Reference: "Patschinski P (2015) Chemoselective Silylation of Alcohols Through Lewis Base-catalyzed Reactions. Experimental and Theoretical Studies. PhD Thesis, Ludwig-Maximilians University of Munich"
  Year: 2015
@@ -599,6 +606,8 @@
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - Ludwig-Maximilians-Universität München, Munich, Germany
 -
  Reference: "Paul D, Dasgupta A, De RK (2015) Exploring the Altered Dynamics of Mammalian Central Carbon Metabolic Pathway in Cancer Cells: A Classical Control Theoretic Approach. PLoS ONE 10:e0137728."
  Year: 2015
@@ -606,6 +615,8 @@
  Keywords:
   - Theory
  Type: 2
+ Locations:
+  - Indian Statistical Institute, Kolkata, India
 -
  Reference: "Peñarrubia L, Romero P, Carrió-Seguí A, Andrés-Bordería A, Moreno J and Sanz A (2015) Temporal aspects of copper homeostasis and its crosstalk with hormones. Front. Plant Sci. 6:255."
  Year: 2015
@@ -613,6 +624,8 @@
  Keywords:
   - Physiology
  Type: 2
+ Locations:
+  - University of Valencia, Valencia, Spain
 -
  Reference: "Penkler G, du Toit F, Adams W, Rautenbach M, Palm DC, van Niekerk DD, Snoep JL (2015) Construction and validation of a detailed kinetic model of glycolysis in Plasmodium falciparum. FEBS J. 282:1481-511"
  Year: 2015
