@@ -290,7 +290,7 @@
  Type: 2
  Funding:
   - Academy of Finland
-  - EU-FP7
+  - EU FP7
   - EraSysBio
   - Sigrid Juselius Foundation
  Locations:
@@ -538,7 +538,7 @@
   - BBSRC
   - NIH
   - UK Technology Strategy Board
-  - EU-FP7
+  - EU FP7
  Locations:
   - University of Manchester, Manchester, UK
   - University of Cambridge, Cambridge, UK
@@ -958,6 +958,8 @@
  Keywords:
   - Software
  Type: 3
+ Locations:
+  - University of Tokyo, Tokyo, Japan
 -
  Reference: "Beauvoit BP, Colombié S, Monier A, Andrieu M-H, Biais B, Bénard C, Chéniclet C, Dieuaide-Noubhani M, Nazaret C, Mazat J-P, Gibon Y (2014) Model-assisted analysis of sugar metabolism throughout tomato fruit development reveals enzyme and carrier properties in relation to vacuole expansion. Plant Cell 26:3224-42 "
  Year: 2014
@@ -966,9 +968,9 @@
   - Metabolism
  Type: 2
  Locations:
-  - Coordinates: 44.787683,-0.5792078
-  - Coordinates: 44.8268942,-0.6070696
-  - Coordinates: 44.8061916,-0.5986267
+  - INRA Bordeaux-Aquitaine, Villenave d’Ornon, France
+  - University of Bordeaux, Bordeaux, France
+  - Institut Polytechnique de Bordeaux, Pessac, France
  Funding:
   - EraSysBio
   - INRA
@@ -979,6 +981,12 @@
  Keywords:
   - Metabolism
  Type: 2
+ Locations:
+  - University of Coimbra, Coimbra, Portugal
+  - University of Lisbon, Lisbon, Portugal
+ Funding:
+  - FCT Portugal
+  - EU ERDF
 -
  Reference: "Bhosle A, Chandra N (2014) Different cancer cell lines resistant to the same drug exhibit differences in folate pathway dynamics. Proceedings of the 2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 209-213"
  Year: 2014
@@ -986,6 +994,8 @@
  Keywords:
   - Metabolism
  Type: 2
+ Locations:
+  - Indian Institute of Science, Bangalore, India
 -
  Reference: "Carbo A, Olivares-Villagómez D, Hontecillas R, Bassaganya-Riera J, Chaturvedi R, Piazuelo MB, Delgado A, Washington MK, Wilson KT, Algood HMS (2014) Systems modeling of the role of IL-21 in the maintenance of effector CD4+ T cell responses during chronic Helicobacter pylori infection. mBio 5:e01243-14"
  Year: 2014
@@ -993,12 +1003,19 @@
  Keywords:
   - Immunology
  Type: 2
+ Locations:
+  - Veterans Affairs Tennessee Valley Healthcare System, Nashville TN, USA
+  - Vanderbilt University, Nashville TN, USA
+  - Virginia Tech, Blacksburg VA, USA 
+ Funding:
+  - NIH
+  - Department of Veterans Affairs
 -
  Reference: "Carrasco D, Pérez-Temprano MH, Casares JA, Espinet P (2014) Cross Alkyl-Aryl versus Homo Aryl-Aryl Coupling in Palladium-Catalyzed Coupling of Alkyl-Gold (I) and Aryl-Halide. Organometallics 33:3540-3545"
  URL: http://dx.doi.org/10.1021/om500446x
  Year: 2014
  Locations:
-  - Coordinates: 41.6634151,-4.7079068
+  - University of Valladolid, Valladolid, Spain
  Funding:
   - Spanish Comisión Interministerial de Ciencia y Tecnología
   - Junta de Castilla y León
@@ -1012,6 +1029,11 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - University of Bergamo, Bergamo, Italy
+  - Centre for Systems Biology, Milano, Italy
+  - Consiglio Nazionale delle Ricerche, Roma, Italy
+  - University of Milano-Bicocca, Milano, Italy
 -
  Reference: "Claudino M, Jonsson M, Johansson M (2014) Utilizing thiol-ene coupling kinetics in the design of renewable thermoset resins based on D-limonene and polyfunctional thiols. Royal Soc. Chem. Advances 4:10317-10329"
  URL: http://dx.doi.org/10.1039/C3RA47922F
@@ -1023,6 +1045,8 @@
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - KTH Royal Institute of Technology, Stockholm, Sweden 
 -
  Reference: "Costa RS, Hartmann A, Gaspar P, Neves AR, Vinga S (2014) An extended dynamic model of Lactococcus lactis metabolism for mannitol and 2,3-butanediol production. Mol. BioSystems 10:628-639"
  Year: 2014
@@ -1031,6 +1055,13 @@
   - Microbiology
   - Metabolism
  Type: 2
+ Locations:
+  - Instituto de Engenharia de Sistemas e Computadores, Investigacão e Desenvolvimento (INESC-ID), R Alves Redol 9, 1000-029 Lisboa, Portugal 
+  - ITQB, Oeiras, Portugal
+  - Chr. Hansen A/S, Hørsholm, Denmark
+  - Universidade de Lisboa, Lisboa, Portugal
+ Funding:
+  - FCT Portugal
 -
  Reference: "Dalle Pezze P, Nelson G, Otten EG, Korolchuk VI, Kirkwood TBL, von Zglinicki T, Shanley DP (2014) Dynamic Modelling of Pathways to Cellular Senescence Reveals Strategies for Targeted Interventions. PLoS Comput. Biol. 10:e1003728."
  Year: 2014
@@ -1038,6 +1069,11 @@
  Keywords:
   - Signaling
  Type: 2
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, United Kingdom
+ Funding:
+  - AXA Research Funding
+  - BBSRC
 -
  Reference: "Drees B, Reiger M, Jung K, Bischofs IB (2014) A modular view of the diversity of cell-density-encoding schemes in bacterial quorum-sensing systems. Biophys. J. 107:266-277"
  Year: 2014
@@ -1045,6 +1081,12 @@
  Keywords:
   - Microbiology
  Type: 2
+ Locations:
+  - University of Heidelberg, Germany
+  - Ludwig-Maximilians-Universität München, Munich, Germany
+ Funding:
+  - DFG
+  - EU FP7
 -
  Reference: "Fadda A, Ryten M, Droll D, Rojas F, Färber V, Haanstra JR, Merce C, Bakker BM, Matthews K, Clayton C (2014) Transcriptome-wide analysis of trypanosome mRNA decay reveals complex degradation kinetics and suggests a role for co-transcriptional degradation in determining mRNA levels. Mol. Microbiol. 94:307-326"
  Year: 2014
@@ -1053,6 +1095,17 @@
   - Microbiology
   - Genomics
  Type: 2
+ Funding:
+  - BBSRC
+  - NWO
+  - Wellcome Trust
+  - DFG
+ Locations:
+  - University of Heidelberg, Germany
+  - University of Edinburgh, Edinburgh, UK
+  - University of Groningen, Groningen, Netherlands
+  - VU University Amsterdam, Amsterdam, Netherlands
+  - private residence, London, UK
 -
  Reference: "Godfrey L, Yamada-Fowler N, Smith J, Thornalley PJ, Rabbani N (2014) Arginine-directed glycation and decreased HDL plasma concentration and functionality. Nutrition & Diabetes 4:e134"
  Year: 2014
@@ -1060,6 +1113,12 @@
  Keywords:
   - Physiology
  Type: 2
+ Locations:
+  - University of Warwick, Warwick, UK
+  - Bruker UK Ltd, Coventry, UK
+  - University College London,London, UK
+ Funding:
+  - British Heart Foundation
 -
  Reference: "Graybill C, Prehoda KE (2014) Ordered multisite phosphorylation of lethal giant larvae by atypical protein kinase C. Biochemistry 53:4931-7"
  Year: 2014
@@ -1069,6 +1128,8 @@
  Type: 2
  Funding:
   - NIH
+ Locations:
+  - University of Oregon, Eugene OR, USA
 -
  Reference: "Hallinan JS, Gilfellon O, Misirli G, Wipat A (2014) Tuning receiver characteristics in bacterial quorum communication: An evolutionary approach using standard virtual biological parts. Proceedings of the 2014 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology, 1-8"
  Year: 2014
@@ -1076,6 +1137,8 @@
  Keywords:
   - Synthetic biology
  Type: 2
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, United Kingdom
 -
  Reference: "Ihekwaba AEC, Mura I, Barker GC (2014) Computational modelling and analysis of the molecular network regulating sporulation initiation in Bacillus subtilis. BMC Systems Biology 8:119"
  Year: 2014
@@ -1083,6 +1146,11 @@
  Keywords:
   - Microbiology
  Type: 2
+ Funding:
+  - BBSRC
+ Locations:
+  - Institute of Food Research, Norwich, UK
+  - EAN University, Bogotá, Colombia
 -
  Reference: "James AI, Imran HAQ, Jennifer AD, Sarah VF, David AL (2014) Altered native stability is the dominant basis for susceptibility of alpha1-antitrypsin mutants to polymerization. Biochem. J. 460:103-115"
  Year: 2014
@@ -1090,6 +1158,14 @@
  Keywords:
   - Macromolecular biochemistry
  Type: 2
+ Funding:
+  - MRC
+  - EPSRC
+  - GlaxoSmithKline
+  - NIHR
+ Locations:
+  - University of Cambridge, Cambridge, UK
+  - University College London, London, UK
 -
  Reference: "Karonen M, Mattila H, Huang P, Mamedov F, Styring S, Tyystjärvi E (2014) A tandem mass spectrometric method for singlet oxygen measurement. Photochem. Photobiol. 90:965-971"
  Year: 2014
@@ -1569,7 +1645,7 @@
   - SysMO
   - BBSRC
   - EPSRC
-  - EU-FP7
+  - EU FP7
 -
  Reference: "Mei Y, Carbo A, Hontecillas R, Bassaganya-Riera J (2013) ENISI SDE: a novel web-based stochastic modeling tool for computational biology. 2013 Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 392-397"
  Year: 2013
@@ -1821,7 +1897,7 @@
  Funding:
   - BBSRC
   - EPSRC
-  - EU-FP7
+  - EU FP7
   - NIH
 -
  Reference: "Smith GR, Shanley, DP (2013) Computational modelling of the regulation of Insulin signalling by oxidative stress. BMC Systems Biol. 7:41"
