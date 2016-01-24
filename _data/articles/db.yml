@@ -1266,6 +1266,13 @@
  Keywords:
   - Metabolism
  Type: 2
+ Locations:
+  - Instituto Nacional de Cardiología Ignacio Chávez, México, Mexico
+  - Instituto Nacional de Cancerología, México, Mexico 
+ Funding:
+  - CONACyT-Mexico
+  - Instituto de Ciencia y Tecnología del Distrito Federal
+
 -
  Reference: "Marwaha S, Schumacher MA, Zavros Y, Eghbalnia HR (2014) Crosstalks between Cytokines and Sonic Hedgehog in Helicobacter pylori Infection: A Mathematical Model. PLoS ONE 9:e111338."
  Year: 2014
@@ -1274,6 +1281,8 @@
   - Immunology
   - Signaling
  Type: 2
+ Locations:
+  - University of Cincinnati, Cincinnati OH, USA
 -
  Reference: "Matsuoka Y, Funahashi A, Ghosh S, Kitano H (2014) Modeling and simulation using CellDesigner. Methods Mol. Biol. 1164:121-145"
  Year: 2014
@@ -1281,6 +1290,11 @@
  Keywords:
   - Software
  Type: 3
+ Locations:
+  - The Systems Biology Institute, Tokyo, Japan
+  - Keio University, Yokohama, Japan
+  - Okinawa Institute of Science and Technology, Okinawa, Japan
+  - RIKEN Center for Integrative Medical Sciences, Yokohama, Japan
 -
  Reference: "Mei Y, Carbo A, Hontecillas R, Hoops S, Liles N, Lu P, Philipson C, Bassaganya-Riera J (2014) ENISI MSM: A novel multi-scale modeling platform for computational immunology. Proceedings of the 2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 391-396"
  Year: 2014
@@ -1288,12 +1302,16 @@
  Keywords:
   - Software
  Type: 3
+ Locations:
+  - Virginia Tech, Blacksburg VA, USA
+ Funding:
+  - NIH
 -
  Reference: "Miller AJM, Kaminsky W, Goldberg KI (2014) Arene Activation at Iridium Facilitates C-O Bond Cleavage of Aryl Ethers. Organometallics 33:1245-1252"
  URL: http://dx.doi.org/10.1021/om5000166
  Locations:
-  - Coordinates: 47.6514635,-122.3131833
-  - Coordinates: 35.9049165,-79.0491021
+  - University of North Carolina, Chapel Hill NC, USA
+  - University of Washington, Seattle WA, USA
  Funding:
   - NSF
   - Camille and Henry Dreyfus Postdoctoral Program in Environmental Chemistry
@@ -1308,6 +1326,10 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - University of Milano-Bicocca, Milano, Italy
+  - University of Bergamo, Bergamo, Italy
+  - University of Milano, Milano, Italy 
 -
  Reference: "Nobile MS, Cazzaniga P, Besozzi D, Pescini D, Mauri G (2014) cuTauLeaping: A GPU-Powered Tau-Leaping Stochastic Simulator for Massive Parallel Analyses of Biological Systems. PLoS ONE 9:e91963."
  Year: 2014
@@ -1315,6 +1337,13 @@
  Keywords:
   - Computational method
  Type: 3
+ Funding:
+  - Research Infrastructure “SYSBIO Centre of Systems Biology”
+ Locations:
+  - University of Milano-Bicocca, Milano, Italy
+  - University of Bergamo, Bergamo, Italy
+  - University of Milano, Milano, Italy 
+  - Consiglio Nazionale delle Ricerche, Rome, Italy
 -
  Reference: "Palai T, Singh AK, Bhattacharya PK (2014) Enzyme, beta-galactosidase immobilized on membrane surface for galacto-oligosaccharides formation from lactose: kinetic study with feed flow under recirculation loop. Biochem. Eng. J. 88:68-76"
  Year: 2014
@@ -1323,6 +1352,10 @@
   - Biotechnology
   - Enzymology
  Type: 2
+ Locations:
+  - Indian Institute of Technology Kanpur, Kanpur, India
+ Funding:
+  -  Department of Biotechnology Government of India
 -
  Reference: "Pandey V (2014) Metabolic modeling of different degrees of steatohepatitis in mice. PhD Thesis, Department of Mathematics and Computer Science, Free University of Berlin."
  Year: 2014
@@ -1330,6 +1363,8 @@
  Keywords:
   - Metabolism
  Type: 2
+ Locations:
+  - Free University of Berlin, Berlin, Germany
 -
  Reference: "Pandey V, Sultan M, Kashofer K, Ralser M, Amstislavskiy V, Starmann J, Osprian I, Grimm C, Hache H, Yaspo M-L, Sültmann H, Trauner M, Denk M, Zatloukal K, Lehrach H, Wierling C (2014) Comparative Analysis and Modeling of the Severity of Steatohepatitis in DDC-Treated Mouse Strains. PLoS ONE 9:e111006."
  Year: 2014
@@ -1337,6 +1372,20 @@
  Keywords:
   - Metabolism
  Type: 2
+ Funding:
+  - Austrian Nationalstiftung
+  - Austria Wirtschaftsservice GmbH
+  - Max Planck Society
+  - BIOCRATES Life Sciences AG
+ Locations:
+  - Max Planck Institute for Molecular Genetics, Berlin, Germany
+  - Medical University of Graz, Graz, Austria
+  - German Cancer Research Center, Heidelberg, Germany
+  - BIOCRATES Life Sciences AG, Innsbruck, Austria
+  - LKH Wagna, Wagna, Austria
+  - Charité-University Medicine, Berlin, Germany
+  - Dahlem Centre for Genome Research and Medical Systems Biology, Berlin, Germany
+  - Medical University of Vienna, Vienna, Austria
 -
  Reference: "Proctor CJ, Macdonald C, Milner JM, Rowan AD, Cawston TE (2014) A Computer Simulation Approach to Assessing Therapeutic Intervention Points for the Prevention of Cytokine-Induced Cartilage Breakdown. Arthritis & Rheumatology 66:979-989"
  Year: 2014
@@ -1939,6 +1988,12 @@
  Keywords:
   - Signaling
  Type: 2
+ Locations:
+  - Newcastle University, Newcastle Upon Tyne, UK
+ Funding:
+  - EU - FP6
+  - BBSRC
+  - EPSRC
 -
  Reference: "Stavrum A-K, Heiland I, Schuster S, Puntervoll P, Ziegler M (2013) Model of tryptophan metabolism, readily scalable using tissue-specific gene expression data. J. Biol. Chem. 288:34555-34566"
  Year: 2013
@@ -2008,7 +2063,8 @@
   - Microbiology
  Type: 2
  Locations:
-  - Coordinates: 49.4183338,8.6707814
+  - Heidelberg Institute for Theoretical Studies, Heidelberg, Germany
+  - Heidelberg University, Heidelberg, Germany
  Funding:
   - SysMO
   - SysMO2
@@ -2158,6 +2214,12 @@
  Keywords:
   - Cell biology
  Type: 2
+ Locations:
+  - University of Arizona, Tucson AZ, USA
+  - Duke University, Durham NC, USA
+ Funding:
+  - NIH
+  - David and Lucile Packard Foundation
 -
  Reference: "Adra S, Sun T, MacNeil S, Holcombe M, Smallwood R (2010) Development of a Three Dimensional Multiscale Computational Model of the Human Epidermis. PLoS ONE 5:e8511."
  Year: 2010
@@ -2186,6 +2248,10 @@
  Keywords:
   - Physiology
  Type: 2
+ Locations:
+  - Nara Institute of Science and Technology, Ikoma, Japan
+  - Okinawa Institute of Science and Technology, Uruma, Japan
+  - Osaka Bioscience Institute, Suita, Japan
 -
  Reference: "Samorodnitsky E, Pugh BF (2010) Genome-Wide Modeling of Transcription Preinitiation Complex Disassembly Mechanisms using ChIP-chip Data. PLoS Comput. Biol. 6:e1000733"
  Year: 2010
@@ -2194,6 +2260,10 @@
   - Macromolecular biochemistry
   - Genomics
  Type: 2
+ Locations:
+  - Pennsylvania State University, University Park PA, USA
+ Funding:
+  - NIH
 -
  Reference: "Smallbone, K, Simeonidis, E, Swainston, N, Mendes, P (2010) Towards a genome-scale kinetic model of cellular metabolism. BMC Sys. Biol. 4:6"
  Year: 2010
@@ -2214,9 +2284,11 @@
  URL: http://dx.doi.org/10.1038/msb.2009.29
  Year: 2009
  Locations:
-  - Coordinates: 45.195973,5.7021953
-  - Coordinates: 45.1917101,5.7650876
-  - Coordinates: 43.2563419,5.4027633
+  - CNRS, UMR 5168, 17 rue des Martyrs, Grenoble, France
+  - Laboratoire de Physiologie Cellulaire Végétale, Grenoble, France
+  - Université Joseph Fourier, Grenoble, France
+  - INRA, UMR 1200, Grenoble, France
+   -CNRS‐BIP, Marseille, France
  Keywords:
   - Metabolism
  Type: 2
@@ -2269,6 +2341,15 @@
  Keywords:
   - Signaling
  Type: 2
+ Locations:
+  - University of Technology Dresden, Dresden, Germany
+  - Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany
+  - Moscow State University, Moscow, Russia
+ Funding:
+  - BMBF
+  - EU 
+  - DFG 
+  - Max Planck Society
 -
  Reference: "Jordao L,  Bleck CKE, Mayorga L, Griffiths G,  Anes E (2008) On the killing of mycobacteria by macrophages. Cell. Microbiol. 10:529-48"
  Year: 2008
@@ -2307,6 +2388,8 @@
   - Signaling
   - Macromolecular biochemistry
  Type: 2
+ Locations:
+  - European Bioinformatics Institute, Hinxton, UK
 -
  Reference: "Camacho, D, Vera-Licona P, Mendes P, Laubenbacher R (2007) Comparison of reverse-engineering methods using an in silico network. Ann. N.Y. Acad. Sci. 1115:73-89."
  Year: 2007
@@ -2329,6 +2412,16 @@
  Keywords:
   - Immunology
  Type: 2
+ Locations:
+  - EML Research, Heidelberg, Germany
+  - Southern University of Denmark, Odense, Denmark
+  - University of Michigan, Ann Arbor, Michigan
+ Funding:
+  - Klaus Tschira Foundation
+  - Oticon Foundations
+  - European Science Foundation
+  - NIH
+  - BMBF
 -
  Reference: "Rippe K, Schrader A, Riede P, Strohner R, Lehmann E,Längst G (2007) DNA sequence- and conformation-directed positioning of nucleosomes by chromatin-remodeling complexes. PNAS 104:15635-40"
  Year: 2007
