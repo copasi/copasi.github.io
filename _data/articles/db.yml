@@ -1173,6 +1173,12 @@
  Keywords:
   - Laboratory method
  Type: 3
+ Locations:
+  - University of Turku, Turku, Finland
+  - Uppsala University, Uppsala, Sweden
+ Funding:
+  - Academy of Finland
+  - Nordic Energy Research
 -
  Reference: "Kefalidis CE, Davi M, Holstein PM, Clot E, Baudoin O (2014) Mechanistic Study of the Selectivity of Olefin versus Cyclobutene Formation by Palladium (0)-Catalyzed Intramolecular C (sp3)-H Activation. J. Organic Chem. 79:11903-11910"
  URL: http://dx.doi.org/10.1021/jo501610x
@@ -1186,6 +1192,9 @@
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - University of Montpellier 2, Montpellier, France
+  - University Claude Bernard Lyon 1, Villeurbanne, France
 -
  Reference: "Kent PD, Mondloch JE, Finke RG (2014) A Four-Step Mechanism for the Formation of Supported-Nanoparticle Heterogenous Catalysts in Contact with Solution: The Conversion of Ir (1, 5-COD) Cl/gamma-Al2O3 to Ir (0) 170/gamma-Al2O3. J Am. Chem. Soc. 136:1930-41"
  URL: http://dx.doi.org/10.1021/ja410194r
@@ -1197,6 +1206,8 @@
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - Colorado State University, Fort Collins CO, USA
 -
  Reference: "Lakin MR, Minnich A, Lane T, Stefanovic D (2014) Design of a biochemical circuit motif for learning linear functions. J. Royal Soc. Interface 11:20140902"
  Year: 2014
@@ -1204,6 +1215,11 @@
  Keywords:
   - Synthetic biology
  Type: 2
+ Locations:
+  - University of New Mexico, Albuquerque NM, USA
+ Funding:
+  - NSF
+  - NIH
 -
  Reference: "Le Muzic M, Parulek J, Stavrum A-K, Viola I (2014) Illustrative visualization of molecular reactions using omniscient intelligence and passive agents. Computer Graphics Forum 33:141-150"
  Year: 2014
@@ -1211,6 +1227,13 @@
  Keywords:
   - Software
  Type: 3
+ Locations:
+  - Vienna University of Technology, Vienna, Austria
+  - University of Bergen, Bergen, Norway
+ Funding:
+  - Vienna Science and Technology Fund 
+  - EC - Marie Curie Career Integration Grant
+  - Norwegian Research Council
 -
  Reference: "Lutz A, Sanwald J, Thomas M, Feuer R, Sawodny O, Ederer M,  Borner C, Humar M, Merfort I (2014) Interleukin-1beta Enhances FasL-Induced Caspase-3/-7 Activity without Increasing Apoptosis in Primary Mouse Hepatocytes. PLoS ONE 9:e115603."
  Year: 2014
@@ -1218,14 +1241,24 @@
  Keywords:
   - Immunology
  Type: 2
+ Locations:
+  - Albert Ludwigs University Freiburg, Freiburg, Germany
+  - University of Stuttgart, Stuttgart, Germany
+  - Dr. Margarete Fischer-Bosch Institute of Clinical Pharmacology, Stuttgart, Germany
+ Funding:
+  - BMBF
 -
  Reference: "Machado D, Rodrigues LR, Rocha I (2014) A kinetic model for curcumin production in Escherichia coli. BioSystems 125:16-21"
  Year: 2014
- URL: http://dx.doi.org/10.1016/j.biosystems.2014.09.0010
+ URL: http://dx.doi.org/10.1016/j.biosystems.2014.09.001
  Keywords:
   - Synthetic biology
   - Metabolism
  Type: 2
+ Locations:
+  - University of Minho, Braga, Portugal
+ Funding:
+  - FCT Portugal
 -
  Reference: "Marín-Hernández A, López-Ramírez SY, Gallardo-Pérez JC, Rodríguez-Enríquez S, Moreno-Sánchez R, Saavedra E (2014) Systems biology approaches to cancer energy metabolism. in M.A. Aon et al. (eds.), Systems Biology of Metabolic and Signaling Networks, Springer-Verlag pp.213-239"
  Year: 2014
