@@ -302,28 +302,28 @@
  Reference: "Jeong H, John JM, Schrock RR, Hoveyda AH (2015) Synthesis of Alternating trans-AB Copolymers through Ring-Opening Metathesis Polymerization Initiated by Molybdenum Alkylidenes. J. Am. Chem. Soc. 137:2239-42"
  URL: http://dx.doi.org/10.1021/jacs.5b00221
  Year: 2015
- Locations:
-  - Massachusetts Institute of Technology, Cambridge MA, USA
-  - Boston College, Chestnut Hill MA, United States
  Funding:
   - DOE
   - NIH
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - Massachusetts Institute of Technology, Cambridge MA, USA
+  - Boston College, Chestnut Hill MA, United States
 -
  Reference: "Ji Y, Benkovics T, Beutner GL, Sfouggatakis C, Eastgate MD, Blackmond DG (2015) Mechanistic Insights into the Vanadium-Catalyzed Achmatowicz Rearrangement of Furfurol. J. Organic Chem. 80:1696-1702"
  URL: http://dx.doi.org/10.1021/jo502641d
  Year: 2015
- Locations:
-  - Scripps Research Institute, La Jolla CA, USA
-  - Bristol-Myers Squibb, New Brunswick NJ, USA
  Funding:
   - Scripps Research Institute
   - Bristol-Myers Squibb Company
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - Scripps Research Institute, La Jolla CA, USA
+  - Bristol-Myers Squibb, New Brunswick NJ, USA
 -
  Reference: "Jones AR, Rentergent J, Scrutton NS, Hay S (2015) Probing reversible chemistry in coenzyme B12-dependent ethanolamine amonnia lyase with kinetic isotope effects. Chem. Eur. J. 21:8826-31"
  Year: 2015
@@ -463,10 +463,6 @@
  Reference: "Luo J, Theron R, Sewell LJ, Hooper TN, Weller AS, Oliver AG, McIndoe JS (2015) Rhodium-Catalyzed Selective Partial Hydrogenation of Alkynes. Organometallics 34:3021-8"
  URL: http://dx.doi.org/10.1021/acs.organomet.5b00322
  Year: 2015
- Locations:
-  - University of Victoria, Victoria BC, Canada
-  - University of Oxford, Oxford, UK
-  - University of Notre Dame, Notre Dame IN, USA
  Funding:
   - NSERC
   - CFI
@@ -475,6 +471,10 @@
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - University of Victoria, Victoria BC, Canada
+  - University of Oxford, Oxford, UK
+  - University of Notre Dame, Notre Dame IN, USA
 -
  Reference: "Madsen C, Shmarov F, Zuliani P (2015) BioPSy: An SMT-based Tool for Guaranteed Parameter Set Synthesis of Biological Models. Proceedings 13th International Conference, CMSB 2015 (Roux O, Bourdon J, Eds.), Springer pp182-94"
  Year: 2015
@@ -1014,14 +1014,14 @@
  Reference: "Carrasco D, Pérez-Temprano MH, Casares JA, Espinet P (2014) Cross Alkyl-Aryl versus Homo Aryl-Aryl Coupling in Palladium-Catalyzed Coupling of Alkyl-Gold (I) and Aryl-Halide. Organometallics 33:3540-3545"
  URL: http://dx.doi.org/10.1021/om500446x
  Year: 2014
- Locations:
-  - University of Valladolid, Valladolid, Spain
  Funding:
   - Spanish Comisión Interministerial de Ciencia y Tecnología
   - Junta de Castilla y León
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - University of Valladolid, Valladolid, Spain
 -
  Reference: "Cazzaniga P, Nobile MS, Besozzi D, Bellini M, Mauri G (2014) Massive exploration of perturbed conditions of the blood coagulation cascade through GPU parallelization. BioMed Res. Int. 2014:863298"
  Year: 2014
@@ -1038,8 +1038,6 @@
  Reference: "Claudino M, Jonsson M, Johansson M (2014) Utilizing thiol-ene coupling kinetics in the design of renewable thermoset resins based on D-limonene and polyfunctional thiols. Royal Soc. Chem. Advances 4:10317-10329"
  URL: http://dx.doi.org/10.1039/C3RA47922F
  Year: 2014
- Locations:
-  - Coordinates: 59.3498092,18.0684758
  Funding:
   - Swedish Research Council
  Keywords:
@@ -1047,6 +1045,8 @@
  Type: 2
  Locations:
   - KTH Royal Institute of Technology, Stockholm, Sweden 
+ Locations:
+  - Coordinates: 59.3498092,18.0684758
 -
  Reference: "Costa RS, Hartmann A, Gaspar P, Neves AR, Vinga S (2014) An extended dynamic model of Lactococcus lactis metabolism for mannitol and 2,3-butanediol production. Mol. BioSystems 10:628-639"
  Year: 2014
@@ -1309,9 +1309,6 @@
 -
  Reference: "Miller AJM, Kaminsky W, Goldberg KI (2014) Arene Activation at Iridium Facilitates C-O Bond Cleavage of Aryl Ethers. Organometallics 33:1245-1252"
  URL: http://dx.doi.org/10.1021/om5000166
- Locations:
-  - University of North Carolina, Chapel Hill NC, USA
-  - University of Washington, Seattle WA, USA
  Funding:
   - NSF
   - Camille and Henry Dreyfus Postdoctoral Program in Environmental Chemistry
@@ -1319,6 +1316,9 @@
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - University of North Carolina, Chapel Hill NC, USA
+  - University of Washington, Seattle WA, USA
 -
  Reference: "Nobile MS, Cazzaniga P, Besozzi D, Mauri G (2014) GPU-accelerated simulations of mass-action kinetics models with cupSODA. J. Supercomputing 69:17-24"
  Year: 2014
@@ -1509,14 +1509,14 @@
  Reference: "Vickers JW, Sumliner JM, Lv H, Morris M, Geletii YV, Hill CL (2014) Collecting meaningful early-time kinetic data in homogeneous catalytic water oxidation with a sacrificial oxidant. Phys. Chem. Chemical Physics 16:11942-11949"
  URL: http://dx.doi.org/10.1039/C3CP55406F
  Year: 2014
- Locations:
-  - Emory University, Atlanta GA, USA 
-  - SpectrEcology, Jasper GA, USA 
  Funding:
   - DOE
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - Emory University, Atlanta GA, USA 
+  - SpectrEcology, Jasper GA, USA 
 -
  Reference: "Wang CCN, Chang P-C, Ng K-L, Chang C-M, Sheu PCY, Tsai JJP (2014) A model comparison study of the flowering time regulatory network in Arabidopsis. BMC Systems Biology 8:15"
  Year: 2014
