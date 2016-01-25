@@ -635,6 +635,10 @@
  Type: 2
  Funding:
   - National Research Foundation in South Africa
+ Locations:
+  - Stellenbosch University, Matieland, South Africa
+  - Vrije Universiteit Amsterdam, Amsterdam, Netherlands
+  - University of Manchester, Manchester, UK
 -
  Reference: "Phelix CF, Feltus FA (2015) Plant stress biomarkers from biosimulations: the Transcriptome-To-Metabolome(TTM) technology-effects of drought stress on rice. Plant Biol. 17:63-73"
  Year: 2015
@@ -695,6 +699,9 @@
   - BMBF
   - Ministry of Science and Economy of Saxony-Anhalt
   - International Max Planck Research School
+ Locations:
+  - Otto von Guericke University, Magdeburg, Germany
+  - Slovak Academy of Sciences, Bratislava, Slovakia
 -
  Reference: "Rezgui A, Madec M, Lallement C, Haiech J (2015) Integration of SBML models for the description of biological system in a lab-on-chip. Proceedings of the 22nd International Conference Mixed Design of Integrated Circuits & Systems 165-70"
  Year: 2015
@@ -1555,6 +1562,8 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - Rice University, Houston, Texas, United States of America
 -
  Reference: "Bulipopa N,  Sulins J (2013) Automatic termination of parallel optimization runs of global stochastic optimization methods by upper limit criterion. Biosystems and Information Technol. 2:15-18"
  Year: 2013
@@ -1562,6 +1571,8 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - Latvia University of Agriculture, Jelgava, Latvia
 -
  Reference: "Carbo A, Bassaganya-Riera J, Pedragosa M, Viladomiu M, Marathe M, Eubank S, Wendelsdorf K, Bisset K, Hoops S, Deng X, Alam M, Kronsteiner B, Mei Y, Hontecillas R (2013) Predictive Computational Modeling of the Mucosal Immune Responses during Helicobacter pylori Infection. PLoS ONE 8(9): e73365"
  Year: 2013
@@ -1569,6 +1580,8 @@
  Keywords:
   - Immunology
  Type: 2
+ Locations:
+  - Virginia Tech, Blacksburg VA, USA
 -
  Reference: "Cornish-Bowden A, Piedrafita G, Morán F, Cárdenas ML, Montero F (2013) Simulating a model of metabolic closure. Biological Theory 8:383-390"
  Year: 2013
@@ -1576,6 +1589,9 @@
  Keywords:
   - Theory
  Type: 2
+ Locations:
+  - Aix-Marseille Université, Marseille, France
+  - Universidad Complutense de Madrid, Madrid, Spain
 -
  Reference: "Coskun SA, Cicek AE, Lai N, Dash RK, Ozsoyoglu ZM, Ozsoyoglu G (2013) An online model composition tool for system biology models. BMC Systems Biol. 7:88"
  Year: 2013
@@ -1583,18 +1599,23 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - Case Western Reserve University, Cleveland OH, USA
+  - Carnegie Mellon University, Pittsburgh PA, USA
+  - Medical College of Wisconsin, Milwaukee, USA
 -
  Reference: "Diao T, Pun D, Stahl SS (2013) Aerobic Dehydrogenation of Cyclohexanone to Cyclohexenone Catalyzed by Pd(DMSO)2(TFA)2: Evidence for Ligand-Controlled Chemoselectivity. J. Am. Chem. Soc. 135:8205-8212"
  URL: http://dx.doi.org/10.1021/ja4031648
  Year: 2013
- Locations:
-  - Coordinates: 43.0741849,-89.4117159
  Funding:
   - NIH
   - NSF
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - Coordinates: 43.0741849,-89.4117159
+  - University of Wisconsin, Madison, USA
 -
  Reference: "Firczuk H, Kannambath S, Pahle J, Claydon A, Beynon R, Duncan J, Westerhoff H, Mendes P, McCarthy JEG (2013) An in vivo control map for the eukaryotic mRNA translation machinery. Molecular Systems Biology 9:635"
  URL: http://dx.doi.org/10.1038/msb.2012.73
@@ -1608,7 +1629,11 @@
   - Coordinates: 53.466853,-2.2360724
   - Coordinates: 37.2209322,-80.4284957
   - Coordinates: 53.4059392,-2.9677609
- Funding: 
+  - University of Warwick, Coventry, UK
+  - University of Manchester, Manchester, UK
+  - University of Liverpool, Liverpool, UK
+  - Virginia Bioinformatics Institute, Blacksburg VA, USA
+ Funding:
   - BBSRC
 -
  Reference: "Fröhlich M (2013) Computational and experimental investigation of the mechanisms involved in cellular water transport and (cat)ion homeostasis. Ph.D. Thesis, Department of Mathematics and Computer Science, Free University of Berlin"
@@ -1617,6 +1642,8 @@
  Keywords:
   - Physiology
  Type: 2
+ Locations:
+  - Freie Universität Berlin, Berlin, Germany
 -
  Reference: "Geenen S, du Preez FB, Snoep JL, Foster AJ, Sarda S, Kenna JG, Wilson ID, Westerhoff HV (2013) Glutathione metabolism modeling: a mechanism for liver drug-robustness and a new biomarker strategy. Biochim. Biophys. Acta 1830:4943- 59"
  Year: 2013
@@ -1625,6 +1652,12 @@
   - Toxicology
   - Metabolism
  Type: 2
+ Locations:
+  - University of Manchester, Manchester, UK
+  - AstraZeneca, Alderley Park, Macclesfield, Cheshire, UK
+  - Stellenbosch University, Matieland, South Africa
+  - VU University, Amsterdam, The Netherlands
+  - Universiteit van Amsterdam, Amsterdam, The Netherlands
 -
  Reference: "Haq I,  Irving JA, Faull SV, Dickens JA, Ordonez A, Belorgey D, Gooptu B, Lomas, DA (2013) Reactive centre loop mutants of alpha-1-antitrypsin reveal position-specific effects on intermediate formation along the polymerization pathway. Biosci. Rep. 33:499-511"
  Year: 2013
@@ -1632,6 +1665,9 @@
  Keywords:
   - Macromolecular biochemistry
  Type: 2
+ Locations:
+  - University of Cambridge, Cambridge, UK
+  - University of London, London, UK
 -
  Reference: "Helgeson LA, Nolen BJ (2013) Mechanism of synergistic activation of Arp2/3 complex by cortactin and N-WASP. eLife 2:e00884"
  Year: 2013
@@ -1640,6 +1676,8 @@
   - Macromolecular biochemistry
   - Signaling
  Type: 2
+ Locations:
+  - University of Oregon, Eugene, USA
 -
  Reference: "Incicco JJ, Gebhard LG, González-Lebrero RM, Gamarnik AV, Kaufman SB (2013) Steady-State NTPase Activity of Dengue Virus NS3: Number of Catalytic Sites, Nucleotide Specificity and Activation by ssRNA. PLoS ONE 8:e58508"
  Year: 2013
@@ -1647,6 +1685,9 @@
  Keywords:
   - Macromolecular biochemistry
  Type: 2
+ Locations:
+  - Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina
+  - Fundación Instituto Leloir-CONICET, Ciudad Autónoma de Buenos Aires, Argentina
 -
  Reference: "Kennedy N, Mizeranschi A, Thompson P, Zheng H, Dubitzky W (2013) Reverse engineering of gene regulation models from multi-condition experiments. Proceedings of the 2013 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), pp.112-119"
  Year: 2013
@@ -1654,6 +1695,8 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - University of Ulster, Coleraine, UK
 -
  Reference: "Kent E, Neumann S, Kummer U, Mendes P (2013) What Can We Learn from Global Sensitivity Analysis of Biochemical Systems? PLoS ONE 8:e79244"
  Year: 2013
