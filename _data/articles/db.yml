@@ -1393,6 +1393,11 @@
  Keywords:
   - Immunology
  Type: 2
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, UK
+ Funding:
+  - MRC
+  - NIHR
 -
  Reference: "Rao S, van der Schaft A, van Eunen K, Bakker BM, Jayawardhana B (2014) A model reduction method for biochemical reaction networks. BMC systems biology 8:52"
  Year: 2014
@@ -1400,6 +1405,13 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - University of Groningen, Groningen, Netherlands
+ Funding:
+  - NWO
+  - EU - FP7
+  - Netherlands Genomics Initiative
+  - Top Institute Food and Nutrition
 -
  Reference: "Sakkalis V, Sfakianakis S, Tzamali E, Marias K, Stamatakos G, Misichroni F, Ouzounoglou E, Kolokotroni E, Dionysiou D, Johnson D, McKeever S, Graf N (2014) Web-based workflow planning platform supporting the design and execution of complex multiscale cancer models. IEEE J. Biomed. Health Informatics 18:824-31"
  Year: 2014
@@ -1407,6 +1419,14 @@
  Keywords:
   - Software
  Type: 3
+ Locations:
+  - Foundation for Research & Technology—Hellas, Heraklion, Greece 
+  - National Technical University of Athens, Athens, Greece
+  - Imperial College London, London, UK
+  - Uppsala University, Uppsala, Sweden
+  - Saarland University Hospital, Homburg, Germany
+ Funding:
+  - EU - FP7
 -
  Reference: "Saller S, Kunz L, Berg D, Berg U, Lara H, Urra J, Hecht S, Pavlik R, Thaler CJ, Mayerhofer A (2014) Dopamine in human follicular fluid is associated with cellular uptake and metabolism-dependent generation of reactive oxygen species in granulosa cells: implications for physiology and pathology. Human Reproduction 29:555-67"
  Year: 2014
@@ -1415,6 +1435,11 @@
   - Physiology
   - Metabolism
  Type: 2
+ Locations:
+  - Ludwig Maximilian University Munich, Munich, Germany
+  - Universidad de Chile, Santiago, Chile
+ Funding:
+  - DFG
 -
  Reference: "Schaber J, Lapytsko A, Flockerzi D (2014) Nested autoinhibitory feedbacks alter the resistance of homeostatic adaptive biochemical networks. J. Royal Soc. Interface 11:20130971"
  Year: 2014
@@ -1422,6 +1447,12 @@
  Keywords:
   - Signaling
  Type: 2
+ Locations:
+  - Otto von Guericke University, Magdeburg, Germany
+  - Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
+ Funding:
+  - BMBF
+  - International Max Planck Research School Magdeburg for Advanced Methods in Process and Systems Engineering
 -
  Reference: "Schmitz U, Lai X, Winter F, Wolkenhauer O, Vera J, Gupta SK (2014) Cooperative gene regulation by microRNA pairs and their identification using a computational workflow. Nucleic Acids Res. 42:7539-7552"
  Year: 2014
@@ -1429,6 +1460,14 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - University of Rostock, Rostock, Germany
+  - Friedrich-Alexander-University, Erlangen-Nuremberg, Germany
+  - Stellenbosch University, Stellenbosch, South Africa
+  - Indian Institute of Toxicology Research, Uttar Pradesh, India 
+ Funding:
+  - BMBF
+  - Council of Scientific and Industrial Research (CSIR)
 -
  Reference: "Shinde S, Mol M, Singh S (2014) Regulatory networks, genes and glycerophospholipid biosynthesis pathway in schistosomiasis: A systems biology view for pharmacological intervention. Gene 550:214-22."
  Year: 2014
@@ -1437,6 +1476,10 @@
   - Pharmacology
   - Genomics
  Type: 2
+ Locations:
+  - National Centre for Cell Science, Pune, India
+ Funding:
+  - Department of Biotechnology, Government of India
 -
  Reference: "Tunnicliffe RB, Hautbergue GM, Wilson SA, Kalra P, Golovanov AP (2014) Competitive and Cooperative Interactions Mediate RNA Transfer from Herpesvirus Saimiri ORF57 to the Mammalian Export Adaptor ALYREF. PLoS Pathog 10(2): e1003907."
  Year: 2014
@@ -1444,6 +1487,11 @@
  Keywords:
   - Macromolecular biochemistry
  Type: 2
+ Locations:
+  - University of Sheffield, Sheffield, UK
+ Funding:
+  - BBSRC
+  - Wellcome Trust
 -
  Reference: "Valero González G (2014) Estudis mecanístics i metodològics de processos d'autocatàlisi i organocatàlisi asimètriques. Ph.D. Thesis, Department of Organic Chemistry, University of Barcelona"
  URL: http://hdl.handle.net/10803/285338
@@ -1455,13 +1503,15 @@
  Keywords:
   - Chemistry
  Type: 2
+ Locations:
+  - University of Barcelona, Barcelona, Spain
 -
  Reference: "Vickers JW, Sumliner JM, Lv H, Morris M, Geletii YV, Hill CL (2014) Collecting meaningful early-time kinetic data in homogeneous catalytic water oxidation with a sacrificial oxidant. Phys. Chem. Chemical Physics 16:11942-11949"
  URL: http://dx.doi.org/10.1039/C3CP55406F
  Year: 2014
  Locations:
-  - Coordinates: 33.7925239,-84.3261876
-  - Coordinates: 34.4436471,-84.4995424
+  - Emory University, Atlanta GA, USA 
+  - SpectrEcology, Jasper GA, USA 
  Funding:
   - DOE
  Keywords:
@@ -1474,6 +1524,9 @@
  Keywords:
   - Signaling
  Type: 2
+ Locations:
+  - Asia University, Taichung, Taiwan
+  - National Science Council, Taiwan
 -
  Reference:  "Yang X, Zhang Y, Zheng Y, Ma H (2014) Development and analysis of a kinetic model for Escherichia coli threonine biosynthesis. Chinese J. Biotechnol. 30:18-29."
  Year: 2014
@@ -1481,6 +1534,8 @@
   - Metabolism
   - Microbiology
  Type: 2
+ Locations:
+  - Tianjin University, Tianjin, China 
 -
  Reference: "Zimmer C, Sahle S, Pahle J (2014) Exploiting intrinsic fluctuations to identify model parameters. IET Systems Biology 9:64-73"
  Year: 2014
@@ -1488,6 +1543,11 @@
  Keywords:
   - Computational method
  Type: 3
+ Locations:
+  - Heidelberg University, Heidelberg, Germany
+  - University of Manchester, Manchester, UK
+ Funding:
+  - Klaus Tschira Foundation
 -
  Reference: "Berestovsky N, Nakhleh L (2013) An Evaluation of Methods for Inferring Boolean Networks from Time-Series Data. PLoS ONE 8:e66031"
  Year: 2013
