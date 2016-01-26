@@ -1825,7 +1825,7 @@
   - Chemistry
  Type: 2
 -
- Reference: "Maccari, G., Mori, M., Rodríguez-Salarichs, J., Fang, W., Díaz, J.F., Botta, M.(2013). Free Energy Profile and Kinetics Studies of Paclitaxel Internalization from the Outer to the Inner Wall of Microtubules. J. Chem. Theory Comput. 9(1):698–706"
+ Reference: "Maccari G, Mori M, Rodríguez-Salarichs J, Fang W, Díaz JF, Botta M (2013) Free Energy Profile and Kinetics Studies of Paclitaxel Internalization from the Outer to the Inner Wall of Microtubules. Journal of Chemical Theory and Computation 9:698–706"
  Year: 2013
  URL: http://dx.doi.org/10.1021/ct3006612
  Keywords:
@@ -2280,6 +2280,94 @@
   - Center for Modeling Immunity to Enteric Pathogens, Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, VA 24060, USA
   - Department of Biomedical Sciences and Pathobiology, VA-MD Regional College of Veterinary Medicine, Virginia Tech, Blacksburg, VA 24061, USA
 -
+ Reference: "Achcar F, Kerkhoven EJ, The SilicoTryp Consortium, Bakker BM, Barrett MP, Breitling R (2012) Dynamic Modelling under Uncertainty: The Case of Trypanosoma brucei Energy Metabolism. PLoS Computational Biology 8:e1002352"
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1002352
+ Year: 2012
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Institute of Molecular, Cell and Systems Biology, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, United Kingdom
+  - Groningen Bioinformatics Centre, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, The Netherlands
+  - Wellcome Trust Centre for Molecular Parasitology, Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, United Kingdom
+  - Department of Liver, Digestive and Metabolic Diseases, University Medical Centre Groningen, University of Groningen, The Netherlands
+-
+ Reference: "Adamczyk M, Westerhoff HV (2012) Engineering of self-sustaining systems: Substituting the yeast glucose transporter plus hexokinase for the Lactococcus lactis phosphotransferase system in a Lactococcus lactis network in silico. Biotechnology Journal 7:877–883"
+ URL: http://dx.doi.org/10.1002/biot.201100314
+ Year: 2012
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Manchester Centre for Integrative Systems Biology, University of Manchester, MIB, Manchester, UK
+  - Warsaw University of Technology, Faculty of Chemistry, Institute of Biotechnology, ul. Noakowskiego 3, Warsaw, Poland
+-
+ Reference: "Adiamah DA, Schwartz J-M (2012) Construction of a Genome-Scale Kinetic Model of Mycobacterium Tuberculosis Using Generic Rate Equations. Metabolites 2:382–397"
+ URL: http://dx.doi.org/10.3390/metabo2030382
+ Year: 2012
+ Type: 2
+ Locations:
+  - Manchester Institute of Biotechnology, Faculty of Life Sciences, University of Manchester, 131 Princess Street, Manchester M1 7DN, UK
+-
+ Reference: "Betney R, de Silva E, Mertens C, Knox Y, Krishnan J, Stansfield I (2012) Regulation of release factor expression using a translational negative feedback loop: A systems analysis. RNA 18:2320–2334"
+ URL: http://dx.doi.org/10.1261/rna.035113.112
+ Year: 2012
+ Type: 2
+ Locations:
+  - University of Aberdeen, School of Medical Sciences, Institute of Medical Sciences, Foresterhill, Aberdeen, AB25 2ZD, United Kingdom
+  - Chemical Engineering and Chemical Technology, Institute for Systems and Synthetic Biology, Imperial College London, South Kensington Campus, London SW7 2AZ, United Kingdom
+-
+ Reference: "Biswas S, Huang Z, Choliy Y, Wang DY, Brookhart M, Krogh-Jespersen K, Goldman AS (2012) Olefin Isomerization by Iridium Pincer Catalysts. Experimental Evidence for an η 3 -Allyl Pathway and an Unconventional Mechanism Predicted by DFT Calculations. Journal of the American Chemical Society 134:13276–13295"
+ URL: http://dx.doi.org/10.1021/ja301464c
+ Year: 2012
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, New Brunswick, New Jersey 08903, USA
+  - Department of Chemistry, The University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599, USA
+-
+ Reference: "Bodenstein C, Heiland I, Schuster S (2012) Temperature compensation and entrainment in circadian rhythms. Physical Biology 9:036011"
+ URL: http://dx.doi.org/10.1088/1478-3975/9/3/036011
+ Year: 2012
+ Type: 2
+ Locations:
+  - Department of Bioinformatics, Friedrich Schiller University Jena, Ernst-Abbe-Platz 2, D-07743 Jena, Germany
+-
+ Reference: "Burés J, Armstrong A, Blackmond DG (2012) Curtin–Hammett Paradigm for Stereocontrol in Organocatalysis by Diarylprolinol Ether Catalysts. Journal of the American Chemical Society 134:6741–6750"
+ URL: http://dx.doi.org/10.1021/ja300415t
+ Year: 2012
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, The Scripps Research Institute, La Jolla, California 92037, United States
+  - Department of Chemistry, Imperial College London, London SW7 2AZ, UK
+-
+ Reference: "Challenger JD, McKane AJ, Pahle J (2012) Multi-compartment linear noise approximation. Journal of Statistical Mechanics: Theory and Experiment 2012:P11010"
+ URL: http://dx.doi.org/10.1088/1742-5468/2012/11/P11010
+ Year: 2012
+ Type: 3
+ Keywords:
+  - Computational method
+ Locations:
+  - Theoretical Physics Division, School of Physics and Astronomy, The University of Manchester, Manchester M13 9PL, UK
+  - CICADA, School of Mathematics, The University of Manchester, Manchester Interdisciplinary Biocentre, 131 Princess Street, Manchester M1 7DN, UK
+-
+ Reference: "Chang J-Y, Chantrathammachart P, Monroe DM, Key NS (2012) Studies on the mechanism of action of the aptamer BAX499, an Inhibitor of tissue factor pathway inhibitor. Thrombosis Research 130:e151–e157"
+ URL: http://dx.doi.org/10.1016/j.thromres.2012.05.010
+ Year: 2012
+ Type: 2
+ Locations:
+  - Department of Medicine, University of North Carolina at Chapel Hill, NC, USA
+-
+ Reference: "Checkley S (2011) Engineering Tuneable Gene Circuits in Yeast. PhD Thesis, University of Manchester."
+ URL: https://www.researchgate.net/profile/Stephen_Checkley/publication/236847923_Engineering_Tuneable_Gene_Circuits_in_Yeast/links/02e7e51961e992935e000000.pdf
+ Year: 2012
+ Type: 2
+ Locations:
+  - University of Manchester, Manchester, UK
+-
  Reference: "Chua HE, Bhowmick SS, Tucker-Kellogg L,  Forbes Dewey, Jr C (2012) STEROID: in silico heuristic target combination identification for disease-related signaling networks. Proceedings of the 2012 ACM Conference on Bioinformatics, Computational Biology and Biomedicine BCB'12 pp. 4-11"
  Year: 2012
  URL: http://dx.doi.org/10.1145/2382936.2382937
@@ -2289,35 +2377,146 @@
  Locations: 
   - Nanyang Technological University, Singapore
   - National University of Singapore, Singapore
-  - Massachusetts Institute of Technology
+  - Massachusetts Institute of Technology, Cambridge MA, USA
 -
- Reference: "Dalle Pezze P, Sonntag AG, Thien A, Prentzell MT, Gödel M, Fischer S, Neumann-Haefelin E, Huber TB, Baumeister R, Shanley DP, Thedieck K (2012) A Dynamic Network Model of mTOR Signaling Reveals TSC-Independent mTORC2 Regulation. Science Signaling  5:ra25"
+ Reference: "Criquet J, Allard S, Salhi E, Joll CA, Heitz A, von Gunten U (2012) Iodate and Iodo-Trihalomethane Formation during Chlorination of Iodide-Containing Waters: Role of Bromide. Environmental Science & Technology 46:7350–7357"
+ URL: http://dx.doi.org/10.1021/es301301g
  Year: 2012
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Eawag, Swiss Federal Institute of Aquatic Science and Technology, CH-8600, Dübendorf, Switzerland
+  - Curtin Water Quality Research Centre, Curtin University, GPO Box U1987, Perth, WA 6845, Australia
+  - School of Architecture, Civil and Environmental Engineering (ENAC), Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland
+  - Institute of Biogeochemistry and Pollutant Dynamics, ETH Zentrum, CH-8092 Zürich, Switzerland
+-
+ Reference: "Cristovao M, Sisamakis E, Hingorani MM, Marx AD, Jung CP, Rothwell PJ, Seidel CAM, Friedhoff P (2012) Single-molecule multiparameter fluorescence spectroscopy reveals directional MutS binding to mismatched bases in DNA. Nucleic Acids Research 40:5448–5464"
+ URL: http://dx.doi.org/10.1093/nar/gks138
+ Year: 2012
+ Type: 2
+ Locations:
+  - Institute for Biochemistry, FB 08, Justus Liebig University, Heinrich-Buff Ring 58, D-35392 Giessen, Germany
+  - Department of Cell Biology and Genetics, Erasmus Medical Center, Dr. Molewaterplein 50, 3015 GE Rotterdam, The Netherlands
+  - Molecular Physical Chemistry, Heinrich-Heine University, Universitätsstrasse 1, 40225 Düsseldorf, Germany
+  - Department of Applied Physics, Experimental Biomolecular Physics, Royal Institute of Technology, SE-106 91 Stockholm, Sweden
+  - Molecular Biology and Biochemistry Department, Wesleyan University, Middletown, CT 06459, USA
+-
+ Reference: "Czeizler E, Mizera A, Czeizler E, Back R-J, Eriksson JE, Petre I (2012) Quantitative Analysis of the Self-Assembly Strategies of Intermediate Filaments from Tetrameric Vimentin. IEEE/ACM Transactions on Computational Biology and Bioinformatics 9:885–898"
+ URL: http://dx.doi.org/10.1109/TCBB.2011.154
+ Year: 2012
+ Type: 2
+ Locations:
+  - Department of Information and Computer Science, Aalto University School of Science, Aalto FI-00076, Finland
+  - Institute of Fundamental Technological Research, Polish Academy of Sciences, ul. Pawinskiego 5B, Warszawa 02-106, Poland
+  - Computational Systems Biology Laboratory, Faculty of Medicine, Biomedicum Helsinki, University of Helsinki, B524a, Helsinki FI-00014, Finland
+  - Department of Information Technologies, Åbo Akademi University, ICT-building, Joukahaisenkatu 3-5, Turku FIN-20520, Finland
+  - Turku Centre for Biotechnology, Åbo Akademi University, BioCity, Tykistökatu 6 B, Turku FIN-20521, Finland.
+-
+ Reference: "Dada JO, Mendes P (2012) ManyCell: A Multiscale Simulator for Cellular Systems. (Gilbert D and Heiner M eds) Computational Methods in Systems Biology. Berlin, Heidelberg: Springer Berlin Heidelberg, 366–369."
+ URL: http://link.springer.com/10.1007/978-3-642-33636-2_22
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Dalle Pezze P, Sonntag AG, Thien A, Prentzell MT, Godel M, Fischer S, Neumann-Haefelin E, Huber TB, Baumeister R, Shanley DP, Thedieck K (2012) A Dynamic Network Model of mTOR Signaling Reveals TSC-Independent mTORC2 Regulation. Science Signaling 5:ra25–ra25"
  URL: http://dx.doi.org/10.1126/scisignal.2002469
+ Year: 2012
+ Type: 2
  Keywords:
   - Signaling
- Type: 2
  Locations: 
   - Institute for Ageing and Health, Newcastle University, Campus for Ageing and Vitality, Newcastle upon Tyne NE4 5PL, UK.
   - Centre for Integrated Systems Biology of Ageing and Nutrition, Institute for Ageing and Health, Newcastle University, Newcastle upon Tyne NE4 5PL, UK.
   - Albert-Ludwigs-Universität Freiburg, 79104 Freiburg, Germany.
   - University Hospital Freiburg, 79106 Freiburg, Germany.
 -
- Reference: "Hamberg, A., Maurer, S., Hult, K. (2012). Rational engineering of Candida antarctica lipase B for selective monoacylation of diols. Chem. Commun. 48:10013-10015"
+ Reference: "Davies O, Mendes P, Smallbone K, Malys N (2012) Characterisation of multiple substrate-specific (d)ITP/(d)XTPase and modelling of deaminated purine nucleotide metabolism. BMB reports 45:259–264"
+ URL: http://dx.doi.org/10.5483/BMBRep.2012.45.4.259
  Year: 2012
- URL: http://dx.doi.org/10.1039/C2CC34684B
+ Type: 2
+ Locations: 
+-
+ Reference: "Ding K, Miranda MO, Moscato-Goodpaster B, Ajellal N, Breyfogle LE, Hermes ED, Schaller CP, Roe SE, Cramer CJ, Hillmyer MA, Tolman WB (2012) Roles of Monomer Binding and Alkoxide Nucleophilicity in Aluminum-Catalyzed Polymerization of ε - Caprolactone. Macromolecules 45:5387–5396"
+ URL: http://dx.doi.org/10.1021/ma301130b
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Friedrich LC, Mendes MA, Silva VO, Zanta CLPS, Machulek Jr. A, Quina FH (2012) Mechanistic implications of zinc(II) ions on the degradation of phenol by the fenton reaction. Journal of the Brazilian Chemical Society 23:1372–1377"
+ URL: http://dx.doi.org/10.1590/S0103-50532012000700022
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Gatti DL (2012) Biapenem Inactivation by B2 Metallo β-Lactamases: Energy Landscape of the Post-Hydrolysis Reactions. PLoS ONE 7:e30079"
+ URL: http://dx.doi.org/10.1371/journal.pone.0030079
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Gebhard LG, Kaufman SB, Gamarnik AV (2012) Novel ATP-Independent RNA Annealing Activity of the Dengue Virus NS3 Helicase. PLoS ONE 7:e36244"
+ URL: http://dx.doi.org/10.1371/journal.pone.0036244
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Georgoulas A, Clark A, Ocone A, Gilmore S, Sanguinetti G (2012) A subsystems approach for parameter estimation of ODE models of hybrid systems. Electronic Proceedings in Theoretical Computer Science 92:30–41"
+ URL: http://dx.doi.org/10.4204/EPTCS.92.3
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Guo C, Gow C-H, Li Y, Gardner A, Khan S, Zhang J (2012) Regulated Clearance of Histone Deacetylase 3 Protects Independent Formation of Nuclear Receptor Corepressor Complexes. Journal of Biological Chemistry 287:12111–12120"
+ URL: http://dx.doi.org/10.1074/jbc.M111.327023
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Hamberg A, Maurer S, Hult K (2012) Rational engineering of Candida antarctica lipase B for selective monoacylation of diols. Chemical Communications 48:10013"
+ URL: http://dx.doi.org/10.1039/c2cc34684b
+ Year: 2012
+ Type: 2
  Keywords:
   - Biochemistry
- Type: 2
  Locations:
   - School of Biotechnology, Department of Biochemistry, Royal Institute of Technology (KTH), AlbaNova, Stockholm, Sweden
   - BASF SE, GVF/E-A030, Ludwigshafen, Germany
- Funding:
-  -
 -
- Reference: "Kim, B., Eggel, A., Tarchevskaya, S. S., Vogel, M., Prinz, H., & Jardetzky, T. S. (2012). Accelerated disassembly of IgE–receptor complexes by a disruptive macromolecular inhibitor. Nature, 491(7425), 613–617"
+ Reference: "Heiland I, Bodenstein C, Hinze T, Weisheit O, Ebenhoeh O, Mittag M, Schuster S (2012) Modeling temperature entrainment of circadian clocks using the Arrhenius equation and a reconstructed model from Chlamydomonas reinhardtii. Journal of Biological Physics 38:449–464"
+ URL: http://dx.doi.org/10.1007/s10867-012-9264-x
  Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Hoffman-Sommer M (2012) Cell-to-cell communication circuits: quantitative analysis of synthetic logic gates. Frontiers in Physiology 3."
+ URL: http://journal.frontiersin.org/article/10.3389/fphys.2012.00287/abstract"
+ URL: http://dx.doi.org/10.3389/fphys.2012.00287
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Hultqvist G, Punekar AS, Morrone A, Chi CN, Engström Å, Selmer M, Gianni S, Jemth P (2012) Tolerance of Protein Folding to a Circular Permutation in a PDZ Domain. PLoS ONE 7:e50055"
+ URL: http://dx.doi.org/10.1371/journal.pone.0050055
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Jozefczuk J, Kashofer K, Ummanni R, Henjes F, Rehman S, Geenen S, Wruck W, Regenbrecht C, Daskalaki A, Wierling C, Turano P, Bertini I, Korf U, Zatloukal K, Westerhoff HV, Lehrach H, Adjaye J (2012) A Systems Biology Approach to Deciphering the Etiology of Steatosis Employing Patient-Derived Dermal Fibroblasts and iPS Cells. Frontiers in Physiology 3."
+ URL: http://dx.doi.org/10.3389/fphys.2012.00339
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Kent E, Hoops S, Mendes P (2012) Condor-COPASI: high-throughput computing for biochemical networks. BMC Systems Biology 6:91"
+ URL: http://dx.doi.org/10.1186/1752-0509-6-91
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Kim B, Eggel A, Tarchevskaya SS, Vogel M, Prinz H, Jardetzky TS (2012) Accelerated disassembly of IgE–receptor complexes by a disruptive macromolecular inhibitor. Nature 491:613–617"
  URL: http://dx.doi.org/10.1038/nature11546
+ Year: 2012
  Keywords:
   - Immunology
  Type: 2
@@ -2325,24 +2524,32 @@
   - Department of Structural Biology, Stanford University School of Medicine, Stanford, California, USA
   - Institute of Immunology, University of Bern, Bern, Switzerland
   - Max-Planck-Institut fur Molekulare Physiologie, Otto-Hahn-Str. 11, Dortmund, Germany
- Funding:
-  -
 -
- Reference: "Kowald A, Hamann A, Zintel S, Ullrich S, Klipp E, Osiewacz HD (2012). A systems biological analysis links ROS metabolism to mitochondrial protein quality control. Mech Ageing Dev 133(5):331-7"
+ Reference: "Kostromins A, Mozga I, Stalidzans E (2012) ConvAn: A convergence analyzing tool for optimization of biochemical networks. Biosystems 108:73–77"
+ URL: http://dx.doi.org/10.1016/j.biosystems.2011.12.004
  Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Kowald A, Hamann A, Zintel S, Ullrich S, Klipp E, Osiewacz HD (2012) A systems biological analysis links ROS metabolism to mitochondrial protein quality control. Mechanisms of Ageing and Development 133:331–337"
  URL: http://dx.doi.org/10.1016/j.mad.2012.03.008
+ Year: 2012
  Keywords:
   - Cell biology
  Type: 2
  Locations:
   - Humboldt-Universität zu Berlin, Institute for Biology, Theoretical Biophysics, Invalidenstrasse 42, Berlin, Germany
   - J.W. Goethe-University, Institute for Molecular Biosciences & Cluster of Excellence Macromolecular Complexes, Max-von-Laue-Str. 9, Frankfurt, Germany
- Funding:
-  -
 -
- Reference: "Levering, J., Musters, M. W. J. M., Bekker, M., Bellomo, D., Fiedler, T., de Vos, W. M., Hugenholtz, J., Kreikemeyer, B., Kummer, U. and Teusink, B. (2012), Role of phosphate in the central metabolism of two lactic acid bacteria – a comparative systems biology approach. FEBS Journal, 279:1274–1290"
+ Reference: "Leach MD, Tyc KM, Brown AJP, Klipp E (2012) Modelling the Regulation of Thermal Adaptation in Candida albicans, a Major Fungal Pathogen of Humans. PLoS ONE 7:e32467"
+ URL: http://dx.doi.org/10.1371/journal.pone.0032467
  Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Levering J, Musters MWJM, Bekker M, Bellomo D, Fiedler T, de Vos WM, Hugenholtz J, Kreikemeyer B, Kummer U, Teusink B (2012) Role of phosphate in the central metabolism of two lactic acid bacteria - a comparative systems biology approach: Modelling glycolysis of lactic acid bacteria. FEBS Journal 279:1274–1290"
  URL: http://dx.doi.org/10.1111/j.1742-4658.2012.08523.x
+ Year: 2012
  Keywords:
   - Metabolism
  Type: 2
@@ -2353,12 +2560,46 @@
   - Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
   - Institute of Medical Microbiology, Virology and Hygiene, Rostock, Germany
   - Laboratory of Microbiology, Wageningen University, Wageningen, The Netherlands
- Funding:
-  -
 -
- Reference: "Monge, M. E., Rosenørn, T., Favez, O., Müller, M., Adler, G., Abo Riziq, A., et al. (2012). Alternative pathway for atmospheric particles growth. Proceedings of the National Academy of Sciences, 109(18):6840–6844"
+ Reference: "Lindner, Christoph (2012) Phosphane in der Organokatalyse: experimentelle und theoretische Studien. PhD Thesis, Ludwig-Maximilians University Munich."
+ URL: https://edoc.ub.uni-muenchen.de/15281/
  Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Li Y, Wang M, Carra C, Cucinotta FA (2012) Modularized Smad-regulated TGFβ signaling pathway. Mathematical Biosciences 240:187–200"
+ URL: http://dx.doi.org/10.1016/j.mbs.2012.07.005
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Maiwald, Tim (2012) Computational Analysis of The Interferon Alpha Signalling Using a Systems Biology Modelling Approach Pathway. PhD Thesis, Heidelberg University."
+ URL: http://www.ub.uni-heidelberg.de/archiv/13164
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Mayorga LS, Lopez MJ, Becker WM (2012) Molecular Thermodynamics for Cell Biology as Taught with Boxes. Cell Biology Education 11:31–38"
+ URL: http://dx.doi.org/10.1187/cbe.11-07-0053
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Mazemondet O, John M, Leye S, Rolfs A, Uhrmacher AM (2012) Elucidating the Sources of β-Catenin Dynamics in Human Neural Progenitor Cells. PLoS ONE 7:e42792"
+ URL: http://dx.doi.org/10.1371/journal.pone.0042792
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Micheau J-C, Coudret C, Cruz J-M, Buhse T (2012) Amplification of enantiomeric excess, mirror-image symmetry breaking and kinetic proofreading in Soai reaction models with different oligomeric orders. Physical Chemistry Chemical Physics 14:13239"
+ URL: http://dx.doi.org/10.1039/c2cp42041d
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Monge ME, Rosenorn T, Favez O, Muller M, Adler G, Abo Riziq A, Rudich Y, Herrmann H, George C, D’Anna B (2012) Alternative pathway for atmospheric particles growth. Proceedings of the National Academy of Sciences 109:6840–6844"
  URL: http://dx.doi.org/10.1073/pnas.1120593109
+ Year: 2012
  Keywords:
   - Chemistry
  Type: 2
@@ -2366,19 +2607,45 @@
   - Université de Lyon, Centre National de la Recherche Scientifique (CNRS), Institut de recherches sur la catalyse et l’environnement de Lyon, Villeurbanne, France
   - Department of Environmental Sciences, Weizmann Institute, Rehovot, Israel
   - Leibniz-Institute for Tropospheric Research, Permoserstrasse 15, Leipzig, Germany
- Funding:
-  -
 -
- Reference: "Piras, V., Hayashi, K., Tomita, M., Selvarajoo, K. (2012). Investigation of stochasticity in TRAIL signaling cancer model. Complex Medical Engineering (CME) 609-614"
+ Reference: "Moscato BM, Zhu B, Landis CR (2012) Mechanistic Investigations into the Behavior of a Labeled Zirconocene Polymerization Catalyst. Organometallics 31:2097–2107"
+ URL: http://dx.doi.org/10.1021/om3000955
  Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Muntean N, Thuy LB, Kály-Kullai K, Wittmann M, Noszticzius Z, Onel L, Furrow SD (2012) Measurement of Hypoiodous Acid Concentration by a Novel Type Iodide Selective Electrode and a New Method To Prepare HOI. Monitoring HOI Levels in the Briggs–Rauscher Oscillatory Reaction. The Journal of Physical Chemistry A 116:6630–6642"
+ URL: http://dx.doi.org/10.1021/jp3015673
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Olin-Sandoval V, González-Chávez Z, Berzunza-Cruz M, Martínez I, Jasso-Chávez R, Becker I, Espinoza B, Moreno-Sánchez R, Saavedra E (2012) Drug target validation of the trypanothione pathway enzymes through metabolic modelling: Kinetic modelling of trypanothione metabolism. FEBS Journal 279:1811–1833"
+ URL: http://dx.doi.org/10.1111/j.1742-4658.2012.08557.x
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Pahle J, Challenger JD, Mendes P, McKane AJ (2012) Biochemical fluctuations, optimisation and the linear noise approximation. BMC Systems Biology 6:86"
+ URL: http://dx.doi.org/10.1186/1752-0509-6-86
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Palai T, Mitra S, Bhattacharya PK (2012) Kinetics and design relation for enzymatic conversion of lactose into galacto-oligosaccharides using commercial grade β-galactosidase. Journal of Bioscience and Bioengineering 114:418–423"
+ URL: http://dx.doi.org/10.1016/j.jbiosc.2012.05.012
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Piras V, Hayashi K, Tomita M, Selvarajoo K (2012) Investigation of stochasticity in TRAIL signaling cancer model. IEEE, 609–614."
  URL: http://dx.doi.org/10.1109/ICCME.2012.6275648
+ Year: 2012
  Keywords:
   - Signaling
  Type: 2
  Locations:
   - Institute for Advanced Biosciences, Keio University Tsuruoka, Yamagata 997-0035, Japan
- Funding:
-  -
 -
  Reference: "Ray JCJ, Igoshin OA (2012) Interplay of Gene Expression Noise and Ultrasensitive Dynamics Affects Bacterial Operon Organization. PLoS Comput. Biol. 8:e1002672"
  Year: 2012
@@ -2391,9 +2658,98 @@
   - Department of Bioengineering, Rice University, Houston, Texas, United States of America
   - Department of Systems Biology, The University of Texas MD Anderson Cancer Center, Houston, Texas, United States of America
 -
- Reference: "Wegner, K., Bachmann, A., Schad, J.-U., Lucarelli, P., Sahle, S., Nickel, P., Meyer , C., Klingmüller, U., Dooley, S., Kummer, U. (2012). Dynamics and feedback loops in the transforming growth factor β signaling pathway. Biophysical Chemistry, 162:22–34"
+ Reference: "Salvado B, Vilaprinyo E, Karathia H, Sorribas A, Alves R (2012) Two Component Systems: Physiological Effect of a Third Component. PLoS ONE 7:e31095"
+ URL: http://dx.doi.org/10.1371/journal.pone.0031095
  Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Sarma U, Ghosh I (2012) Different designs of kinase-phosphatase interactions and phosphatase sequestration shapes the robustness and signal flow in the MAPK cascade. BMC Systems Biology 6:82"
+ URL: http://dx.doi.org/10.1186/1752-0509-6-82
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Sarma U, Ghosh I (2012) Oscillations in MAPK cascade triggered by two distinct designs of coupled positive and negative feedback loops. BMC Research Notes 5:287"
+ URL: http://dx.doi.org/10.1186/1756-0500-5-287
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Sarma U, Sareen A, Maiti M, Kamat V, Sudan R, Pahari S, Srivastava N, Roy S, Sinha S, Ghosh I, Chande AG, Mukhopadhyaya R, Saha B (2012) Modeling and Experimental Analyses Reveals Signaling Plasticity in a Bi-Modular Assembly of CD40 Receptor Activated Kinases. PLoS ONE 7:e39898"
+ URL: http://dx.doi.org/10.1371/journal.pone.0039898
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Schaber J (2012) Easy parameter identifiability analysis with COPASI. Biosystems 110:183–185"
+ URL: http://dx.doi.org/10.1016/j.biosystems.2012.09.003
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Schimek C, Vlaic S, Wöstemeyer J, Werner S, Schuster S, Schroeter A (2012) Model of the synthesis of trisporic acid in Mucorales showing bistability. IET Systems Biology 6:207–214"
+ URL: http://dx.doi.org/10.1049/iet-syb.2011.0056
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Singh VK, Das K, Seshadri K (2012) Kinetic Modelling of GlmU Reactions – Prioritization of Reaction for Therapeutic Application. PLoS ONE 7:e43969"
+ URL: http://dx.doi.org/10.1371/journal.pone.0043969
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Stefan MI, Marshall DP, Le Novère N (2012) Structural Analysis and Stochastic Modelling Suggest a Mechanism for Calmodulin Trapping by CaMKII. PLoS ONE 7:e29406"
+ URL: http://dx.doi.org/10.1371/journal.pone.0029406
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Steinacher A, Leyser O, H. Clayton R (2012) A computational model of auxin and pH dynamics in a single plant cell. Journal of Theoretical Biology 296:84–94"
+ URL: http://dx.doi.org/10.1016/j.jtbi.2011.11.020
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Sulins J, Mednis M (2012) Automatic termination of parallel optimization runs of stochastic global optimization methods in consensus or stagnation cases. Biosystems and Information technology 1:1–5"
+ URL: http://dx.doi.org/10.11592/bit.120501
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Surovtsova I, Simus N, Hübner K, Sahle S, Kummer U (2012) Simplification of biochemical models: a general approach based on the analysis of the impact of individual species and reactions on the systems dynamics. BMC Systems Biology 6:14"
+ URL: http://dx.doi.org/10.1186/1752-0509-6-14
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Tagore S, De RK (2012) SAGPAR: Structural Grammar-based automated pathway reconstruction. Interdisciplinary Sciences: Computational Life Sciences 4:116–127"
+ URL: http://dx.doi.org/10.1007/s12539-012-0119-8
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Tiedemann MT, Heinrichs DE, Stillman MJ (2012) Multiprotein Heme Shuttle Pathway in Staphylococcus aureus : Iron-Regulated Surface Determinant Cog-Wheel Kinetics. Journal of the American Chemical Society 134:16578–16585"
+ URL: http://dx.doi.org/10.1021/ja305115y
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Viladomiu M, Hontecillas R, Pedragosa M, Carbo A, Hoops S, Michalak P, Michalak K, Guerrant RL, Roche JK, Warren CA, Bassaganya-Riera J (2012) Modeling the Role of Peroxisome Proliferator-Activated Receptor γ and MicroRNA-146 in Mucosal Immune Responses to Clostridium difficile. PLoS ONE 7:e47525"
+ URL: http://dx.doi.org/10.1371/journal.pone.0047525
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Warren PB, Allen RJ (2012) Steady-state parameter sensitivity in stochastic modeling via trajectory reweighting. The Journal of Chemical Physics 136:104106"
+ URL: http://dx.doi.org/10.1063/1.3690092
+ Year: 2012
+ Type: 2
+-
+ Reference: "Wegner K, Bachmann A, Schad J-U, Lucarelli P, Sahle S, Nickel P, Meyer C, Klingmüller U, Dooley S, Kummer U (2012) Dynamics and feedback loops in the transforming growth factor β signaling pathway. Biophysical Chemistry 162:22–34"
  URL: http://dx.doi.org/10.1016/j.bpc.2011.12.003
+ Year: 2012
  Keywords:
   - Signaling
  Type: 2
@@ -2402,8 +2758,20 @@
   - Universitätsmedizin Mannheim, University of Heidelberg, Mannheim, Germany
   - Department for Modeling of Biological Processes, COS Heidelberg and BIOQUANT, University of Heidelberg, Heidelberg, Germany
   - Systems Biology of Signal Transduction, German Cancer Research Center, Heidelberg, Germany
- Funding:
-  -
+-
+ Reference: "Witmer JR (2012) Quantitative analysis and modeling of redox networks in biology. PhD Thesis, University of Iowa."
+ URL: http://ir.uiowa.edu/etd/3407
+ Year: 2012
+ Type: 2
+ Locations: 
+-
+ Reference: "Zimmer C (2012) Parameter estimation for stochastic models of biochemical reactions. PhD Thesis, Heidelberg University."
+ URL: http://www.ub.uni-heidelberg.de/archiv/13522
+ Year: 2012
+ Type: 3
+ Locations: 
+
+
 -
  Reference: "Bandaru P, Bansal M, Nemenman I (2011) Mass Conservation and Inference of Metabolic Networks from High-Throughput Mass Spectrometry Data. J. Comput. Biol. 18:147-154"
  Year: 2011
@@ -2854,3 +3222,5 @@
   - Coordinates: -29.7421453,31.0328613
  Funding:
   - National Bioinformatics Network (South Africa)
+
+
