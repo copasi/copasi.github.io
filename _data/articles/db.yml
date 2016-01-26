@@ -1825,6 +1825,21 @@
   - Chemistry
  Type: 2
 -
+ Reference: "Maccari, G., Mori, M., Rodríguez-Salarichs, J., Fang, W., Díaz, J.F., Botta, M.(2013). Free Energy Profile and Kinetics Studies of Paclitaxel Internalization from the Outer to the Inner Wall of Microtubules. J. Chem. Theory Comput. 9(1):698–706"
+ Year: 2013
+ URL: http://dx.doi.org/10.1021/ct3006612
+ Keywords:
+  - Cell biology
+ Type: 2
+ Locations:
+  - Dipartimento Farmaco-Chimico Tecnologico, Facoltà di Farmacia, Università degli Studi di Siena, I-53100 Siena, Italy
+  - Dipartimento di Chimica e Tecnologia del Farmaco, Università di Roma “La Sapienza”, I-00185 Roma, Italy
+  - Centro de Investigaciones Biológicas, CSIC, 28040 Madrid, Spain
+  - Centro de Estudios Avanzados de Cuba, La Lisa, Ciudad Habana 17100, Cuba
+  - Institute of Materia Medica, Chinese Academy of Medical Sciences, Beijing 100050, China
+ Funding:
+  -
+-
  Reference: "Mednis M, Vigants A (2013) Automatic comparison of metabolites names: impact of criteria thresholds. Biosystems and Information Technol. 2:1-5"
  Year: 2013
  URL: http://dx.doi.org/10.11592/bit.130501
@@ -2287,7 +2302,83 @@
   - Centre for Integrated Systems Biology of Ageing and Nutrition, Institute for Ageing and Health, Newcastle University, Newcastle upon Tyne NE4 5PL, UK.
   - Albert-Ludwigs-Universität Freiburg, 79104 Freiburg, Germany.
   - University Hospital Freiburg, 79106 Freiburg, Germany.
-
+-
+ Reference: "Hamberg, A., Maurer, S., Hult, K. (2012). Rational engineering of Candida antarctica lipase B for selective monoacylation of diols. Chem. Commun. 48:10013-10015"
+ Year: 2012
+ URL: http://dx.doi.org/10.1039/C2CC34684B
+ Keywords:
+  - Biochemistry
+ Type: 2
+ Locations:
+  - School of Biotechnology, Department of Biochemistry, Royal Institute of Technology (KTH), AlbaNova, Stockholm, Sweden
+  - BASF SE, GVF/E-A030, Ludwigshafen, Germany
+ Funding:
+  -
+-
+ Reference: "Kim, B., Eggel, A., Tarchevskaya, S. S., Vogel, M., Prinz, H., & Jardetzky, T. S. (2012). Accelerated disassembly of IgE–receptor complexes by a disruptive macromolecular inhibitor. Nature, 491(7425), 613–617"
+ Year: 2012
+ URL: http://dx.doi.org/10.1038/nature11546
+ Keywords:
+  - Immunology
+ Type: 2
+ Locations:
+  - Department of Structural Biology, Stanford University School of Medicine, Stanford, California, USA
+  - Institute of Immunology, University of Bern, Bern, Switzerland
+  - Max-Planck-Institut fur Molekulare Physiologie, Otto-Hahn-Str. 11, Dortmund, Germany
+ Funding:
+  -
+-
+ Reference: "Kowald A, Hamann A, Zintel S, Ullrich S, Klipp E, Osiewacz HD (2012). A systems biological analysis links ROS metabolism to mitochondrial protein quality control. Mech Ageing Dev 133(5):331-7"
+ Year: 2012
+ URL: http://dx.doi.org/10.1016/j.mad.2012.03.008
+ Keywords:
+  - Cell biology
+ Type: 2
+ Locations:
+  - Humboldt-Universität zu Berlin, Institute for Biology, Theoretical Biophysics, Invalidenstrasse 42, Berlin, Germany
+  - J.W. Goethe-University, Institute for Molecular Biosciences & Cluster of Excellence Macromolecular Complexes, Max-von-Laue-Str. 9, Frankfurt, Germany
+ Funding:
+  -
+-
+ Reference: "Levering, J., Musters, M. W. J. M., Bekker, M., Bellomo, D., Fiedler, T., de Vos, W. M., Hugenholtz, J., Kreikemeyer, B., Kummer, U. and Teusink, B. (2012), Role of phosphate in the central metabolism of two lactic acid bacteria – a comparative systems biology approach. FEBS Journal, 279:1274–1290"
+ Year: 2012
+ URL: http://dx.doi.org/10.1111/j.1742-4658.2012.08523.x
+ Keywords:
+  - Metabolism
+ Type: 2
+ Locations:
+  - Department of Modeling of Biological Processes, COS Heidelberg/BIOQUANT, University of Heidelberg, Germany
+  - Kluyver Centre for Genomics of Industrial Fermentation, Delft, The Netherlands
+  - Swammerdam Institute for Life Sciences, Amsterdam, The Netherlands
+  - Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
+  - Institute of Medical Microbiology, Virology and Hygiene, Rostock, Germany
+  - Laboratory of Microbiology, Wageningen University, Wageningen, The Netherlands
+ Funding:
+  -
+-
+ Reference: "Monge, M. E., Rosenørn, T., Favez, O., Müller, M., Adler, G., Abo Riziq, A., et al. (2012). Alternative pathway for atmospheric particles growth. Proceedings of the National Academy of Sciences, 109(18):6840–6844"
+ Year: 2012
+ URL: http://dx.doi.org/10.1073/pnas.1120593109
+ Keywords:
+  - Chemistry
+ Type: 2
+ Locations:
+  - Université de Lyon, Centre National de la Recherche Scientifique (CNRS), Institut de recherches sur la catalyse et l’environnement de Lyon, Villeurbanne, France
+  - Department of Environmental Sciences, Weizmann Institute, Rehovot, Israel
+  - Leibniz-Institute for Tropospheric Research, Permoserstrasse 15, Leipzig, Germany
+ Funding:
+  -
+-
+ Reference: "Piras, V., Hayashi, K., Tomita, M., Selvarajoo, K. (2012). Investigation of stochasticity in TRAIL signaling cancer model. Complex Medical Engineering (CME) 609-614"
+ Year: 2012
+ URL: http://dx.doi.org/10.1109/ICCME.2012.6275648
+ Keywords:
+  - Signaling
+ Type: 2
+ Locations:
+  - Institute for Advanced Biosciences, Keio University Tsuruoka, Yamagata 997-0035, Japan
+ Funding:
+  -
 -
  Reference: "Ray JCJ, Igoshin OA (2012) Interplay of Gene Expression Noise and Ultrasensitive Dynamics Affects Bacterial Operon Organization. PLoS Comput. Biol. 8:e1002672"
  Year: 2012
@@ -2299,6 +2390,20 @@
  Locations: 
   - Department of Bioengineering, Rice University, Houston, Texas, United States of America
   - Department of Systems Biology, The University of Texas MD Anderson Cancer Center, Houston, Texas, United States of America
+-
+ Reference: "Wegner, K., Bachmann, A., Schad, J.-U., Lucarelli, P., Sahle, S., Nickel, P., Meyer , C., Klingmüller, U., Dooley, S., Kummer, U. (2012). Dynamics and feedback loops in the transforming growth factor β signaling pathway. Biophysical Chemistry, 162:22–34"
+ Year: 2012
+ URL: http://dx.doi.org/10.1016/j.bpc.2011.12.003
+ Keywords:
+  - Signaling
+ Type: 2
+ Locations:
+  - Science and Technology Research Institute, University of Hertfordshire, College Lane, Hatfield, United Kingdom
+  - Universitätsmedizin Mannheim, University of Heidelberg, Mannheim, Germany
+  - Department for Modeling of Biological Processes, COS Heidelberg and BIOQUANT, University of Heidelberg, Heidelberg, Germany
+  - Systems Biology of Signal Transduction, German Cancer Research Center, Heidelberg, Germany
+ Funding:
+  -
 -
  Reference: "Bandaru P, Bansal M, Nemenman I (2011) Mass Conservation and Inference of Metabolic Networks from High-Throughput Mass Spectrometry Data. J. Comput. Biol. 18:147-154"
  Year: 2011
@@ -2457,6 +2562,17 @@
   - University of Sheffield, Sheffield, United Kingdom
   - University of Glasgow, Glasgow, United Kingdom
 -
+ Reference: "Baker, S.M., Schallau, K., Junker, B.H. (2010). Comparison of different algorithms for simultaneous estimation of multiple parameters in kinetic metabolic models. Journal of Integrative Bioinformatics 7(3):519-520"
+ Year: 2010
+ URL: http://dx.doi.org/10.2390/biecoll-jib-2010-133
+ Keywords:
+  - Computational method
+ Type: 3
+ Locations:
+  - Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben 06466, Germany
+ Funding:
+  -
+-
  Reference: "Dimitrova ES, Vera Licona MP, McGee J, Laubenbacher R. (2010) Discretization of Time Series Data. J. Comput. Biol. J17:853-68."
  Year: 2010
  URL: http://dx.doi.org/10.1089/cmb.2008.0023
@@ -2554,6 +2670,20 @@
  Type: 2
  Locations: 
   - University of Missouri—Saint Louis, St. Louis, Missouri, USA
+-
+ Reference: "Katzberg, M., Wechler, K., Müller, M., Dünkelmann, P., Stohrer, J., Hummel, W., & Bertau, M. (2009). Biocatalytical production of (5S)-hydroxy-2-hexanone. Org. Biomol. Chem. 7(2):304–314"
+ Year: 2009
+ URL: http://dx.doi.org/10.1039/B816364B
+ Keywords:
+  - Biochemistry
+ Type: 2
+ Locations:
+  - Institute of Biochemistry, Dresden University of Technology, Dresden, D-01062, Dresden, Germany
+  - Institute of Molecular Enzyme Technology, Research Center Jülich, D-52426, Jülich, Germany
+  - Wacker AG, München, Germany
+  - Institute of Technical Chemistry, Freiberg University of Mining and Technology, D-09596, Freiberg, Germany
+ Funding:
+  -
 -
  Reference: "Pingoud V, Wende W, Friedhoff P, Reuter M, Alves J, Jeltsch A, Mones L, Fuxreiter M, Pingoud A (2009) On the Divalent Metal Ion Dependence of DNA Cleavage by Restriction Endonucleases of the EcoRI Family. J. Mol. Biol. 393:140-60"
  Year: 2009
