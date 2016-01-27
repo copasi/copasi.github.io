@@ -67,7 +67,7 @@ Each entry in the file must start wit a line including only a single '-'. Indent
  Keywords:
   - Chemistry
  Locations:
-  - Coordinates: 43.1063674,-89.4954946
+  - University of Wisconsin, Madison WI, USA
  Funding: 
   - NIH
   - NSF
@@ -78,10 +78,10 @@ Each entry in the file must start wit a line including only a single '-'. Indent
  Keywords:
   - Macromolecular biochemistry
  Locations:
-  - Coordinates: 52.3792558,-1.5636591
-  - Coordinates: 53.466853,-2.2360724
-  - Coordinates: 37.2209322,-80.4284957
-  - Coordinates: 53.4059392,-2.9677609
+  - University of Warwick, Warwick, UK
+  - University of Manchester, Manchester, UK
+  - University of Liverpool, Liverpool, UK
+  - Virginia Tech, Blacksburg VA, USA
  Funding: 
   - BBSRC
 -
@@ -91,5 +91,5 @@ Each entry in the file must start wit a line including only a single '-'. Indent
  Keywords: 
   - Physiology
  Locations:
-  - Coordinates: 51.2427253,-0.5917031
+  - University of Surrey, Guildford, UK
 </pre>
