@@ -2334,6 +2334,14 @@
  Locations:
   - Department of Bioinformatics, Friedrich Schiller University Jena, Ernst-Abbe-Platz 2, D-07743 Jena, Germany
 -
+ Reference: "Bortolussi L, Policriti A (2012) Studying cancer-cell populations by programmable models of networks. Network Modeling Analysis in Health Informatics and Bioinformatics 1:117–133"
+ URL: http://dx.doi.org/10.1007/s13721-012-0010-x
+ Year: 2012
+ Type: 2
+ Locations:
+  - Department of Maths and Geosciences, University of Trieste, Trieste, Italy
+  - Department of Maths and Computer Science, University of Udine, Udine, Italy
+-
  Reference: "Burés J, Armstrong A, Blackmond DG (2012) Curtin–Hammett Paradigm for Stereocontrol in Organocatalysis by Diarylprolinol Ether Catalysts. Journal of the American Chemical Society 134:6741–6750"
  URL: http://dx.doi.org/10.1021/ja300415t
  Year: 2012
@@ -3090,8 +3098,14 @@
  Type: 3
  Locations:
   - Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben 06466, Germany
- Funding:
-  -
+-
+ Reference: "Brasen JC, Barington T, Olsen LF (2010) On the mechanism of oscillations in neutrophils. Biophysical Chemistry 148:82–92"
+ URL: http://dx.doi.org/10.1016/j.bpc.2010.02.013
+ Year: 2010
+ Type: 2
+ Locations:
+  - CelCom, Institute of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark
+  - Department of Clinical Immunology, Odense University Hospital and Clinical Institute, University of Southern Denmark, Odense, Denmark
 -
  Reference: "Dimitrova ES, Vera Licona MP, McGee J, Laubenbacher R. (2010) Discretization of Time Series Data. J. Comput. Biol. J17:853-68."
  Year: 2010
@@ -3115,6 +3129,18 @@
  Type: 2
  Locations: 
   - Boston Biomedical Research Institute, Watertown, Massachusetts 02472
+-
+ Reference: "Maiwald T, Schneider A, Busch H, Sahle S, Gretz N, Weiss TS, Kummer U, Klingmüller U (2010) Combining theoretical analysis and experimental data generation reveals IRF9 as a crucial factor for accelerating interferon α-induced early antiviral signalling: IRF9 accelerates IFNα signal transduction. FEBS Journal 277:4741–4754"
+ URL: http://dx.doi.org/10.1111/j.1742-4658.2010.07880.x
+ Year: 2010
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - Department Modeling of Biological Processes, BIOQUANT, Heidelberg University, Heidelberg, Germany
+  - German Cancer Research Center, Heidelberg, Germany
+  - Heidelberg University, Medical Faculty Mannheim, Mannheim, Germany
+  - University Medical Center Regensburg, Center for Liver Cell Research, Regensburg, Germany
 -
  Reference: "Nakano T, Doi T, Yoshimoto J, Doya K (2010) A Kinetic Model of Dopamine- and Calcium-Dependent Striatal Synaptic Plasticity. PLoS Comput Biol 6(2): e1000670."
  Year: 2010
@@ -3160,6 +3186,20 @@
  Locations: 
   - Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, VA, USA
 -
+ Reference: "Baralla A, Mentzen WI, De La Fuente A (2009) Inferring Gene Networks: Dream or Nightmare?: Part 1: Challenges 1 and 3. Annals of the New York Academy of Sciences 1158:246–256"
+ URL: http://dx.doi.org/10.1111/j.1749-6632.2008.04099.x
+ Year: 2009
+ Type: 3
+ Keywords:
+  - Computational methods
+ Locations:
+  - Dipartimento di Scienze Biomediche, Laboratorio di ricerca e diagnosi di proteomica, metabolomica e biologia molecolare clinica, Università degli Studi di Sassari, Sassari, Italy
+  - CRS4 Bioinformatica, Pula, Italy
+-
+ Reference: "Bauer-Mehren A, Furlong LI, Rautschka M, Sanz F (2009) From SNPs to pathways: integration of functional effect of sequence variations on models of cell signalling pathways. BMC Bioinformatics 10:S6"
+ URL: http://dx.doi.org/10.1186/1471-2105-10-S8-S6
+ Year: 2009
+-
  Reference: "Curien G, Bastien O, Robert-Genthon M, Cornish-Bowden A, Cárdenas ML, Dumas R (2009) Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters. Mol. Sys. Biol. 5:271"
  URL: http://dx.doi.org/10.1038/msb.2009.29
  Year: 2009
@@ -3172,6 +3212,14 @@
  Keywords:
   - Metabolism
  Type: 2
+-
+ Reference: "Figueiredo AS, Höfer T, Klotz C, Sers C, Hartmann S, Lucius R, Hammerstein P (2009) Modelling and simulating interleukin-10 production and regulation by macrophages after stimulation with an immunomodulator of parasitic nematodes: Modelling interleukin-10 production and regulation. FEBS Journal 276:3454–3469"
+ URL: http://dx.doi.org/10.1111/j.1742-4658.2009.07068.x
+ Year: 2009
+-
+ Reference: "Friedrich A, Ghosh R, Kolb R, Herdtweck E, Schneider S (2009) Iridium Olefin Complexes Bearing Dialkylamino/amido PNP Pincer Ligands: Synthesis, Reactivity, and Solution Dynamics †. Organometallics 28:708–718"
+ URL: http://dx.doi.org/10.1021/om800423u
+ Year: 2009
 -
  Reference: "Gallagher SS, Sable JE, Sheetz MP, Cornish VW (2009) An In Vivo Covalent TMP-Tag Based on Proximity-Induced Reactivity. ACS Chem. Biol. 4:547-56"
  Year: 2009
@@ -3191,6 +3239,10 @@
  Locations: 
   - University of Missouri—Saint Louis, St. Louis, Missouri, USA
 -
+ Reference: "Ibrahim B, Schmitt E, Dittrich P, Diekmann S (2009) In silico study of kinetochore control, amplification, and inhibition effects in MCC assembly. Biosystems 95:35–50"
+ URL: http://dx.doi.org/10.1016/j.biosystems.2008.06.007
+ Year: 2009
+-
  Reference: "Katzberg, M., Wechler, K., Müller, M., Dünkelmann, P., Stohrer, J., Hummel, W., & Bertau, M. (2009). Biocatalytical production of (5S)-hydroxy-2-hexanone. Org. Biomol. Chem. 7(2):304–314"
  Year: 2009
  URL: http://dx.doi.org/10.1039/B816364B
@@ -3202,8 +3254,18 @@
   - Institute of Molecular Enzyme Technology, Research Center Jülich, D-52426, Jülich, Germany
   - Wacker AG, München, Germany
   - Institute of Technical Chemistry, Freiberg University of Mining and Technology, D-09596, Freiberg, Germany
- Funding:
-  -
+-
+ Reference: "Knoke B, Textor S, Gershenzon J, Schuster S (2009) Mathematical modelling of aliphatic glucosinolate chain length distribution in Arabidopsis thaliana leaves. Phytochemistry Reviews 8:39–51"
+ URL: http://dx.doi.org/10.1007/s11101-008-9107-3
+ Year: 2009
+-
+ Reference: "Modre-Osprian R, Osprian I, Tilg B, Schreier G, Weinberger KM, Graber A (2009) Dynamic simulations on the mitochondrial fatty acid Beta-oxidation network. BMC Systems Biology 3:2"
+ URL: http://dx.doi.org/10.1186/1752-0509-3-2
+ Year: 2009
+-
+ Reference: "Orton RJ, Adriaens ME, Gormand A, Sturm OE, Kolch W, Gilbert DR (2009) Computational modelling of cancerous mutations in the EGFR/ERK signalling pathway. BMC Systems Biology 3:100"
+ URL: http://dx.doi.org/10.1186/1752-0509-3-100
+ Year: 2009
 -
  Reference: "Pingoud V, Wende W, Friedhoff P, Reuter M, Alves J, Jeltsch A, Mones L, Fuxreiter M, Pingoud A (2009) On the Divalent Metal Ion Dependence of DNA Cleavage by Restriction Endonucleases of the EcoRI Family. J. Mol. Biol. 393:140-60"
  Year: 2009
@@ -3217,6 +3279,10 @@
   - Medizinische Hochschule Hannover, Carl-Neuberg-Str. 1, D-30625 Hannover, Germany
   - Jacobs University Bremen, Campus Ring 1, D-28759 Bremen, Germany
   - Biological Research Centre, Hungarian Academy of Sciences, H-1113 Budapest, Hungary
+-
+ Reference: "Schulz M, Bakker BM, Klipp E (2009) TIde: a software for the systematic scanning of drug targets in kinetic network models. BMC Bioinformatics 10:344"
+ URL: http://dx.doi.org/10.1186/1471-2105-10-344
+ Year: 2009
 -
  Reference: "Shen Z, Dornan PK, Khan HA, WooTK, Dong VM (2009) Mechanistic Insights into the Rhodium-Catalyzed Intramolecular Ketone Hydroacylation (2009) J. Am. Chem. Soc. 131:1077-91"
  URL: http://dx.doi.org/10.1021/ja806758m
@@ -3271,6 +3337,10 @@
   - EMBL, Heidelberg, Germany.
   - Universidad Nacional de Cuyo, Mendoza, Argentina
 -
+ Reference: "Jungmann R, Renner S, Simmel FC (2008) From DNA nanotechnology to synthetic biology. HFSP Journal 2:99–109"
+ URL: http://dx.doi.org/10.2976/1.2896331
+ Year: 2008
+-
  Reference: "Marchisio MA, Stelling J (2008) Computational design of synthetic gene circuits with composable parts. Bioinformatics 24:1903-10."
  Year: 2008
  URL: http://dx.doi.org/10.1093/bioinformatics/btn330 
@@ -3288,6 +3358,10 @@
  Type: 3
  Locations: 
   -  University of New Mexico, Albuquerque, NM 87131, USA
+-
+ Reference: "Sahle S, Mendes P, Hoops S, Kummer U (2008) A new strategy for assessing sensitivities in biochemical models. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 366:3619–3631"
+ URL: http://dx.doi.org/10.1098/rsta.2008.0108
+ Year: 2008
 -
  Reference: "Schmierer B, Tournier AL, Bates PA, Hill CS (2008) Mathematical modeling identifies Smad nucleocytoplasmic shuttling as a dynamic signal-interpreting system. PNAS 105:6608-13"
  Year: 2008
