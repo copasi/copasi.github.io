@@ -1827,7 +1827,7 @@
   - Centro de Estudios Avanzados de Cuba, Habana, Cuba
   - Chinese Academy of Medical Sciences, Beijing, China
  Funding:
-  - Ministerio de Ciencia, Tecnologías y Medio Ambiente de la República de Cuba
+  - Ministerio de Ciencia Tecnologías y Medio Ambiente de la República de Cuba
   - CSIC Spain
   - Ministerio de Economia y Competitividad Spain
   - Natural Science Foundation of China
@@ -1948,7 +1948,7 @@
   - Computational method
  Type: 3
  Locations: 
-  - National University of Singapore, Singapore
+  - National University of Singapore, Singapore, Singapore
 -
  Reference: "Penkler GP (2013) A kinetic model of glucose catabolism in Plasmodium falciparum. Ph.D. Thesis, Faculty of Science, University of Stellenbosch, South Africa"
  Year: 2013
@@ -1968,8 +1968,8 @@
   - Immunology
  Type: 2
  Locations: 
-  - Virginia Tech, Blacksburg VA USA
-  - VA-MD Regional College of Veterinary Medicine, Blacksburg VA USA
+  - Virginia Tech, Blacksburg VA, USA
+  - VA-MD Regional College of Veterinary Medicine, Blacksburg VA, USA
 -
  Reference: "Proctor CJ, Boche D, Gray DA, Nicoll JAR (2013) Investigating Interventions in Alzheimer's Disease with Computer Simulation Models. PLoS ONE 8:e73631"
  Year: 2013
@@ -2233,7 +2233,7 @@
   - Toxicology
  Type: 2
  Locations: 
-  - University of Iowa, Iowa City, Iowa 52242
+  - University of Iowa, Iowa City IA, USA
 -
  Reference: "Veith N, Feldman-Salit A, Cojocaru V, Henrich S, Kummer U, Wade RC (2013) Organism-Adapted Specificity of the Allosteric Regulation of Pyruvate Kinase in Lactic Acid Bacteria. PLoS Comput. Biol. 9:e1003159"
  Year: 2013
@@ -2318,8 +2318,8 @@
  Year: 2012
  Type: 2
  Locations:
-  - Department of Maths and Geosciences, University of Trieste, Trieste, Italy
-  - Department of Maths and Computer Science, University of Udine, Udine, Italy
+  - University of Trieste, Trieste, Italy
+  - University of Udine, Udine, Italy
 -
  Reference: "Burés J, Armstrong A, Blackmond DG (2012) Curtin–Hammett Paradigm for Stereocontrol in Organocatalysis by Diarylprolinol Ether Catalysts. Journal of the American Chemical Society 134:6741–6750"
  URL: http://dx.doi.org/10.1021/ja300415t
@@ -2328,8 +2328,8 @@
  Keywords:
   - Chemistry
  Locations:
-  - Department of Chemistry, The Scripps Research Institute, La Jolla, California 92037, United States
-  - Department of Chemistry, Imperial College London, London SW7 2AZ, UK
+  - Scripps Research Institute, La Jolla CA, USA
+  - Imperial College London, London, UK
 -
  Reference: "Challenger JD, McKane AJ, Pahle J (2012) Multi-compartment linear noise approximation. Journal of Statistical Mechanics: Theory and Experiment 2012:P11010"
  URL: http://dx.doi.org/10.1088/1742-5468/2012/11/P11010
@@ -2338,7 +2338,6 @@
  Keywords:
   - Computational method
  Locations:
-  - Theoretical Physics Division, School of Physics and Astronomy, The University of Manchester, Manchester M13 9PL, UK
   - University of Manchester, Manchester, UK
 -
  Reference: "Chang J-Y, Chantrathammachart P, Monroe DM, Key NS (2012) Studies on the mechanism of action of the aptamer BAX499, an Inhibitor of tissue factor pathway inhibitor. Thrombosis Research 130:e151–e157"
@@ -2355,8 +2354,8 @@
   - Computational method
  Type: 3
  Locations: 
-  - Nanyang Technological University, Singapore
-  - National University of Singapore, Singapore
+  - Nanyang Technological University, Singapore, Singapore
+  - National University of Singapore, Singapore, Singapore
   - Massachusetts Institute of Technology, Cambridge MA, USA
 -
  Reference: "Criquet J, Allard S, Salhi E, Joll CA, Heitz A, von Gunten U (2012) Iodate and Iodo-Trihalomethane Formation during Chlorination of Iodide-Containing Waters: Role of Bromide. Environmental Science & Technology 46:7350–7357"
@@ -2816,7 +2815,7 @@
   - Computational methods
  Locations:
   - Latvia University of Agriculture, Jelgava, Latvia
-  - SIA TIBIT, Rīgas iela 52, LV-3018, Ozolnieki, Ozolnieku nov., Latvia
+  - SIA TIBIT, Ozolnieki, Latvia
 -
  Reference: "Surovtsova I, Simus N, Hübner K, Sahle S, Kummer U (2012) Simplification of biochemical models: a general approach based on the analysis of the impact of individual species and reactions on the systems dynamics. BMC Systems Biology 6:14"
  URL: http://dx.doi.org/10.1186/1752-0509-6-14
