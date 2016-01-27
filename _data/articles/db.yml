@@ -1771,7 +1771,7 @@
   - Theory
  Type: 2
  Locations: 
-  - Department of Mechanics, School of Applied Mathematics and Physical Sciences, National Technical University of Athens, Zografou 15773, Greece
+  - National Technical University of Athens, Zografou, Greece
 -
  Reference: "Kraut DA (2013) Slippery substrates impair ATP-dependent protease function by slowing unfolding. J. Biol. Chem. 288:34729-34735"
  Year: 2013
@@ -1803,7 +1803,7 @@
   - Metabolism
  Type: 2
  Locations:
-  - Coordinates: 49.4183338,8.6707814
+  - Heidelberg University, Heidelberg, Germany
  Funding:
   - SysMO-LAB
   - Klaus Tschira Foundation
@@ -1828,15 +1828,20 @@
  URL: http://dx.doi.org/10.1021/ct3006612
  Keywords:
   - Cell biology
+  - Macromolecular biochemistry
+  - Pharmacology
  Type: 2
  Locations:
-  - Dipartimento Farmaco-Chimico Tecnologico, Facoltà di Farmacia, Università degli Studi di Siena, I-53100 Siena, Italy
-  - Dipartimento di Chimica e Tecnologia del Farmaco, Università di Roma “La Sapienza”, I-00185 Roma, Italy
-  - Centro de Investigaciones Biológicas, CSIC, 28040 Madrid, Spain
-  - Centro de Estudios Avanzados de Cuba, La Lisa, Ciudad Habana 17100, Cuba
-  - Institute of Materia Medica, Chinese Academy of Medical Sciences, Beijing 100050, China
+  - University of Siena, Siena, Italy
+  - University of Rome La Sapienza, Rome, Italy
+  - Centro de Investigaciones Biológicas, Madrid, Spain
+  - Centro de Estudios Avanzados de Cuba, Habana, Cuba
+  - Chinese Academy of Medical Sciences, Beijing, China
  Funding:
-  -
+  - Ministerio de Ciencia, Tecnologías y Medio Ambiente de la República de Cuba
+  - CSIC Spain
+  - Ministerio de Economia y Competitividad Spain
+  - Natural Science Foundation of China
 -
  Reference: "Mednis M, Vigants A (2013) Automatic comparison of metabolites names: impact of criteria thresholds. Biosystems and Information Technol. 2:1-5"
  Year: 2013
@@ -1845,9 +1850,8 @@
   - Computational method
  Type: 3
  Locations: 
-  - Biosystems Group, Department of Computer Systems, Latvia University of Agriculture, Liela iela 2, LV-3001, Jelgava, Latvia
-  - Institute of Microbiology and Biotechnology, Faculty of Biology, Latvia University, Kronvalda bulv. 4, LV-1586, Riga, Latvia
-
+  - Latvia University of Agriculture, Jelgava, Latvia
+  - Latvia University, Riga, Latvia
 -
  Reference: "Mensonides FIC, Bakker BM, Cremazy F, Messiha HL , Mendes P, Boogerd FC, Westerhoff HV (2013) A new regulatory principle for in vivo biochemistry: pleiotropic low affinity regulation by the adenine nucleotides illustrated for the glycolytic enzymes of Saccharomyces cerevisiae. FEBS Lett. 587:2860-7"
  Year: 2013
@@ -1876,7 +1880,7 @@
   - Software
  Type: 3
  Locations: 
-  - Center for Modeling Immunity to Enteric Pathogens, Virginia Tech, Blacksburg, VA, USA 
+  - Virginia Tech, Blacksburg VA, USA 
 -
  Reference: "Mei Y, Hontecillas R,  Zhang X; Carbo A, Bassaganya-Riera J (2013) Neural network models for classifying immune cell subsets. 2013 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 18-21 Dec. 2013, pp.5-11"
  Year: 2013
@@ -1885,7 +1889,7 @@
   - Computational method
  Type: 3
  Locations: 
-  - Center for Modeling Immunity to Enteric Pathogens, Virginia Bioinf. Inst., Blacksburg, VA, USA
+  - Virginia Tech, Blacksburg VA, USA
 -
  Reference: "Miah F, Koliwer-Brandl H, Rejzek M, Field RA, Kalscheuer R, Bornemann S (2013) Flux through trehalose synthase flows from trehalose to the alpha anomer of maltose in mycobacteria. Chem. Biol. 20:487-493"
  Year: 2013
@@ -1908,8 +1912,8 @@
   - Metabolism
  Type: 2
  Locations:
-  - Coordinates: 53.4726871,-2.2394139
-  - Coordinates: 37.2209365,-80.4306844
+  - University of Manchester, Manchester, UK
+  - Virginia Tech, Blacksburg VA, USA
  Funding:
   - BBSRC
   - NIH
@@ -1920,7 +1924,7 @@
  Locations:
   - Coordinates: 48.2131891,16.3578617
  Funding:
-  - EU-Marie-Curie
+  - EU - Marie-Curie
  Keywords:
   - Metabolism
  Type: 2
@@ -1932,11 +1936,10 @@
   - Computational method
  Type: 3
  Locations: 
-  - Dipartimento di Informatica, Sistemistica e Comunicazione, Università degli Studi di Milano-Bicocca, Viale Sarca 336, 20126, Milano, Italy
-  - Dipartimento di Informatica, Università degli Studi di Milano, Via Comelico 39, 20135, Milano, Italy
-  - Consiglio Nazionale delle Ricerche, Istituto di Analisi dei Sistemi ed Informatica “Antonio Ruberti”, iale Manzoni 30, 00185, Roma, Italy
-  - Dipartimento di Scienze Umane e Sociali, Università degli Studi di Bergamo, Piazzale S. Agostino 2, 24129, Bergamo, Italy
-  - Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca, Via Bicocca degli Arcimboldi 8, 20126, Milano, Italy
+  - University of Milano-Bicocca, Milan, Italy
+  - University of Milano, Milan, Italy
+  - Consiglio Nazionale delle Ricerche, Roma, Italy
+  - University of Bergamo, Bergamo, Italy
 -
  Reference: "Palai T, Bhattacharya PK (2013) Kinetics of lactose conversion to galacto-oligosaccharides by beta-galactosidase immobilized on PVDF membrane. J. Biosci. Bioeng. 115:668-673"
  Year: 2013
@@ -1956,7 +1959,7 @@
   - Computational method
  Type: 3
  Locations: 
-  - National University of Singapore, 21 Lower Kent Ridge Road, Singapore 119077
+  - National University of Singapore, Singapore
 -
  Reference: "Penkler GP (2013) A kinetic model of glucose catabolism in Plasmodium falciparum. Ph.D. Thesis, Faculty of Science, University of Stellenbosch, South Africa"
  Year: 2013
@@ -1965,9 +1968,9 @@
   - Metabolism
  Type: 2
  Locations:
-  - Coordinates: -33.9562001,18.4582946
+  - University of Stellenbosch, Stellenbosch, South Africa
  Funding:
-  -  National Research Foundation (South Africa)
+  - National Research Foundation (South Africa)
 -
  Reference: "Philipson CW, Bassaganya-Riera J, Hontecillas R (2013) Animal models of enteroaggregative Escherichia coli infection. Gut Microbes 4:281-291"
  Year: 2013
@@ -1976,9 +1979,8 @@
   - Immunology
  Type: 2
  Locations: 
-  - Nutritional Immunology and Molecular Medicine Laboratory, Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, VA USA
-  - Center for Modeling Immunity to Enteric Pathogens, Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, VA USA
-  - Department of Biomedical Sciences and Pathobiology, VA-MD Regional College of Veterinary Medicine, Virginia Tech, Blacksburg, VA USA
+  - Virginia Tech, Blacksburg VA USA
+  - VA-MD Regional College of Veterinary Medicine, Blacksburg VA USA
 -
  Reference: "Proctor CJ, Boche D, Gray DA, Nicoll JAR (2013) Investigating Interventions in Alzheimer's Disease with Computer Simulation Models. PLoS ONE 8:e73631"
  Year: 2013
@@ -1987,10 +1989,10 @@
   - Macromolecular biochemistry
  Type: 2
  Locations: 
-  - Institute for Ageing and Health, Newcastle University, Newcastle upon Tyne, United Kingdom
-  - Clinical Neurosciences, Clinical and Experimental Sciences, University of Southampton, Southampton, United Kingdom
+  - Newcastle University, Newcastle upon Tyne, UK
+  - University of Southampton, Southampton, UK
   - Ottawa Hospital Research Institute, Ottawa, Canada
-  - Department of Biochemistry, Microbiology and Immunology, University of Ottawa, Ottawa, Canada
+  - University of Ottawa, Ottawa, Canada
 -
  Reference: "Ravichandran S, Rao KVS, Jain S (2013) Bistability in a model of early B cell receptor activation and its role in tonic signaling and system tunability. Molecular BioSystems 9:2498-2511"
  Year: 2013
@@ -1999,10 +2001,10 @@
   - Signaling
  Type: 2
  Locations: 
-  - Department of Physics and Astrophysics, University of Delhi, Delhi, India 
+  - University of Delhi, Delhi, India 
   - International Centre for Genetic Engineering and Biotechnology, New Delhi, India
   - Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore, India
-  - Santa Fe Institute, Santa Fe, USA
+  - Santa Fe Institute, Santa Fe NM, USA
 -
  Reference: "Reeves BD, Hilmer JK, Mellmann L, Hartzheim M, Poffenberger K, Johnson K, Joshi N, Singel DJ, Grieco PA (2013) Selective trapping of SNO-BSA and GSNO by benzenesulfinic acid sodium salt: mechanistic study of thiosulfonate formation and feasibility as a protein S-nitrosothiol detection strategy. Tetrahedron Lett. 54:5707-10"
  URL: http://dx.doi.org/10.1016/j.tetlet.2013.08.011
@@ -2022,9 +2024,7 @@
   - Computational method
  Type: 3
  Locations: 
-  - Department of Chemistry, University of Illinois at Urbana-Champaign, Urbana, IL, 61801, USA
-  - Center for the Physics of Living Cells, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801
-  - Beckman Institute, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801
+  - University of Illinois at Urbana-Champaign, Urbana IL, USA
 -
  Reference: "Rutkis R, Kalnenieks U, Stalidzans E, Fell DA (2013) Kinetic modeling of Zymomonas mobilis Entner-Doudoroff pathway: insights into control and functionality. Microbiol. 159:2674-2689"
  Year: 2013
@@ -2048,10 +2048,9 @@
   - Signaling
  Type: 2
  Locations: 
-  - Institute for Ophthalmic Research, University of Tübingen, Tübingen, Germany
-  - Institute of Food Science and Biotechnology, University of Stuttgart Hohenheim, Stuttgart, Germany
-  - Skin Clinic, University of Tübingen, Tübingen, Germany
-  - Department of Clinical Sciences, Lund, University of Lund, Lund, Sweden
+  - University of Tübingen, Tübingen, Germany
+  - University of Stuttgart Hohenheim, Stuttgart, Germany
+  - University of Lund, Lund, Sweden
 -
  Reference: "Sarma U, Gade PM, Saha B (2013) A mathematical model for dynamics of CD40 clustering. Systems and Synthetic Biol. 7:197-208"
  Year: 2013
@@ -2060,8 +2059,8 @@
   - Macromolecular biochemistry
  Type: 2
  Locations: 
-  - PG Department of Physics, RTM Nagpur University, Maharaj Administrative Premises, Ravindranath Tagore Marg Nagpur 440001
-  - National Centre for Cell Science, Pune University, Ganeshkhind, Pune, Maharashtra 411007, India 
+  - RTM Nagpur University, Ravindranath Tagore Marg Nagpur, India
+  - Pune University, Ganeshkhind, Pune, India 
 -
  Reference: "Schäuble S, Stavrum AK, Puntervoll P, Schuster S, Heiland I (2013) Effect of substrate competition in kinetic models of metabolic networks. FEBS Lett. 587:2818-2824"
  Year: 2013
@@ -2102,8 +2101,7 @@
   - Signaling
  Type: 2
  Locations: 
-  - Stevens Institute of Technology, NJ 07030, United States
-
+  - Stevens Institute of Technology, Hoboken NJ, USA
 -
  Reference: "Sharp GC, Ma H, Saunders PTK, Norman JE (2013) A Computational Model of Lipopolysaccharide-Induced Nuclear Factor Kappa B Activation: A Key Signalling Pathway in Infection-Induced Preterm Labour. PLoS ONE 8:e70180"
  Year: 2013
@@ -2112,10 +2110,8 @@
   - Signaling
  Type: 2
  Locations: 
-  - Medical Research Council (MRC) Centre for Reproductive Health, University of Edinburgh, Edinburgh, United Kingdom
-  - Computational Systems Biology, School of Informatics, University of Edinburgh, Edinburgh, United Kingdom
-  - Key Laboratory of Systems Microbial Biotechnology, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, P.R. China
-  - Medical Research Council (MRC) Centre for Reproductive Health and Tommy’s Centre for Maternal and Fetal Health, University of Edinburgh, Edinburgh, United Kingdom
+  - University of Edinburgh, Edinburgh, United Kingdom
+  - Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, China
 -
  Reference: "Shemirani MI (2013) Construction of metabolic pathway of catecholamine from tyrosine in human fibroblast cell. Degree Proejct in Medicine, School of Medicine and Health Science, Orerbo University, Sweden"
  Year: 2013
@@ -2124,7 +2120,7 @@
   - Metabolism
  Type: 2
  Locations:
-  - Coordinates: 59.254719,15.2462573
+  - Orerbo University, Örebro, Sweden
 -
  Reference: "Singh VK, Ghosh I (2013) Methylerythritol phosphate pathway to isoprenoids: kinetic modeling and in silico enzyme inhibitions in Plasmodium falciparum. FEBS Lett. 587:2806-2817"
  Year: 2013
@@ -2144,7 +2140,7 @@
   - Laboratory method
  Type: 3
  Locations: 
-  - HPP Division, Defence Science and Technology Organisation, 506 Lorimer Street, Fishermans Bend, VIC 3207, Australia
+  - Defence Science and Technology Organisation, Fishermans Bend, Australia
 -
  Reference: "Smallbone K, Messiha HL, Carroll KM, Winder CL, Malys N, Dunn WB, Murabito E, Swainston N, Dada JO, Khan F, Pir P, Simeonidis E, Spasic I, Wishart J, Weichart D, Hayes NW, Jameson D, Broomhead DS, Oliver SG, Gaskell SJ, McCarthy JEG, Paton NW, Westerhoff HV, Kell DB, Mendes P (2013) A model of yeast glycolysis based on a consistent kinetic characterization of all its enzymes. FEBS Letters 587:2832-41"
  Year: 2013
@@ -2218,9 +2214,8 @@
   - Software
  Type: 3
  Locations: 
-  - Department of Medical Oncology, National Center for Tumor Diseases (NCT), University Hospital Heidelberg
-  - Hamamatsu Tissue Imaging and Analysis Center (TIGA), BIOQUANT, Heidelberg University
-  - Department of Medical Informatics, Institute of Medical Biometry and Informatics, University Hospital Heidelberg, 69120 Heidelberg, Germany
+  - University Hospital Heidelberg, Heidelberg, Germany
+  - Heidelberg University, Heidelberg, Germany
 -
  Reference: "Tapinos A, Mendes P (2013) A Method for Comparing Multivariate Time Series with Different Dimensions. PLoS ONE 8:e54201"
  Year: 2013
@@ -2230,8 +2225,8 @@
   - Theory
  Type: 3
  Locations: 
-  - School of Computer Science and Manchester Institute of Biotechnology, The University of Manchester, Manchester, United Kingdom
-  - Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, Virginia, United States of America
+  - University of Manchester, Manchester, UK
+  - Virginia Tech, Blacksburg VA, USA
 -
  Reference: "Toney MD (2013) Common enzymological experiments allow free energy profile determination. Biochemistry 52:5952-5965"
  Year: 2013
@@ -2274,9 +2269,8 @@
   - Immunology
  Type: 2
  Locations: 
-  - Nutritional Immunology and Molecular Medicine Laboratory, Virginia Bioinformatics Institute, Blacksburg, VA 24060, USA
-  - Center for Modeling Immunity to Enteric Pathogens, Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, VA 24060, USA
-  - Department of Biomedical Sciences and Pathobiology, VA-MD Regional College of Veterinary Medicine, Virginia Tech, Blacksburg, VA 24061, USA
+  - Virginia Tech, Blacksburg VA, USA
+  - VA-MD Regional College of Veterinary Medicine, Blacksburg VA, USA
 -
  Reference: "Achcar F, Kerkhoven EJ, The SilicoTryp Consortium, Bakker BM, Barrett MP, Breitling R (2012) Dynamic Modelling under Uncertainty: The Case of Trypanosoma brucei Energy Metabolism. PLoS Computational Biology 8:e1002352"
  URL: http://dx.doi.org/10.1371/journal.pcbi.1002352
@@ -2285,10 +2279,8 @@
  Keywords:
   - Metabolism
  Locations:
-  - Institute of Molecular, Cell and Systems Biology, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, United Kingdom
-  - Groningen Bioinformatics Centre, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, The Netherlands
-  - Wellcome Trust Centre for Molecular Parasitology, Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, United Kingdom
-  - Department of Liver, Digestive and Metabolic Diseases, University Medical Centre Groningen, University of Groningen, The Netherlands
+  - University of Glasgow, Glasgow, UK
+  - University of Groningen, Groningen, Netherlands
 -
  Reference: "Adamczyk M, Westerhoff HV (2012) Engineering of self-sustaining systems: Substituting the yeast glucose transporter plus hexokinase for the Lactococcus lactis phosphotransferase system in a Lactococcus lactis network in silico. Biotechnology Journal 7:877–883"
  URL: http://dx.doi.org/10.1002/biot.201100314
@@ -2297,23 +2289,23 @@
  Keywords:
   - Metabolism
  Locations:
-  - Manchester Centre for Integrative Systems Biology, University of Manchester, MIB, Manchester, UK
-  - Warsaw University of Technology, Faculty of Chemistry, Institute of Biotechnology, ul. Noakowskiego 3, Warsaw, Poland
+  - University of Manchester, Manchester, UK
+  - Warsaw University of Technology, Warsaw, Poland
 -
  Reference: "Adiamah DA, Schwartz J-M (2012) Construction of a Genome-Scale Kinetic Model of Mycobacterium Tuberculosis Using Generic Rate Equations. Metabolites 2:382–397"
  URL: http://dx.doi.org/10.3390/metabo2030382
  Year: 2012
  Type: 2
  Locations:
-  - Manchester Institute of Biotechnology, Faculty of Life Sciences, University of Manchester, 131 Princess Street, Manchester M1 7DN, UK
+  - University of Manchester, Manchester, UK
 -
  Reference: "Betney R, de Silva E, Mertens C, Knox Y, Krishnan J, Stansfield I (2012) Regulation of release factor expression using a translational negative feedback loop: A systems analysis. RNA 18:2320–2334"
  URL: http://dx.doi.org/10.1261/rna.035113.112
  Year: 2012
  Type: 2
  Locations:
-  - University of Aberdeen, School of Medical Sciences, Institute of Medical Sciences, Foresterhill, Aberdeen, AB25 2ZD, United Kingdom
-  - Chemical Engineering and Chemical Technology, Institute for Systems and Synthetic Biology, Imperial College London, South Kensington Campus, London SW7 2AZ, United Kingdom
+  - University of Aberdeen, Aberdeen, UK
+  - Imperial College London, London, UK
 -
  Reference: "Biswas S, Huang Z, Choliy Y, Wang DY, Brookhart M, Krogh-Jespersen K, Goldman AS (2012) Olefin Isomerization by Iridium Pincer Catalysts. Experimental Evidence for an η 3 -Allyl Pathway and an Unconventional Mechanism Predicted by DFT Calculations. Journal of the American Chemical Society 134:13276–13295"
  URL: http://dx.doi.org/10.1021/ja301464c
@@ -2322,15 +2314,15 @@
  Keywords:
   - Chemistry
  Locations:
-  - Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, New Brunswick, New Jersey 08903, USA
-  - Department of Chemistry, The University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599, USA
+  - State University of New Jersey, New Brunswick NJ, USA
+  - University of North Carolina, Chapel Hill NC, USA
 -
  Reference: "Bodenstein C, Heiland I, Schuster S (2012) Temperature compensation and entrainment in circadian rhythms. Physical Biology 9:036011"
  URL: http://dx.doi.org/10.1088/1478-3975/9/3/036011
  Year: 2012
  Type: 2
  Locations:
-  - Department of Bioinformatics, Friedrich Schiller University Jena, Ernst-Abbe-Platz 2, D-07743 Jena, Germany
+  - Friedrich Schiller University Jena, Jena, Germany
 -
  Reference: "Bortolussi L, Policriti A (2012) Studying cancer-cell populations by programmable models of networks. Network Modeling Analysis in Health Informatics and Bioinformatics 1:117–133"
  URL: http://dx.doi.org/10.1007/s13721-012-0010-x
@@ -2358,21 +2350,14 @@
   - Computational method
  Locations:
   - Theoretical Physics Division, School of Physics and Astronomy, The University of Manchester, Manchester M13 9PL, UK
-  - CICADA, School of Mathematics, The University of Manchester, Manchester Interdisciplinary Biocentre, 131 Princess Street, Manchester M1 7DN, UK
+  - University of Manchester, Manchester, UK
 -
  Reference: "Chang J-Y, Chantrathammachart P, Monroe DM, Key NS (2012) Studies on the mechanism of action of the aptamer BAX499, an Inhibitor of tissue factor pathway inhibitor. Thrombosis Research 130:e151–e157"
  URL: http://dx.doi.org/10.1016/j.thromres.2012.05.010
  Year: 2012
  Type: 2
  Locations:
-  - Department of Medicine, University of North Carolina at Chapel Hill, NC, USA
--
- Reference: "Checkley S (2011) Engineering Tuneable Gene Circuits in Yeast. PhD Thesis, University of Manchester."
- URL: https://www.researchgate.net/profile/Stephen_Checkley/publication/236847923_Engineering_Tuneable_Gene_Circuits_in_Yeast/links/02e7e51961e992935e000000.pdf
- Year: 2012
- Type: 2
- Locations:
-  - University of Manchester, Manchester, UK
+  - University of North Carolina, Chapel Hill NC, USA
 -
  Reference: "Chua HE, Bhowmick SS, Tucker-Kellogg L,  Forbes Dewey, Jr C (2012) STEROID: in silico heuristic target combination identification for disease-related signaling networks. Proceedings of the 2012 ACM Conference on Bioinformatics, Computational Biology and Biomedicine BCB'12 pp. 4-11"
  Year: 2012
@@ -2445,8 +2430,8 @@
  Year: 2012
  Type: 2
  Locations:
-  - Manchester Interdisciplinary Biocentre, The University of Manchester, 131 Princess Street, Manchester M1 7DN, UK
-  - School of Life Sciences, Gibbet Hill Campus, The University of Warwick, Warwick, Coventry, CV4 7AL, UK
+  - University of Manchester, Manchester, UK
+  - University of Warwick, Warwick, UK
 -
  Reference: "Ding K, Miranda MO, Moscato-Goodpaster B, Ajellal N, Breyfogle LE, Hermes ED, Schaller CP, Roe SE, Cramer CJ, Hillmyer MA, Tolman WB (2012) Roles of Monomer Binding and Alkoxide Nucleophilicity in Aluminum-Catalyzed Polymerization of ε - Caprolactone. Macromolecules 45:5387–5396"
  URL: http://dx.doi.org/10.1021/ma301130b
@@ -2455,8 +2440,8 @@
  Keywords:
   - Chemistry
  Locations:
-  - Department of Chemistry, Center for Sustainable Polymers, and Supercomputing Institute, University of Minnesota, 207 Pleasant Street SE, Minneapolis, Minnesota 55455, USA
-  - Department of Chemistry, College of St. Benedict/St. John’s University, 37 South College Avenue, St. Joseph, Minnesota 56374, USA
+  - University of Minnesota, Minneapolis, MN, USA
+  - St. John’s University, St. Joseph MN, USA
 -
  Reference: "Friedrich LC, Mendes MA, Silva VO, Zanta CLPS, Machulek Jr. A, Quina FH (2012) Mechanistic implications of zinc(II) ions on the degradation of phenol by the fenton reaction. Journal of the Brazilian Chemical Society 23:1372–1377"
  URL: http://dx.doi.org/10.1590/S0103-50532012000700022
@@ -2465,26 +2450,24 @@
  Keywords:
   - Chemistry
  Locations:
-  - Instituto de Química, Universidade de São Paulo, CP 26077, 05513-970 São Paulo-SP, Brazil
-  - Departamento de Engenharia Química, Escola Politécnica, Universidade de São Paulo, 05508-000 São Paulo-SP, Brazil
-  - Instituto de Química e Biotecnologia, Universidade Federal de Alagoas, Campus A. C. Simões, 57072-970 Maceió-AL, Brazil
-  - Departamento de Química, Universidade Federal de Mato Grosso do Sul, 79074-760 Campo Grande-MS, Brazil
+  - University of São Paulo, São Paulo, Brazil
+  - Federal University of Alagoas, Maceió, Brazil
+  - Federal University of Mato Grosso do Sul, Campo Grande, Brazil
 -
  Reference: "Gatti DL (2012) Biapenem Inactivation by B2 Metallo β-Lactamases: Energy Landscape of the Post-Hydrolysis Reactions. PLoS ONE 7:e30079"
  URL: http://dx.doi.org/10.1371/journal.pone.0030079
  Year: 2012
  Type: 2
  Locations:
-  - Department of Biochemistry and Molecular Biology, Wayne State University School of Medicine, Detroit, Michigan, USA
-  - Cardiovascular Research Institute, Wayne State University School of Medicine, Detroit, Michigan, USA
+  - Wayne State University School of Medicine, Detroit MI, USA
 -
  Reference: "Gebhard LG, Kaufman SB, Gamarnik AV (2012) Novel ATP-Independent RNA Annealing Activity of the Dengue Virus NS3 Helicase. PLoS ONE 7:e36244"
  URL: http://dx.doi.org/10.1371/journal.pone.0036244
  Year: 2012
  Type: 2
  Locations:
-  - Fundación Instituto Leloir-Consejo Nacional de Investigaciones Científicas y Técnicas, Ciudad de Buenos Aires, Argentina
-  - Instituto de Química y Fisicoquímica Biológicas y Departamento de Química Biológica, Facultad de Farmacia y Bioquímica, Universidad de Buenos Aires, Ciudad de Buenos Aires, Argentina
+  - Fundación Instituto Leloir-Consejo Nacional de Investigaciones Científicas y Técnicas, Buenos Aires, Argentina
+  - University of Buenos AiresBuenos Aires, Argentina
 -
  Reference: "Georgoulas A, Clark A, Ocone A, Gilmore S, Sanguinetti G (2012) A subsystems approach for parameter estimation of ODE models of hybrid systems. Electronic Proceedings in Theoretical Computer Science 92:30–41"
  URL: http://dx.doi.org/10.4204/EPTCS.92.3
@@ -2493,15 +2476,14 @@
  Keywords:
   - Computational method
  Locations:
-  -  Synthetic and Systems Biology, University of Edinburgh, Edinburgh, United Kingdom
-  -  School of Informatics, University of Edinburgh, Edinburgh, United Kingdom
+  -  University of Edinburgh, Edinburgh, UK
 -
  Reference: "Guo C, Gow C-H, Li Y, Gardner A, Khan S, Zhang J (2012) Regulated Clearance of Histone Deacetylase 3 Protects Independent Formation of Nuclear Receptor Corepressor Complexes. Journal of Biological Chemistry 287:12111–12120"
  URL: http://dx.doi.org/10.1074/jbc.M111.327023
  Year: 2012
  Type: 2
  Locations:
-  - Department of Cancer and Cell Biology, Vontz Center for Molecular Studies, University of Cincinnati College of Medicine, Cincinnati, Ohio 45267, USA
+  - University of Cincinnati, Cincinnati OH, USA
 -
  Reference: "Hamberg A, Maurer S, Hult K (2012) Rational engineering of Candida antarctica lipase B for selective monoacylation of diols. Chemical Communications 48:10013"
  URL: http://dx.doi.org/10.1039/c2cc34684b
@@ -2510,8 +2492,8 @@
  Keywords:
   - Biochemistry
  Locations:
-  - School of Biotechnology, Department of Biochemistry, Royal Institute of Technology (KTH), AlbaNova, Stockholm, Sweden
-  - BASF SE, GVF/E-A030, Ludwigshafen, Germany
+  - Royal Institute of Technology (KTH), Stockholm, Sweden
+  - BASF SE, Ludwigshafen, Germany
 -
  Reference: "Heiland I, Bodenstein C, Hinze T, Weisheit O, Ebenhoeh O, Mittag M, Schuster S (2012) Modeling temperature entrainment of circadian clocks using the Arrhenius equation and a reconstructed model from Chlamydomonas reinhardtii. Journal of Biological Physics 38:449–464"
  URL: http://dx.doi.org/10.1007/s10867-012-9264-x
@@ -2524,38 +2506,35 @@
   - Institute of Medical Sciences, University of Aberdeen, Aberdeen, UK
 -
  Reference: "Hoffman-Sommer M (2012) Cell-to-cell communication circuits: quantitative analysis of synthetic logic gates. Frontiers in Physiology 3."
- #URL: http://journal.frontiersin.org/article/10.3389/fphys.2012.00287/abstract"
  URL: http://dx.doi.org/10.3389/fphys.2012.00287
  Year: 2012
  Type: 2
  Locations:
-  - Theoretical Biophysics, Institute of Biology, Humboldt-Universität zu Berlin, Berlin, Germany
+  - Humboldt University of Berlin, Berlin, Germany
 -
  Reference: "Hultqvist G, Punekar AS, Morrone A, Chi CN, Engström Å, Selmer M, Gianni S, Jemth P (2012) Tolerance of Protein Folding to a Circular Permutation in a PDZ Domain. PLoS ONE 7:e50055"
  URL: http://dx.doi.org/10.1371/journal.pone.0050055
  Year: 2012
  Type: 2
  Locations:
-  - Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden
-  - Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden
-  - Dipartimento di Scienze Biochimiche “A. Rossi Fanelli”, Sapienza Università di Roma, Rome, Italy
-  - Istituto di Biologia e Patologia Molecolari del CNR, Roma, Italy
+  - Uppsala University, Uppsala, Sweden
+  - Sapienza University of Rome, Rome, Italy
+  - Istituto di Biologia e Patologia Molecolari del CNR, Rome, Italy
 -
  Reference: "Jozefczuk J, Kashofer K, Ummanni R, Henjes F, Rehman S, Geenen S, Wruck W, Regenbrecht C, Daskalaki A, Wierling C, Turano P, Bertini I, Korf U, Zatloukal K, Westerhoff HV, Lehrach H, Adjaye J (2012) A Systems Biology Approach to Deciphering the Etiology of Steatosis Employing Patient-Derived Dermal Fibroblasts and iPS Cells. Frontiers in Physiology 3."
  URL: http://dx.doi.org/10.3389/fphys.2012.00339
  Year: 2012
  Type: 2
  Locations:
-  - Department of Vertebrate Genomics, Max Planck Institute for Molecular Genetics, Berlin, Germany
-  - Division of Molecular Genome Analysis, German Cancer Research Center, Heidelberg, Germany
-  - Manchester Centre for Integrative Systems Biology, Manchester Interdisciplinary Biocentre, University of Manchester, Manchester, UK
-  - Institute for Pathology and Comprehensive Cancer Center, Charité – Universitätsmedizin, Berlin, Germany
-  - Magnetic Resonance Center, University of Florence, Florence, Italy
-  - Department of Molecular Cell Biology, Netherlands Institute for Systems Biology, Vrije Universiteit Amsterdam, Amsterdam, Netherlands
-  - The Manchester Centre for Integrative Systems Biology, Manchester Interdisciplinary Biocentre, University of Manchester, Manchester, UK
-  - Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, Netherlands
+  - Max Planck Institute for Molecular Genetics, Berlin, Germany
+  - German Cancer Research Center, Heidelberg, Germany
+  - University of Manchester, Manchester, UK
+  - Charité Medical University, Berlin, Germany
+  - University of Florence, Florence, Italy
+  - VU University Amsterdam, Amsterdam, Netherlands
+  - University of Amsterdam, Amsterdam, Netherlands
   - Dahlem Centre for Genome Research and Medical Systems Biology, Berlin
-  - Medical Faculty, Institute for Stem Cell Research and Regenerative Medicine, Heinrich Heine University, Düsseldorf, Germany
+  - Heinrich Heine University, Düsseldorf, Germany
 -
  Reference: "Kent E, Hoops S, Mendes P (2012) Condor-COPASI: high-throughput computing for biochemical networks. BMC Systems Biology 6:91"
  URL: http://dx.doi.org/10.1186/1752-0509-6-91
@@ -2564,9 +2543,8 @@
  Keywords:
   - Software
  Locations:
-  - Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK
-  - Virginia Bioinformatics Institute, Virginia Tech, Blacksburg VA, USA
-  - School of Computer Science, Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK
+  - University of Manchester, Manchester, UK
+  - Virginia Tech, Blacksburg VA, USA
 -
  Reference: "Kim B, Eggel A, Tarchevskaya SS, Vogel M, Prinz H, Jardetzky TS (2012) Accelerated disassembly of IgE–receptor complexes by a disruptive macromolecular inhibitor. Nature 491:613–617"
  URL: http://dx.doi.org/10.1038/nature11546
@@ -2575,9 +2553,9 @@
   - Immunology
  Type: 2
  Locations:
-  - Department of Structural Biology, Stanford University School of Medicine, Stanford, California, USA
-  - Institute of Immunology, University of Bern, Bern, Switzerland
-  - Max-Planck-Institut fur Molekulare Physiologie, Otto-Hahn-Str. 11, Dortmund, Germany
+  - Stanford University, Stanford CA, USA
+  - University of Bern, Bern, Switzerland
+  - Max-Planck-Institut fur Molekulare Physiologie, Dortmund, Germany
 -
  Reference: "Kostromins A, Mozga I, Stalidzans E (2012) ConvAn: A convergence analyzing tool for optimization of biochemical networks. Biosystems 108:73–77"
  URL: http://dx.doi.org/10.1016/j.biosystems.2011.12.004
@@ -2587,7 +2565,7 @@
   - Software
   - Computational methods
  Locations:
-  - Department of Computer Systems, Latvia University of Agriculture, Liela iela 2, LV3001 Jelgava, Latvia
+  - Latvia University of Agriculture, Jelgava, Latvia
 -
  Reference: "Kowald A, Hamann A, Zintel S, Ullrich S, Klipp E, Osiewacz HD (2012) A systems biological analysis links ROS metabolism to mitochondrial protein quality control. Mechanisms of Ageing and Development 133:331–337"
  URL: http://dx.doi.org/10.1016/j.mad.2012.03.008
@@ -2596,8 +2574,8 @@
   - Cell biology
  Type: 2
  Locations:
-  - Humboldt-Universität zu Berlin, Institute for Biology, Theoretical Biophysics, Invalidenstrasse 42, Berlin, Germany
-  - J.W. Goethe-University, Institute for Molecular Biosciences & Cluster of Excellence Macromolecular Complexes, Max-von-Laue-Str. 9, Frankfurt, Germany
+  - Humboldt University of Berlin, Berlin, Germany
+  - J.W. Goethe-University, Frankfurt, Germany
 -
  Reference: "Leach MD, Tyc KM, Brown AJP, Klipp E (2012) Modelling the Regulation of Thermal Adaptation in Candida albicans, a Major Fungal Pathogen of Humans. PLoS ONE 7:e32467"
  URL: http://dx.doi.org/10.1371/journal.pone.0032467
@@ -2833,7 +2811,7 @@
  Year: 2012
  Type: 2
  Locations:
-  - EMBL-European Bioinformatics Institute, Hinxton, UK
+  - European Bioinformatics Institute, Hinxton, UK
 -
  Reference: "Steinacher A, Leyser O, H. Clayton R (2012) A computational model of auxin and pH dynamics in a single plant cell. Journal of Theoretical Biology 296:84–94"
  URL: http://dx.doi.org/10.1016/j.jtbi.2011.11.020
@@ -2852,7 +2830,7 @@
   - Software
   - Computational methods
  Locations:
-  - Department of Computer Systems, Latvia University of Agriculture, Liela iela 2, LV-3001, Jelgava, Latvia
+  - Latvia University of Agriculture, Jelgava, Latvia
   - SIA TIBIT, Rīgas iela 52, LV-3018, Ozolnieki, Ozolnieku nov., Latvia
 -
  Reference: "Surovtsova I, Simus N, Hübner K, Sahle S, Kummer U (2012) Simplification of biochemical models: a general approach based on the analysis of the impact of individual species and reactions on the systems dynamics. BMC Systems Biology 6:14"
@@ -2863,7 +2841,7 @@
   - Software
   - Computational methods
  Locations:
-  - BIOQUANT, Heidelberg University, Heidelberg, Germany
+  - Heidelberg University, Heidelberg, Germany
 -
  Reference: "Tagore S, De RK (2012) SAGPAR: Structural Grammar-based automated pathway reconstruction. Interdisciplinary Sciences: Computational Life Sciences 4:116–127"
  URL: http://dx.doi.org/10.1007/s12539-012-0119-8
@@ -2941,6 +2919,13 @@
  Locations: 
   - Columbia University, New York, New York.
   - Emory University, Atlanta, Georgia.
+-
+ Reference: "Checkley S (2011) Engineering Tuneable Gene Circuits in Yeast. PhD Thesis, University of Manchester."
+ URL: https://www.researchgate.net/profile/Stephen_Checkley/publication/236847923_Engineering_Tuneable_Gene_Circuits_in_Yeast/links/02e7e51961e992935e000000.pdf
+ Year: 2011
+ Type: 2
+ Locations:
+  - University of Manchester, Manchester, UK
 -
  Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. J. Am. Chem. Soc., 133:14566-9"
  URL: http://dx.doi.org/10.1021/ja206575j
