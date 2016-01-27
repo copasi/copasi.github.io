@@ -44,7 +44,7 @@ use_math: true
 </pre>
 
 ## Publications citing COPASI
-The list of publications of COPASI is kept in [_data/articles/db.yml](https://github.com/copasi/copasi.github.io/blob/master/_data/articles/db.yml).
+The list of publications of COPASI is kept in [_data/articles/db.yml](https://github.com/copasi/copasi.github.io/blob/master/_data/articles/db.yml) which is a [YAML database](https://en.wikipedia.org/wiki/YAML).
 The data for each reference may contain the following fields, where lines starting with a minus may be repeated to supply multiple Keywords, Locations, or Funding sources:
 <pre>
 -
@@ -54,7 +54,7 @@ The data for each reference may contain the following fields, where lines starti
  Keywords:
   - 
  Locations:
-  - Coordinates:
+  - Institution, City, Country
  Funding: 
   - 
 </pre>
