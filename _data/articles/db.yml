@@ -1563,7 +1563,7 @@
   - Computational method
  Type: 3
  Locations:
-  - Rice University, Houston, Texas, United States of America
+  - Rice University, Houston TX, USA
 -
  Reference: "Bulipopa N,  Sulins J (2013) Automatic termination of parallel optimization runs of global stochastic optimization methods by upper limit criterion. Biosystems and Information Technol. 2:15-18"
  Year: 2013
@@ -1614,7 +1614,6 @@
   - Chemistry
  Type: 2
  Locations:
-  - Coordinates: 43.0741849,-89.4117159
   - University of Wisconsin, Madison, USA
 -
  Reference: "Firczuk H, Kannambath S, Pahle J, Claydon A, Beynon R, Duncan J, Westerhoff H, Mendes P, McCarthy JEG (2013) An in vivo control map for the eukaryotic mRNA translation machinery. Molecular Systems Biology 9:635"
@@ -1625,11 +1624,7 @@
   - Cell Biology
  Type: 2
  Locations:
-  - Coordinates: 52.3792558,-1.5636591
-  - Coordinates: 53.466853,-2.2360724
-  - Coordinates: 37.2209322,-80.4284957
-  - Coordinates: 53.4059392,-2.9677609
-  - University of Warwick, Coventry, UK
+  - University of Warwick, Warwick, UK
   - University of Manchester, Manchester, UK
   - University of Liverpool, Liverpool, UK
   - Virginia Bioinformatics Institute, Blacksburg VA, USA
@@ -1654,10 +1649,10 @@
  Type: 2
  Locations:
   - University of Manchester, Manchester, UK
-  - AstraZeneca, Alderley Park, Macclesfield, Cheshire, UK
-  - Stellenbosch University, Matieland, South Africa
-  - VU University, Amsterdam, The Netherlands
-  - Universiteit van Amsterdam, Amsterdam, The Netherlands
+  - AstraZeneca, Alderley Park, UK
+  - Stellenbosch University, Stellenbosch, South Africa
+  - VU University, Amsterdam, Netherlands
+  - University of Amsterdam, Amsterdam, Netherlands
 -
  Reference: "Haq I,  Irving JA, Faull SV, Dickens JA, Ordonez A, Belorgey D, Gooptu B, Lomas, DA (2013) Reactive centre loop mutants of alpha-1-antitrypsin reveal position-specific effects on intermediate formation along the polymerization pathway. Biosci. Rep. 33:499-511"
  Year: 2013
@@ -1677,7 +1672,7 @@
   - Signaling
  Type: 2
  Locations:
-  - University of Oregon, Eugene, USA
+  - University of Oregon, Eugene OR, USA
 -
  Reference: "Incicco JJ, Gebhard LG, González-Lebrero RM, Gamarnik AV, Kaufman SB (2013) Steady-State NTPase Activity of Dengue Virus NS3: Number of Catalytic Sites, Nucleotide Specificity and Activation by ssRNA. PLoS ONE 8:e58508"
  Year: 2013
@@ -1686,8 +1681,8 @@
   - Macromolecular biochemistry
  Type: 2
  Locations:
-  - Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina
-  - Fundación Instituto Leloir-CONICET, Ciudad Autónoma de Buenos Aires, Argentina
+  - Universidad de Buenos Aires, Buenos Aires, Argentina
+  - Fundación Instituto Leloir-CONICET, Buenos Aires, Argentina
 -
  Reference: "Kennedy N, Mizeranschi A, Thompson P, Zheng H, Dubitzky W (2013) Reverse engineering of gene regulation models from multi-condition experiments. Proceedings of the 2013 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), pp.112-119"
  Year: 2013
@@ -1705,9 +1700,15 @@
   - Computational method
  Type: 3
  Locations:
-  - School of Computer Science and Manchester Institute of Biotechnology, The University of Manchester, Manchester, United Kingdom
-  - Centre for Organismal Studies Heidelberg/BIOQUANT, Heidelberg, Germany
-  - Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, Virginia, United States of America
+  - University of Manchester, Manchester, UK
+  - Heidelberg University, Heidelberg, Germany
+  - Virginia Tech, Blacksburg VA, USA
+ Funding:
+  - BBSRC
+  - Pfizer
+  - EU - FP7
+  - NIH
+  - Klaus Tschira Foundation
 -
  Reference: "Kerkhoven EJ, Achcar F, Alibu VP, Burchmore RJ, Gilbert IH, Trybilo M, Driessen NN, Gilbert D, Breitling R, Bakker BM, Barrett MP (2013) Handling Uncertainty in Dynamic Models: The Pentose Phosphate Pathway in Trypanosoma brucei. PLoS Comput. Biol. 9:e1003371."
  Year: 2013
@@ -1734,7 +1735,7 @@
  URL: http://hdl.handle.net/1807/35862
  Year: 2013
  Locations:
-  - Coordinates: 43.6627215,-79.3978422
+  - University of Toronto, Toronto, Canada
  Keywords:
   - Chemistry
  Type: 2
@@ -1746,8 +1747,8 @@
   - Software
  Type: 3
  Locations: 
-  - Faculty of Informatics, Masaryk University, Brno, Czech Republic
-  - Global Change Research Centre AS CR, v. v. i., Brno, Czech Republic
+  - Masaryk University, Brno, Czech Republic
+  - Global Change Research Centre AS CR, Brno, Czech Republic
 -
  Reference: "Kolodkin A, Sahin N, Phillips A, Hood SR, Bruggeman FJ, Westerhoff HV, Plant N (2013) Optimization of stress response through the nuclear receptor-mediated cortisol signalling network. Nature Communications 4:1792"
  Year: 2013
@@ -1756,15 +1757,12 @@
   - Signaling
  Type: 2
  Locations: 
-  - Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Campus Belval, L-4362 Esch-sur-Alzette, Luxembourg
-  - Molecular Cell Physiology, Netherlands Institute of Systems Biology, VU University Amsterdam, de Boelelaan 1085, NL-1081 HV Amsterdam, The Netherlands
-  - Centre for Toxicology, Faculty of Health and Medical Sciences, University of Surrey, Guildford GU27XH, UK
-  - GOLD, GlaxoSmithKline, Park Road, Ware, Herts SG12 0DP, UK
-  - Regulatory Networks Group, Netherlands Institute of Systems Biology, NL-1081 HV Amsterdam, The Netherlands
-  - Life Sciences, Centre for Mathematics and Computer Science (CWI), Science Park 123, NL-1098 XG Amsterdam, The Netherlands
-  - Manchester Centre for Integrative Systems Biology, Manchester Interdisciplinary Biocentre, University of Manchester, 131 Princess Street, Manchester M1 7DN, UK
-  - Netherlands Institute for Systems Biology, Swammerdam Institute for Life Sciences, the University of Amsterdam, NL-1098 XH Amsterdam, The Netherlands
-
+  - University of Luxembourg, Esch-sur-Alzette, Luxembourg
+  - VU University Amsterdam, Amsterdam, Netherlands
+  - University of Surrey, Guildford, UK
+  - GlaxoSmithKline, Ware, UK
+  - University of Manchester, Manchester, UK
+  - University of Amsterdam, Amsterdam, Netherlands
 -
  Reference: "Kourdis PD, Goussis DA (2013) Glycolysis in Saccharomyces cerevisiae: Algorithmic exploration of robustness and origin of oscillations. Math. Biosci. 243:190-214"
  Year: 2013
