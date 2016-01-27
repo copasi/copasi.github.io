@@ -769,8 +769,6 @@
  Year: 2015
  Keywords: 
   - Physiology
- Locations:
-  - Coordinates: 51.2427253,-0.5917031
  Type: 2
  Locations:
   - University of Surrey, Guildford, United Kingdom.
@@ -909,7 +907,7 @@
  Type: 2
  Locations:
   - Northeast Normal University, Changchun, China
-- 
+-
  Reference: "Willems PH, Pahle J, Stalpers XL, Mugahid D, Nikolaew A, Koopman WJ, Kummer U (2015) PKC-mediated inhibitory feedback of the cholecystokinin 1 receptor controls the shape of oscillatory Ca2+ signals. FEBS J. 282:2187-201"
  Year: 2015
  URL: http://dx.doi.org/10.1111/febs.13267
@@ -1052,8 +1050,6 @@
  Type: 2
  Locations:
   - KTH Royal Institute of Technology, Stockholm, Sweden 
- Locations:
-  - Coordinates: 59.3498092,18.0684758
 -
  Reference: "Costa RS, Hartmann A, Gaspar P, Neves AR, Vinga S (2014) An extended dynamic model of Lactococcus lactis metabolism for mannitol and 2,3-butanediol production. Mol. BioSystems 10:628-639"
  Year: 2014
@@ -1190,9 +1186,6 @@
  Reference: "Kefalidis CE, Davi M, Holstein PM, Clot E, Baudoin O (2014) Mechanistic Study of the Selectivity of Olefin versus Cyclobutene Formation by Palladium (0)-Catalyzed Intramolecular C (sp3)-H Activation. J. Organic Chem. 79:11903-11910"
  URL: http://dx.doi.org/10.1021/jo501610x
  Year: 2014
- Locations:
-  - Coordinates: 43.631785,3.8596613
-  - Coordinates: 45.7812658,4.8652053
  Funding:
   - Agence Nationale de la Recherche
   - Institut Universitaire de France
@@ -1206,8 +1199,6 @@
  Reference: "Kent PD, Mondloch JE, Finke RG (2014) A Four-Step Mechanism for the Formation of Supported-Nanoparticle Heterogenous Catalysts in Contact with Solution: The Conversion of Ir (1, 5-COD) Cl/gamma-Al2O3 to Ir (0) 170/gamma-Al2O3. J Am. Chem. Soc. 136:1930-41"
  URL: http://dx.doi.org/10.1021/ja410194r
  Year: 2014
- Locations:
-  - Coordinates: 40.5701332,-105.0866093
  Funding:
   - DOE
  Keywords:
@@ -1362,7 +1353,7 @@
  Locations:
   - Indian Institute of Technology Kanpur, Kanpur, India
  Funding:
-  -  Department of Biotechnology Government of India
+  - Department of Biotechnology Government of India
 -
  Reference: "Pandey V (2014) Metabolic modeling of different degrees of steatohepatitis in mice. PhD Thesis, Department of Mathematics and Computer Science, Free University of Berlin."
  Year: 2014
@@ -1503,8 +1494,6 @@
  Reference: "Valero González G (2014) Estudis mecanístics i metodològics de processos d'autocatàlisi i organocatàlisi asimètriques. Ph.D. Thesis, Department of Organic Chemistry, University of Barcelona"
  URL: http://hdl.handle.net/10803/285338
  Year: 2014
- Locations:
-  - Coordinates: 41.386612,2.1618313
  Funding:
   - Ministerio de Ciencia e Innovación (Spain)
  Keywords:
@@ -2474,7 +2463,7 @@
  Keywords:
   - Computational method
  Locations:
-  -  University of Edinburgh, Edinburgh, UK
+  - University of Edinburgh, Edinburgh, UK
 -
  Reference: "Guo C, Gow C-H, Li Y, Gardner A, Khan S, Zhang J (2012) Regulated Clearance of Histone Deacetylase 3 Protects Independent Formation of Nuclear Receptor Corepressor Complexes. Journal of Biological Chemistry 287:12111–12120"
  URL: http://dx.doi.org/10.1074/jbc.M111.327023
@@ -2498,10 +2487,8 @@
  Year: 2012
  Type: 2
  Locations:
-  - Department of Bioinformatics, School of Biology and Pharmacy, Friedrich-Schiller University Jena, Jena, Germany
-  - Institute of General Botany and Plant Physiology, Friedrich-Schiller University Jena, Jena, Germany
-  - Institute of Complex Systems and Mathematical Biology, University of Aberdeen, Meston Building, Meston Walk, Aberdeen, UK
-  - Institute of Medical Sciences, University of Aberdeen, Aberdeen, UK
+  - Friedrich-Schiller University Jena, Jena, Germany
+  - University of Aberdeen, Aberdeen, UK
 -
  Reference: "Hoffman-Sommer M (2012) Cell-to-cell communication circuits: quantitative analysis of synthetic logic gates. Frontiers in Physiology 3."
  URL: http://dx.doi.org/10.3389/fphys.2012.00287
@@ -2615,8 +2602,8 @@
  Keywords:
   - Signaling
  Locations:
-  - USRA, Division of Space Life Sciences, Houston, TX 77058, United States
-  - NASA, Lyndon B. Johnson Space Center, Houston, TX 77058, United States
+  - USRA, Division of Space Life Sciences, Houston TX, USA
+  - NASA Lyndon B. Johnson Space Center, Houston TX, USA
 -
  Reference: "Maiwald, Tim (2012) Computational Analysis of The Interferon Alpha Signalling Using a Systems Biology Modelling Approach Pathway. PhD Thesis, Heidelberg University."
  URL: http://www.ub.uni-heidelberg.de/archiv/13164
@@ -2635,7 +2622,7 @@
   - Cell biology
   - Education
  Locations:
-  - Consejo Nacional de Investigaciones Científicas y Tecnicas, Universidad Nacional de Cuyo, Mendoza, Argentina
+  - Universidad Nacional de Cuyo, Mendoza, Argentina
   - Department of Botany, Madison WI, USA
 -
  Reference: "Mazemondet O, John M, Leye S, Rolfs A, Uhrmacher AM (2012) Elucidating the Sources of β-Catenin Dynamics in Human Neural Progenitor Cells. PLoS ONE 7:e42792"
