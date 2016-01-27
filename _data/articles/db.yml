@@ -432,7 +432,7 @@
   - Signaling
  Type: 2
  Locations:
-  - Inserm, Paris, France
+  - INSERM, Paris, France
   - Pierre and Marie Curie University, Paris, France
   - Institut du Fer à Moulin, Paris, France
 -
@@ -1526,6 +1526,7 @@
 -
  Reference:  "Yang X, Zhang Y, Zheng Y, Ma H (2014) Development and analysis of a kinetic model for Escherichia coli threonine biosynthesis. Chinese J. Biotechnol. 30:18-29."
  Year: 2014
+ URL: http://www.ncbi.nlm.nih.gov/pubmed/24818476
  Keywords:
   - Metabolism
   - Microbiology
@@ -3079,7 +3080,7 @@
  Locations: 
   - Clemson University, Clemson SC, USA
   - Institut Curie, Paris, France
-  - INSERM, 11900, Paris, F-75248 France
+  - INSERM, Paris, France
   - Hines Paris Tech, Fontainebleau, France
   - Radford University, Radford VA, USA
   - Virginia Tech, Blacksburg VA, USA
@@ -3167,6 +3168,8 @@
  Funding:
   - EU
   - "Departament d'Innovació, Universitat i Empresa (Generalitat de Catalunya, Spain)"
+ Locations: 
+  - Universitat Pompeu Fabra, Barcelona, Spain
 -
  Reference: "Curien G, Bastien O, Robert-Genthon M, Cornish-Bowden A, Cárdenas ML, Dumas R (2009) Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters. Mol. Sys. Biol. 5:271"
  URL: http://dx.doi.org/10.1038/msb.2009.29
@@ -3184,10 +3187,17 @@
  Reference: "Figueiredo AS, Höfer T, Klotz C, Sers C, Hartmann S, Lucius R, Hammerstein P (2009) Modelling and simulating interleukin-10 production and regulation by macrophages after stimulation with an immunomodulator of parasitic nematodes: Modelling interleukin-10 production and regulation. FEBS Journal 276:3454–3469"
  URL: http://dx.doi.org/10.1111/j.1742-4658.2009.07068.x
  Year: 2009
+ Locations: 
+  - Humboldt University, Berlin, Germany
+  - German Cancer Research Center and BioQuant Center, Heidelberg, Germany
+  - Freie Universität Berlin, Berlin, Germany
+  - Universitaetsmedezin Charité, Berlin, Germany
 -
  Reference: "Friedrich A, Ghosh R, Kolb R, Herdtweck E, Schneider S (2009) Iridium Olefin Complexes Bearing Dialkylamino/amido PNP Pincer Ligands: Synthesis, Reactivity, and Solution Dynamics †. Organometallics 28:708–718"
  URL: http://dx.doi.org/10.1021/om800423u
  Year: 2009
+ Locations: 
+  - Technische Universität München, Garching, Germany
 -
  Reference: "Gallagher SS, Sable JE, Sheetz MP, Cornish VW (2009) An In Vivo Covalent TMP-Tag Based on Proximity-Induced Reactivity. ACS Chem. Biol. 4:547-56"
  Year: 2009
@@ -3210,6 +3220,10 @@
  Reference: "Ibrahim B, Schmitt E, Dittrich P, Diekmann S (2009) In silico study of kinetochore control, amplification, and inhibition effects in MCC assembly. Biosystems 95:35–50"
  URL: http://dx.doi.org/10.1016/j.biosystems.2008.06.007
  Year: 2009
+ Locations: 
+  - Friedrich-Schiller-University Jena, Germany
+  - Jena Centre for Bioinformatics (JCB), Jena, Germany
+  - Leibniz Institute for Age Research (FLI), Jena, Germany
 -
  Reference: "Katzberg, M., Wechler, K., Müller, M., Dünkelmann, P., Stohrer, J., Hummel, W., & Bertau, M. (2009). Biocatalytical production of (5S)-hydroxy-2-hexanone. Org. Biomol. Chem. 7(2):304–314"
  Year: 2009
@@ -3226,14 +3240,29 @@
  Reference: "Knoke B, Textor S, Gershenzon J, Schuster S (2009) Mathematical modelling of aliphatic glucosinolate chain length distribution in Arabidopsis thaliana leaves. Phytochemistry Reviews 8:39–51"
  URL: http://dx.doi.org/10.1007/s11101-008-9107-3
  Year: 2009
+ Locations: 
+  - Friedrich Schiller University, Jena, Germany
+  - University of Stuttgart, Stuttgart, Germany
+  - Max Planck Institute for Chemical Ecology, Jena, Germany
 -
  Reference: "Modre-Osprian R, Osprian I, Tilg B, Schreier G, Weinberger KM, Graber A (2009) Dynamic simulations on the mitochondrial fatty acid Beta-oxidation network. BMC Systems Biology 3:2"
  URL: http://dx.doi.org/10.1186/1752-0509-3-2
  Year: 2009
+ Locations: 
+  - Austrian Research Centers GmbH – ARC, Hall in Tirol, Austria
+  - BIOCRATES life sciences AG, Innsbruck, Austria
+  - UMIT, Hall in Tirol, Austria
 -
  Reference: "Orton RJ, Adriaens ME, Gormand A, Sturm OE, Kolch W, Gilbert DR (2009) Computational modelling of cancerous mutations in the EGFR/ERK signalling pathway. BMC Systems Biology 3:100"
  URL: http://dx.doi.org/10.1186/1752-0509-3-100
  Year: 2009
+ Locations: 
+  - University of Glasgow, Glasgow, UK
+  - Maastricht University, Maastricht, Netherlands
+  - Lund University, Lund, Sweden
+  - St Jude Children's Research Hospital, Memphis TN, USA
+  - Beatson Institute for Cancer Research, Glasgow, UK
+  - Brunel University, Middlesex, UK
 -
  Reference: "Pingoud V, Wende W, Friedhoff P, Reuter M, Alves J, Jeltsch A, Mones L, Fuxreiter M, Pingoud A (2009) On the Divalent Metal Ion Dependence of DNA Cleavage by Restriction Endonucleases of the EcoRI Family. J. Mol. Biol. 393:140-60"
  Year: 2009
@@ -3254,6 +3283,10 @@
  Keywords:
   - Software
  Type: 3
+ Locations: 
+  - Humboldt Universität zu Berlin, Berlin, Germany
+  - University of Groningen, Groningen, Netherlands
+  - Vrije Universiteit Amsterdam, Amsterdam, Netherlands
 -
  Reference: "Shen Z, Dornan PK, Khan HA, WooTK, Dong VM (2009) Mechanistic Insights into the Rhodium-Catalyzed Intramolecular Ketone Hydroacylation (2009) J. Am. Chem. Soc. 131:1077-91"
  URL: http://dx.doi.org/10.1021/ja806758m
@@ -3311,6 +3344,8 @@
  Reference: "Jungmann R, Renner S, Simmel FC (2008) From DNA nanotechnology to synthetic biology. HFSP Journal 2:99–109"
  URL: http://dx.doi.org/10.2976/1.2896331
  Year: 2008
+ Locations: 
+  - Technical University Munich, Garching, Germany
 -
  Reference: "Marchisio MA, Stelling J (2008) Computational design of synthetic gene circuits with composable parts. Bioinformatics 24:1903-10."
  Year: 2008
