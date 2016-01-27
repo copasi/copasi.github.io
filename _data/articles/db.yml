@@ -2348,6 +2348,9 @@
  Locations:
   - Scripps Research Institute, La Jolla CA, USA
   - Imperial College London, London, UK
+ Funding:
+  - EPSRC
+  - Spanish Education Ministry
 -
  Reference: "Challenger JD, McKane AJ, Pahle J (2012) Multi-compartment linear noise approximation. Journal of Statistical Mechanics: Theory and Experiment 2012:P11010"
  URL: http://dx.doi.org/10.1088/1742-5468/2012/11/P11010
@@ -2357,13 +2360,16 @@
   - Computational method
  Locations:
   - University of Manchester, Manchester, UK
+ Funding:
+  - BBSRC
+  - EPSRC
 -
  Reference: "Chang J-Y, Chantrathammachart P, Monroe DM, Key NS (2012) Studies on the mechanism of action of the aptamer BAX499, an Inhibitor of tissue factor pathway inhibitor. Thrombosis Research 130:e151-e157"
  URL: http://dx.doi.org/10.1016/j.thromres.2012.05.010
  Year: 2012
  Type: 2
  Keywords: 
-  - Cell biology
+  - Macromolecular biochemistry
  Locations:
   - University of North Carolina, Chapel Hill NC, USA
 -
@@ -2389,6 +2395,11 @@
   - Curtin University, Perth, Australia
   - Ecole Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
   - ETH Zentrum, Zürich, Switzerland
+ Funding:
+  - Australian Research Council
+  - Water Corporation
+  - Eawag
+  - Water Quality Research Australia
 -
  Reference: "Cristovao M, Sisamakis E, Hingorani MM, Marx AD, Jung CP, Rothwell PJ, Seidel CAM, Friedhoff P (2012) Single-molecule multiparameter fluorescence spectroscopy reveals directional MutS binding to mismatched bases in DNA. Nucleic Acids Research 40:5448-5464"
  URL: http://dx.doi.org/10.1093/nar/gks138
@@ -2402,6 +2413,10 @@
   - Heinrich-Heine University, Düsseldorf, Germany
   - Royal Institute of Technology, Stockholm, Sweden
   - Wesleyan University, Middletown CT, USA
+ Funding:
+  - EU - FP6
+  - EU - FP7
+  - DFG
 -
  Reference: "Czeizler E, Mizera A, Czeizler E, Back R-J, Eriksson JE, Petre I (2012) Quantitative Analysis of the Self-Assembly Strategies of Intermediate Filaments from Tetrameric Vimentin. IEEE/ACM Transactions on Computational Biology and Bioinformatics 9:885-898"
  URL: http://dx.doi.org/10.1109/TCBB.2011.154
