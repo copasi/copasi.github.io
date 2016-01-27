@@ -2596,6 +2596,8 @@
  URL: http://dx.doi.org/10.1371/journal.pone.0032467
  Year: 2012
  Type: 2
+ Keywords: 
+  - Signaling
  Locations:
   - University of Aberdeen, Aberdeen, United Kingdom
   - Humboldt University of Berlin, Berlin, Germany
@@ -2659,6 +2661,8 @@
  URL: http://dx.doi.org/10.1371/journal.pone.0042792
  Year: 2012
  Type: 2
+ Keywords: 
+  - Signaling
  Locations:
   - University of Rostock, Rostock, Germany
   - University of Lille 1, Lille, France
@@ -2810,6 +2814,8 @@
  URL: http://dx.doi.org/10.1049/iet-syb.2011.0056
  Year: 2012
  Type: 2
+ Keywords: 
+  - Signaling
  Locations:
   - Friedrich Schiller University Jena, Jena, Germany
   - Leibniz-Institute for Natural Product Research and Infection Biology – Hans-Knöll-Institute, Jena, Germany
@@ -2818,6 +2824,8 @@
  URL: http://dx.doi.org/10.1371/journal.pone.0043969
  Year: 2012
  Type: 2
+ Keywords: 
+  - Metabolism
  Locations:
   - AstraZeneca India Pvt. Ltd., Bangalore, India
 -
@@ -2825,6 +2833,8 @@
  URL: http://dx.doi.org/10.1371/journal.pone.0029406
  Year: 2012
  Type: 2
+ Keywords: 
+  - Enzymology
  Locations:
   - European Bioinformatics Institute, Hinxton, UK
 -
@@ -2832,6 +2842,8 @@
  URL: http://dx.doi.org/10.1016/j.jtbi.2011.11.020
  Year: 2012
  Type: 2
+ Keywords: 
+  - Cell biology
  Locations:
   - University of Exeter, Exeter, UK
   - Cambridge University, Cambridge, UK
@@ -2873,6 +2885,8 @@
  URL: http://dx.doi.org/10.1021/ja305115y
  Year: 2012
  Type: 2
+ Keywords: 
+  - Signaling
  Locations:
   - University of Western Ontario, London Ontario, Canada
 -
@@ -2880,6 +2894,8 @@
  URL: http://dx.doi.org/10.1371/journal.pone.0047525
  Year: 2012
  Type: 2
+ Keywords: 
+  - Genomics
  Locations:
   - Virginia Tech, Blacksburg VA, USA
   - University of Virginia, Charlottesville VA, USA
@@ -2910,6 +2926,8 @@
  URL: http://ir.uiowa.edu/etd/3407
  Year: 2012
  Type: 2
+ Keywords: 
+  - Biochemistry
  Locations:
   - University of Iowa, Iowa City, USA
 -
@@ -2937,6 +2955,8 @@
  URL: https://www.researchgate.net/profile/Stephen_Checkley/publication/236847923_Engineering_Tuneable_Gene_Circuits_in_Yeast/links/02e7e51961e992935e000000.pdf
  Year: 2011
  Type: 2
+ Keywords:
+  - Synthetic biology
  Locations:
   - University of Manchester, Manchester, UK
 -
@@ -3098,6 +3118,8 @@
  URL: http://dx.doi.org/10.1016/j.bpc.2010.02.013
  Year: 2010
  Type: 2
+ Keywords: 
+  - Cell biology
  Locations:
   - University of Southern Denmark, Odense, Denmark
 -
@@ -3217,6 +3239,8 @@
  Reference: "Figueiredo AS, Höfer T, Klotz C, Sers C, Hartmann S, Lucius R, Hammerstein P (2009) Modelling and simulating interleukin-10 production and regulation by macrophages after stimulation with an immunomodulator of parasitic nematodes: Modelling interleukin-10 production and regulation. FEBS Journal 276:3454–3469"
  URL: http://dx.doi.org/10.1111/j.1742-4658.2009.07068.x
  Year: 2009
+ Keywords: 
+  - Signaling
  Locations: 
   - Humboldt University, Berlin, Germany
   - German Cancer Research Center and BioQuant Center, Heidelberg, Germany
@@ -3226,6 +3250,8 @@
  Reference: "Friedrich A, Ghosh R, Kolb R, Herdtweck E, Schneider S (2009) Iridium Olefin Complexes Bearing Dialkylamino/amido PNP Pincer Ligands: Synthesis, Reactivity, and Solution Dynamics †. Organometallics 28:708–718"
  URL: http://dx.doi.org/10.1021/om800423u
  Year: 2009
+ Keywords: 
+  - Biochemistry
  Locations: 
   - Technische Universität München, Garching, Germany
 -
@@ -3250,6 +3276,8 @@
  Reference: "Ibrahim B, Schmitt E, Dittrich P, Diekmann S (2009) In silico study of kinetochore control, amplification, and inhibition effects in MCC assembly. Biosystems 95:35–50"
  URL: http://dx.doi.org/10.1016/j.biosystems.2008.06.007
  Year: 2009
+ Keywords: 
+  - Signaling
  Locations: 
   - Friedrich-Schiller-University Jena, Jena, Germany
   - Jena Centre for Bioinformatics (JCB), Jena, Germany
@@ -3270,6 +3298,8 @@
  Reference: "Knoke B, Textor S, Gershenzon J, Schuster S (2009) Mathematical modelling of aliphatic glucosinolate chain length distribution in Arabidopsis thaliana leaves. Phytochemistry Reviews 8:39–51"
  URL: http://dx.doi.org/10.1007/s11101-008-9107-3
  Year: 2009
+ Keywords: 
+  - Metabolism
  Locations: 
   - Friedrich Schiller University, Jena, Germany
   - University of Stuttgart, Stuttgart, Germany
@@ -3278,6 +3308,8 @@
  Reference: "Modre-Osprian R, Osprian I, Tilg B, Schreier G, Weinberger KM, Graber A (2009) Dynamic simulations on the mitochondrial fatty acid Beta-oxidation network. BMC Systems Biology 3:2"
  URL: http://dx.doi.org/10.1186/1752-0509-3-2
  Year: 2009
+ Keywords: 
+  - Metabolism
  Locations: 
   - Austrian Research Centers GmbH, Hall in Tirol, Austria
   - BIOCRATES life sciences AG, Innsbruck, Austria
@@ -3286,6 +3318,8 @@
  Reference: "Orton RJ, Adriaens ME, Gormand A, Sturm OE, Kolch W, Gilbert DR (2009) Computational modelling of cancerous mutations in the EGFR/ERK signalling pathway. BMC Systems Biology 3:100"
  URL: http://dx.doi.org/10.1186/1752-0509-3-100
  Year: 2009
+ Keywords: 
+  - Signaling
  Locations: 
   - University of Glasgow, Glasgow, UK
   - Maastricht University, Maastricht, Netherlands
@@ -3374,6 +3408,8 @@
  Reference: "Jungmann R, Renner S, Simmel FC (2008) From DNA nanotechnology to synthetic biology. HFSP Journal 2:99–109"
  URL: http://dx.doi.org/10.2976/1.2896331
  Year: 2008
+ Keywords: 
+  - Synthetic biology
  Locations: 
   - Technical University Munich, Garching, Germany
 -
