@@ -9,26 +9,62 @@ section: Research
     <div class="row">
       <div class="col-xs-12">
         <h1>{{ page.title }}</h1> 
-        <table border="0"><tr>
-        <td>
+      </div>
+    </div>
+    <div class="row hidden-xs">
+      <div class="col-xs-12">
+        <div class="media">
+          <div class="media-body">
+            <p>COPASI is widely used in many research projects for:
+              <ul>
+                <li>modeling biological, biochemical, and chemical systems,</li>
+                <li>in the development of theory and computational methods,</li>
+                <li>in the development of "wet" laboratory methods,</li>
+                <li>and as a part of other software tools.</li>
+              </ul>
+              Below is a list of publications where COPASI has been used
+              in any of these roles, tagged by their fields of research. It may be 
+              instructive for researchers to learn how other colleagues applied 
+              COPASI to their research problems. Check out these publications 
+              for details!
+            </p>
+          </div>
+          <div class="media-right">
+            <a href="{{ site.baseurl }}/Research/Map">
+              <img class="media-object" src="/images/COPASI-Map-320x160.png" alt="Map">
+            </a>
+            <center>
+              <span style="font-size: 75%;">Where is COPASI used?</span>
+              </center>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row hidden-lg hidden-md hidden-sm">
+      <div class="col-xs-12">
         <p>COPASI is widely used in many research projects for:
-         <ul>
-          <li>modeling biological, biochemical, and chemical systems,</li>
-          <li>in the development of theory and computational methods,</li>
-          <li>in the development of "wet" laboratory methods,</li>
-          <li>and as a part of other software tools.</li>
-         </ul>
-         Below is a list of publications where COPASI has been used
-         in any of these roles, tagged by their fields of research. It may be 
-         instructive for researchers to learn how other colleagues applied 
-         COPASI to their research problems. Check out these publications 
-         for details!</p>
-         </td>
-         <td>
-          <p align="center"><img src="/images/COPASI-Map-320x160.png"><br />
-          <span style="font-size: 75%;">Where is COPASI used?</span></p>
-         </td>
-        </tr></table>
+          <ul>
+            <li>modeling biological, biochemical, and chemical systems,</li>
+            <li>in the development of theory and computational methods,</li>
+            <li>in the development of "wet" laboratory methods,</li>
+            <li>and as a part of other software tools.</li>
+          </ul>
+          Below is a list of publications where COPASI has been used
+          in any of these roles, tagged by their fields of research. It may be 
+          instructive for researchers to learn how other colleagues applied 
+          COPASI to their research problems. Check out these publications 
+          for details!
+        </p>
+        <center>
+          <a href="{{ site.baseurl }}/Research/Map">
+            <img class="media-object" src="/images/COPASI-Map-320x160.png" alt="Map">
+          </a>
+          <span style="font-size: 75%;">Where is COPASI used?</span>
+        </center>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
         {% for year in cps_article_years %}
         <div class="panel panel-default">
           <div class="panel-heading">{{ year }}</div>
