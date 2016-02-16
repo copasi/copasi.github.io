@@ -24,6 +24,7 @@ exclude: [tmp, README.md]
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-paginate
 
 # Create directories for each post similar to other pages
 permalink: News/:year/:month/:day/:title/
