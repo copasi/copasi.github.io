@@ -2,7 +2,7 @@ pages:
 - path: Events
   title: "Events"
 - path: Events/CMC16
-  title: "Conference on Computional Modelling with COPASI 2016"
+  title: "2016 Conference on Computional Modelling with COPASI"
 - path: Events/Past_Events
   title: "Past Events"
 - path: Events/Past_Events/COPASI_User_Workshop_Manchester_May_2015
