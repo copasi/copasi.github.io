@@ -1,0 +1,39 @@
+{% include header.html %}
+{% include navbar.html %}
+{% include articles.html %}
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1>COPASI's Use In {{ page.keyword }}</h1> 
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        {% for year in cps_article_years %}
+        <div class="panel panel-default">
+          <div class="panel-heading">{{ year }}</div>
+          {% for item in site.data.articles.db %}
+            {% assign delta = item.Year | minus: year %}
+            {% if delta == 0 %}
+              {% for match in item.Keywords %}
+                {% if match == page.keyword %}
+            <div class="panel-body" style="padding-bottom:0" >
+                  {{ item.Reference }} 
+                  {% for key in item.Keywords %}
+              <span class="label label-default">{{ key }}</span>
+                  {% endfor %}
+              <a href="{{ item.URL }}" target="_blank">Link</a>
+            </div>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
+          <br/>
+        </div>
+        {% endfor %}
+      </div>
+    </div> 
+  </div>
+</div>
+{% include footer.html %}
