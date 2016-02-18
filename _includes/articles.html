@@ -5,7 +5,8 @@
 {% capture tmp %}{% for year in cps_article_years reversed %}{% if last_value != year %}{% if forloop.first == false %}|{% endif %}{% assign last_value = year %}{{ year }}{% endif %}{% endfor %}{% endcapture %}
 {% assign cps_article_years = tmp | split: '|' %}
 
-{% assign cps_article_keywords = site.data.articles.db | map: 'Keywords' | sort %}
+{% capture tmp %}{% for item in site.data.articles.db %}{% for key in item.Keywords %}{{ key }}|{% endfor %}{% endfor %}{% endcapture %}
+{% assign cps_article_keywords = tmp | split: '|' | sort %}
 {% assign last_value = '' %}
 {% capture tmp %}{% for key in cps_article_keywords %}{% if last_value != key %}{% if forloop.first == false %}|{% endif %}{% assign last_value = key %}{{ key }}{% endif %}{% endfor %}{% endcapture %}
 {% assign cps_article_keywords = tmp | split: '|' %}
