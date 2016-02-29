@@ -3119,6 +3119,8 @@
   - Humboldt University of Berlin, Berlin, Germany
   - Charite Universtitätsmedizin Berlin, Berlin, Germany
   - University Hospital Erlangen, Erlangen, Germany
+ Methods:
+  - parameter estimation
 -
  Reference: "Lauro FM, DeMaere MZ, Yau S, Brown MV, Ng C, Wilkins D, Raftery MJ, Gibson JAE, Andrews-Pfannkoch C,  Lewis M,  Hoffman JM, Thomas T, Cavicchioli R (2011) An integrative study of a meromictic lake ecosystem in Antarctica. ISME J. 5:879-95"
  Year: 2011
@@ -3256,6 +3258,9 @@
   - German Cancer Research Center, Heidelberg, Germany
   - Medical Faculty Mannheim Heidelberg University, Mannheim, Germany
   - University Medical Center Regensburg, Regensburg, Germany
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Nakano T, Doi T, Yoshimoto J, Doya K (2010) A Kinetic Model of Dopamine- and Calcium-Dependent Striatal Synaptic Plasticity. PLoS Comput Biol 6(2): e1000670."
  Year: 2010
@@ -3426,6 +3431,9 @@
   - St Jude Children's Research Hospital, Memphis TN, USA
   - Beatson Institute for Cancer Research, Glasgow, UK
   - Brunel University, Middlesex, UK
+ Methods:
+  - time course
+  - sensitivity analysis
 -
  Reference: "Pingoud V, Wende W, Friedhoff P, Reuter M, Alves J, Jeltsch A, Mones L, Fuxreiter M, Pingoud A (2009) On the Divalent Metal Ion Dependence of DNA Cleavage by Restriction Endonucleases of the EcoRI Family. J. Mol. Biol. 393:140-60"
  Year: 2009
@@ -3555,6 +3563,9 @@
  Type: 2
  Locations: 
   - Cancer Research UK London Research Institute, London, UK
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Stefan MI, Edelstein SJ, Le Novère N (2008) An allosteric model of calmodulin explains differential activation of PP2B and CaMKII. PNAS 105:10768-73"
  Year: 2008
