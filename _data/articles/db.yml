@@ -27,6 +27,9 @@
   - EPSRC
  Keywords:
   - Cell Biology
+ Methods:
+  - time course
+  - sensitivity analysis
  Type: 2
  Locations:
   - University of Sheffield, Sheffield, UK
@@ -388,6 +391,11 @@
  URL: http://dx.doi.org/10.1016/j.bpc.2015.06.010
  Keywords:
   - Metabolism
+ Methods:
+  - MCA
+  - parameter estimation
+  - steady state
+  - time course
  Locations:
   - Heidelberg University, Heidelberg, Germany 
 -
@@ -423,6 +431,10 @@
  Type: 2
  Funding:
   - NIH
+ Methods:
+  - sensitivity analysis
+  - time course
+  - parameter estimation
  Locations:
   - Virginia Tech, Blacksburg VA, USA
 -
@@ -694,6 +706,9 @@
  Funding:
   - Ministero dello Sviluppo Economico (Italy)
   - BMBF
+ Methods:
+  - parameter estimation
+  - simulated annealing
  Locations:
   - Università Degli Studi di Napoli Federico II, Naples, Italy
   - Wageningen University, Wageningen, The Netherlands
@@ -873,6 +888,10 @@
  Locations:
   - Semmelweis University, Budapest, Hungary
   - Hungarian Academy of Sciences, Budapest, Hungary
+ Methods:
+  - python
+  - time course
+  - events
 -
  Reference: "Trausinger G, Gruber C, Krahulec S, Magnes C, Nidetzky B, Klimacek M (2015) Identification of novel metabolic interactions controlling carbon flux from xylose to ethanol in natural and recombinant yeasts. Biotechnol. Biofuels 8:157"
  Year: 2015
@@ -1076,6 +1095,9 @@
   - Universidade de Lisboa, Lisboa, Portugal
  Funding:
   - FCT Portugal
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Dalle Pezze P, Nelson G, Otten EG, Korolchuk VI, Kirkwood TBL, von Zglinicki T, Shanley DP (2014) Dynamic Modelling of Pathways to Cellular Senescence Reveals Strategies for Targeted Interventions. PLoS Comput. Biol. 10:e1003728."
  Year: 2014
@@ -1085,6 +1107,8 @@
  Type: 2
  Locations:
   - Newcastle University, Newcastle upon Tyne, United Kingdom
+ Methods:
+  - time course
  Funding:
   - AXA Research Funding
   - BBSRC
@@ -1165,6 +1189,9 @@
  Locations:
   - Institute of Food Research, Norwich, UK
   - EAN University, Bogotá, Colombia
+ Methods:
+  - steady state
+  - sensitivity analysis
 -
  Reference: "James AI, Imran HAQ, Jennifer AD, Sarah VF, David AL (2014) Altered native stability is the dominant basis for susceptibility of alpha1-antitrypsin mutants to polymerization. Biochem. J. 460:103-115"
  Year: 2014
@@ -1653,6 +1680,9 @@
   - Stellenbosch University, Stellenbosch, South Africa
   - VU University, Amsterdam, Netherlands
   - University of Amsterdam, Amsterdam, Netherlands
+ Methods:
+  - MCA
+  - parameter estimation
 -
  Reference: "Haq I,  Irving JA, Faull SV, Dickens JA, Ordonez A, Belorgey D, Gooptu B, Lomas, DA (2013) Reactive centre loop mutants of alpha-1-antitrypsin reveal position-specific effects on intermediate formation along the polymerization pathway. Biosci. Rep. 33:499-511"
  Year: 2013
@@ -1673,6 +1703,9 @@
  Type: 2
  Locations:
   - University of Oregon, Eugene OR, USA
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Incicco JJ, Gebhard LG, González-Lebrero RM, Gamarnik AV, Kaufman SB (2013) Steady-State NTPase Activity of Dengue Virus NS3: Number of Catalytic Sites, Nucleotide Specificity and Activation by ssRNA. PLoS ONE 8:e58508"
  Year: 2013
@@ -1763,6 +1796,8 @@
   - GlaxoSmithKline, Ware, UK
   - University of Manchester, Manchester, UK
   - University of Amsterdam, Amsterdam, Netherlands
+ Methods:
+  - time course
 -
  Reference: "Kourdis PD, Goussis DA (2013) Glycolysis in Saccharomyces cerevisiae: Algorithmic exploration of robustness and origin of oscillations. Math. Biosci. 243:190-214"
  Year: 2013
@@ -2077,6 +2112,8 @@
   - Research Council of Norway
   - BMBF
   - German academic exchange service
+ Methods:
+  - time course
 -
  Reference: "Scheller S, Goenrich M, Thauer RK, Jaun B (2013) Methyl-coenzyme M reductase from methanogenic archaea: isotope effects on label exchange and ethane formation with the homologous substrate ethyl-coenzyme M. J. Am. Chem. Soc 135:14985-14995"
  URL: http://dx.doi.org/10.1021/ja4064876
@@ -2112,6 +2149,9 @@
  Locations: 
   - University of Edinburgh, Edinburgh, United Kingdom
   - Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, China
+ Methods:
+  - steady state
+  - time course
 -
  Reference: "Shemirani MI (2013) Construction of metabolic pathway of catecholamine from tyrosine in human fibroblast cell. Degree Proejct in Medicine, School of Medicine and Health Science, Orerbo University, Sweden"
  Year: 2013
@@ -2177,6 +2217,10 @@
   - EU - FP6
   - BBSRC
   - EPSRC
+ Methods:
+  - time course
+  - sensitivity analysis
+  - parameter estimation
 -
  Reference: "Stavrum A-K, Heiland I, Schuster S, Puntervoll P, Ziegler M (2013) Model of tryptophan metabolism, readily scalable using tissue-specific gene expression data. J. Biol. Chem. 288:34555-34566"
  Year: 2013
@@ -2771,6 +2815,8 @@
  Locations:
   - Instituto Nacional de Cardiología Ignacio Chávez, México, Mexico
   - Universidad Nacional Autónoma de México, México, Mexico
+ Methods:
+  - MCA
 -
  Reference: "Pahle J, Challenger JD, Mendes P, McKane AJ (2012) Biochemical fluctuations, optimisation and the linear noise approximation. BMC Systems Biology 6:86"
  URL: http://dx.doi.org/10.1186/1752-0509-6-86
