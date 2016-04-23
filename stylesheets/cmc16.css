@@ -1,0 +1,18 @@
+/*
+ * adds styles for the pages of CMC16
+ *
+ */
+ 
+
+table.imagetable{
+	border-collapse:collapse;
+	border: 1px solid;
+}
+table.imagetable td {
+	border-bottom: 1px dashed;
+	padding: 0.4em;
+}
+table.imagetable th {
+	border-bottom: 1px dotted;
+	padding: 0.4em;
+}
