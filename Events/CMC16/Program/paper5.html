@@ -1,0 +1,44 @@
+<html>
+<head>
+ <meta charset="utf-8">
+ <meta http-equiv="Content-Type" content="text/html">
+ <meta name="keywords" content="Modeling, Simulation, COPASI, Conference, Metabolic Modelling, Systems Biology, Parameter Estimation, Kinetic Model, Dynamic Model">
+
+ 
+  <!-- Favicon and touch icons -->
+    <link rel="shortcut icon" href="/images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/images/ico/apple-touch-icon-57-precomposed.png">
+    
+   <link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap-3.3.4/css/COPASI-bootstrap.css">
+    
+    <title>CMC16 - Paper 5</title>
+</head>
+<body>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+
+    <p align="center"><a href="/Events/CMC16/"><b>2016 Conference on Computational Modelling with COPASI</b></a> <br/>
+    Manchester Institute of Biotechnology, 12<sup>th</sup> &ndash; 13<sup>th</sup> May, 2016</p>
+
+    <h2 align="center">Towards automated construction of kinetic metabolic models with GRaPe.</h2>
+    
+    <h3 align="center"><u>Chuan Fu Yap</u><sup>1</sup>, Jean-Marc Schwartz<sup>1</sup></h3>
+
+   <p>1 - University of Manchester, UK</p>
+
+   <p><b>Keywords:</b> Metabolic Modelling, Systems Biology, Parameter Estimation, Kinetic Model, Dynamic Model</p>
+   
+   <h3>Abstract</h3>
+   <p>The construction of kinetic models of metabolic pathways has always been hindered by the limited availability of kinetic parameters, in addition to incomplete knowledge on the reaction mechanisms. Strategies have been developed to allow the generation of kinetic models with limited information. Despite this, not many large-scale dynamic and integrative models have been generated. The aim of this research is to streamline the process of generating large-scale metabolic models, while using metabolomic, proteomic and gene expression data to inform parameter values. The use of aforementioned integrative data in model construction would greatly enhance the parameter estimation process, reducing redundancy in parameters and thereby increasing the model’s predictive capability.</p>
+   <p>Previously, the GRaPe tool was developed in order to streamline the construction of metabolic models through automated generation of kinetic equations. However a number of limitations affected the performance of the tool, which are now being addressed in this project. First, convenience kinetics has been introduced to replace the previously used reversible Michaelis-Menten rate equations. Convenience kinetics requires fewer parameters, which reduces the burden on parameter estimation for the models. Additionally, it allows for inclusion of modifiers such as activators into model building. Secondly, parameter estimation was performed locally on each reaction, which has now been updated to provide global parameter estimation for the system as a whole. Thirdly, the parameter estimation was skewed to favour flux values at steady state, which resulted in limited use for the models generated. In order to improve on this, the fitness measurement in the genetic algorithm used for parameter estimation has been updated to account for metabolite values as well flux and protein values.</p>
+   <p>After the model is built, it can be exported in SBML format to perform dynamic simulations and analysis using COPASI. As a proof of concept, a model of yeast glycolysis is being built using flux values, metabolite concentrations and protein amounts during steady state.</p>
+   <p><a href="/Events/CMC16/Program">Conference Program</a></p>
+  </div>
+</div>
+</div>
+</body>
+</html>
