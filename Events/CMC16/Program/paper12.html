@@ -1,0 +1,44 @@
+<html>
+<head>
+ <meta charset="utf-8">
+ <meta http-equiv="Content-Type" content="text/html">
+ <meta name="keywords" content="Modeling, Simulation, COPASI, Conference, Model Provenance, Model Versioning, Undo framework">
+
+ 
+  <!-- Favicon and touch icons -->
+    <link rel="shortcut icon" href="/images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/images/ico/apple-touch-icon-57-precomposed.png">
+    
+   <link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap-3.3.4/css/COPASI-bootstrap.css">
+    
+    <title>CMC16 - Paper 12</title>
+</head>
+<body>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+
+    <p align="center"><a href="/Events/CMC16/"><b>2016 Conference on Computational Modelling with COPASI</b></a> <br/>
+    Manchester Institute of Biotechnology, 12<sup>th</sup> &ndash; 13<sup>th</sup> May, 2016</p>
+
+    <h2 align="center">Managing Systems Biology Models Throughout their Lifecycle</h2>
+    
+    <h3 align="center"><u>Peyman Zarrineh</u><sup>1</sup>, Joseph O. Dada, Norman W. Paton<sup>1</sup>, Pedro Mendes<sup>1</sup></h3>
+
+   <p>1 - University of Manchester, UK, 2 - Afe Babalola University, Nigeria</p>
+
+   <p><b>Keywords:</b> Model Provenance, Model Versioning, Undo framework, COPASI</p>
+   
+   <h3>Abstract</h3>
+   <p>Modelling and simulation is an approach at the heart of systems biology research, which integrates theory, modelling, and experiments to provide a system-level understanding of biological processes. Although large numbers of models are becoming available in public repositories like the BioModels database or the Physiome model repository, there is almost no information available about the development process of those models.</p>
+   <p>We are implementing a comprehensive set of features in COPASI to allow tracking and management of the model development process. These features will result in automatic capture of the model development history and allow the user to keep snapshots of arbitrary versions along that process. An "undo" framework has been implemented to capture within-session edits, allowing users to undo and redo their actions on model entities. Similarly, a "provenance" framework has been implemented to keep track of all inter-session changes to the model. The provenance is serialized using the W3C standard PROV-XML. A provenance log browsing interface allows COPASI users to inspect the entire history of the development of a model. A "versioning" framework has also been developed to allow users to create and store versions of the model. These versions are included as part of the model and can be restored or deleted at any stage of development process. We are making use of the COMBINE Archive format to store the main model, all its user-defined versions, and the provenance log.</p>
+   <p>We have implemented the proposed model management facilities in C++. These have been integrated into COPASI. COPASI is freely available for download at <a href="http://www.copasi.org">http://www.copasi.org</a>.</p>
+   <p><a href="/Events/CMC16/Program">Conference Program</a></p>
+  </div>
+</div>
+</div>
+</body>
+</html>
