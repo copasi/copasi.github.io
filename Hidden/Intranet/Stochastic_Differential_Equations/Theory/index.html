@@ -15,7 +15,7 @@ use_math: true
       \end{equation}
      
       Where the regular ODE is given by $f(t,X) \, dt$ and the noise is 
-      given by $g(t,X) \, dW$). Please note that $f(t,X)$ 
+      given by $g(t,X) \, dW$. Please note that $f(t,X)$ 
       and $g(t,X) \, dW$ are vectors. In general the noice terms are 
       independ stochastic processes with mean 0, i.e., we have one stochastic variable 
       for each integration variable.
@@ -62,16 +62,22 @@ use_math: true
       \begin{matrix}
       \tilde{g}_{i,j}(t,X,Y) & = & 
       \begin{cases}
-      k_{i} \, \sqrt{v_{i}(t,X,Y)} & \mbox{for } i = j
+      k_{i} \, v_{i}(t,X,Y) & \mbox{for } i = j
       \\
       0 & \mbox{otherwise}
       \end{cases}
       \\
-      g_{i}(t,X,Y) & = & l_{i} \sqrt{f_{i}(t,X,Y)}
+      g_{i}(t,X,Y) & = & l_{i} f_{i}(t,X,Y)
       \end{matrix}
       \end{equation}
       In equation (6) the $k_i$ can be interpreted as the standard variation of the reaction rate $v_i$ 
       and $l_i$ as the standard variation of the rate of the variable $Y_i$.
+    </p>
+    <p>
+      Contrary to ODEs it is possible for SDEs to generate negative
+      values for speceis. We need to address this issue during
+      implementation. Possible solutions include stepsize reduction as
+      it is used in the implementation of the $\tau$-Leap algorithm.
     </p>
   </div>
 </div>
