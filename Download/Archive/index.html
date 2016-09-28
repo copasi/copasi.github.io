@@ -86,9 +86,9 @@ function suggest_package(release_idx) {
     }
 
     if (typeof architecture !== "undefined") {
-        sug_div.innerHTML = "<h3>It seems your are running on " + pltfrm + " (" + bit_match + "-bit). You may want to download . . . </h3>";
+        sug_div.innerHTML = "<h3>It seems you are running on " + pltfrm + " (" + bit_match + "-bit). You may want to download . . . </h3>";
     } else {
-        sug_div.innerHTML = "<h3>It seems your are running on " + pltfrm + " (" + bit_match + "). You may want to download . . . </h3>";
+        sug_div.innerHTML = "<h3>It seems you are running on " + pltfrm + " (" + bit_match + "). You may want to download . . . </h3>";
     }
     
     dnld_name.innerHTML = "<h3>" + pltfrm_icon_code + candidate_fn + "</h3>"
