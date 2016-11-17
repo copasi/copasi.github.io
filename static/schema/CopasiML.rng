@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- Copyright (C) 2010 - 2013 by Pedro Mendes, Virginia Tech Intellectual -->
+<!-- Copyright (C) 2010 - 2016 by Pedro Mendes, Virginia Tech Intellectual -->
 <!-- Properties, Inc., University of Heidelberg, and The University -->
 <!-- of Manchester. -->
 <!-- All rights reserved. -->
@@ -44,11 +44,6 @@
       <optional>
         <element name="ListOfFunctions">
           <ref name="listOfFunctions.datatype"/>
-        </element>
-      </optional>
-      <optional>
-        <element name="ListOfUnits">
-          <ref name="listOfUnits.datatype"/>
         </element>
       </optional>
       <optional>
@@ -100,6 +95,11 @@
               </attribute>
             </element>
           </oneOrMore>
+        </element>
+      </optional>
+      <optional>
+        <element name="ListOfUnitDefinitions">
+          <ref name="listOfUnitDefinitions.datatype"/>
         </element>
       </optional>
       <zeroOrMore>
@@ -352,23 +352,30 @@
     <empty/>
   </define>
 
-  <define name="listOfUnits.datatype">
+  <define name="listOfUnitDefinitions.datatype">
     <oneOrMore>
-      <ref name="unit.datatype"></ref>
+      <ref name="unitDefinition.datatype"></ref>
     </oneOrMore>
   </define>
   
-  <define name="unit.datatype">
-    <element name="Unit">
+  <define name="unitDefinition.datatype">
+    <element name="UnitDefinition">
+    <attribute name="key">
+      <data type="ID">
+        <param name="pattern">Unit_\d+</param>
+      </data>
+    </attribute>
       <ref name="name.attribute"/>
-      <attribute name="key">
-        <data type="ID">
-          <param name="pattern">Unit_\d+</param>
-        </data>
+      <attribute name="symbol">
+        <data type="string"/>
       </attribute>
+      <ref name="annotation.datatype"/>
+      <element name="Expression">
+        <ref name="expression.simpletype"/>
+      </element>
     </element>
   </define>
-  
+
   <define name="listOfFunctions.datatype">
     <oneOrMore>
       <ref name="function.datatype"/>
@@ -451,68 +458,19 @@
       <value type="string">time</value>
     </attribute>
     <attribute name="timeUnit">
-      <choice>
-        <value type="string">d</value>
-        <value type="string">ps</value>
-        <value type="string">ms</value>
-        <value type="string">fs</value>
-        <value type="string">&#xb5;s</value>
-        <value type="string">min</value>
-        <value type="string">h</value>
-        <value type="string">ns</value>
-        <value type="string">s</value>
-        <value type="string">dimensionless</value>
-      </choice>
+      <data type="string"/>
     </attribute>
     <attribute name="volumeUnit">
-      <choice>
-        <value type="string">pl</value>
-        <value type="string">m&#xb3;</value>
-        <value type="string">nl</value>
-        <value type="string">&#xb5;l</value>
-        <value type="string">l</value>
-        <value type="string">fl</value>
-        <value type="string">ml</value>
-        <value type="string">dimensionless</value>
-      </choice>
+      <data type="string"/>
     </attribute>
     <attribute name="areaUnit">
-      <choice>
-        <value type="string">&#xb5;m&#xb2;</value>
-        <value type="string">mm&#xb2;</value>
-        <value type="string">pm&#xb2;</value>
-        <value type="string">nm&#xb2;</value>
-        <value type="string">m&#xb2;</value>
-        <value type="string">cm&#xb2;</value>
-        <value type="string">fm&#xb2;</value>
-        <value type="string">dm&#xb2;</value>
-        <value type="string">dimensionless</value>
-      </choice>
+      <data type="string"/>
     </attribute>
     <attribute name="lengthUnit">
-      <choice>
-        <value type="string">m</value>
-        <value type="string">fm</value>
-        <value type="string">mm</value>
-        <value type="string">dm</value>
-        <value type="string">cm</value>
-        <value type="string">pm</value>
-        <value type="string">nm</value>
-        <value type="string">&#xb5;m</value>
-        <value type="string">dimensionless</value>
-      </choice>
+      <data type="string"/>
     </attribute>
     <attribute name="quantityUnit">
-      <choice>
-        <value type="string">mmol</value>
-        <value type="string">&#xb5;mol</value>
-        <value type="string">fmol</value>
-        <value type="string">mol</value>
-        <value type="string">pmol</value>
-        <value type="string">#</value>
-        <value type="string">nmol</value>
-        <value type="string">dimensionless</value>
-      </choice>
+      <data type="string"/>
     </attribute>
     <attribute name="type">
       <choice>
@@ -687,6 +645,9 @@
     <optional>
       <ref name="initialExpression.element"/>
     </optional>
+    <optional>
+      <ref name="unit.element"/>
+    </optional>
   </define>
 
   <define name="listOfModelParameterSets.datatype">
@@ -847,6 +808,20 @@
   </define>
 
   <define name="kineticLaw.datatype">
+    <attribute name="unitType">
+      <choice>
+        <value type="string">Default</value>
+        <value type="string">AmountPerTime</value>
+        <value type="string">ConcentrationPerTime</value>
+      </choice>
+    </attribute>
+    <optional>
+      <attribute name="scalingCompartment">
+        <data type="string">
+          <param name="pattern">CN=Root,Model=([^\\\[\]=,>]|\\.)*,Vector=Compartments\[([^\\\[\]=,>]|\\.)*\]</param>
+        </data>
+      </attribute>
+    </optional>
     <attribute name="function">
       <data type="IDREF">
         <param name="pattern">Function_\d+</param>
@@ -918,6 +893,11 @@
           <ref name="expression.simpletype"/>
         </element>
       </group>
+    </optional>
+    <optional>
+      <element name="PriorityExpression">
+        <ref name="expression.simpletype"/>
+      </element>
     </optional>
     <optional>
       <element name="ListOfAssignments">
@@ -1218,6 +1198,12 @@
     </element>
   </define>
 
+  <define name="unit.element">
+    <element name="Unit">
+      <ref name="expression.simpletype"/>
+    </element>
+  </define>
+  
   <define name="object.element">
     <element name="Object">
       <attribute name="cn">
