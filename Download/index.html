@@ -192,7 +192,7 @@ function update_packages() {
 
     // assets are the files available under a release
     var assets = github_json[release_idx]['assets'];
-    var div_txt = '<table class="table display" id="download_table"><thead><tr><th>Content</th><th>Platform</th><th>File</th></thead></tr>';
+    var div_txt = '<table class="table display table-striped" id="download_table"><thead><tr><th>Content</th><th>Platform</th><th>File</th></thead></tr>';
     var clean_fn, notes;
     var Build = cps_getBuildNumber(github_json[release_idx]["name"]);
 
