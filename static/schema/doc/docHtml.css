@@ -68,7 +68,7 @@ span.qname{
     Documentation sections.
 ------------------------------------------*/
 
-div.componentTitle {
+div.componentTitle, p.sHierarchyTitle {
     font-size:1.4em;
     font-weight:bold;
     text-align:left;
@@ -280,6 +280,17 @@ ul ul li {
     
     list-style-image:url('img/hierarchy_arrow.gif');
     list-style-position:inside;
+}
+
+ul ul li.schemaHierarchy {
+    padding-left:20px;
+    
+    list-style-image:none;
+    list-style-position:inside;
+}
+
+ul.schemaHierarchy {
+    padding-left:20px;
 }
 
 /*-------------------------------------
@@ -524,18 +535,33 @@ div.toTop a{
     height:60px;
 }
 
-.toc div.componentGroupTitle{
-    font-weight:bold;
-    margin-bottom:0.5em;
-    color:black;
-    background-color:inherit;
-}
-
 /* Namespacces or system ids in the TOC. */
 .toc .indexGroupTitle {
     font-weight:bold;
     margin-bottom:0.5em;
 }
+
+/* Components group*/
+
+div.componentGroupTitle {
+    font-weight: bold;
+    color: black;
+    background-color: inherit;
+}
+
+div.componentGroup {
+    padding-top: 4px;
+}
+
+table.componentGroup {
+    border-spacing: 1px;
+}
+
+td.componentGroup {
+    padding: 0px 0px 0px 0px;
+}
+
+
 
 /*----------------
     The footer. 
@@ -560,6 +586,11 @@ div.toTop a{
 ul > li.doc{
     list-style:disc;
     margin-left:10px;
+}
+
+/* No margin for pre from the table.*/
+td > pre {
+    margin:0px;
 }
 
 /* Wrap the long lines in the 'pre' section. */
