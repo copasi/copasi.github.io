@@ -19,10 +19,11 @@ function suggest_package(release_idx) {
 
     var parser = new UAParser();
     var pltfrm = parser.getOS().name;
+    var linuxDistros = [ "Arch", "CentOS", "Fedora", "Debian", "Gentoo", "Hurd", "Linpus", "Linux", "Mageia", "Mandriva", "MeeGo", "Minix", "Mint", "PCLinuxOS", "QNX", "RedHat", "Slackware", "SUSE", "Ubuntu", "VectorLinux", "Zenwalk"];
     
     if (typeof pltfrm !== "undefined")
     {
-        if (pltfrm.match('Linux') && ! pltfrm.match('arm')) {
+        if ((pltfrm.match('Linux') || linuxDistros.indexOf(pltfrm) != -1) && ! pltfrm.match('arm')) {
             plt_match = 'Linux';
             icon_filename = 'linux_icon.png';
         } else if (pltfrm.match('Mac OS')) {
