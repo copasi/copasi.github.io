@@ -16,8 +16,7 @@ structure: "Change_History"
             Support for user defined units.
           </li>
           <li>
-            Extended unit selection options for time, volume and quantity of the model. 
-            These extended options include user defined units.
+             Extended unit selection options for time, volume and quantity of the model. These extended options include user defined units.
           </li>
           <li>
             Unit support for Global Quantities.
@@ -36,7 +35,7 @@ structure: "Change_History"
             Support for contour plots.
           </li>
           <li>
-            Sorting off all analysis result tables is now enabled where approriate.
+            Sorting off all analysis result tables is now enabled where appropriate.
           </li>
           <li>
             The MCA results contain now information whether the summation theorems are violated or not 
@@ -45,7 +44,7 @@ structure: "Change_History"
           <li>
             It is now possible to the select the units of the rate low for a reaction as either amount per time
             or concentration per time. If concentration per time is selected and the reaction participates in 
-            multiple compartments the scaling compartment can be selectd.
+            multiple compartments the scaling compartment can be selected.
           </li>
         </ul>
       </li>
@@ -56,12 +55,12 @@ structure: "Change_History"
           </li>
           <li>
             New hybrid simulation algorithm: (Hybrid RK-45) which supports arbitrary discrete events and user
-            defined ODEs. Additionally, the user can specify which reaction are treated continously and which
+            defined ODEs. Additionally, the user can specify which reaction are treated continuously and which
             are treated discretely. This algorithm passes the SBML semantic test suite and stochastic suite.
           </li>
           <li>
             It is now possible to report or plot only the internal steps taken by the integration algorithm in 
-            the trajecctory task.
+            the trajectory task.
           </li>
         </ul>
       </li>
@@ -85,13 +84,13 @@ structure: "Change_History"
       <li> Graphical User Interface (CopasiUI)
         <ul>
           <li>
-            Fixed problem that prevented stopping of the automatical layout for large networks.
+            Fixed problem that prevented stopping of the automatic layout for large networks.
           </li>
           <li>
             Fixed issue with unintuitive cursor movement in when editing tables.
           </li>
           <li>
-            The list of MIRIAM resources is now sorted case insensitive in the dropdown list.
+            The list of MIRIAM resources is now sorted case insensitive in the drop-down list.
           </li>
           <li>
             Fixed layout of species widget to utilize all available space for the list of reactions
@@ -100,7 +99,7 @@ structure: "Change_History"
             Fixed encoding of special character such as an apostrophe in the notes.
           </li>
           <li>
-            Removed eroneuos error message which could occur when a COPASI file with a layout was saved.
+            Removed erroneous error message which could occur when a COPASI file with a layout was saved.
           </li>
           <li>
             Fixed an issue where COPASI would close unexpectedly when switching to a task after 
@@ -114,18 +113,18 @@ structure: "Change_History"
             The layout support now UTF8 character in species, compartment and reaction names.
           </li>
           <li>
-            Updatin the MIRIAM resources is no possible even if you require to go through a proxy server
-            which requires athentication. The required information can provided in the preference dialog.
+            Updating the MIRIAM resources is no possible even if you require to go through a proxy server
+            which requires authentication. The required information can provided in the preference dialog.
           </li>
           <li>
-            Improved moving of reactions in layous.
+            Improved moving of reactions in layouts.
           </li>
           <li>
             When deleting a function all functions which are depending on it will now also be deleted 
             upon confirmation by the user.
           </li>
           <li>
-            Fixed ocassional crash in the GUI which occured when opening a new model and immediately 
+            Fixed occasional crash in the GUI which occurred when opening a new model and immediately 
             (before the load completes) selecting another item in the browser pane.
           </li>
           <li>
@@ -133,7 +132,7 @@ structure: "Change_History"
             due library conflicts when using the binary packages provided for download.
           </li>
           <li>
-            Fixed issue where the objective function was ot correctly updated when a entity referenced in 
+            Fixed issue where the objective function was not correctly updated when a entity referenced in 
             it was renamed.
           </li>
         </ul>
@@ -141,25 +140,25 @@ structure: "Change_History"
       <li> Simulation Engine
         <ul>
           <li>
-            Improved the check for positivy of species values for small compartment sizes.
+            Improved the check for positivity of species values for small compartment sizes.
           </li>
           <li>
             Fixed an issue where in certain situations involving events with constant assignments 
-            were not reevaluated after the constant value was changed during paramter estimation.
+            were not reevaluated after the constant value was changed during parameter estimation.
           </li>
           <li>
             The default report for parameter estimation includes now all the information provided in the GUI.
           </li>
           <li>
             Fixed issue where the calculation of the Jacobian would created error messages on 
-            the commandline if the Jacoabian contained NaN values.
+            the command-line if the Jacoabian contained NaN values.
           </li>
           <li>
-            If update model is specified and an analysis taks fails where the result contains NaN values then
+            If update model is specified and an analysis tasks fails where the result contains NaN values then
             the model values are no longer updated instead the original state is preserved.
           </li>
           <li>
-            Loading of the initial time for non autonamous models has been restored.
+            Loading of the initial time for non autonomous models has been restored.
           </li>
         </ul>
       </li>
@@ -173,13 +172,13 @@ structure: "Change_History"
             function which had spaces in the name.
           </li>
           <li>
-            Fixed issues where the immport of CellDesigner layouts embeded in the SBML file would fail.
+            Fixed issues where the import of CellDesigner layouts embedded in the SBML file would fail.
           </li>
           <li>
             Fixed export of layout names.
           </li>
           <li>
-            Fixed issue where reaction kinetetics were incomplete when the same model was imported a 
+            Fixed issue where reaction kinetics were incomplete when the same model was imported a 
             second time in the same session.
           </li>
         </ul>
