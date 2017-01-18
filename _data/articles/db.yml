@@ -3239,6 +3239,21 @@
  Locations:
   - University of Southern Denmark, Odense, Denmark
 -
+ Reference: "Chi CN, Bach A, Gottschalk M, Kristensen AS, Stromgaard K, Jemth P (2010) Deciphering the Kinetic Binding Mechanism of Dimeric Ligands Using a Potent Plasma-stable Dimeric Inhibitor of Postsynaptic Density Protein-95 as an Example. Journal of Biological Chemistry 285:28252–28260"
+ Year: 2010
+ URL: http://dx.doi.org/10.1074/jbc.m110.124040
+ Keywords:
+  - Macromolecular Biochemistry
+ Type: 2
+ Funding:
+  - Swedish Research Council
+  - Carl Trygger Foundation
+  - O. E. and Edla Johansson Foundation
+  - Lundbeck Foundation 
+  - Danish Council for Independent Research, Technology and Production Sciences
+ Locations:
+  - University of Copenhagen, Copenhagen, Denmark
+-
  Reference: "Dada JO, Spasic I, Paton NW, Mendes P (2010) SBRML: a markup language for associating systems biology data with models. Bioinformatics 26:932–938"
  Year: 2010
  URL: http://dx.doi.org/10.1093/bioinformatics/btq069
@@ -3370,6 +3385,36 @@
   - Nara Institute of Science and Technology, Ikoma, Japan
   - Okinawa Institute of Science and Technology, Uruma, Japan
   - Osaka Bioscience Institute, Suita, Japan
+-
+ Reference: "Orrillo AG, Furlan RLE (2010) Supramolecular Interactions between Library Members Modulate the Behavior of Dynamic Combinatorial Libraries. The Journal of Organic Chemistry 75:211–214"
+ Year: 2010
+ URL: http://dx.doi.org/10.1021/jo902296h
+ Keywords:
+  - Chemistry
+ Type: 2
+ Methods:
+  - steady state
+ Funding:
+  - CONICET
+  - ANPCyT
+ Locations:
+  - Universidad Nacional de Rosario, Rosario, Argentina
+-
+ Reference: "Pezzola S, Antonini G, Geroni C, Beria I, Colombo M, Broggini M, Mongelli N, Leboffe L, MacArthur R, Mozzi AF, Federici G, Caccuri AM (2010) Role of Glutathione Transferases in the Mechanism of Brostallicin Activation. Biochemistry 49:226–235"
+ Year: 2010
+ URL: http://dx.doi.org/10.1021/bi901689s
+ Keywords:
+  - Enzymology
+ Type: 2
+ Funding:
+ Locations:
+  - University of “Tor Vergata”, Rome, Italy
+  - University of “RomaTre”, Rome, Italy
+  - Nerviano Medical Sciences Srl, Nerviano, Italy
+  - Istituto di Ricerche Farmacologiche ‘Mario Negri, Milan, Italy
+  - Systems Medicine LLC, Seattle, Washington
+  - TorVergata’s Hospital, Rome, Italy
+  - Istituto di Ricovero e Cura a Carattere Scientifico ‘‘Bambin Ges’’, Rome, Italy
 -
  Reference: "Samorodnitsky E, Pugh BF (2010) Genome-Wide Modeling of Transcription Preinitiation Complex Disassembly Mechanisms using ChIP-chip Data. PLoS Comput. Biol. 6:e1000733"
  Year: 2010
@@ -3543,6 +3588,8 @@
  URL: http://dx.doi.org/10.1021/jm900974p
  Keywords:
   - Signaling
+ Funding:
+  - NIH
  Type: 2
  Locations: 
   - University of Missouri—Saint Louis, St. Louis MO, USA
@@ -4089,16 +4136,6 @@
  Locations:
   - University of Chester, CH2 4NU, UK
 -
- Reference: "Chi CN, Bach A, Gottschalk M, Kristensen AS, Stromgaard K, Jemth P (2010) Deciphering the Kinetic Binding Mechanism of Dimeric Ligands Using a Potent Plasma-stable Dimeric Inhibitor of Postsynaptic Density Protein-95 as an Example. Journal of Biological Chemistry 285:28252–28260"
- Year: 2010
- URL: http://dx.doi.org/10.1074/jbc.m110.124040
- Keywords:
- Type: 2
- Funding:
-  - the Swedish Research Council, the Carl Trygger Foundation and the O. E. and Edla Johansson Foundation (to P. J.), the Lundbeck Foundation (to K. S.), and the Danish Council for Inde- pendent Research, Technology and Production Sciences (to A. B.)
- Locations:
-  - University of Copenhagen, Copenhagen, Denmark
--
  Reference: "Johnson KRD, Hayes PG (2011) Kinetic and Mechanistic Investigation of Metallacycle Ring Opening in an Ortho-Metalated Lutetium Aryl Complex. Organometallics 30:58–67"
  Year: 2011
  URL: http://dx.doi.org/10.1021/om100814h
@@ -4109,16 +4146,6 @@
  Locations:
   - University of Lethbridge, Lethbridge, Alberta, Canada T1K 3M4
 -
- Reference: "Orrillo AG, Furlan RLE (2010) Supramolecular Interactions between Library Members Modulate the Behavior of Dynamic Combinatorial Libraries. The Journal of Organic Chemistry 75:211–214"
- Year: 2010
- URL: http://dx.doi.org/10.1021/jo902296h
- Keywords:
- Type: 2
- Funding:
-  - CONICET and ANPCyT
- Locations:
-  - Universidad Nacional de Rosario, Rosario, Argentina
--
  Reference: "Azuaje F (2011) Computational discrete models of tissue growth and regeneration. Briefings in Bioinformatics 12:64–77"
  Year: 2011
  URL: http://dx.doi.org/10.1093/bib/bbq017
@@ -4127,31 +4154,6 @@
  Funding:
  Locations:
   - Centre de Recherche Public-Sante, Luxembourg
--
- Reference: "Pezzola S, Antonini G, Geroni C, Beria I, Colombo M, Broggini M, Mongelli N, Leboffe L, MacArthur R, Mozzi AF, Federici G, Caccuri AM (2010) Role of Glutathione Transferases in the Mechanism of Brostallicin Activation. Biochemistry 49:226–235"
- Year: 2010
- URL: http://dx.doi.org/10.1021/bi901689s
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - University of “Tor Vergata”, Rome, Italy
-  - University of “RomaTre”, Rome, Italy
-  - Nerviano Medical Sciences Srl, Nerviano, Italy
-  - Istituto di Ricerche Farmacologiche ‘Mario Negri, Milan, Italy
-  - Systems Medicine LLC, Seattle, Washington
-  - TorVergata’s Hospital, Rome, Italy
-  - Istituto di Ricovero e Cura a Carattere Scientifico ‘‘Bambin Ges’’, Rome, Italy
--
- Reference: "Goyal M, Rizzo M, Schumacher F, Wong CF (2009) Beyond Thermodynamics: Drug Binding Kinetics Could Influence Epidermal Growth Factor Signaling. Journal of Medicinal Chemistry 52:5582–5585"
- Year: 2009
- URL: http://dx.doi.org/10.1021/jm900974p
- Keywords:
- Type: 2
- Funding:
-  - the National Institutes of Health
- Locations:
-  - University of Missouri;Saint Louis, St. Louis, Missouri 63121, USA
 -
  Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
  Year: 2016
