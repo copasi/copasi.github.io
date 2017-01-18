@@ -3303,6 +3303,7 @@
   - University of Manchester, Manchester, UK
   - Virginia Tech, Blacksburg, VA 24061, USA
   - Cardiff University, Cardiff, UK
+  - Vrije Universiteit, de Boelelaan, Amsterdam, The Netherlands
 -
  Reference: "Liu J, Mehdi S, Topping J, Tarkowski P, Lindsey K (2010) Modelling and experimental analysis of hormonal crosstalk in Arabidopsis. Molecular Systems Biology 6"
  Year: 2010
@@ -3494,6 +3495,21 @@
   - University of Stuttgart, Stuttgart, Germany
   - Max Planck Institute for Chemical Ecology, Jena, Germany
 -
+ Reference: "Mendes P, Messiha H, Malys N, Hoops S (2009) Enzyme Kinetics and Computational Modeling for Systems Biology. Methods in Enzymology 467:583–599"
+ Year: 2009
+ URL: http://dx.doi.org/10.1016/s0076-6879(09)67022-1
+ Keywords:
+  - Enzymology
+  - Computational Method
+ Type: 3
+ Funding:
+  - NIH
+  - BBSRC 
+  - EPSRC
+ Locations:
+  - University of Manchester, Manchester M1 7DN, UK
+  - Virginia Polytechnic Institute and State University, Blacksburg, VA 24061, USA
+-
  Reference: "Menolascina F, Bellomo D, Maiwald T, Bevilacqua V, Ciminelli C, Paradiso A, Tommasi S (2009) Developing optimal input design strategies in cancer systems biology with applications to microfluidic device engineering. BMC Bioinformatics 10:S4"
  Year: 2009
  URL: http://dx.doi.org/10.1186/1471-2105-10-s12-s4
@@ -3550,6 +3566,20 @@
   - Medizinische Hochschule Hannover, Hannover, Germany
   - Jacobs University Bremen, Bremen, Germany
   - Hungarian Academy of Sciences, Budapest, Hungary
+-
+ Reference: "Ricagno S, Caccia S, Sorrentino G, Antonini G, Bolognesi M (2009) Human Neuroserpin: Structure and Time-Dependent Inhibition. Journal of Molecular Biology 388:109–121"
+ Year: 2009
+ URL: http://dx.doi.org/10.1016/j.jmb.2009.02.056
+ Keywords:
+  - Enzymology
+  - Macromolecular Biochemistry
+ Type: 2
+ Funding:
+  - Cariplo Foundation
+  - Italian Ministry of University and Research
+ Locations:
+  - University of Milano, Milan, Italy
+  - University of Rome, Rome, Italy
 -
  Reference: "Schulz M, Bakker BM, Klipp E (2009) TIde: a software for the systematic scanning of drug targets in kinetic network models. BMC Bioinformatics 10:344"
  URL: http://dx.doi.org/10.1186/1471-2105-10-344
@@ -3860,18 +3890,6 @@
   - Universita di Bologna, Bologna, Italy
   - Universita di Bologna, Cesena, Italy
 -
- Reference: "Ricagno S, Caccia S, Sorrentino G, Antonini G, Bolognesi M (2009) Human Neuroserpin: Structure and Time-Dependent Inhibition. Journal of Molecular Biology 388:109–121"
- Year: 2009
- URL: http://dx.doi.org/10.1016/j.jmb.2009.02.056
- Keywords:
- Type: 2
- Funding:
-  - grants from the Cariplo Foundation (GUARD Project, 2006–2009) and the Italian Ministry of University and Research (Italy; FIRB Project “Biologia Strutturale”)
- Locations:
-  - University of Milano, Milan, Italy
-  - University of Rome, Rome, Italy
-  - University of Milano, Segrate (MI), Italy
--
  Reference: "Gizzatkulov NM, Goryanin II, Metelkin EA, Mogilevskaya EA, Peskov KV, Demin OV (2010) DBSolve Optimum: a software package for kinetic modeling which allows dynamic visualization of simulation results. BMC Systems Biology 4:109"
  Year: 2010
  URL: http://dx.doi.org/10.1186/1752-0509-4-109
@@ -3882,27 +3900,6 @@
  Locations:
   - Institute for Systems Biology SPb, Sankt-Peterburgh, Russia
   - Belozersky Institute of Physico-Chemical Biology of Moscow State University, Moscow, Russia
--
- Reference: "Vrije Universiteit, de Boelelaan"
- Year: 2003
- URL: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-582
- Keywords:
- Type: 3
- Funding:
-  - the Biotechnological and Biological Sciences Research Council, and the Engineering and Physical Sciences Research Council
- Locations:
-  - Vrije Universiteit, de Boelelaan, Amsterdam, The Netherlands
--
- Reference: "Virginia Polytechnic Institute and State University"
- Year: 2009
- URL: http://dx.doi.org/10.1016/s0076-6879(09)67022-1
- Keywords:
- Type: 3
- Funding:
-  - the National Institute for General Medical Sciences, the BBSRC and EPSRC
- Locations:
-  - Virginia Polytechnic Institute and State University, Blacksburg, VA 24061, USA
-  - Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA
 -
  Reference: "Troncoso-Ponce MA, Kruger NJ, Ratcliffe G, Garcés R, Martínez-Force E (2009) Characterization of glycolytic initial metabolites and enzyme activities in developing sunflower (Helianthus annuus L.) seeds. Phytochemistry 70:1117–1122"
  Year: 2009
