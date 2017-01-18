@@ -56,6 +56,18 @@
   - University of Sheffield, Sheffield, UK
   - University of Chester, Chester, UK
 -
+ Reference: "Laviska DA, Zhou T, Kumar A, Emge TJ, Krogh-Jespersen K, Goldman AS (2016) Single and Double C–H Activation of Biphenyl or Phenanthrene. An Example of C–H Addition to Ir(III) More Facile than Addition to Ir(I). Organometallics 35:1613–1623"
+ Year: 2016
+ URL: http://dx.doi.org/10.1021/acs.organomet.6b00055
+ Keywords:
+  - Chemistry
+ Type: 2
+ Funding:
+  - NSF
+ Locations:
+  - The State University of New Jersey, New Brunswick, New Jersey 08903, United States
+  - Indian Institute of Technology Guwahati, Guwahati 781039, Assam, India
+-
  Reference: "Mizeranschi AE, Swain MT, Scona R, Fazilleau Q, Bosak B, Piontek T, Kopta P, Thompson P, Dubitzky W (2016) MultiGrain/MAPPER: A distributed multiscale computing approach to modeling and simulating gene regulation networks. Future Generation Computer Systems 63:1–14"
  Year: 2016
  URL: http://dx.doi.org/10.1016/j.future.2016.04.002
@@ -69,6 +81,21 @@
   - University of Ulster, Coleraine, UK
   - Aberystwyth University, Aberystwyth, UK
   - Poznań Supercomputing and Networking Center, Poznań, Poland
+-
+ Reference: "Rantasalo A, Czeizler E, Virtanen R, Rousu J, Lähdesmäki H, Penttilä M, Jäntti J, Mojzita D (2016) Synthetic Transcription Amplifier System for Orthogonal Control of Gene Expression in Saccharomyces cerevisiae. PLOS ONE 11:e0148320"
+ Year: 2016
+ URL: http://dx.doi.org/10.1371/journal.pone.0148320
+ Keywords:
+  - Genetics
+  - Microbiology
+  - Synthetic biology
+ Type: 2
+ Funding:
+  - Academy of Finland
+  - TEKES
+ Locations:
+  - VTT Technical Research Centre of Finland, VTT, Espoo, Finland
+  - Aalto University, Aalto, Espoo, Finland
 -
  Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
  Year: 2016
@@ -93,7 +120,7 @@
  Year: 2016
  URL: http://dx.doi.org/10.1016/j.bpj.2015.12.041
  Keywords:
-  - Computational Methods
+  - Computational Method
  Type: 3
  Funding:
   - NIH
@@ -4171,17 +4198,6 @@
   - Colorado State University, Colorado, USA
   - Middle East Technical University, Ankara, Turkey
 -
- Reference: "Laviska DA, Zhou T, Kumar A, Emge TJ, Krogh-Jespersen K, Goldman AS (2016) Single and Double C–H Activation of Biphenyl or Phenanthrene. An Example of C–H Addition to Ir(III) More Facile than Addition to Ir(I). Organometallics 35:1613–1623"
- Year: 2016
- URL: http://dx.doi.org/10.1021/acs.organomet.6b00055
- Keywords:
- Type: 2
- Funding:
-  - the National Science Foundation for support of this work through Grant CHE No. 1465203
- Locations:
-  - The State University of New Jersey, New Brunswick, New Jersey 08903, United States
-  - Indian Institute of Technology Guwahati, Guwahati 781039, Assam, India
--
  Reference: "Tyc KM, Herwald SE, Hogan JA, Pierce JV, Klipp E, Kumamoto CA (2016) The game theory of Candida albicans colonization dynamics reveals host status-responsive gene expression. BMC Systems Biology 10"
  Year: 2016
  URL: http://dx.doi.org/10.1186/s12918-016-0268-1
@@ -4238,13 +4254,3 @@
  Locations:
   - University of Catania, Catania, Italy
   - Brody School of Medicine at East Carolina University, Greenville, NC, United States of America
--
- Reference: "Rantasalo A, Czeizler E, Virtanen R, Rousu J, Lähdesmäki H, Penttilä M, Jäntti J, Mojzita D (2016) Synthetic Transcription Amplifier System for Orthogonal Control of Gene Expression in Saccharomyces cerevisiae. PLOS ONE 11:e0148320"
- Year: 2016
- URL: http://dx.doi.org/10.1371/journal.pone.0148320
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - VTT Technical Research Centre of Finland, VTT, Espoo, Finland
-  - Aalto University, Aalto, Espoo, Finland
