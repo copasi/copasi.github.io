@@ -70,6 +70,25 @@
   - Aberystwyth University, Aberystwyth, UK
   - Poznań Supercomputing and Networking Center, Poznań, Poland
 -
+ Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.freeradbiomed.2016.02.035
+ Keywords:
+  - Metabolism
+ Methods:
+  - parameter estimation
+ Type: 2
+ Funding:
+  - BBSRC
+  - Wellcome Trust
+  - NIH
+  - Howard Hughes Medical Institute
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, UK
+  - University College London, London, UK
+  - The University of Chicago, Chicago, USA
+  - University of California, Berkeley, California, USA
+-
  Reference: "Walker MA, Madduri R, Rodriguez A, Greenstein JL, Winslow RL (2016) Models and Simulations as a Service: Exploring the Use of Galaxy for Delivering Computational Models. Biophysical Journal 110:1038–1043"
  Year: 2016
  URL: http://dx.doi.org/10.1016/j.bpj.2015.12.041
@@ -4173,29 +4192,6 @@
  Locations:
   - Humboldt Universität zu Berlin, Berlin, Germany
   - Tufts University, Boston, MA 02111, USA
--
- Reference: "Kilner J, Corfe BM, McAuley MT, Wilkinson SJ (2016) A deterministic oscillatory model of microtubule growth and shrinkage for differential actions of short chain fatty acids. Mol. BioSyst. 12:93–101"
- Year: 2016
- URL: http://dx.doi.org/10.1039/c5mb00211g
- Keywords:
- Type: 2
- Funding:
-  - EPSRC studentship (under grant EP/E036252/1)
- Locations:
-  - University of Chester, CH2 4NU, UK
--
- Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
- Year: 2016
- URL: http://dx.doi.org/10.1016/j.freeradbiomed.2016.02.035
- Keywords:
- Type: 2
- Funding:
-  - "the BBSRC (BB/F015895/1, BB/F016980/1 and BB/ F023065/1), a Wellcome Trust Se- nior Investigator Award (J.B.) #095598/Z/11/Z and NIH grant GM 79465 (C.J.C.), the Howard Hughes Medical Institute, a Chemical Biology Training Grant from the National Institutes of Health (T32 GM066698)"
- Locations:
-  - Newcastle University, Newcastle upon Tyne, UK
-  - University College London, London, UK
-  - The University of Chicago, Chicago, USA
-  - University of California, Berkeley, California, USA
 -
  Reference: "Morgan AE, Mooney KM, Wilkinson SJ, Pickles NA, Mc Auley MT (2016) Mathematically modelling the dynamics of cholesterol metabolism and ageing. Biosystems 145:19–32"
  Year: 2016
