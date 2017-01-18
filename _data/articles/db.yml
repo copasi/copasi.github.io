@@ -3224,6 +3224,19 @@
  Locations:
   - University of Southern Denmark, Odense, Denmark
 -
+ Reference: "Dada JO, Spasic I, Paton NW, Mendes P (2010) SBRML: a markup language for associating systems biology data with models. Bioinformatics 26:932–938"
+ Year: 2010
+ URL: http://dx.doi.org/10.1093/bioinformatics/btq069
+ Keywords:
+  - Computational Method
+ Type: 3
+ Funding:
+  - BBSRC
+  - EPSRC
+ Locations:
+  - University of Manchester, Manchester M1 7DN, UK
+  - Virginia Tech, Blacksburg, VA 24061, USA
+-
  Reference: "Dimitrova ES, Vera Licona MP, McGee J, Laubenbacher R. (2010) Discretization of Time Series Data. J. Comput. Biol. J17:853-68."
  Year: 2010
  URL: http://dx.doi.org/10.1089/cmb.2008.0023
@@ -3290,6 +3303,19 @@
   - University of Manchester, Manchester, UK
   - Virginia Tech, Blacksburg, VA 24061, USA
   - Cardiff University, Cardiff, UK
+-
+ Reference: "Liu J, Mehdi S, Topping J, Tarkowski P, Lindsey K (2010) Modelling and experimental analysis of hormonal crosstalk in Arabidopsis. Molecular Systems Biology 6"
+ Year: 2010
+ URL: http://dx.doi.org/10.1038/msb.2010.26
+ Keywords:
+  - Signaling
+ Type: 2
+ Funding:
+  - Research Councils UK 
+  - BBSRC
+ Locations:
+  - Swedish University of Agricultural Science, Umea, Sweden
+  - Durham University, Durham DH1 3LE, UK
 -
  Reference: "Maiwald T, Schneider A, Busch H, Sahle S, Gretz N, Weiss TS, Kummer U, Klingmüller U (2010) Combining theoretical analysis and experimental data generation reveals IRF9 as a crucial factor for accelerating interferon α-induced early antiviral signalling: IRF9 accelerates IFNα signal transduction. FEBS Journal 277:4741-4754"
  URL: http://dx.doi.org/10.1111/j.1742-4658.2010.07880.x
@@ -3497,6 +3523,10 @@
  Year: 2009
  Keywords: 
   - Signaling
+ Type: 2
+ Funding:
+  - UK Department of Trade and Industry
+  - Scottish Enterprise and Cyclacel
  Locations: 
   - University of Glasgow, Glasgow, UK
   - Maastricht University, Maastricht, Netherlands
@@ -3685,6 +3715,19 @@
  Locations:
   - European Bioinformatics Institute, Hinxton, UK
 -
+ Reference: "Wilkinson SJ, Benson N, Kell DB (2008) Proximate parameter tuning for biochemical networks with uncertain kinetic parameters. Molecular BioSystems 4:74–97"
+ Year: 2008
+ URL: http://dx.doi.org/10.1039/b707506e
+ Keywords:
+  - Computational Method
+ Type: 2
+ Funding:
+  - Pfizer Ltd 
+  - BBSRC
+ Locations:
+  - University of Manchester, Manchester M1 7DN, UK
+  - Pfizer Central Research, Sandwich, Kent, UK
+-
  Reference: "Camacho, D, Vera-Licona P, Mendes P, Laubenbacher R (2007) Comparison of reverse-engineering methods using an in silico network. Ann. N.Y. Acad. Sci. 1115:73-89."
  Year: 2007
  URL: http://dx.doi.org/10.1196/annals.1407.006
@@ -3806,53 +3849,6 @@
   - Biocomplexity Institute of Virginia Tech, Blacksburg, VA, USA
   - Virginia Tech, Blacksburg, VA, USA
 -
- Reference: "Dada JO, Spasic I, Paton NW, Mendes P (2010) SBRML: a markup language for associating systems biology data with models. Bioinformatics 26:932–938"
- Year: 2010
- URL: http://dx.doi.org/10.1093/bioinformatics/btq069
- Keywords:
- Type: 3
- Funding:
-  - "Funding: Biotechnology and Biological Sciences Research Council and Engineering and Physical Sciences Research Council (grant BB/C008129/2, a contribution from The Manchester Centre for Integrative Systems Biology)"
- Locations:
-  - University of Manchester, Manchester M1 7DN, UK
-  - University of Manchester, Manchester M13 9PL, UK
-  - Virginia Tech, Blacksburg, VA 24061, USA
--
- Reference: "Wendelsdorf K, Bassaganya-Riera J, Hontecillas R, Eubank S (2010) Model of colonic inflammation: Immune modulatory mechanisms in inflammatory bowel disease. Journal of Theoretical Biology 264:1225–1239"
- Year: 2010
- URL: http://dx.doi.org/10.1016/j.jtbi.2010.03.027
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - Virginia Polytechnic Institute and University, Blacksburg, VA 24061, USA
--
- Reference: "Orton RJ, Adriaens ME, Gormand A, Sturm OE, Kolch W, Gilbert DR (2009) Computational modelling of cancerous mutations in the EGFR/ERK signalling pathway. BMC Systems Biology 3:100"
- Year: 2009
- URL: http://dx.doi.org/10.1186/1752-0509-3-100
- Keywords:
- Type: 2
- Funding:
-  - by the Department of Trade and Industry (DTI), under their Bioscience Beacon project programme. AG was funded by an industrial PhD studentship from Scottish Enterprise and Cyclacel
- Locations:
-  - University of Glasgow, Glasgow, G61 1QH, UK
-  - Maastricht University, Maastricht, The Netherlands
-  - Lund University, Lund, Sweden
-  - St Jude Children's Research Hospital, Memphis, Tennessee, TN 38105, USA
-  - Garscube Estate, Glasgow, G61 IBD, UK
-  - Brunel University, Uxbridge, Middlesex, UB8 3PH, UK
--
- Reference: "Liu J, Mehdi S, Topping J, Tarkowski P, Lindsey K (2010) Modelling and experimental analysis of hormonal crosstalk in Arabidopsis. Molecular Systems Biology 6"
- Year: 2010
- URL: http://dx.doi.org/10.1038/msb.2010.26
- Keywords:
- Type: 2
- Funding:
-  - Research Councils UK and the Biotechnology and Biological Sciences Research Council for funding in support of this study
- Locations:
-  - Swedish University of Agricultural Science, Umea, Sweden
-  - Durham University, Durham DH1 3LE, UK
--
  Reference: "Andreani A, Burnelli S, Granaiola M, Leoni A, Locatelli A, Morigi R, Rambaldi M, Varoli L, Cremonini MA, Placucci G (2010) New isatin derivatives with antioxidant activity. European Journal of Medicinal Chemistry 45:1374–1378"
  Year: 2010
  URL: http://dx.doi.org/10.1016/j.ejmech.2009.12.035
@@ -3863,16 +3859,6 @@
  Locations:
   - Universita di Bologna, Bologna, Italy
   - Universita di Bologna, Cesena, Italy
--
- Reference: "Wilkinson SJ, Benson N, Kell DB (2008) Proximate parameter tuning for biochemical networks with uncertain kinetic parameters. Mol. BioSyst. 4:74–97"
- Year: 2008
- URL: http://dx.doi.org/10.1039/b707506e
- Keywords:
- Type: 2
- Funding:
-  - We thank Pfizer Ltd and the BBSRC for financial support
- Locations:
-  - Pfizer Central Research, Sandwich, Kent, UK
 -
  Reference: "Ricagno S, Caccia S, Sorrentino G, Antonini G, Bolognesi M (2009) Human Neuroserpin: Structure and Time-Dependent Inhibition. Journal of Molecular Biology 388:109–121"
  Year: 2009
