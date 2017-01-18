@@ -41,6 +41,29 @@
   - University of Bonn, Bonn, Germany
   - University of Tasmania, Hobart, Australia
 -
+ Reference: "Jungmann R, Avendaño MS, Dai M, Woehrstein JB, Agasti SS, Feiger Z, Rodal A, Yin P (2016) Quantitative super-resolution imaging with qPAINT. Nature Methods 13:439–442"
+ Year: 2016
+ URL: http://dx.doi.org/10.1038/nmeth.3804
+ Keywords:
+  - Laboratory Method
+  - Macromolecular Biochemistry
+ Type: 2
+ Funding:
+  - NIH
+  - Office of Naval Research
+  - NSF
+  - Wyss Institute for Biologically Engineering Faculty Startup Fund
+  - Pew Scholar Award
+  - Alexander von Humboldt Foundation
+  - Howard Hughes Medical Institute
+ Locations:
+  - Harvard University, Boston, Massachusetts, USA
+  - Harvard Medical School, Boston, Massachusetts, USA
+  - Brandeis University, Waltham, Massachusetts, USA
+  - Max Planck Institute of Biochemistry, Munich, Germany
+  - Ludwig Maximilian University of Munich, Munich, Germany
+  - Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Jakkur, Bangalore, India
+-
  Reference: "Kilner J, Corfe BM, McAuley MT, Wilkinson SJ (2016) A deterministic oscillatory model of microtubule growth and shrinkage for differential actions of short chain fatty acids. Mol. BioSystems 12:93-101"
  Year: 2016
  URL: http://dx.doi.org/10.1039/C5MB00211G
@@ -68,6 +91,21 @@
   - The State University of New Jersey, New Brunswick, New Jersey 08903, United States
   - Indian Institute of Technology Guwahati, Guwahati 781039, Assam, India
 -
+ Reference: "Leber A, Abedi V, Hontecillas R, Viladomiu M, Hoops S, Ciupe S, Caughman J, Andrew T, Bassaganya-Riera J (2016) Bistability analyses of CD4+ T follicular helper and regulatory cells during Helicobacter pylori infection. Journal of Theoretical Biology 398:74–84"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.jtbi.2016.02.036
+ Keywords:
+  - Immunology
+ Type: 2
+ Methods:
+  - time course
+  - parameter estimation
+ Funding:
+  - NIH
+  - Nutritional Immunology and Molecular Medicine Laboratory
+ Locations:
+  - Virginia Tech, Blacksburg, VA, USA
+-
  Reference: "Mizeranschi AE, Swain MT, Scona R, Fazilleau Q, Bosak B, Piontek T, Kopta P, Thompson P, Dubitzky W (2016) MultiGrain/MAPPER: A distributed multiscale computing approach to modeling and simulating gene regulation networks. Future Generation Computer Systems 63:1–14"
  Year: 2016
  URL: http://dx.doi.org/10.1016/j.future.2016.04.002
@@ -81,6 +119,47 @@
   - University of Ulster, Coleraine, UK
   - Aberystwyth University, Aberystwyth, UK
   - Poznań Supercomputing and Networking Center, Poznań, Poland
+-
+ Reference: "Morgan AE, Mooney KM, Wilkinson SJ, Pickles NA, Mc Auley MT (2016) Mathematically modelling the dynamics of cholesterol metabolism and ageing. Biosystems 145:19–32"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.biosystems.2016.05.001
+ Keywords:
+  - Metabolism
+ Type: 2
+ Funding:
+  - University of Chester
+ Locations:
+  - University of Chester, Chester, CH2 4NU
+  - Edge Hill University, Lancashire, L39 4QP
+-
+ Reference: "Özkar S, Finke RG (2016) Palladium(0) Nanoparticle Formation, Stabilization, and Mechanistic Studies: Pd(acac) 2 as a Preferred Precursor, [Bu 4 N] 2 HPO 4 Stabilizer, plus the Stoichiometry, Kinetics, and Minimal, Four-Step Mechanism of the Palladium Nanoparticle Formation and Subsequent Agglomeration Reactions. Langmuir 32:3699–3716"
+ Year: 2016
+ URL: http://dx.doi.org/10.1021/acs.langmuir.6b00013
+ Keywords:
+  - Chemistry
+ Type: 2
+ Methods:
+  - parameter estimation
+  - time course
+ Funding:
+  - DOE
+  - Fulbright Foundation
+  - Turkish Academy of Sciences
+ Locations:
+  - Colorado State University, Colorado, USA
+  - Middle East Technical University, Ankara, Turkey
+-
+ Reference: "Pappalardo F, Russo G, Candido S, Pennisi M, Cavalieri S, Motta S, McCubrey JA, Nicoletti F, Libra M (2016) Computational Modeling of PI3K/AKT and MAPK Signaling Pathways in Melanoma Cancer. PLOS ONE 11:e0152104"
+ Year: 2016
+ URL: http://dx.doi.org/10.1371/journal.pone.0152104
+ Keywords:
+  - Signaling
+ Type: 2
+ Funding:
+  - FIR2014 University of Catania, Italy
+ Locations:
+  - University of Catania, Catania, Italy
+  - Brody School of Medicine at East Carolina University, Greenville, NC, United States of America
 -
  Reference: "Rantasalo A, Czeizler E, Virtanen R, Rousu J, Lähdesmäki H, Penttilä M, Jäntti J, Mojzita D (2016) Synthetic Transcription Amplifier System for Orthogonal Control of Gene Expression in Saccharomyces cerevisiae. PLOS ONE 11:e0148320"
  Year: 2016
@@ -96,6 +175,38 @@
  Locations:
   - VTT Technical Research Centre of Finland, VTT, Espoo, Finland
   - Aalto University, Aalto, Espoo, Finland
+-
+ Reference: "Ray JCJ, Wickersheim ML, Jalihal AP, Adeshina YO, Cooper TF, Balázsi G (2016) Cellular Growth Arrest and Persistence from Enzyme Saturation. PLOS Computational Biology 12:e1004825"
+ Year: 2016
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1004825
+ Keywords:
+  - Microbiology
+  - Metabolism
+ Type: 2
+ Funding:
+ Locations:
+  - Department of Systems Biology, Houston, Texas, USA
+  - University of Kansas, Lawrence, Kansas, USA
+  - SASTRA University, Tirumalaisamudram, Tamil Nadu, India
+  - Stony Brook University, Stony Brook, New York, USA
+-
+ Reference: "Seo D, Soeta T, Sakurai H, Sétif P, Sakurai T (2016) Pre-steady-state kinetic studies of redox reactions catalysed by Bacillus subtilis ferredoxin-NADP+ oxidoreductase with NADP+/NADPH and ferredoxin. Biochimica et Biophysica Acta 1857:678–687"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.bbabio.2016.03.005
+ Keywords:
+  - Microbiology
+  - Enzymology
+ Type: 2
+ Funding:
+  - Japanese Ministry of Education, Culture, Sports, Science and Technology
+ Locations:
+  - Kanazawa University, Ishikawa 920-1192, Japan
+  - Kanagawa University, Kanagawa 259-1293, Japan
+  - CEA, iBiTecS, Gif sur Yvette, France
+  - CNRS/Université Paris-Sud/CEA, I2BC, Gif sur Yvette, France
+  - Kanazawa University, Kanazawa, Ishikawa 920-1192, Japan
+  - Kanagawa University, Hiratsuka, Kanagawa 259-1293, Japan
+  - CNRS/Université Paris-Sud/CEA, Gif sur Yvette, France
 -
  Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
  Year: 2016
@@ -115,6 +226,23 @@
   - University College London, London, UK
   - The University of Chicago, Chicago, USA
   - University of California, Berkeley, California, USA
+-
+ Reference: "Tyc KM, Herwald SE, Hogan JA, Pierce JV, Klipp E, Kumamoto CA (2016) The game theory of Candida albicans colonization dynamics reveals host status-responsive gene expression. BMC Systems Biology 10"
+ Year: 2016
+ URL: http://dx.doi.org/10.1186/s12918-016-0268-1
+ Keywords:
+  - Microbiology
+  - Immunology
+  - Signaling
+ Methods:
+  - parameter estimation
+ Type: 2
+ Funding:
+  - NIH
+  - EU Marie Curie Initial Training Network
+ Locations:
+  - Humboldt Universität zu Berlin, Berlin, Germany
+  - Tufts University, Boston, MA 02111, USA
 -
  Reference: "Walker MA, Madduri R, Rodriguez A, Greenstein JL, Winslow RL (2016) Models and Simulations as a Service: Exploring the Use of Galaxy for Delivering Computational Models. Biophysical Journal 110:1038–1043"
  Year: 2016
@@ -4156,101 +4284,3 @@
   - Coordinates: -29.7421453,31.0328613
  Funding:
   - National Bioinformatics Network (South Africa)
-###
-### 2017 / 01 / 18: updated references from marina 
-###
--
- Reference: "Seo D, Soeta T, Sakurai H, Sétif P, Sakurai T (2016) Pre-steady-state kinetic studies of redox reactions catalysed by Bacillus subtilis ferredoxin-NADP+ oxidoreductase with NADP+/NADPH and ferredoxin. Biochimica et Biophysica Acta (BBA) - Bioenergetics 1857:678–687"
- Year: 2016
- URL: http://dx.doi.org/10.1016/j.bbabio.2016.03.005
- Keywords:
- Type: 2
- Funding:
-  - the Japanese Ministry of Education, Culture, Sports, Science and Technology
- Locations:
-  - Kanazawa University, Ishikawa 920-1192, Japan
-  - Kanagawa University, Kanagawa 259-1293, Japan
-  - CEA, iBiTecS, Gif sur Yvette, France
-  - CNRS/Université Paris-Sud/CEA, I2BC, Gif sur Yvette, France
-  - Kanazawa University, Kanazawa, Ishikawa 920-1192, Japan
-  - Kanagawa University, Hiratsuka, Kanagawa 259-1293, Japan
-  - CNRS/Université Paris-Sud/CEA, Gif sur Yvette, France
--
- Reference: "Leber A, Abedi V, Hontecillas R, Viladomiu M, Hoops S, Ciupe S, Caughman J, Andrew T, Bassaganya-Riera J (2016) Bistability analyses of CD4+ T follicular helper and regulatory cells during Helicobacter pylori infection. Journal of Theoretical Biology 398:74–84"
- Year: 2016
- URL: http://dx.doi.org/10.1016/j.jtbi.2016.02.036
- Keywords:
- Type: 2
- Funding:
-  - was supported in part by National Institute of Allergy and Infectious Diseases Contract no. HHSN272201000056C to JB-R and funds from the Nutritional Immunology and Molecular Medicine Laboratory (〈www.nimml. org〉)
- Locations:
-  - Biocomplexity Institute of Virginia Tech, Blacksburg, VA, USA
-  - Virginia Tech, Blacksburg, VA, USA
--
- Reference: "Özkar S, Finke RG (2016) Palladium(0) Nanoparticle Formation, Stabilization, and Mechanistic Studies: Pd(acac) 2 as a Preferred Precursor, [Bu 4 N] 2 HPO 4 Stabilizer, plus the Stoichiometry, Kinetics, and Minimal, Four-Step Mechanism of the Palladium Nanoparticle Formation and Subsequent Agglomeration Reactions. Langmuir 32:3699–3716"
- Year: 2016
- URL: http://dx.doi.org/10.1021/acs.langmuir.6b00013
- Keywords:
- Type: 2
- Funding:
-  - the Department of Energy, Office of Basic Energy Sciences, via DOE Grants FG06-089ER13998 and then FG02-03ER15453, the Fulbright Foundation via a Scholar- ship to S.Ö ., and, partially, by the Turkish Academy of Sciences
- Locations:
-  - Colorado State University, Colorado, USA
-  - Middle East Technical University, Ankara, Turkey
--
- Reference: "Tyc KM, Herwald SE, Hogan JA, Pierce JV, Klipp E, Kumamoto CA (2016) The game theory of Candida albicans colonization dynamics reveals host status-responsive gene expression. BMC Systems Biology 10"
- Year: 2016
- URL: http://dx.doi.org/10.1186/s12918-016-0268-1
- Keywords:
- Type: 2
- Funding:
-  - grants R01AI081794 and R01AI081794-02S1 from the National Institutes of Health to C.A.K. and by the European Commis- sion through the European Marie Curie Initial Training Network, FINSysB (PITN-GA-2008–214004), T32AI07422, the European Commission through the European Marie Curie Initial Training Network, FINSysB (PITN-GA-2008-214004)
- Locations:
-  - Humboldt Universität zu Berlin, Berlin, Germany
-  - Tufts University, Boston, MA 02111, USA
--
- Reference: "Morgan AE, Mooney KM, Wilkinson SJ, Pickles NA, Mc Auley MT (2016) Mathematically modelling the dynamics of cholesterol metabolism and ageing. Biosystems 145:19–32"
- Year: 2016
- URL: http://dx.doi.org/10.1016/j.biosystems.2016.05.001
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - University of Chester, Chester, CH2 4NU
-  - Edge Hill University, Lancashire, L39 4QP
--
- Reference: "Ray JCJ, Wickersheim ML, Jalihal AP, Adeshina YO, Cooper TF, Balázsi G (2016) Cellular Growth Arrest and Persistence from Enzyme Saturation. PLOS Computational Biology 12:e1004825"
- Year: 2016
- URL: http://dx.doi.org/10.1371/journal.pcbi.1004825
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - Department of Systems Biology, Houston, Texas, USA
-  - University of Kansas, Lawrence, Kansas, USA
-  - SASTRA University, Tirumalaisamudram, Tamil Nadu, India
-  - Stony Brook University, Stony Brook, New York, USA
--
- Reference: "Jungmann R, Avendaño MS, Dai M, Woehrstein JB, Agasti SS, Feiger Z, Rodal A, Yin P (2016) Quantitative super-resolution imaging with qPAINT. Nature Methods 13:439–442"
- Year: 2016
- URL: http://dx.doi.org/10.1038/nmeth.3804
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - Harvard University, Boston, Massachusetts, USA
-  - Harvard Medical School, Boston, Massachusetts, USA
-  - Brandeis University, Waltham, Massachusetts, USA
-  - Max Planck Institute of Biochemistry, Munich, Germany
-  - Ludwig Maximilian University of Munich, Munich, Germany
-  - Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Jakkur, Bangalore, India
--
- Reference: "Pappalardo F, Russo G, Candido S, Pennisi M, Cavalieri S, Motta S, McCubrey JA, Nicoletti F, Libra M (2016) Computational Modeling of PI3K/AKT and MAPK Signaling Pathways in Melanoma Cancer. PLOS ONE 11:e0152104"
- Year: 2016
- URL: http://dx.doi.org/10.1371/journal.pone.0152104
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - University of Catania, Catania, Italy
-  - Brody School of Medicine at East Carolina University, Greenville, NC, United States of America
