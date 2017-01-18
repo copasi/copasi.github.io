@@ -3382,6 +3382,24 @@
   - University of Manchester, Manchester, UK
   - Virginia Tech, Blacksburg VA, USA
 -
+ Reference: "Tiwari A, Balázsi G, Gennaro ML, Igoshin OA (2010) The interplay of multiple feedback loops with post-translational kinetics results in bistability of mycobacterial stress response. Physical Biology 7:36005"
+ Year: 2010
+ URL: http://dx.doi.org/10.1088/1478-3975/7/3/036005
+ Keywords:
+  - Microbiology
+  - Genetics
+ Type: 2
+ Methods:
+  - stochastic simulation
+ Funding:
+  - NSF
+  - NIH
+  - EU FP7
+ Locations:
+  - Rice University, Houston, TX 77005, USA
+  - The University of Texas MD Anderson Cancer Center, Houston, TX 77005, USA
+  - New Jersey Medical School, Newark, NJ 07103, USA
+-
  Reference: "Wendelsdorf K, Bassaganya-Riera J, Hontecillas R,  Eubank S (2010) Model of colonic inflammation: immune modulatory mechanisms in inflammatory bowel disease. J. Theoret. Biol. 264:1225-1239"
  Year: 2010
  URL: http://dx.doi.org/10.1016/j.jtbi.2010.03.027
@@ -3933,7 +3951,8 @@
  Keywords:
  Type: 3
  Funding:
-  - the MAPPER EU-FP7 project (Grant No. RI-261507) and was supported in part by PL- Grid infrastructure. This work was also supported by the National Science Centre (NCN) in Poland under the MAESTRO Grant No. DEC-2013/08/A/ST6/00296
+  - EU FP7
+  - National Science Centre (NCN) in Poland
  Locations:
   - University of Ulster, Coleraine, UK
   - Aberystwyth University, Aberystwyth, UK
@@ -4031,18 +4050,6 @@
  Locations:
   - University of Wisconsin, Madison, Wisconsin 53706, United States
 -
- Reference: "Sahle S, Mendes P, Hoops S, Kummer U (2008) A new strategy for assessing sensitivities in biochemical models. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 366:3619–3631"
- Year: 2008
- URL: http://dx.doi.org/10.1098/rsta.2008.0108
- Keywords:
- Type: 3
- Funding:
-  - the NIGMS (grant GM080219), the Klaus Tschira Foundation, the BMBF and the EPSRC
- Locations:
-  - Institute for Zoology/BIOQUANT, Heidelberg, Germany
-  - University of Manchester, Manchester M13 9PL, UK
-  - Virginia Tech, Blacksburg, VA 24061, USA
--
  Reference: "Blaquiere N, Shore DG, Rousseaux S, Fagnou K (2009) Decarboxylative Ketone Aldol Reactions: Development and Mechanistic Evaluation under Metal-Free Conditions. The Journal of Organic Chemistry 74:6190–6198"
  Year: 2009
  URL: http://dx.doi.org/10.1021/jo901022j
@@ -4073,18 +4080,6 @@
  Locations:
   - University of Glasgow, Glasgow, G61 1QH, UK
   - University of Sheffield, Sheffield, UK
--
- Reference: "Tiwari A, Balázsi G, Gennaro ML, Igoshin OA (2010) The interplay of multiple feedback loops with post-translational kinetics results in bistability of mycobacterial stress response. Physical Biology 7:36005"
- Year: 2010
- URL: http://dx.doi.org/10.1088/1478-3975/7/3/036005
- Keywords:
- Type: 2
- Funding:
-  - the National Science Foundation and Grant Number RO1 GM096189-01 from the National Institutes of Health NIGMS to OAI, the European Commission’s Seventh Framework Programme for Research (FP7) and National Institutes of Health Director’s New Innovator Award Program (Grant1-DP2-OD006481-01)
- Locations:
-  - Rice University, Houston, TX 77005, USA
-  - The University of Texas MD Anderson Cancer Center, Houston, TX 77005, USA
-  - New Jersey Medical School, Newark, NJ 07103, USA
 -
  Reference: "Morrissey ER, Juarez MA, Denby KJ, Burroughs NJ (2010) On reverse engineering of gene interaction networks using time course data with repeated measurements. Bioinformatics 26:2305–2312"
  Year: 2010
@@ -4159,27 +4154,6 @@
   - the National Institutes of Health
  Locations:
   - University of Missouri;Saint Louis, St. Louis, Missouri 63121, USA
--
- Reference: "Samorodnitsky E, Pugh BF (2010) Genome-Wide Modeling of Transcription Preinitiation Complex Disassembly Mechanisms using ChIP-chip Data. PLoS Computational Biology 6:e1000733"
- Year: 2010
- URL: http://dx.doi.org/10.1371/journal.pcbi.1000733
- Keywords:
- Type: 2
- Funding:
-  - NIH NIEHS grant ES013768
- Locations:
-  - The Pennsylvania State University, Pennsylvania, USA
--
- Reference: "Beard DA, Britten R, Cooling MT, Garny A, Halstead MDB, Hunter PJ, Lawson J, Lloyd CM, Marsh J, Miller A, Nickerson DP, Nielsen PMF, Nomura T, Subramanium S, Wimalaratne SM, Yu T (2009) CellML metadata standards, associated tools and repositories. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 367:1845–1867"
- Year: 2009
- URL: http://dx.doi.org/10.1098/rsta.2008.0310
- Keywords:
- Type: 3
- Funding:
- Locations:
-  - Rostock University, Rostock, Germany
-  - European Bioinformatics Institute, UK
-  - University of Washington, Seattle, USA
 -
  Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
  Year: 2016
