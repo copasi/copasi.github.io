@@ -20,6 +20,27 @@
   - University of Sheffield, Sheffield, UK
   - STFC Rutherford Apple Labs, Didcot, UK 
 -
+ Reference: "Gerber S, Fröhlich M, Lichtenberg-Fraté H, Shabala S, Shabala L, Klipp E (2016) A Thermodynamic Model of Monovalent Cation Homeostasis in the Yeast Saccharomyces cerevisiae. PLOS Computational Biology 12:e1004703"
+ Year: 2016
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1004703
+ Keywords:
+  - Metabolism
+  - Physiology
+ Type: 2
+ Funding:
+  - BMBF
+  - Swiss HP2C-initiative Swiss Platform for High-Performance and High-Productivity Computing
+  - German Research Council
+  - Australian Research Council
+ Methods:
+  - parameter estimation
+ Locations:
+  - Johannes Gutenberg-Universität Mainz, Mainz, Germany
+  - Humboldt-Universität zu Berlin, Berlin, Germany
+  - Babraham Institute, Cambridge, UK
+  - University of Bonn, Bonn, Germany
+  - University of Tasmania, Hobart, Australia
+-
  Reference: "Kilner J, Corfe BM, McAuley MT, Wilkinson SJ (2016) A deterministic oscillatory model of microtubule growth and shrinkage for differential actions of short chain fatty acids. Mol. BioSystems 12:93-101"
  Year: 2016
  URL: http://dx.doi.org/10.1039/C5MB00211G
@@ -34,6 +55,46 @@
  Locations:
   - University of Sheffield, Sheffield, UK
   - University of Chester, Chester, UK
+-
+ Reference: "Mizeranschi AE, Swain MT, Scona R, Fazilleau Q, Bosak B, Piontek T, Kopta P, Thompson P, Dubitzky W (2016) MultiGrain/MAPPER: A distributed multiscale computing approach to modeling and simulating gene regulation networks. Future Generation Computer Systems 63:1–14"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.future.2016.04.002
+ Keywords:
+  - Computational Method
+ Type: 3
+ Funding:
+  - EU FP7
+  - National Science Centre (NCN) in Poland
+ Locations:
+  - University of Ulster, Coleraine, UK
+  - Aberystwyth University, Aberystwyth, UK
+  - Poznań Supercomputing and Networking Center, Poznań, Poland
+-
+ Reference: "Walker MA, Madduri R, Rodriguez A, Greenstein JL, Winslow RL (2016) Models and Simulations as a Service: Exploring the Use of Galaxy for Delivering Computational Models. Biophysical Journal 110:1038–1043"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.bpj.2015.12.041
+ Keywords:
+  - Computational Methods
+ Type: 3
+ Funding:
+  - NIH
+ Locations:
+  - Johns Hopkins University, Baltimore,Maryland,USA
+  - University of Chicago, Chicago, Illinois, USA
+-
+ Reference: "Xu H, Diccianni JB, Katigbak J, Hu C, Zhang Y, Diao T (2016) Bimetallic C–C Bond-Forming Reductive Elimination from Nickel. Journal of the American Chemical Society 138:4779–4786"
+ Year: 2016
+ URL: http://dx.doi.org/10.1021/jacs.6b00016
+ Keywords:
+  - Chemistry
+ Methods:
+  - parameter estimation
+ Type: 2
+ Funding:
+  - NSF
+  - New York University
+ Locations:
+  - New York University, New York, USA
 -
  Reference: "Amemiya T, Honma M, Kariya Y, Ghosh S, Kitano H, Kurachi Y, Fujita K, Sasaki Y, Homma Y, Abernethy DR, Kume H, Suzuki H (2015) Elucidation of the molecular mechanisms underlying adverse reactions associated with a kinase inhibitor using systems toxicology. npj Systems Biology and Applications 1:15005"
  Year: 2015
@@ -3098,6 +3159,18 @@
   - Chemistry
  Type: 2
 -
+ Reference: "Johnson KRD, Hayes PG (2011) Kinetic and Mechanistic Investigation of Metallacycle Ring Opening in an Ortho-Metalated Lutetium Aryl Complex. Organometallics 30:58–67"
+ Year: 2011
+ URL: http://dx.doi.org/10.1021/om100814h
+ Keywords:
+  - Chemistry
+ Type: 2
+ Funding:
+  - NSERC
+  - Canada Foundation for Innovation
+ Locations:
+  - University of Lethbridge, Lethbridge, Alberta, Canada T1K 3M4
+-
  Reference: "Keitz BK, Grubbs RH (2011) Probing the origin of degenerate metathesis selectivity via characterization and dynamics of ruthenacyclobutanes containing variable NHCs. J. Am. Chem. Soc. 133:16277-16284"
  URL: http://dx.doi.org/10.1021/ja207252r
  Year: 2011
@@ -4041,19 +4114,6 @@
 ### 2017 / 01 / 18: updated references from marina 
 ###
 -
- Reference: "Mizeranschi AE, Swain MT, Scona R, Fazilleau Q, Bosak B, Piontek T, Kopta P, Thompson P, Dubitzky W (2016) MultiGrain/MAPPER: A distributed multiscale computing approach to modeling and simulating gene regulation networks. Future Generation Computer Systems 63:1–14"
- Year: 2016
- URL: http://dx.doi.org/10.1016/j.future.2016.04.002
- Keywords:
- Type: 3
- Funding:
-  - EU FP7
-  - National Science Centre (NCN) in Poland
- Locations:
-  - University of Ulster, Coleraine, UK
-  - Aberystwyth University, Aberystwyth, UK
-  - Poznań Supercomputing and Networking Center, Poznań, Poland
--
  Reference: "Seo D, Soeta T, Sakurai H, Sétif P, Sakurai T (2016) Pre-steady-state kinetic studies of redox reactions catalysed by Bacillus subtilis ferredoxin-NADP+ oxidoreductase with NADP+/NADPH and ferredoxin. Biochimica et Biophysica Acta (BBA) - Bioenergetics 1857:678–687"
  Year: 2016
  URL: http://dx.doi.org/10.1016/j.bbabio.2016.03.005
@@ -4069,18 +4129,6 @@
   - Kanazawa University, Kanazawa, Ishikawa 920-1192, Japan
   - Kanagawa University, Hiratsuka, Kanagawa 259-1293, Japan
   - CNRS/Université Paris-Sud/CEA, Gif sur Yvette, France
--
- Reference: "Walker MA, Madduri R, Rodriguez A, Greenstein JL, Winslow RL (2016) Models and Simulations as a Service: Exploring the Use of Galaxy for Delivering Computational Models. Biophysical Journal 110:1038–1043"
- Year: 2016
- URL: http://dx.doi.org/10.1016/j.bpj.2015.12.041
- Keywords:
- Type: 3
- Funding:
-  - by R24HL085343
- Locations:
-  - Johns Hopkins University, Baltimore,Maryland,USA
-  - University of Chicago, Chicago, Illinois, USA
-  - Johns Hopkins University, Baltimore, Maryland, USA
 -
  Reference: "Leber A, Abedi V, Hontecillas R, Viladomiu M, Hoops S, Ciupe S, Caughman J, Andrew T, Bassaganya-Riera J (2016) Bistability analyses of CD4+ T follicular helper and regulatory cells during Helicobacter pylori infection. Journal of Theoretical Biology 398:74–84"
  Year: 2016
@@ -4135,25 +4183,6 @@
   - EPSRC studentship (under grant EP/E036252/1)
  Locations:
   - University of Chester, CH2 4NU, UK
--
- Reference: "Johnson KRD, Hayes PG (2011) Kinetic and Mechanistic Investigation of Metallacycle Ring Opening in an Ortho-Metalated Lutetium Aryl Complex. Organometallics 30:58–67"
- Year: 2011
- URL: http://dx.doi.org/10.1021/om100814h
- Keywords:
- Type: 2
- Funding:
-  - the Natural Sciences and Engineering Research Council (NSERC) of Canada for a Discovery Grant and the Canada Foundation for Innovation for a Leaders Opportunity Grant
- Locations:
-  - University of Lethbridge, Lethbridge, Alberta, Canada T1K 3M4
--
- Reference: "Azuaje F (2011) Computational discrete models of tissue growth and regeneration. Briefings in Bioinformatics 12:64–77"
- Year: 2011
- URL: http://dx.doi.org/10.1093/bib/bbq017
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - Centre de Recherche Public-Sante, Luxembourg
 -
  Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
  Year: 2016
@@ -4223,26 +4252,3 @@
  Locations:
   - VTT Technical Research Centre of Finland, VTT, Espoo, Finland
   - Aalto University, Aalto, Espoo, Finland
--
- Reference: "Gerber S, Fröhlich M, Lichtenberg-Fraté H, Shabala S, Shabala L, Klipp E (2016) A Thermodynamic Model of Monovalent Cation Homeostasis in the Yeast Saccharomyces cerevisiae. PLOS Computational Biology 12:e1004703"
- Year: 2016
- URL: http://dx.doi.org/10.1371/journal.pcbi.1004703
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - Johannes Gutenberg-Universität Mainz, Mainz, Germany
-  - Humboldt-Universität zu Berlin, Berlin, Germany
-  - Babraham Institute, Cambridge, UK
-  - University of Bonn, Bonn, Germany
-  - University of Tasmania, Hobart, Australia
--
- Reference: "Xu H, Diccianni JB, Katigbak J, Hu C, Zhang Y, Diao T (2016) Bimetallic C–C Bond-Forming Reductive Elimination from Nickel. Journal of the American Chemical Society 138:4779–4786"
- Year: 2016
- URL: http://dx.doi.org/10.1021/jacs.6b00016
- Keywords:
- Type: 2
- Funding:
-  - National Science Foundation under award number DMR-1420073 and New York University
- Locations:
-  - New York University, New York, USA
