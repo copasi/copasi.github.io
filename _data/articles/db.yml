@@ -3238,6 +3238,23 @@
   - Radford University, Radford VA, USA
   - Virginia Tech, Blacksburg VA, USA
 -
+ Reference: "Fujita KA, Toyoshima Y, Uda S, Ozaki Y, Kubota H, Kuroda S (2010) Decoupling of Receptor and Downstream Signals in the Akt Pathway by Its Low-Pass Filter Characteristics. Science Signaling 3:ra56-ra56"
+ Year: 2010
+ URL: http://dx.doi.org/10.1126/scisignal.2000810
+ Keywords:
+  - Signaling
+ Methods:
+  - time course
+  - parameter estimation
+ Type: 2
+ Funding:
+  - Japan Science and Technology
+  - Ministry of Education, Culture, Sports, Science and Technology of Japan
+  - Uehara Memorial Foundation
+ Locations:
+  - University of Tokyo, Kashiwa, Chiba 277-8568, Japan
+  - University of Tokyo, Bunkyo-ku,Tokyo 113-0033, Japan
+-
  Reference: "Hallinan JS, Misirli G, Wipat A (2010) Evolutionary computation for the design of a stochastic switch for synthetic genetic circuits. IEEE, 768–774"
  Year: 2010
  URL: http://dx.doi.org/10.1109/iembs.2010.5626353
@@ -3405,6 +3422,20 @@
  Locations: 
   - University of Missouri—Saint Louis, St. Louis MO, USA
 -
+ Reference: "Hower V, Mendes P, Torti FM, Laubenbacher R, Akman S, Shulaev V, Torti SV (2009) A general map of iron metabolism and tissue-specific subnetworks. Molecular BioSystems 5:422"
+ Year: 2009
+ URL: http://dx.doi.org/10.1039/b816714c
+ Keywords:
+  - Metabolism
+ Type: 2
+ Funding:
+  - NIH
+  - EPSRC
+ Locations:
+  - Wake Forest University School of Medicine, Medical Center Blvd, Winston Salem, USA
+  - Virginia Bioinformatics Institute, Blacksburg, VA 24061, USA
+  - University of Manchester, Manchester, UK
+-
  Reference: "Ibrahim B, Schmitt E, Dittrich P, Diekmann S (2009) In silico study of kinetochore control, amplification, and inhibition effects in MCC assembly. Biosystems 95:35-50"
  URL: http://dx.doi.org/10.1016/j.biosystems.2008.06.007
  Year: 2009
@@ -3515,6 +3546,17 @@
   - Chemistry
  Type: 2
 -
+ Reference: "Sun Y-C (2009) Examination of effects of GSK3β phosphorylation, β-catenin phosphorylation, and β-catenin degradation on kinetics of Wnt signaling pathway using computational method. Theoretical Biology and Medical Modelling 6:13"
+ Year: 2009
+ URL: http://dx.doi.org/10.1186/1742-4682-6-13
+ Keywords:
+  - Signaling
+ Type: 2
+ Funding:
+  - National Taiwan Normal University
+ Locations:
+  - National Taiwan Normal University, Taipei 116, Taiwan
+-
  Reference: "Colvin RA, Bush AI, Volitakis I, Fontaine CP, Thomas D, Kikuchi K, Holmes WR (2008) Insights into Zn2+ homeostasis in neurons from experimental and modeling studies. Am. J. Physiol. 294:C726-C742"
  Year: 2008
  URL: http://dx.doi.org/10.1152/ajpcell.00541.2007 
@@ -3561,6 +3603,29 @@
   - Synthetic Biology
  Locations: 
   - Technical University Munich, Garching, Germany
+-
+ Reference: "Kühnel M, Mayorga LS, Dandekar T, Thakar J, Schwarz R, Anes E, Griffiths G, Reich J (2008) Modelling phagosomal lipid networks that regulate actin assembly. BMC Systems Biology 2:107"
+ Year: 2008
+ URL: http://dx.doi.org/10.1186/1752-0509-2-107
+ Keywords:
+  - Metabolism
+  - Macromolecular Biochemistry
+ Type: 2
+ Funding:
+  - DFG 
+  - BMBF 
+  - Irvington Institute CRI Fellowship program 
+  - FCT 
+  - Alexander von Humboldt Foundation
+  - CONICET
+ Locations:
+  - EMBL, Heidelberg, Germany
+  - Universidad Nacional de Cuyo, Mendoza, Argentina
+  - Biozentrum, Würzburg, Germany
+  - Pennsylvania State University, State College PA 16802, USA
+  - Institut für Hygiene und Mikrobiologie, Würzburg, Germany
+  - University of Lisbon, Lisbon, Portugal
+  - Max Delbrück Center, Berlin, Germany
 -
  Reference: "Marchisio MA, Stelling J (2008) Computational design of synthetic gene circuits with composable parts. Bioinformatics 24:1903-10."
  Year: 2008
@@ -3680,6 +3745,8 @@
   - Metabolism
  Type: 2
  Locations:
+  - Stellenbosch University, Matieland, South Africa
+  - South African Sugarcane Research Institute, Mount Edgecombe, South Africa
   - Coordinates: -33.9328033,18.8622583
   - Coordinates: -29.7421453,31.0328613
  Funding:
@@ -3687,43 +3754,6 @@
 ###
 ### 2017 / 01 / 18: updated references from marina 
 ###
--
- Reference: "Sun Y-C (2009) Examination of effects of GSK3β phosphorylation, β-catenin phosphorylation, and β-catenin degradation on kinetics of Wnt signaling pathway using computational method. Theoretical Biology and Medical Modelling 6:13"
- Year: 2009
- URL: http://dx.doi.org/10.1186/1742-4682-6-13
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - National Taiwan Normal University, Taipei 116, Taiwan
--
- Reference: "Kühnel M, Mayorga LS, Dandekar T, Thakar J, Schwarz R, Anes E, Griffiths G, Reich J (2008) Modelling phagosomal lipid networks that regulate actin assembly. BMC Systems Biology 2:107"
- Year: 2008
- URL: http://dx.doi.org/10.1186/1752-0509-2-107
- Keywords:
- Type: 2
- Funding:
-  - by DFG (Da 208/7-2; TR34), BMBF (Hepatosys, TD and JR; PathogenomikPlus, RS), the Irvington Institute CRI Fellowship pro- gram (JT), FCT with co-participation of FEDER, grant POCI and PPCDT/ BIA-BCM/55327/2004 (EA), the Alexander von Humboldt Foundation (sab- batical visit of LSM to EMBL), and CONICET (LSM)
- Locations:
-  - EMBL, Heidelberg, Germany
-  - Universidad Nacional de Cuyo, Mendoza, Argentina
-  - Biozentrum, Würzburg, Germany
-  - Pennsylvania State University, State College PA 16802, USA
-  - Institut für Hygiene und Mikrobiologie, Würzburg, Germany
-  - University of Lisbon, Lisbon, Portugal
-  - Max Delbrück Center, Berlin, Germany
-  - Pennsylvania State University, PA 16802, USA
--
- Reference: "Fujita KA, Toyoshima Y, Uda S, Ozaki Y -i., Kubota H, Kuroda S (2010) Decoupling of Receptor and Downstream Signals in the Akt Pathway by Its Low-Pass Filter Characteristics. Science Signaling 3:ra56-ra56"
- Year: 2010
- URL: http://dx.doi.org/10.1126/scisignal.2000810
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - University of Tokyo, Kashiwa, Chiba 277-8568, Japan
-  - University of Tokyo, Tokyo, Japan
-  - University of Tokyo, Bunkyo-ku,Tokyo 113-0033, Japan
 -
  Reference: "Mizeranschi AE, Swain MT, Scona R, Fazilleau Q, Bosak B, Piontek T, Kopta P, Thompson P, Dubitzky W (2016) MultiGrain/MAPPER: A distributed multiscale computing approach to modeling and simulating gene regulation networks. Future Generation Computer Systems 63:1–14"
  Year: 2016
@@ -3775,28 +3805,6 @@
  Locations:
   - Biocomplexity Institute of Virginia Tech, Blacksburg, VA, USA
   - Virginia Tech, Blacksburg, VA, USA
--
- Reference: "Uys L, Botha FC, Hofmeyr J-HS, Rohwer JM (2007) Kinetic model of sucrose accumulation in maturing sugarcane culm tissue. Phytochemistry 68:2375–2392"
- Year: 2007
- URL: http://dx.doi.org/10.1016/j.phytochem.2007.04.023
- Keywords:
- Type: 2
- Funding:
- Locations:
-  - Stellenbosch University, Matieland, South Africa
-  - South African Sugarcane Research Institute, Mount Edgecombe, South Africa
--
- Reference: "Hower V, Mendes P, Torti FM, Laubenbacher R, Akman S, Shulaev V, Torti SV (2009) A general map of iron metabolism and tissue-specific subnetworks. Molecular BioSystems 5:422"
- Year: 2009
- URL: http://dx.doi.org/10.1039/b816714c
- Keywords:
- Type: 2
- Funding:
-  - grants T32 CA079448 (V.H.), R37 DK042412 (F.M.T.), R01CA120170 (V.S), and R01 GM080219 (P. M.)., financial support from the EPSRC (UK)
- Locations:
-  - Wake Forest University School of Medicine, Medical Center Blvd, Winston Salem, USA
-  - Virginia Bioinformatics Institute, Blacksburg, VA 24061, USA
-  - University of Manchester, Manchester, UK
 -
  Reference: "Dada JO, Spasic I, Paton NW, Mendes P (2010) SBRML: a markup language for associating systems biology data with models. Bioinformatics 26:932–938"
  Year: 2010
