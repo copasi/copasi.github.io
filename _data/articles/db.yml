@@ -3642,3 +3642,685 @@
   - Coordinates: -29.7421453,31.0328613
  Funding:
   - National Bioinformatics Network (South Africa)
+###
+### 2017 / 01 / 18: updated references from marina 
+###
+
+-
+ Reference: "Hallinan JS, Misirli G, Wipat A (2010) Evolutionary computation for the design of a stochastic switch for synthetic genetic circuits. IEEE, 768–774"
+ Year: 2010
+ URL: http://dx.doi.org/10.1109/iembs.2010.5626353
+ Keywords:
+ Type: 2
+ Funding:
+  - This work was supported in part by School of Computing Science, Newcastle University, Newcastle upon Tyne
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, UK
+  - Newcastle University, Newcastle, UK
+-
+ Reference: "Schulz M, Bakker BM, Klipp E (2009) TIde: a software for the systematic scanning of drug targets in kinetic network models. BMC Bioinformatics 10:344"
+ Year: 2009
+ URL: http://dx.doi.org/10.1186/1471-2105-10-344
+ Keywords:
+ Type: 3
+ Funding:
+  - the International Max Planck Research School for Computational Biology and Scientific Comput- ing, the German Research Foundation (CRC 618), and the Marie Curie EST project "Systems Biology" (MEST-CT-2004-514169) by the EU and UNICELLSYS (HEALTH-2007-201142)
+ Locations:
+  - Humboldt Universität zu Berlin, Berlin, Germany
+  - University of Groningen, Groningen, the Netherlands
+  - Vrije Universiteit Amsterdam, Amsterdam, the Netherlands
+  - University of Groningen, Groningen, NL
+  - Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
+-
+ Reference: "Menolascina F, Bellomo D, Maiwald T, Bevilacqua V, Ciminelli C, Paradiso A, Tommasi S (2009) Developing optimal input design strategies in cancer systems biology with applications to microfluidic device engineering. BMC Bioinformatics 10:S4"
+ Year: 2009
+ URL: http://dx.doi.org/10.1186/1471-2105-10-s12-s4
+ Keywords:
+ Type: 3
+ Funding:
+  - by progetto finalizzato ACC, ‘Rete Nazionale di Bioinformatica Oncologica’ 2007
+ Locations:
+  - Delft University of Technology, Delft, the Netherlands
+  - Delft University of Technology, Delft, The Netherlands
+-
+ Reference: "Menolascina F, Bellomo D, Maiwald T, Bevilacqua V, Ciminelli C, Paradiso A, Tommasi S (2009) Developing optimal input design strategies in cancer systems biology with applications to microfluidic device engineering. BMC Bioinformatics 10:S4"
+ Year: 2009
+ URL: http://dx.doi.org/10.1186/1471-2105-10-s12-s4
+ Keywords:
+ Type: 3
+ Funding:
+  - by progetto finalizzato ACC, ‘Rete Nazionale di Bioinformatica Oncologica’ 2007
+ Locations:
+  - Harvard Medical School, Boston, MA 02115, USA
+-
+ Reference: "Menolascina F, Bellomo D, Maiwald T, Bevilacqua V, Ciminelli C, Paradiso A, Tommasi S (2009) Developing optimal input design strategies in cancer systems biology with applications to microfluidic device engineering. BMC Bioinformatics 10:S4"
+ Year: 2009
+ URL: http://dx.doi.org/10.1186/1471-2105-10-s12-s4
+ Keywords:
+ Type: 3
+ Funding:
+  - by progetto finalizzato ACC, ‘Rete Nazionale di Bioinformatica Oncologica’ 2007
+ Locations:
+  - Kluyver Centre for Genomics of Industrial Fermentation, Delft, The Netherlands
+-
+ Reference: "Cardiff University"
+ Year: 2003
+ URL: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-582
+ Keywords:
+ Type: 3
+ Funding:
+  - the Biotechnological and Biological Sciences Research Council, and the Engineering and Physical Sciences Research Council
+ Locations:
+  - Cardiff University, Cardiff, UK
+-
+ Reference: "Virginia Tech"
+ Year: 2003
+ URL: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-582
+ Keywords:
+ Type: 3
+ Funding:
+  - the Biotechnological and Biological Sciences Research Council, and the Engineering and Physical Sciences Research Council
+ Locations:
+  - Virginia Tech, Blacksburg, VA 24061, USA
+  - Virginia Tech, Blacksburg, VA 24061, U.S.A
+-
+ Reference: "Sun Y-C (2009) Examination of effects of GSK3β phosphorylation, β-catenin phosphorylation, and β-catenin degradation on kinetics of Wnt signaling pathway using computational method. Theoretical Biology and Medical Modelling 6:13"
+ Year: 2009
+ URL: http://dx.doi.org/10.1186/1742-4682-6-13
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - National Taiwan Normal University, Taipei 116, Taiwan
+-
+ Reference: "Kühnel M, Mayorga LS, Dandekar T, Thakar J, Schwarz R, Anes E, Griffiths G, Reich J (2008) Modelling phagosomal lipid networks that regulate actin assembly. BMC Systems Biology 2:107"
+ Year: 2008
+ URL: http://dx.doi.org/10.1186/1752-0509-2-107
+ Keywords:
+ Type: 2
+ Funding:
+  - by DFG (Da 208/7-2; TR34), BMBF (Hepatosys, TD and JR; PathogenomikPlus, RS), the Irvington Institute CRI Fellowship pro- gram (JT), FCT with co-participation of FEDER, grant POCI and PPCDT/ BIA-BCM/55327/2004 (EA), the Alexander von Humboldt Foundation (sab- batical visit of LSM to EMBL), and CONICET (LSM)
+ Locations:
+  - EMBL, Heidelberg, Germany
+  - Universidad Nacional de Cuyo, Mendoza, Argentina
+  - Biozentrum, Würzburg, Germany
+  - Pennsylvania State University, State College PA 16802, USA
+  - Institut für Hygiene und Mikrobiologie, Würzburg, Germany
+  - University of Lisbon, Lisbon, Portugal
+  - Max Delbrück Center, Berlin, Germany
+  - Pennsylvania State University, PA 16802, USA
+-
+ Reference: "Fujita KA, Toyoshima Y, Uda S, Ozaki Y -i., Kubota H, Kuroda S (2010) Decoupling of Receptor and Downstream Signals in the Akt Pathway by Its Low-Pass Filter Characteristics. Science Signaling 3:ra56-ra56"
+ Year: 2010
+ URL: http://dx.doi.org/10.1126/scisignal.2000810
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - University of Tokyo, Kashiwa, Chiba 277-8568, Japan
+  - University of Tokyo, Tokyo, Japan
+  - University of Tokyo, Bunkyo-ku,Tokyo 113-0033, Japan
+-
+ Reference: "Mizeranschi AE, Swain MT, Scona R, Fazilleau Q, Bosak B, Piontek T, Kopta P, Thompson P, Dubitzky W (2016) MultiGrain/MAPPER: A distributed multiscale computing approach to modeling and simulating gene regulation networks. Future Generation Computer Systems 63:1–14"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.future.2016.04.002
+ Keywords:
+ Type: 3
+ Funding:
+  - the MAPPER EU-FP7 project (Grant No. RI-261507) and was supported in part by PL- Grid infrastructure. This work was also supported by the National Science Centre (NCN) in Poland under the MAESTRO Grant No. DEC-2013/08/A/ST6/00296
+ Locations:
+  - University of Ulster, Coleraine, UK
+  - Aberystwyth University, Aberystwyth, UK
+  - Poznań Supercomputing and Networking Center, Poznań, Poland
+-
+ Reference: "Seo D, Soeta T, Sakurai H, Sétif P, Sakurai T (2016) Pre-steady-state kinetic studies of redox reactions catalysed by Bacillus subtilis ferredoxin-NADP+ oxidoreductase with NADP+/NADPH and ferredoxin. Biochimica et Biophysica Acta (BBA) - Bioenergetics 1857:678–687"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.bbabio.2016.03.005
+ Keywords:
+ Type: 2
+ Funding:
+  - the Japanese Ministry of Education, Culture, Sports, Science and Technology
+ Locations:
+  - Kanazawa University, Ishikawa 920-1192, Japan
+  - Kanagawa University, Kanagawa 259-1293, Japan
+  - CEA, iBiTecS, Gif sur Yvette, France
+  - CNRS/Université Paris-Sud/CEA, I2BC, Gif sur Yvette, France
+  - Kanazawa University, Kanazawa, Ishikawa 920-1192, Japan
+  - Kanagawa University, Hiratsuka, Kanagawa 259-1293, Japan
+  - CNRS/Université Paris-Sud/CEA, Gif sur Yvette, France
+-
+ Reference: "Walker MA, Madduri R, Rodriguez A, Greenstein JL, Winslow RL (2016) Models and Simulations as a Service: Exploring the Use of Galaxy for Delivering Computational Models. Biophysical Journal 110:1038–1043"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.bpj.2015.12.041
+ Keywords:
+ Type: 3
+ Funding:
+  - by R24HL085343
+ Locations:
+  - Johns Hopkins University, Baltimore,Maryland,USA
+  - University of Chicago, Chicago, Illinois, USA
+  - Johns Hopkins University, Baltimore, Maryland, USA
+-
+ Reference: "Leber A, Abedi V, Hontecillas R, Viladomiu M, Hoops S, Ciupe S, Caughman J, Andrew T, Bassaganya-Riera J (2016) Bistability analyses of CD4+ T follicular helper and regulatory cells during Helicobacter pylori infection. Journal of Theoretical Biology 398:74–84"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.jtbi.2016.02.036
+ Keywords:
+ Type: 2
+ Funding:
+  - was supported in part by National Institute of Allergy and Infectious Diseases Contract no. HHSN272201000056C to JB-R and funds from the Nutritional Immunology and Molecular Medicine Laboratory (〈www.nimml. org〉)
+ Locations:
+  - Biocomplexity Institute of Virginia Tech, Blacksburg, VA, USA
+  - Virginia Tech, Blacksburg, VA, USA
+-
+ Reference: "Uys L, Botha FC, Hofmeyr J-HS, Rohwer JM (2007) Kinetic model of sucrose accumulation in maturing sugarcane culm tissue. Phytochemistry 68:2375–2392"
+ Year: 2007
+ URL: http://dx.doi.org/10.1016/j.phytochem.2007.04.023
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - Stellenbosch University, Matieland, South Africa
+  - South African Sugarcane Research Institute, Mount Edgecombe, South Africa
+-
+ Reference: "Hower V, Mendes P, Torti FM, Laubenbacher R, Akman S, Shulaev V, Torti SV (2009) A general map of iron metabolism and tissue-specific subnetworks. Molecular BioSystems 5:422"
+ Year: 2009
+ URL: http://dx.doi.org/10.1039/b816714c
+ Keywords:
+ Type: 2
+ Funding:
+  - grants T32 CA079448 (V.H.), R37 DK042412 (F.M.T.), R01CA120170 (V.S), and R01 GM080219 (P. M.)., financial support from the EPSRC (UK)
+ Locations:
+  - Wake Forest University School of Medicine, Medical Center Blvd, Winston Salem, USA
+  - Virginia Bioinformatics Institute, Blacksburg, VA 24061, USA
+  - University of Manchester, Manchester, UK
+-
+ Reference: "Dada JO, Spasic I, Paton NW, Mendes P (2010) SBRML: a markup language for associating systems biology data with models. Bioinformatics 26:932–938"
+ Year: 2010
+ URL: http://dx.doi.org/10.1093/bioinformatics/btq069
+ Keywords:
+ Type: 3
+ Funding:
+  - "Funding: Biotechnology and Biological Sciences Research Council and Engineering and Physical Sciences Research Council (grant BB/C008129/2, a contribution from The Manchester Centre for Integrative Systems Biology)"
+ Locations:
+  - University of Manchester, Manchester M1 7DN, UK
+  - University of Manchester, Manchester M13 9PL, UK
+  - Virginia Tech, Blacksburg, VA 24061, USA
+-
+ Reference: "Wendelsdorf K, Bassaganya-Riera J, Hontecillas R, Eubank S (2010) Model of colonic inflammation: Immune modulatory mechanisms in inflammatory bowel disease. Journal of Theoretical Biology 264:1225–1239"
+ Year: 2010
+ URL: http://dx.doi.org/10.1016/j.jtbi.2010.03.027
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - Virginia Polytechnic Institute and University, Blacksburg, VA 24061, USA
+-
+ Reference: "Orton RJ, Adriaens ME, Gormand A, Sturm OE, Kolch W, Gilbert DR (2009) Computational modelling of cancerous mutations in the EGFR/ERK signalling pathway. BMC Systems Biology 3:100"
+ Year: 2009
+ URL: http://dx.doi.org/10.1186/1752-0509-3-100
+ Keywords:
+ Type: 2
+ Funding:
+  - by the Department of Trade and Industry (DTI), under their Bioscience Beacon project programme. AG was funded by an industrial PhD studentship from Scottish Enterprise and Cyclacel
+ Locations:
+  - University of Glasgow, Glasgow, G61 1QH, UK
+  - Maastricht University, Maastricht, The Netherlands
+  - Lund University, Lund, Sweden
+  - St Jude Children's Research Hospital, Memphis, Tennessee, TN 38105, USA
+  - Garscube Estate, Glasgow, G61 IBD, UK
+  - Brunel University, Uxbridge, Middlesex, UB8 3PH, UK
+-
+ Reference: "Liu J, Mehdi S, Topping J, Tarkowski P, Lindsey K (2010) Modelling and experimental analysis of hormonal crosstalk in Arabidopsis. Molecular Systems Biology 6"
+ Year: 2010
+ URL: http://dx.doi.org/10.1038/msb.2010.26
+ Keywords:
+ Type: 2
+ Funding:
+  - Research Councils UK and the Biotechnology and Biological Sciences Research Council for funding in support of this study
+ Locations:
+  - Swedish University of Agricultural Science, Umea, Sweden
+  - Durham University, Durham DH1 3LE, UK
+-
+ Reference: "Andreani A, Burnelli S, Granaiola M, Leoni A, Locatelli A, Morigi R, Rambaldi M, Varoli L, Cremonini MA, Placucci G (2010) New isatin derivatives with antioxidant activity. European Journal of Medicinal Chemistry 45:1374–1378"
+ Year: 2010
+ URL: http://dx.doi.org/10.1016/j.ejmech.2009.12.035
+ Keywords:
+ Type: 2
+ Funding:
+  - University of Bologna for financial support
+ Locations:
+  - Universita di Bologna, Bologna, Italy
+  - Universita di Bologna, Cesena, Italy
+-
+ Reference: "Wilkinson SJ, Benson N, Kell DB (2008) Proximate parameter tuning for biochemical networks with uncertain kinetic parameters. Mol. BioSyst. 4:74–97"
+ Year: 2008
+ URL: http://dx.doi.org/10.1039/b707506e
+ Keywords:
+ Type: 2
+ Funding:
+  - We thank Pfizer Ltd and the BBSRC for financial support
+ Locations:
+  - Pfizer Central Research, Sandwich, Kent, UK
+-
+ Reference: "Ricagno S, Caccia S, Sorrentino G, Antonini G, Bolognesi M (2009) Human Neuroserpin: Structure and Time-Dependent Inhibition. Journal of Molecular Biology 388:109–121"
+ Year: 2009
+ URL: http://dx.doi.org/10.1016/j.jmb.2009.02.056
+ Keywords:
+ Type: 2
+ Funding:
+  - grants from the Cariplo Foundation (GUARD Project, 2006–2009) and the Italian Ministry of University and Research (Italy; FIRB Project “Biologia Strutturale”)
+ Locations:
+  - University of Milano, Milan, Italy
+  - University of Rome, Rome, Italy
+  - University of Milano, Segrate (MI), Italy
+-
+ Reference: "Gizzatkulov NM, Goryanin II, Metelkin EA, Mogilevskaya EA, Peskov KV, Demin OV (2010) DBSolve Optimum: a software package for kinetic modeling which allows dynamic visualization of simulation results. BMC Systems Biology 4:109"
+ Year: 2010
+ URL: http://dx.doi.org/10.1186/1752-0509-4-109
+ Keywords:
+ Type: 3
+ Funding:
+  - the Russian Foundation for Basic Research (grant no. 09-01-12097) and European Union and Institute for Systems Biology SP
+ Locations:
+  - Institute for Systems Biology SPb, Sankt-Peterburgh, Russia
+  - Belozersky Institute of Physico-Chemical Biology of Moscow State University, Moscow, Russia
+-
+ Reference: "Vrije Universiteit, de Boelelaan"
+ Year: 2003
+ URL: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-582
+ Keywords:
+ Type: 3
+ Funding:
+  - the Biotechnological and Biological Sciences Research Council, and the Engineering and Physical Sciences Research Council
+ Locations:
+  - Vrije Universiteit, de Boelelaan, Amsterdam, The Netherlands
+-
+ Reference: "Virginia Polytechnic Institute and State University"
+ Year: 2009
+ URL: http://dx.doi.org/10.1016/s0076-6879(09)67022-1
+ Keywords:
+ Type: 3
+ Funding:
+  - the National Institute for General Medical Sciences, the BBSRC and EPSRC
+ Locations:
+  - Virginia Polytechnic Institute and State University, Blacksburg, VA 24061, USA
+  - Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA
+-
+ Reference: "Troncoso-Ponce MA, Kruger NJ, Ratcliffe G, Garcés R, Martínez-Force E (2009) Characterization of glycolytic initial metabolites and enzyme activities in developing sunflower (Helianthus annuus L.) seeds. Phytochemistry 70:1117–1122"
+ Year: 2009
+ URL: http://dx.doi.org/10.1016/j.phytochem.2009.07.012
+ Keywords:
+ Type: 2
+ Funding:
+  - MEC and FEDER project AGL2005- 00100
+ Locations:
+  - CISC, Seville, Spain
+  - University of Oxford, Oxford, UK
+-
+ Reference: "Long J, Roth M (2008) Synthetic microarray data generation with RANGE and NEMO. Bioinformatics 24:132–134"
+ Year: 2008
+ URL: http://dx.doi.org/10.1093/bioinformatics/btm529
+ Keywords:
+ Type: 3
+ Funding:
+  - the National Center for Research Resources (NCRR)
+ Locations:
+  - University of Alaska Fairbanks, Fairbanks, Alaska, USA
+-
+ Reference: "Ciocchetta F, Hillston J, Kos M, Tollervey D (2008) Modelling co-transcriptional cleavage in the synthesis of yeast pre-rRNA. Theoretical Computer Science 408:41–54"
+ Year: 2008
+ URL: http://dx.doi.org/10.1016/j.tcs.2008.07.012
+ Keywords:
+ Type: 2
+ Funding:
+  - the EPSRC under the CODA project ‘‘Process Algebra Approaches for Collective Dynamics’’ (EP/c54370x/01 and ARF EP/c543696/01), European Commission (LSHG- CT-2005-518280) and The Wellcome Trust
+ Locations:
+  - University of Edinburgh, Edinburgh, Scotland, UK
+  - CSBE, Edinburgh, Scotland, UK
+-
+ Reference: "Liu J, Brazier-Hicks M, Edwards R (2009) A kinetic model for the metabolism of the herbicide safener fenclorim in Arabidopsis thaliana. Biophysical Chemistry 143:85–94"
+ Year: 2009
+ URL: http://dx.doi.org/10.1016/j.bpc.2009.04.006
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - Durham University, Durham DH1 3LE, UK
+-
+ Reference: "Özkar S, Finke RG (2016) Palladium(0) Nanoparticle Formation, Stabilization, and Mechanistic Studies: Pd(acac) 2 as a Preferred Precursor, [Bu 4 N] 2 HPO 4 Stabilizer, plus the Stoichiometry, Kinetics, and Minimal, Four-Step Mechanism of the Palladium Nanoparticle Formation and Subsequent Agglomeration Reactions. Langmuir 32:3699–3716"
+ Year: 2016
+ URL: http://dx.doi.org/10.1021/acs.langmuir.6b00013
+ Keywords:
+ Type: 2
+ Funding:
+  - the Department of Energy, Office of Basic Energy Sciences, via DOE Grants FG06-089ER13998 and then FG02-03ER15453, the Fulbright Foundation via a Scholar- ship to S.Ö ., and, partially, by the Turkish Academy of Sciences
+ Locations:
+  - Colorado State University, Colorado, USA
+  - Middle East Technical University, Ankara, Turkey
+-
+ Reference: "Laviska DA, Zhou T, Kumar A, Emge TJ, Krogh-Jespersen K, Goldman AS (2016) Single and Double C–H Activation of Biphenyl or Phenanthrene. An Example of C–H Addition to Ir(III) More Facile than Addition to Ir(I). Organometallics 35:1613–1623"
+ Year: 2016
+ URL: http://dx.doi.org/10.1021/acs.organomet.6b00055
+ Keywords:
+ Type: 2
+ Funding:
+  - the National Science Foundation for support of this work through Grant CHE No. 1465203
+ Locations:
+  - The State University of New Jersey, New Brunswick, New Jersey 08903, United States
+  - Indian Institute of Technology Guwahati, Guwahati 781039, Assam, India
+-
+ Reference: "Tyc KM, Herwald SE, Hogan JA, Pierce JV, Klipp E, Kumamoto CA (2016) The game theory of Candida albicans colonization dynamics reveals host status-responsive gene expression. BMC Systems Biology 10"
+ Year: 2016
+ URL: http://dx.doi.org/10.1186/s12918-016-0268-1
+ Keywords:
+ Type: 2
+ Funding:
+  - grants R01AI081794 and R01AI081794-02S1 from the National Institutes of Health to C.A.K. and by the European Commis- sion through the European Marie Curie Initial Training Network, FINSysB (PITN-GA-2008–214004), T32AI07422, the European Commission through the European Marie Curie Initial Training Network, FINSysB (PITN-GA-2008-214004)
+ Locations:
+  - Humboldt Universität zu Berlin, Berlin, Germany
+  - Tufts University, Boston, MA 02111, USA
+-
+ Reference: "Kilner J, Corfe BM, McAuley MT, Wilkinson SJ (2016) A deterministic oscillatory model of microtubule growth and shrinkage for differential actions of short chain fatty acids. Mol. BioSyst. 12:93–101"
+ Year: 2016
+ URL: http://dx.doi.org/10.1039/c5mb00211g
+ Keywords:
+ Type: 2
+ Funding:
+  - EPSRC studentship (under grant EP/E036252/1)
+ Locations:
+  - University of Chester, CH2 4NU, UK
+-
+ Reference: "Colvin RA, Bush AI, Volitakis I, Fontaine CP, Thomas D, Kikuchi K, Holmes WR (2008) Insights into Zn2+ homeostasis in neurons from experimental and modeling studies. AJP: Cell Physiology 294:C726–C742"
+ Year: 2008
+ URL: http://dx.doi.org/10.1152/ajpcell.00541.2007
+ Keywords:
+ Type: 2
+ Funding:
+  - the Interdisciplinary Graduate Program in Molecular and Cellular Biology, Ohio University, and National Institute on Aging Grant AG20536
+ Locations:
+  - Ohio University, Athens,Ohio, USA
+  - Osaka University, Osaka, Japan
+  - The University of Melbourne, Parkville, Victoria, Australia
+-
+ Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. Journal of the American Chemical Society 133:14566–14569"
+ Year: 2011
+ URL: http://dx.doi.org/10.1021/ja206575j
+ Keywords:
+ Type: 2
+ Funding:
+  - the NIH (RC1-GM091161) and East- man Chemical (summer fellowship to T.D.) And the NSF (CHE- 0946901)
+ Locations:
+  - University of Wisconsin, Madison, Wisconsin 53706, United States
+-
+ Reference: "Correction for Szotek et al., Normal ovarian surface epithelial label-retaining cells exhibit stem/progenitor cell characteristics (2008). Proceedings of the National Academy of Sciences 105:19024–19024"
+ Year: 2008
+ URL: http://dx.doi.org/10.1073/pnas.0809025105
+ Keywords:
+ Type: 2
+ Funding:
+  - International Short Visit Fellowship from the Royal Society
+ Locations:
+  - European Molecular Biology Laboratory–European Bioinformatics Institute, Hinxton CB10 1SD, United Kingdom
+-
+ Reference: "Cai Y, Lux MW, Adam L, Peccoud J (2009) Modeling Structure-Function Relationships in Synthetic DNA Sequences using Attribute Grammars. PLoS Computational Biology 5:e1000529"
+ Year: 2009
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1000529
+ Keywords:
+ Type: 2
+ Funding:
+  - the Virginia Bioinformatics Institute and by the National Science Foundation under grant EF-0850100 And by fellowships from the Virginia Tech Genetics, Bioinformatics, and Computational Biology graduate program
+ Locations:
+  - Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA
+-
+ Reference: "Sahle S, Mendes P, Hoops S, Kummer U (2008) A new strategy for assessing sensitivities in biochemical models. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 366:3619–3631"
+ Year: 2008
+ URL: http://dx.doi.org/10.1098/rsta.2008.0108
+ Keywords:
+ Type: 3
+ Funding:
+  - the NIGMS (grant GM080219), the Klaus Tschira Foundation, the BMBF and the EPSRC
+ Locations:
+  - Institute for Zoology/BIOQUANT, Heidelberg, Germany
+  - University of Manchester, Manchester M13 9PL, UK
+  - Virginia Tech, Blacksburg, VA 24061, USA
+-
+ Reference: "Blaquiere N, Shore DG, Rousseaux S, Fagnou K (2009) Decarboxylative Ketone Aldol Reactions: Development and Mechanistic Evaluation under Metal-Free Conditions. The Journal of Organic Chemistry 74:6190–6198"
+ Year: 2009
+ URL: http://dx.doi.org/10.1021/jo901022j
+ Keywords:
+ Type: 2
+ Funding:
+  - NSERC and the University of Ottawa for support of this work. The Research Corpora- tion, Boehringer Ingelheim (Laval), Merck Frosst Canada, Merck Inc., Eli Lilly, Amgen, and Astra Zeneca Montreal
+ Locations:
+  - University of Ottawa, Ottawa, Ontario, K1N 6N5, Canada
+-
+ Reference: "Zhang Y, Song D, Lanni LM, Shimizu KD (2010) Importance of Functional Monomer Dimerization in the Molecular Imprinting Process. Macromolecules 43:6284–6294"
+ Year: 2010
+ URL: http://dx.doi.org/10.1021/ma101013c
+ Keywords:
+ Type: 2
+ Funding:
+  - the National Science Foundation (0828897)
+ Locations:
+  - University of South Carolina, Columbia, South Carolina 29208, USA
+-
+ Reference: "Sun T, Adra S, Smallwood R, Holcombe M, MacNeil S (2009) Exploring Hypotheses of the Actions of TGF-β1 in Epidermal Wound Healing Using a 3D Computational Multiscale Model of the Human Epidermis. PLoS ONE 4:e8515"
+ Year: 2009
+ URL: http://dx.doi.org/10.1371/journal.pone.0008515
+ Keywords:
+ Type: 2
+ Funding:
+  - "the Engineering and Physical Sciences Research Council (EPSRC) through two grants: one to the University of Sheffield (GR/S62321/01), and the other to the University of York (GR/S62338/01)"
+ Locations:
+  - University of Glasgow, Glasgow, G61 1QH, UK
+  - University of Sheffield, Sheffield, UK
+-
+ Reference: "Kovács K, Hurst LD, Papp B (2009) Stochasticity in Protein Levels Drives Colinearity of Gene Order in Metabolic Operons of Escherichia coli. PLoS Biology 7:e1000115"
+ Year: 2009
+ URL: http://dx.doi.org/10.1371/journal.pbio.1000115
+ Keywords:
+ Type: 2
+ Funding:
+  - the International Human Frontier Science Program; Hungarian Scientific Research Fund; Bolyai Fellowship of the Hungarian Academy of Sciences; Royal Society Wolfson Research Merit Award; and the Dr. Rollin D. Hotchkiss Foundation
+ Locations:
+  - Biological Research Center, Szeged, Hungary
+  - University of Bath, Bath, UK
+-
+ Reference: "Tiwari A, Balázsi G, Gennaro ML, Igoshin OA (2010) The interplay of multiple feedback loops with post-translational kinetics results in bistability of mycobacterial stress response. Physical Biology 7:36005"
+ Year: 2010
+ URL: http://dx.doi.org/10.1088/1478-3975/7/3/036005
+ Keywords:
+ Type: 2
+ Funding:
+  - the National Science Foundation and Grant Number RO1 GM096189-01 from the National Institutes of Health NIGMS to OAI, the European Commission’s Seventh Framework Programme for Research (FP7) and National Institutes of Health Director’s New Innovator Award Program (Grant1-DP2-OD006481-01)
+ Locations:
+  - Rice University, Houston, TX 77005, USA
+  - The University of Texas MD Anderson Cancer Center, Houston, TX 77005, USA
+  - New Jersey Medical School, Newark, NJ 07103, USA
+-
+ Reference: "Morrissey ER, Juarez MA, Denby KJ, Burroughs NJ (2010) On reverse engineering of gene interaction networks using time course data with repeated measurements. Bioinformatics 26:2305–2312"
+ Year: 2010
+ URL: http://dx.doi.org/10.1093/bioinformatics/btq421
+ Keywords:
+ Type: 3
+ Funding:
+  - Warwick Systems Biology Doctoral Training Centre (to E.R.M.); BBSRC grant BB/F003498/1 (to M.A.J.), the PRESTA Project, grant number BB/F005806/1
+ Locations:
+  - University of Warwick, Coventry CV4 7AL, UK
+-
+ Reference: "Chi CN, Bach A, Gottschalk M, Kristensen AS, Stromgaard K, Jemth P (2010) Deciphering the Kinetic Binding Mechanism of Dimeric Ligands Using a Potent Plasma-stable Dimeric Inhibitor of Postsynaptic Density Protein-95 as an Example. Journal of Biological Chemistry 285:28252–28260"
+ Year: 2010
+ URL: http://dx.doi.org/10.1074/jbc.m110.124040
+ Keywords:
+ Type: 2
+ Funding:
+  - the Swedish Research Council, the Carl Trygger Foundation and the O. E. and Edla Johansson Foundation (to P. J.), the Lundbeck Foundation (to K. S.), and the Danish Council for Inde- pendent Research, Technology and Production Sciences (to A. B.)
+ Locations:
+  - University of Copenhagen, Copenhagen, Denmark
+-
+ Reference: "Johnson KRD, Hayes PG (2011) Kinetic and Mechanistic Investigation of Metallacycle Ring Opening in an Ortho-Metalated Lutetium Aryl Complex. Organometallics 30:58–67"
+ Year: 2011
+ URL: http://dx.doi.org/10.1021/om100814h
+ Keywords:
+ Type: 2
+ Funding:
+  - the Natural Sciences and Engineering Research Council (NSERC) of Canada for a Discovery Grant and the Canada Foundation for Innovation for a Leaders Opportunity Grant
+ Locations:
+  - University of Lethbridge, Lethbridge, Alberta, Canada T1K 3M4
+-
+ Reference: "Orrillo AG, Furlan RLE (2010) Supramolecular Interactions between Library Members Modulate the Behavior of Dynamic Combinatorial Libraries. The Journal of Organic Chemistry 75:211–214"
+ Year: 2010
+ URL: http://dx.doi.org/10.1021/jo902296h
+ Keywords:
+ Type: 2
+ Funding:
+  - CONICET and ANPCyT
+ Locations:
+  - Universidad Nacional de Rosario, Rosario, Argentina
+-
+ Reference: "Azuaje F (2011) Computational discrete models of tissue growth and regeneration. Briefings in Bioinformatics 12:64–77"
+ Year: 2011
+ URL: http://dx.doi.org/10.1093/bib/bbq017
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - Centre de Recherche Public-Sante, Luxembourg
+-
+ Reference: "Pezzola S, Antonini G, Geroni C, Beria I, Colombo M, Broggini M, Mongelli N, Leboffe L, MacArthur R, Mozzi AF, Federici G, Caccuri AM (2010) Role of Glutathione Transferases in the Mechanism of Brostallicin Activation. Biochemistry 49:226–235"
+ Year: 2010
+ URL: http://dx.doi.org/10.1021/bi901689s
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - University of “Tor Vergata”, Rome, Italy
+  - University of “RomaTre”, Rome, Italy
+  - Nerviano Medical Sciences Srl, Nerviano, Italy
+  - Istituto di Ricerche Farmacologiche ‘Mario Negri, Milan, Italy
+  - Systems Medicine LLC, Seattle, Washington
+  - TorVergata’s Hospital, Rome, Italy
+  - Istituto di Ricovero e Cura a Carattere Scientifico ‘‘Bambin Ges’’, Rome, Italy
+-
+ Reference: "Goyal M, Rizzo M, Schumacher F, Wong CF (2009) Beyond Thermodynamics: Drug Binding Kinetics Could Influence Epidermal Growth Factor Signaling. Journal of Medicinal Chemistry 52:5582–5585"
+ Year: 2009
+ URL: http://dx.doi.org/10.1021/jm900974p
+ Keywords:
+ Type: 2
+ Funding:
+  - the National Institutes of Health
+ Locations:
+  - University of Missouri;Saint Louis, St. Louis, Missouri 63121, USA
+-
+ Reference: "Samorodnitsky E, Pugh BF (2010) Genome-Wide Modeling of Transcription Preinitiation Complex Disassembly Mechanisms using ChIP-chip Data. PLoS Computational Biology 6:e1000733"
+ Year: 2010
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1000733
+ Keywords:
+ Type: 2
+ Funding:
+  - NIH NIEHS grant ES013768
+ Locations:
+  - The Pennsylvania State University, Pennsylvania, USA
+-
+ Reference: "Beard DA, Britten R, Cooling MT, Garny A, Halstead MDB, Hunter PJ, Lawson J, Lloyd CM, Marsh J, Miller A, Nickerson DP, Nielsen PMF, Nomura T, Subramanium S, Wimalaratne SM, Yu T (2009) CellML metadata standards, associated tools and repositories. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 367:1845–1867"
+ Year: 2009
+ URL: http://dx.doi.org/10.1098/rsta.2008.0310
+ Keywords:
+ Type: 3
+ Funding:
+ Locations:
+  - Rostock University, Rostock, Germany
+  - European Bioinformatics Institute, UK
+  - University of Washington, Seattle, USA
+-
+ Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.freeradbiomed.2016.02.035
+ Keywords:
+ Type: 2
+ Funding:
+  - "the BBSRC (BB/F015895/1, BB/F016980/1 and BB/ F023065/1), a Wellcome Trust Se- nior Investigator Award (J.B.) #095598/Z/11/Z and NIH grant GM 79465 (C.J.C.), the Howard Hughes Medical Institute, a Chemical Biology Training Grant from the National Institutes of Health (T32 GM066698)"
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, UK
+  - University College London, London, UK
+  - The University of Chicago, Chicago, USA
+  - University of California, Berkeley, California, USA
+-
+ Reference: "Morgan AE, Mooney KM, Wilkinson SJ, Pickles NA, Mc Auley MT (2016) Mathematically modelling the dynamics of cholesterol metabolism and ageing. Biosystems 145:19–32"
+ Year: 2016
+ URL: http://dx.doi.org/10.1016/j.biosystems.2016.05.001
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - University of Chester, Chester, CH2 4NU
+  - Edge Hill University, Lancashire, L39 4QP
+-
+ Reference: "Ray JCJ, Wickersheim ML, Jalihal AP, Adeshina YO, Cooper TF, Balázsi G (2016) Cellular Growth Arrest and Persistence from Enzyme Saturation. PLOS Computational Biology 12:e1004825"
+ Year: 2016
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1004825
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - Department of Systems Biology, Houston, Texas, USA
+  - University of Kansas, Lawrence, Kansas, USA
+  - SASTRA University, Tirumalaisamudram, Tamil Nadu, India
+  - Stony Brook University, Stony Brook, New York, USA
+-
+ Reference: "Jungmann R, Avendaño MS, Dai M, Woehrstein JB, Agasti SS, Feiger Z, Rodal A, Yin P (2016) Quantitative super-resolution imaging with qPAINT. Nature Methods 13:439–442"
+ Year: 2016
+ URL: http://dx.doi.org/10.1038/nmeth.3804
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - Harvard University, Boston, Massachusetts, USA
+  - Harvard Medical School, Boston, Massachusetts, USA
+  - Brandeis University, Waltham, Massachusetts, USA
+  - Max Planck Institute of Biochemistry, Munich, Germany
+  - Ludwig Maximilian University of Munich, Munich, Germany
+  - Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Jakkur, Bangalore, India
+-
+ Reference: "Pappalardo F, Russo G, Candido S, Pennisi M, Cavalieri S, Motta S, McCubrey JA, Nicoletti F, Libra M (2016) Computational Modeling of PI3K/AKT and MAPK Signaling Pathways in Melanoma Cancer. PLOS ONE 11:e0152104"
+ Year: 2016
+ URL: http://dx.doi.org/10.1371/journal.pone.0152104
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - University of Catania, Catania, Italy
+  - Brody School of Medicine at East Carolina University, Greenville, NC, United States of America
+-
+ Reference: "Rantasalo A, Czeizler E, Virtanen R, Rousu J, Lähdesmäki H, Penttilä M, Jäntti J, Mojzita D (2016) Synthetic Transcription Amplifier System for Orthogonal Control of Gene Expression in Saccharomyces cerevisiae. PLOS ONE 11:e0148320"
+ Year: 2016
+ URL: http://dx.doi.org/10.1371/journal.pone.0148320
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - VTT Technical Research Centre of Finland, VTT, Espoo, Finland
+  - Aalto University, Aalto, Espoo, Finland
+-
+ Reference: "Gerber S, Fröhlich M, Lichtenberg-Fraté H, Shabala S, Shabala L, Klipp E (2016) A Thermodynamic Model of Monovalent Cation Homeostasis in the Yeast Saccharomyces cerevisiae. PLOS Computational Biology 12:e1004703"
+ Year: 2016
+ URL: http://dx.doi.org/10.1371/journal.pcbi.1004703
+ Keywords:
+ Type: 2
+ Funding:
+ Locations:
+  - Johannes Gutenberg-Universität Mainz, Mainz, Germany
+  - Humboldt-Universität zu Berlin, Berlin, Germany
+  - Babraham Institute, Cambridge, UK
+  - University of Bonn, Bonn, Germany
+  - University of Tasmania, Hobart, Australia
+-
+ Reference: "Xu H, Diccianni JB, Katigbak J, Hu C, Zhang Y, Diao T (2016) Bimetallic C–C Bond-Forming Reductive Elimination from Nickel. Journal of the American Chemical Society 138:4779–4786"
+ Year: 2016
+ URL: http://dx.doi.org/10.1021/jacs.6b00016
+ Keywords:
+ Type: 2
+ Funding:
+  - National Science Foundation under award number DMR-1420073 and New York University
+ Locations:
+  - New York University, New York, USA
