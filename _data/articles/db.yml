@@ -3238,6 +3238,18 @@
   - Radford University, Radford VA, USA
   - Virginia Tech, Blacksburg VA, USA
 -
+ Reference: "Hallinan JS, Misirli G, Wipat A (2010) Evolutionary computation for the design of a stochastic switch for synthetic genetic circuits. IEEE, 768–774"
+ Year: 2010
+ URL: http://dx.doi.org/10.1109/iembs.2010.5626353
+ Keywords:
+  - Synthetic Biology
+ Type: 2
+ Funding:
+  - School of Computing Science, Newcastle University
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, UK
+  - Newcastle University, Newcastle, UK
+-
  Reference: "Huang R, Grabarek Z,  Wang C-LA (2010) Differential effects of caldesmon on the intermediate conformational states of polymerizing actin. J. Biol. Chem. 285:71-79"
  Year: 2010
  URL: http://dx.doi.org/10.1074/jbc.M109.065078
@@ -3291,6 +3303,7 @@
  Keywords:
   - Genomics
   - Whole-Cell Models
+  - Metabolism
  Type: 2
  Locations: 
   - University of Manchester, Manchester, UK
@@ -3428,7 +3441,7 @@
   - University of Glasgow, Glasgow, UK
   - Maastricht University, Maastricht, Netherlands
   - Lund University, Lund, Sweden
-  - St Jude Children's Research Hospital, Memphis TN, USA
+  - "St Jude Children's Research Hospital, Memphis TN, USA"
   - Beatson Institute for Cancer Research, Glasgow, UK
   - Brunel University, Middlesex, UK
  Methods:
@@ -3645,32 +3658,6 @@
 ###
 ### 2017 / 01 / 18: updated references from marina 
 ###
-
--
- Reference: "Hallinan JS, Misirli G, Wipat A (2010) Evolutionary computation for the design of a stochastic switch for synthetic genetic circuits. IEEE, 768–774"
- Year: 2010
- URL: http://dx.doi.org/10.1109/iembs.2010.5626353
- Keywords:
- Type: 2
- Funding:
-  - This work was supported in part by School of Computing Science, Newcastle University, Newcastle upon Tyne
- Locations:
-  - Newcastle University, Newcastle upon Tyne, UK
-  - Newcastle University, Newcastle, UK
--
- Reference: "Schulz M, Bakker BM, Klipp E (2009) TIde: a software for the systematic scanning of drug targets in kinetic network models. BMC Bioinformatics 10:344"
- Year: 2009
- URL: http://dx.doi.org/10.1186/1471-2105-10-344
- Keywords:
- Type: 3
- Funding:
-  - the International Max Planck Research School for Computational Biology and Scientific Comput- ing, the German Research Foundation (CRC 618), and the Marie Curie EST project "Systems Biology" (MEST-CT-2004-514169) by the EU and UNICELLSYS (HEALTH-2007-201142)
- Locations:
-  - Humboldt Universität zu Berlin, Berlin, Germany
-  - University of Groningen, Groningen, the Netherlands
-  - Vrije Universiteit Amsterdam, Amsterdam, the Netherlands
-  - University of Groningen, Groningen, NL
-  - Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
 -
  Reference: "Menolascina F, Bellomo D, Maiwald T, Bevilacqua V, Ciminelli C, Paradiso A, Tommasi S (2009) Developing optimal input design strategies in cancer systems biology with applications to microfluidic device engineering. BMC Bioinformatics 10:S4"
  Year: 2009
@@ -3680,49 +3667,24 @@
  Funding:
   - by progetto finalizzato ACC, ‘Rete Nazionale di Bioinformatica Oncologica’ 2007
  Locations:
-  - Delft University of Technology, Delft, the Netherlands
   - Delft University of Technology, Delft, The Netherlands
--
- Reference: "Menolascina F, Bellomo D, Maiwald T, Bevilacqua V, Ciminelli C, Paradiso A, Tommasi S (2009) Developing optimal input design strategies in cancer systems biology with applications to microfluidic device engineering. BMC Bioinformatics 10:S4"
- Year: 2009
- URL: http://dx.doi.org/10.1186/1471-2105-10-s12-s4
- Keywords:
- Type: 3
- Funding:
-  - by progetto finalizzato ACC, ‘Rete Nazionale di Bioinformatica Oncologica’ 2007
- Locations:
   - Harvard Medical School, Boston, MA 02115, USA
--
- Reference: "Menolascina F, Bellomo D, Maiwald T, Bevilacqua V, Ciminelli C, Paradiso A, Tommasi S (2009) Developing optimal input design strategies in cancer systems biology with applications to microfluidic device engineering. BMC Bioinformatics 10:S4"
- Year: 2009
- URL: http://dx.doi.org/10.1186/1471-2105-10-s12-s4
- Keywords:
- Type: 3
- Funding:
-  - by progetto finalizzato ACC, ‘Rete Nazionale di Bioinformatica Oncologica’ 2007
- Locations:
   - Kluyver Centre for Genomics of Industrial Fermentation, Delft, The Netherlands
 -
- Reference: "Cardiff University"
- Year: 2003
+ Reference: "Li P, Dada JO, Jameson D, Spasic I, Swainston N, Carroll K, Dunn W, Khan F, Malys N, Messiha HL, Simeonidis E, Weichart D, Winder C, Wishart J, Broomhead DS, Goble CA, Gaskell SJ, Kell DB, Westerhoff HV, Mendes P, Paton NW (2010) Systematic integration of experimental data and models in systems biology. BMC Bioinformatics 11:582"
+ Year: 2010
  URL: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-582
  Keywords:
+  - Computational Method
+  - Metabolism
  Type: 3
  Funding:
-  - the Biotechnological and Biological Sciences Research Council, and the Engineering and Physical Sciences Research Council
+  - BBSRC
+  - EPSRC
  Locations:
-  - Cardiff University, Cardiff, UK
--
- Reference: "Virginia Tech"
- Year: 2003
- URL: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-582
- Keywords:
- Type: 3
- Funding:
-  - the Biotechnological and Biological Sciences Research Council, and the Engineering and Physical Sciences Research Council
- Locations:
+  - University of Manchester, Manchester, UK
   - Virginia Tech, Blacksburg, VA 24061, USA
-  - Virginia Tech, Blacksburg, VA 24061, U.S.A
+  - Cardiff University, Cardiff, UK
 -
  Reference: "Sun Y-C (2009) Examination of effects of GSK3β phosphorylation, β-catenin phosphorylation, and β-catenin degradation on kinetics of Wnt signaling pathway using computational method. Theoretical Biology and Medical Modelling 6:13"
  Year: 2009
