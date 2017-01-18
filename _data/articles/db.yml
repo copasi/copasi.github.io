@@ -3206,6 +3206,20 @@
   - University of Sheffield, Sheffield, UK
   - University of Glasgow, Glasgow, UK
 -
+ Reference: "Andreani A, Burnelli S, Granaiola M, Leoni A, Locatelli A, Morigi R, Rambaldi M, Varoli L, Cremonini MA, Placucci G (2010) New isatin derivatives with antioxidant activity. European Journal of Medicinal Chemistry 45:1374–1378"
+ Year: 2010
+ URL: http://dx.doi.org/10.1016/j.ejmech.2009.12.035
+ Keywords:
+  - Chemistry
+ Type: 2
+ Methods:
+  - time course
+ Funding:
+  - University of Bologna
+ Locations:
+  - Universita di Bologna, Bologna, Italy
+  - Universita di Bologna, Cesena, Italy
+-
  Reference: "Baker, S.M., Schallau, K., Junker, B.H. (2010). Comparison of different algorithms for simultaneous estimation of multiple parameters in kinetic metabolic models. Journal of Integrative Bioinformatics 7(3):519-520"
  Year: 2010
  URL: http://dx.doi.org/10.2390/biecoll-jib-2010-133
@@ -3687,6 +3701,18 @@
   - University of Lisbon, Lisbon, Portugal
   - Max Delbrück Center, Berlin, Germany
 -
+ Reference: "Long J, Roth M (2008) Synthetic microarray data generation with RANGE and NEMO. Bioinformatics 24:132–134"
+ Year: 2008
+ URL: http://dx.doi.org/10.1093/bioinformatics/btm529
+ Keywords:
+  - Computational Method
+  - Genomics
+ Type: 3
+ Funding:
+  - NIH
+ Locations:
+  - University of Alaska Fairbanks, Fairbanks, Alaska, USA
+-
  Reference: "Marchisio MA, Stelling J (2008) Computational design of synthetic gene circuits with composable parts. Bioinformatics 24:1903-10."
  Year: 2008
  URL: http://dx.doi.org/10.1093/bioinformatics/btn330 
@@ -3879,28 +3905,6 @@
   - Biocomplexity Institute of Virginia Tech, Blacksburg, VA, USA
   - Virginia Tech, Blacksburg, VA, USA
 -
- Reference: "Andreani A, Burnelli S, Granaiola M, Leoni A, Locatelli A, Morigi R, Rambaldi M, Varoli L, Cremonini MA, Placucci G (2010) New isatin derivatives with antioxidant activity. European Journal of Medicinal Chemistry 45:1374–1378"
- Year: 2010
- URL: http://dx.doi.org/10.1016/j.ejmech.2009.12.035
- Keywords:
- Type: 2
- Funding:
-  - University of Bologna for financial support
- Locations:
-  - Universita di Bologna, Bologna, Italy
-  - Universita di Bologna, Cesena, Italy
--
- Reference: "Gizzatkulov NM, Goryanin II, Metelkin EA, Mogilevskaya EA, Peskov KV, Demin OV (2010) DBSolve Optimum: a software package for kinetic modeling which allows dynamic visualization of simulation results. BMC Systems Biology 4:109"
- Year: 2010
- URL: http://dx.doi.org/10.1186/1752-0509-4-109
- Keywords:
- Type: 3
- Funding:
-  - the Russian Foundation for Basic Research (grant no. 09-01-12097) and European Union and Institute for Systems Biology SP
- Locations:
-  - Institute for Systems Biology SPb, Sankt-Peterburgh, Russia
-  - Belozersky Institute of Physico-Chemical Biology of Moscow State University, Moscow, Russia
--
  Reference: "Troncoso-Ponce MA, Kruger NJ, Ratcliffe G, Garcés R, Martínez-Force E (2009) Characterization of glycolytic initial metabolites and enzyme activities in developing sunflower (Helianthus annuus L.) seeds. Phytochemistry 70:1117–1122"
  Year: 2009
  URL: http://dx.doi.org/10.1016/j.phytochem.2009.07.012
@@ -3911,16 +3915,6 @@
  Locations:
   - CISC, Seville, Spain
   - University of Oxford, Oxford, UK
--
- Reference: "Long J, Roth M (2008) Synthetic microarray data generation with RANGE and NEMO. Bioinformatics 24:132–134"
- Year: 2008
- URL: http://dx.doi.org/10.1093/bioinformatics/btm529
- Keywords:
- Type: 3
- Funding:
-  - the National Center for Research Resources (NCRR)
- Locations:
-  - University of Alaska Fairbanks, Fairbanks, Alaska, USA
 -
  Reference: "Ciocchetta F, Hillston J, Kos M, Tollervey D (2008) Modelling co-transcriptional cleavage in the synthesis of yeast pre-rRNA. Theoretical Computer Science 408:41–54"
  Year: 2008
