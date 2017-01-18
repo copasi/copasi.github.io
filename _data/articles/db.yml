@@ -3059,11 +3059,12 @@
  Locations:
   - University of Manchester, Manchester, UK
 -
- Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. J. Am. Chem. Soc., 133:14566-9"
+ Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. Journal of the American Chemical Society , 133:14566–9"
  URL: http://dx.doi.org/10.1021/ja206575j
  Year: 2011
  Locations:
   - Coordinates: 43.0741849,-89.4117159
+  - University of Wisconsin, Madison, Wisconsin 53706, United States
  Funding:
   - NIH
   - Eastman Chemical
@@ -3347,6 +3348,18 @@
   - time course
   - parameter estimation
 -
+ Reference: "Morrissey ER, Juarez MA, Denby KJ, Burroughs NJ (2010) On reverse engineering of gene interaction networks using time course data with repeated measurements. Bioinformatics 26:2305–2312"
+ Year: 2010
+ URL: http://dx.doi.org/10.1093/bioinformatics/btq421
+ Keywords:
+  - Computational Methods
+ Type: 3
+ Funding:
+  - Warwick Systems Biology Doctoral Training Centre
+  - BBSRC
+ Locations:
+  - University of Warwick, Coventry CV4 7AL, UK
+-
  Reference: "Nakano T, Doi T, Yoshimoto J, Doya K (2010) A Kinetic Model of Dopamine- and Calcium-Dependent Striatal Synaptic Plasticity. PLoS Comput Biol 6(2): e1000670."
  Year: 2010
  URL: http://dx.doi.org/10.1371/journal.pcbi.1000670
@@ -3409,6 +3422,17 @@
  Locations: 
   - Virginia Tech, Blacksburg VA, USA
 -
+ Reference: "Zhang Y, Song D, Lanni LM, Shimizu KD (2010) Importance of Functional Monomer Dimerization in the Molecular Imprinting Process. Macromolecules 43:6284–6294"
+ Year: 2010
+ URL: http://dx.doi.org/10.1021/ma101013c
+ Keywords:
+  - Chemistry
+ Type: 2
+ Funding:
+  - NSF
+ Locations:
+  - University of South Carolina, Columbia, South Carolina 29208, USA
+-
  Reference: "Baralla A, Mentzen WI, De La Fuente A (2009) Inferring Gene Networks: Dream or Nightmare?: Part 1: Challenges 1 and 3. Annals of the New York Academy of Sciences 1158:246-256"
  URL: http://dx.doi.org/10.1111/j.1749-6632.2008.04099.x
  Year: 2009
@@ -3430,6 +3454,17 @@
   - "Departament d'Innovació, Universitat i Empresa (Generalitat de Catalunya, Spain)"
  Locations: 
   - Universitat Pompeu Fabra, Barcelona, Spain
+-
+ Reference: "Blaquiere N, Shore DG, Rousseaux S, Fagnou K (2009) Decarboxylative Ketone Aldol Reactions: Development and Mechanistic Evaluation under Metal-Free Conditions. The Journal of Organic Chemistry 74:6190–6198"
+ Year: 2009
+ URL: http://dx.doi.org/10.1021/jo901022j
+ Keywords:
+  - Chemistry
+ Type: 2
+ Funding:
+  - NSERC and the University of Ottawa for support of this work. The Research Corpora- tion, Boehringer Ingelheim (Laval), Merck Frosst Canada, Merck Inc., Eli Lilly, Amgen, and Astra Zeneca Montreal
+ Locations:
+  - University of Ottawa, Ottawa, Ontario, K1N 6N5, Canada
 -
  Reference: "Cai Y, Lux MW, Adam L, Peccoud J (2009) Modeling Structure-Function Relationships in Synthetic DNA Sequences using Attribute Grammars. PLoS Computational Biology 5:e1000529"
  Year: 2009
@@ -3706,6 +3741,20 @@
   - National Taiwan Normal University
  Locations:
   - National Taiwan Normal University, Taipei 116, Taiwan
+-
+ Reference: "Sun T, Adra S, Smallwood R, Holcombe M, MacNeil S (2009) Exploring Hypotheses of the Actions of TGF-β1 in Epidermal Wound Healing Using a 3D Computational Multiscale Model of the Human Epidermis. PLoS ONE 4:e8515"
+ Year: 2009
+ URL: http://dx.doi.org/10.1371/journal.pone.0008515
+ Keywords:
+  - Immunology
+  - Computational Methods
+  - Software
+ Type: 2
+ Funding:
+  - EPSRC
+ Locations:
+  - University of Glasgow, Glasgow, G61 1QH, UK
+  - University of Sheffield, Sheffield, UK
 -
  Reference: "Troncoso-Ponce MA, Kruger NJ, Ratcliffe G, Garcés R, Martínez-Force E (2009) Characterization of glycolytic initial metabolites and enzyme activities in developing sunflower (Helianthus annuus L.) seeds. Phytochemistry 70:1117–1122"
  Year: 2009
@@ -4039,57 +4088,6 @@
   - EPSRC studentship (under grant EP/E036252/1)
  Locations:
   - University of Chester, CH2 4NU, UK
--
- Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. Journal of the American Chemical Society 133:14566–14569"
- Year: 2011
- URL: http://dx.doi.org/10.1021/ja206575j
- Keywords:
- Type: 2
- Funding:
-  - the NIH (RC1-GM091161) and East- man Chemical (summer fellowship to T.D.) And the NSF (CHE- 0946901)
- Locations:
-  - University of Wisconsin, Madison, Wisconsin 53706, United States
--
- Reference: "Blaquiere N, Shore DG, Rousseaux S, Fagnou K (2009) Decarboxylative Ketone Aldol Reactions: Development and Mechanistic Evaluation under Metal-Free Conditions. The Journal of Organic Chemistry 74:6190–6198"
- Year: 2009
- URL: http://dx.doi.org/10.1021/jo901022j
- Keywords:
- Type: 2
- Funding:
-  - NSERC and the University of Ottawa for support of this work. The Research Corpora- tion, Boehringer Ingelheim (Laval), Merck Frosst Canada, Merck Inc., Eli Lilly, Amgen, and Astra Zeneca Montreal
- Locations:
-  - University of Ottawa, Ottawa, Ontario, K1N 6N5, Canada
--
- Reference: "Zhang Y, Song D, Lanni LM, Shimizu KD (2010) Importance of Functional Monomer Dimerization in the Molecular Imprinting Process. Macromolecules 43:6284–6294"
- Year: 2010
- URL: http://dx.doi.org/10.1021/ma101013c
- Keywords:
- Type: 2
- Funding:
-  - the National Science Foundation (0828897)
- Locations:
-  - University of South Carolina, Columbia, South Carolina 29208, USA
--
- Reference: "Sun T, Adra S, Smallwood R, Holcombe M, MacNeil S (2009) Exploring Hypotheses of the Actions of TGF-β1 in Epidermal Wound Healing Using a 3D Computational Multiscale Model of the Human Epidermis. PLoS ONE 4:e8515"
- Year: 2009
- URL: http://dx.doi.org/10.1371/journal.pone.0008515
- Keywords:
- Type: 2
- Funding:
-  - "the Engineering and Physical Sciences Research Council (EPSRC) through two grants: one to the University of Sheffield (GR/S62321/01), and the other to the University of York (GR/S62338/01)"
- Locations:
-  - University of Glasgow, Glasgow, G61 1QH, UK
-  - University of Sheffield, Sheffield, UK
--
- Reference: "Morrissey ER, Juarez MA, Denby KJ, Burroughs NJ (2010) On reverse engineering of gene interaction networks using time course data with repeated measurements. Bioinformatics 26:2305–2312"
- Year: 2010
- URL: http://dx.doi.org/10.1093/bioinformatics/btq421
- Keywords:
- Type: 3
- Funding:
-  - Warwick Systems Biology Doctoral Training Centre (to E.R.M.); BBSRC grant BB/F003498/1 (to M.A.J.), the PRESTA Project, grant number BB/F005806/1
- Locations:
-  - University of Warwick, Coventry CV4 7AL, UK
 -
  Reference: "Chi CN, Bach A, Gottschalk M, Kristensen AS, Stromgaard K, Jemth P (2010) Deciphering the Kinetic Binding Mechanism of Dimeric Ligands Using a Potent Plasma-stable Dimeric Inhibitor of Postsynaptic Density Protein-95 as an Example. Journal of Biological Chemistry 285:28252–28260"
  Year: 2010
