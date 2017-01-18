@@ -3259,6 +3259,21 @@
  Locations: 
   - Boston Biomedical Research Institute, Watertown MA, USA
 -
+ Reference: "Li P, Dada JO, Jameson D, Spasic I, Swainston N, Carroll K, Dunn W, Khan F, Malys N, Messiha HL, Simeonidis E, Weichart D, Winder C, Wishart J, Broomhead DS, Goble CA, Gaskell SJ, Kell DB, Westerhoff HV, Mendes P, Paton NW (2010) Systematic integration of experimental data and models in systems biology. BMC Bioinformatics 11:582"
+ Year: 2010
+ URL: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-582
+ Keywords:
+  - Computational Method
+  - Metabolism
+ Type: 3
+ Funding:
+  - BBSRC
+  - EPSRC
+ Locations:
+  - University of Manchester, Manchester, UK
+  - Virginia Tech, Blacksburg, VA 24061, USA
+  - Cardiff University, Cardiff, UK
+-
  Reference: "Maiwald T, Schneider A, Busch H, Sahle S, Gretz N, Weiss TS, Kummer U, Klingmüller U (2010) Combining theoretical analysis and experimental data generation reveals IRF9 as a crucial factor for accelerating interferon α-induced early antiviral signalling: IRF9 accelerates IFNα signal transduction. FEBS Journal 277:4741-4754"
  URL: http://dx.doi.org/10.1111/j.1742-4658.2010.07880.x
  Year: 2010
@@ -3421,6 +3436,20 @@
   - Friedrich Schiller University, Jena, Germany
   - University of Stuttgart, Stuttgart, Germany
   - Max Planck Institute for Chemical Ecology, Jena, Germany
+-
+ Reference: "Menolascina F, Bellomo D, Maiwald T, Bevilacqua V, Ciminelli C, Paradiso A, Tommasi S (2009) Developing optimal input design strategies in cancer systems biology with applications to microfluidic device engineering. BMC Bioinformatics 10:S4"
+ Year: 2009
+ URL: http://dx.doi.org/10.1186/1471-2105-10-s12-s4
+ Keywords:
+  - Laboratory Method
+  - Signaling
+ Type: 3
+ Funding:
+  - "progetto finalizzato ACC, ‘Rete Nazionale di Bioinformatica Oncologica’ 2007"
+ Locations:
+  - Delft University of Technology, Delft, The Netherlands
+  - Harvard Medical School, Boston, MA 02115, USA
+  - Kluyver Centre for Genomics of Industrial Fermentation, Delft, The Netherlands
 -
  Reference: "Modre-Osprian R, Osprian I, Tilg B, Schreier G, Weinberger KM, Graber A (2009) Dynamic simulations on the mitochondrial fatty acid Beta-oxidation network. BMC Systems Biology 3:2"
  URL: http://dx.doi.org/10.1186/1752-0509-3-2
@@ -3658,33 +3687,6 @@
 ###
 ### 2017 / 01 / 18: updated references from marina 
 ###
--
- Reference: "Menolascina F, Bellomo D, Maiwald T, Bevilacqua V, Ciminelli C, Paradiso A, Tommasi S (2009) Developing optimal input design strategies in cancer systems biology with applications to microfluidic device engineering. BMC Bioinformatics 10:S4"
- Year: 2009
- URL: http://dx.doi.org/10.1186/1471-2105-10-s12-s4
- Keywords:
- Type: 3
- Funding:
-  - by progetto finalizzato ACC, ‘Rete Nazionale di Bioinformatica Oncologica’ 2007
- Locations:
-  - Delft University of Technology, Delft, The Netherlands
-  - Harvard Medical School, Boston, MA 02115, USA
-  - Kluyver Centre for Genomics of Industrial Fermentation, Delft, The Netherlands
--
- Reference: "Li P, Dada JO, Jameson D, Spasic I, Swainston N, Carroll K, Dunn W, Khan F, Malys N, Messiha HL, Simeonidis E, Weichart D, Winder C, Wishart J, Broomhead DS, Goble CA, Gaskell SJ, Kell DB, Westerhoff HV, Mendes P, Paton NW (2010) Systematic integration of experimental data and models in systems biology. BMC Bioinformatics 11:582"
- Year: 2010
- URL: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-582
- Keywords:
-  - Computational Method
-  - Metabolism
- Type: 3
- Funding:
-  - BBSRC
-  - EPSRC
- Locations:
-  - University of Manchester, Manchester, UK
-  - Virginia Tech, Blacksburg, VA 24061, USA
-  - Cardiff University, Cardiff, UK
 -
  Reference: "Sun Y-C (2009) Examination of effects of GSK3β phosphorylation, β-catenin phosphorylation, and β-catenin degradation on kinetics of Wnt signaling pathway using computational method. Theoretical Biology and Medical Modelling 6:13"
  Year: 2009
