@@ -16,8 +16,8 @@ use_math: true
      
       Where the regular ODE is given by $f(t,X) \, dt$ and the noise is 
       given by $g(t,X) \, dW$. Please note that $f(t,X)$ 
-      and $dW$ are vectors and $g(t,X)$ is a matrix. In general the noice terms are 
-      independ stochastic processes with mean 0, i.e., we have one stochastic variable 
+      and $dW$ are vectors and $g(t,X)$ is a matrix. In general the noise terms are 
+      independent stochastic processes with mean 0, i.e., we have one stochastic variable 
       for each integration variable.
     </p>
     <p>
@@ -36,7 +36,7 @@ use_math: true
       \begin{equation}
       g(t,X) \, dW = N \, \tilde{g}(t,X) \, d\widetilde{W}
       \end{equation}
-      Here $\tilde{g}(t,X) \, d\widetilde{W}$ are independ stochastic processes with mean 0. Since 
+      Here $\tilde{g}(t,X) \, d\widetilde{W}$ are independent stochastic processes with mean 0. Since 
       the linear combination of independent mean 0 processes leads to a mean 0 process $g(t,X) \, dW$
       has still mean 0 as required.
     </p>
@@ -53,7 +53,7 @@ use_math: true
       \begin{equation}
       \begin{pmatrix}dX\\dY\end{pmatrix} = \begin{pmatrix}N \, v(t,X,Y) \, dt + N \,\tilde{g}(t,X,Y) \, d\widetilde{W}\\ f(t,X,Y) \, dt + g(t,X,Y) \, dW\end{pmatrix}
       \end{equation}
-      Euqation (5) is the form to which any model represented in COPASI can be transformed.
+      Equation (5) is the form to which any model represented in COPASI can be transformed.
     </p>
     <p>
       To fully specify the stochastic differential equation we need to define the functions 
@@ -62,12 +62,12 @@ use_math: true
       \begin{matrix}
       \tilde{g}_{i,j}(t,X,Y) & = & 
       \begin{cases}
-      k_{i} \, \sqrt{v_{i}(t,X,Y)} & \mbox{for } i = j
+      k_{i} \, \mbox{sign}(v_{i}(t,X,Y)) \, \sqrt{|v_{i}(t,X,Y)|} & \mbox{for } i = j
       \\
       0 & \mbox{otherwise}
       \end{cases}
       \\
-      g_{i}(t,X,Y) & = & l_{i} \sqrt{f_{i}(t,X,Y)}
+      g_{i}(t,X,Y) & = & l_{i} \, \mbox{sign}(f_{i}(t,X,Y)) \, \sqrt{|f_{i}(t,X,Y)|}
       \end{matrix}
       \end{equation}
       Please note the above choice is the It&ocirc; SDE representation
@@ -75,15 +75,15 @@ use_math: true
       1$ in equation (6). The $k_i$ can be interpreted
       as the standard variation of the reaction rate $v_i$ and $l_i$
       as the standard variation of the rate of the variable $Y_i$. The
-      user will be able to overide the default choosen above.
+      user will be able to override the default chosen above.
       Please note that the user will not be able to create arbitrary
       noise terms. The matrix $g(t,X)$ will always be of diagonal form.
     </p>
     <p>
       Contrary to ODEs it is possible for SDEs to generate negative
-      values for species. We need to address this issue during
-      implementation. Possible solutions include stepsize reduction as
-      it is used in the implementation of the $\tau$-Leap algorithm.
+      values for species or compartment sizes. We will use the root finding mechanism 
+      which is necessary for processing events to detect negative values. The step size
+      will be reduced so that no negative (within tolerance) values will be created. 
     </p>
   </div>
 </div>
