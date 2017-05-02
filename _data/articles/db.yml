@@ -798,9 +798,12 @@
   - UK Technology Strategy Board
   - EU FP7
  Locations:
-  - University of Manchester, Manchester, UK
-  - University of Cambridge, Cambridge, UK
   - UConn Health, Farmington CT, USA
+  - University of Cambridge, Cambridge, UK
+  - University of Manchester, Manchester, UK
+  - Coordinates: 41.737981, -72.791291
+  - Coordinates: 52.201131, 0.121335
+  - Coordinates: 53.473083, -2.235836
 -
  Reference: "Montes MR, Ferreira-Gomes MS, Centeno M, Rossi RC (2015) The E2P-like state induced by magnesium fluoride complexes in the Na, K-ATPase. Kinetics of formation and interaction with Rb+. Biochim. Biophys Acta 1848:1514-23"
  Year: 2015
@@ -884,6 +887,7 @@
  Type: 2
  Locations:
   - University of Valencia, Valencia, Spain
+  - Coordinates: 39.479276, -0.359381
 -
  Reference: "Penkler G, du Toit F, Adams W, Rautenbach M, Palm DC, van Niekerk DD, Snoep JL (2015) Construction and validation of a detailed kinetic model of glycolysis in Plasmodium falciparum. FEBS J. 282:1481-511"
  Year: 2015
@@ -897,6 +901,9 @@
   - Stellenbosch University, Matieland, South Africa
   - Vrije Universiteit Amsterdam, Amsterdam, Netherlands
   - University of Manchester, Manchester, UK
+  - Coordinates: -33.9328033, 18.8622583
+  - Coordinates: 52.333285, 4.865763
+  - Coordinates: 53.473083, -2.235836
 -
  Reference: "Phelix CF, Feltus FA (2015) Plant stress biomarkers from biosimulations: the Transcriptome-To-Metabolome(TTM) technology-effects of drought stress on rice. Plant Biol. 17:63-73"
  Year: 2015
@@ -1854,6 +1861,8 @@
  Locations:
   - Aix-Marseille Université, Marseille, France
   - Universidad Complutense de Madrid, Madrid, Spain
+  - Coordinates: 43.292209, 5.359130
+  - Coordinates: 40.447880, -3.728563
 -
  Reference: "Coskun SA, Cicek AE, Lai N, Dash RK, Ozsoyoglu ZM, Ozsoyoglu G (2013) An online model composition tool for system biology models. BMC Systems Biol. 7:88"
  Year: 2013
@@ -4093,7 +4102,7 @@
   - DFG 
   - Max Planck Society
 -
- Reference: "Jordao L,  Bleck CKE, Mayorga L, Griffiths G,  Anes E (2008) On the killing of mycobacteria by macrophages. Cell. Microbiol. 10:529-48"
+ Reference: "Jordão L,  Bleck CKE, Mayorga L, Griffiths G,  Anes E (2008) On the killing of mycobacteria by macrophages. Cell. Microbiol. 10:529-48"
  Year: 2008
  URL: http://dx.doi.org/10.1111/j.1462-5822.2007.01067.x
  Keywords:
@@ -4103,6 +4112,9 @@
   - University of Lisbon, Av. Forcas Armadas, 1600-083 Lisbon, Portugal.
   - EMBL, Heidelberg, Germany.
   - Universidad Nacional de Cuyo, Mendoza, Argentina
+  - Coordinates: 38.747855, -9.153478
+  - Coordinates: 49.384064, 8.710716
+  - Coordinates: 32.881186, -68.877144
 -
  Reference: "Jungmann R, Renner S, Simmel FC (2008) From DNA nanotechnology to synthetic biology. HFSP Journal 2:99-109"
  URL: http://dx.doi.org/10.2976/1.2896331
@@ -4134,6 +4146,13 @@
   - Institut für Hygiene und Mikrobiologie, Würzburg, Germany
   - University of Lisbon, Lisbon, Portugal
   - Max Delbrück Center, Berlin, Germany
+  - Coordinates: 49.384064, 8.710716
+  - Coordinates: 32.881186, -68.877144
+  - Coordinates: 49.780173, 9.971186
+  - Coordinates: 40.806566, -77.862517
+  - Coordinates: 49.801531, 9.958582
+  - Coordinates: 38.749530, -9.157223
+  - Coordinates: 52.625186, 13.502554
 -
  Reference: "Long J, Roth M (2008) Synthetic microarray data generation with RANGE and NEMO. Bioinformatics 24:132–134"
  Year: 2008
