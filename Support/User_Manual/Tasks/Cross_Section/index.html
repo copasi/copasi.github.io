@@ -1,0 +1,182 @@
+---
+layout: structure
+title: "Cross Section"
+structure: "User_Manual"
+---
+
+
+<div class="row">
+
+<h1>The cross-section task</h1>
+
+<p>This tutorial describes how to use COPASI’s cross section
+task. We begin by importing an oscillating model from the BioModel database,
+and explore it through time course simulations before extracting some
+characteristics using the cross-section task. </p>
+
+<h2>The Model</h2>
+
+<p>We start by downloading BioModel 239 (<a
+href="https://www.ebi.ac.uk/biomodels-main/BIOMD0000000329">https://www.ebi.ac.uk/biomodels-main/BIOMD0000000329</a>)
+from the BioModels Database. Import the model into COPASI, and then navigate to
+the Tasks, and there to Time Course. Specifying a duration of 100 seconds,
+using an automatic interval size. Next we specify a plot for this simulation
+run, by selecting the output assistant and creating a plot for “Concentrations,
+Volumes, and Global Quantity Values”. By clicking on “Hide All” and then
+clicking on the “[Calcium]” label we yield the following graph: </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=434
+alt="Concentration time course of BioModel 239"
+title="Concentration time course of BioModel 239"
+src="images/image001.png"></p>
+
+<p>To investigate how this simulation behavior changes when a
+parameter value is modified we use the slider feature of COPASI. For that
+select Tools\Show Sliders from the menu or click the <img class="img-responsive  center-block" border=0 width=24
+height=28 style="display:inline" title="Slider Icon" alt="Slider Icon" id="Picture 2" src="images/image002.png"> button in
+the tool bar. We define a new slider by clicking on “New Sliders”, and
+selecting the “constant” parameter of reaction R2. </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=237 id="Picture 4"
+alt="Defining a slider"
+title="Defining a slider"
+src="images/image003.jpg"></p>
+
+<p>Note that the current value of the parameter is “2.9”, now
+modifying the value in the range of 1.5 to 3 while looking at the plot we
+notice that the dynamics of the oscillation changes from basic oscillations to
+bursting. </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=315 id="Picture 6"
+alt="concentration timecourse while varying the slider"
+title="concentration timecourse while varying the slider"
+src="images/image004.gif"></p>
+
+<h2>Cross-section</h2>
+
+<p>With the cross-section task, we can detect crossings through
+specified surfaces through the phase space. This is done by selecting a
+variable, as well as a certain value as well as the direction of the crossing
+we want to observe. For the purposes of this tutorial we want to look at the
+peaks (or maxima) of the calcium oscillations obtained before. For that we
+select the rate of calcium as variable in the cross-section task, waiting for
+the value of 0 being crossed in the negative direction. We stop detecting the
+cross-section after 100 seconds. </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=426
+alt="Cross section task options"
+title="Cross section task options"
+src="images/image005.png"></p>
+
+<p>To capture the result, we alter the plot created before,
+such that instead of using lines, circles are being used to represent the
+values. </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=487 id="Picture 9"
+alt="Changing plot options"
+title="Changing plot options"
+src="images/image006.jpg"></p>
+
+<p>Now we are ready to run the cross section, yielding a result
+of: </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=445 id="Picture 10"
+alt="Plot of the cross section result, showing only maxima"
+title="Plot of the cross section result, showing only maxima"
+src="images/image007.jpg"></p>
+
+<p>Which are the maxima that we saw before when simulating the
+model. </p>
+
+<h3>Creating a bifurcation diagram</h3>
+
+<p>We already know that the behavior of the oscillations change
+when we modify the parameter of reaction “R2”, using the scan task in
+combination with the cross-section task we can plot this in a bifurcation
+diagram. First we define the scan task: we set up a scan, over R2.constant and
+vary it in 100 intervals from 1.5 to 3. The subtask that should be carried out
+is the “Cross Section”. Since we want to see the change in behavior we want to
+track “output during subtask execution”.  </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=505 id="Picture 15"
+alt="Defining the parameter scan"
+title="Defining the parameter scan"
+src="images/image008.jpg"></p>
+
+<p>Next we define he plot to be used. Here we want R2.constant
+on the x axis and the concentration of calcium on the y axis. Again, we use
+circles to represent the calcium concentrations rather than lines. (Alternatively
+you could also select the output assistant and choose ‘Scan of Concentrations,
+Volumes and Global Quantity Values’). </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=497 id="Picture 13"
+alt="Plot of the scan result showing the change from a single peak to four peaks (bursting)"
+title="Plot of the scan result showing the change from a single peak to four peaks (bursting)"
+src="images/image009.jpg"></p>
+
+<p>This plot represents all the maxima that occur, and not just
+those of the limit cycle. To improve the display, we tell the cross-section
+task to only collect the crossings after some conditions are met. The condition
+to specify is “time larger 50”. </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=501 id="Picture 14"
+alt="Refining the cross section task, by collecting information only after limit cycle is reached."
+title="Refining the cross section task, by collecting information only after limit cycle is reached."
+src="images/image010.jpg"></p>
+
+<p>Re-running the parameter scan we now get only those
+crossings: </p>
+
+<p><img class="img-responsive  center-block" border=0 width=624 height=502 id="Picture 16"
+alt="Refined scan result"
+title="Refined scan result"
+src="images/image011.jpg"></p>
+
+<p>Using the other options in the cross-section task it is
+possible to find crossings more efficiently. Those settings are grouped into
+two sections: </p>
+
+<p ><img class="img-responsive  center-block" border=0 width=513 height=103 id="Picture 17"
+alt="Cross section termination options"
+title="Cross section termination options"
+src="images/image012.png"></p>
+
+<p>The first section determines when the simulation including
+the detection of crossing points is terminated. Before we used this to stop
+collecting crossings after 100 seconds. The other options mean: </p>
+<ul>
+<li>If crossings (#) larger: Stop after a given number of crossing
+points is reported</li>
+
+<li>If a crossing is repeated within tolerance: Stop after the
+crossing points start repeating with a given relative accuracy. This would
+typically indicate that the system has reached a limit cycle behavior. </li>
+
+</ul>
+
+<p>Note that a maximum time for the simulation must be provided
+in any case, so that the simulation stops even when no crossings are detected
+or the crossings do not repeat.</p>
+
+<p><img class="img-responsive  center-block" border=0 width=516 height=104 id="Picture 18"
+alt="Cross section collection options"
+title="Cross section collection options"
+src="images/image013.png"></p>
+
+<p>The second set of settings determines when the reporting of
+crossings is started. This is typically used to make sure that the output is
+only started after the systems has reached a stable long term behavior, e.g. a
+limit cycle. In the example, we used this to only collect crossings after 50
+seconds, if this time interval is sufficient for the system to reach a limit
+cycle. Other settings here: </p>
+
+<ul>
+<li>If crossing (#) larger: Start reporting only after a given number of crossings have been detected</li>
+<li>If a crossing is repeated within tolerance: Start reporting only
+after crossing points start to reoccur within the given tolerance. Typically,
+this setting can be used when trying to detect a limit cycle, but it would not
+be useful if e.g. chaotic behavior is expected.</li>
+</ul>
+</div>
+
+ 

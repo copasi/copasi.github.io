@@ -63,6 +63,8 @@ pages:
   title: "Lyapunov Exponents"
 - path: Support/User_Manual/Tasks/Time_Scale_Separation
   title: "Time Scale Separation"
+- path: Support/User_Manual/Tasks/Cross_Section
+  title: "Cross Section"
 - path: Support/User_Manual/Tasks/Parameter_Scan
   title: "Parameter Scan"
 - path: Support/User_Manual/Tasks/Optimization
