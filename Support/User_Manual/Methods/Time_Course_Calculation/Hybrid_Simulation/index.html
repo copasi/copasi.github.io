@@ -2,6 +2,7 @@
 layout: structure
 title: "Hybrid Simulation"
 structure: "User_Manual"
+use_math: true
 ---
 
 <div class="row">
@@ -18,6 +19,64 @@ The current implementation of the Hybrid Runge Kutta Method is very inefficient 
 <dl><dt><b>Upper Limit</b></dt><dd> This parameter is a double value specifying the upper limit for particle numbers. Species with a particle number above this value are considered as having a high particle number. The upper limit cannot be lower than the lower limit. The default value is '1000'.</dd></dl><br />
 <dl><dt><b>Runge Kutta Stepsize</b></dt><dd> This positive double value is the step size of the Runge-Kutta solver for the integration of the deterministic part of the system. The default value is '0.001'.</dd></dl><br />
 <dl><dt><b>Partitioning Interval</b></dt><dd> This positive integer value specifies after how many steps the internal partitioning of the system should be recalculated. The default is '1', i.e. after every step the partitioning of the system is checked.</dd></dl><br />
+<dl><dt><b>Use Random Seed</b></dt><dd> This flag can be '0' or '1' and determines if the user-defined random seed should be used for the calculation. The default is '0' meaning that the random seed is set to a random value before each run and consecutively calculated trajectories will be different. If the value of this flag is set to '1', the user-defined random seed will be used and each calculated trajectory will be the same for the same value of the given random seed.</dd></dl><br />
+<dl><dt><b>Random Seed</b></dt><dd> This unsigned integer is used as random seed in the calculations, if the flag Use Random Seed is set to '1'. The default value is '1'.</dd></dl><br />
+<br />
+
+<h3 name="Hybrid_LSODA">Hybrid (LSODA)</h3>
+<p>This Hybrid method is quite simular to the the Hybrid (Runge-Kutta) described above, but where it uses a fourth order Runge-Kutta method for integration it uses LSODA.</p>
+<br />
+<h4 name="Options_for_Hybrid_LSODA">Options for Hybrid (LSODA)</h4>
+<dl><dt><b>Max Internal Steps</b></dt><dd> This parameter is a positive integer value specifying the maximal number of internal steps the integrator is allowed to take before the next desired reporting time. The default value is '1000000'.</dd></dl><br />
+<dl><dt><b>Lower Limit</b></dt><dd> This parameter is a double value specifying the lower limit for particle numbers. Species with a particle number below this value are considered as having a low particle number. The lower limit cannot be higher than the upper limit. The default value is '800'.</dd></dl><br />
+<dl><dt><b>Upper Limit</b></dt><dd> This parameter is a double value specifying the upper limit for particle numbers. Species with a particle number above this value are considered as having a high particle number. The upper limit cannot be lower than the lower limit. The default value is '1000'.</dd></dl><br />
+<dl><dt><b>Runge Kutta Stepsize</b></dt><dd> This positive double value is the step size of the Runge-Kutta solver for the integration of the deterministic part of the system. The default value is '0.001'.</dd></dl><br />
+<dl><dt><b>Partitioning Interval</b></dt><dd> This positive integer value specifies after how many steps the internal partitioning of the system should be recalculated. The default is '1', i.e. after every step the partitioning of the system is checked.</dd></dl><br />
+<dl><dt><b>Use Random Seed</b></dt><dd> This flag can be '0' or '1' and determines if the user-defined random seed should be used for the calculation. The default is '0' meaning that the random seed is set to a random value before each run and consecutively calculated trajectories will be different. If the value of this flag is set to '1', the user-defined random seed will be used and each calculated trajectory will be the same for the same value of the given random seed.</dd></dl><br />
+<dl><dt><b>Random Seed</b></dt><dd> This unsigned integer is used as random seed in the calculations, if the flag Use Random Seed is set to '1'. The default value is '1'.</dd></dl><br />
+<br />
+<dl><dt><b>Integrate Reduced Model</b></dt><dd> This parameter is a
+    boolean value to determine whether the integration shall be
+    performed using the mass conservation laws, i.e., reducing the
+    number of system variables or to use the complete model. A value
+    of '1' (the default) instructs COPASI to make use of the mass
+    conservation laws, whereas a value of '0' instructs COPASI to
+    determine all variables through ODEs.</dd></dl>
+<dl><dt><b>Relative Tolerance</b></dt><dd> This parameter is a numeric
+    value specifying the desired relative tolerance the user wants to
+    achieve. A smaller value means that the trajectory is calculated
+    more accurate. The default value is $1.0 \cdot 10^{-6}$. Please
+    note that best achievable relative tolerance is $2.22 \cdot 10^{-16}$ 
+    approximately.</dd></dl>
+<dl><dt><b>Absolute Tolerance</b></dt><dd> This parameter is a
+    positive numeric value specifying the desired absolute tolerance
+    the user wants to achieve. Please note that for species the
+    absolute tolerance is applied to the concentration value. The
+    default value is $1.0 \cdot 10^{-12}$.</dd></dl>
+<dl><dt><b>Max Internal Step Size</b></dt><dd> This parameter is a
+    positive double value specifying the maximal size of an internal
+    steps the integrator is allowed to take. The default '0' means
+    that there is no such limit.</dd></dl>
+
+<h3 name="Hybrid_RK45">Hybrid (RK-45)</h3>
+<p>Where the other hybrid methods use a dynamic partitioning strategy based on the particle number of the metabolites, the Hybrid (RK-45) method uses a user defined partitioning strategy. </p>
+<br />
+<h4 name="Options_for_Hybrid_RK45">Options for Hybrid (RK-45)</h4>
+<dl><dt><b>Max Internal Steps</b></dt><dd> This parameter is a positive integer value specifying the maximal number of internal steps the integrator is allowed to take before the next desired reporting time. The default value is '1000000'.</dd></dl><br /><dl><dt><b>Relative Tolerance</b></dt><dd> This parameter is a numeric
+    value specifying the desired relative tolerance the user wants to
+    achieve. A smaller value means that the trajectory is calculated
+    more accurate. The default value is $1.0 \cdot 10^{-6}$. Please
+    note that best achievable relative tolerance is $2.22 \cdot 10^{-16}$ 
+    approximately.</dd></dl>
+<dl><dt><b>Absolute Tolerance</b></dt><dd> This parameter is a
+    positive numeric value specifying the desired absolute tolerance
+    the user wants to achieve. Please note that for species the
+    absolute tolerance is applied to the concentration value. The
+    default value is $1.0 \cdot 10^{-9}$.</dd></dl>
+<dl><dt><b>Partitioning Strategy</b></dt><dd> This is one of 
+<em>All Reactions Deterministic</em>, <em>All Reactions Stochastic</em>, or <em>User specified Partition</em>.
+</dd></dl><br />
+<dl><dt><b>Deterministic Reactions</b></dt><dd> When <em>User specified Partition</em> was selected as Partitioning Strategy, users can specify under this options which reactions are to be simulated deterministically, the remaining ones will be simulated stochastically.</dd></dl><br />
 <dl><dt><b>Use Random Seed</b></dt><dd> This flag can be '0' or '1' and determines if the user-defined random seed should be used for the calculation. The default is '0' meaning that the random seed is set to a random value before each run and consecutively calculated trajectories will be different. If the value of this flag is set to '1', the user-defined random seed will be used and each calculated trajectory will be the same for the same value of the given random seed.</dd></dl><br />
 <dl><dt><b>Random Seed</b></dt><dd> This unsigned integer is used as random seed in the calculations, if the flag Use Random Seed is set to '1'. The default value is '1'.</dd></dl><br />
 <br />
