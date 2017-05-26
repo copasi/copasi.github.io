@@ -180,6 +180,39 @@ be useful if e.g. chaotic behavior is expected.</li>
 
 <p>And here the complete example with the scan setup: <a class="btn btn-default" href="./BIOMD0000000329_scan.cps" role="button" download><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download &raquo;</a></p>
 
+<h3>Example 2</h3>
+<p>As another example we show a route to chaos via period doubling bifurcations. The model is a chemical-reaction-kinetics analogon to Rössler’s simple chaotic attractor [1,2].</p>
+<p>As in the previous example, we set up the cross section task to detect maxima of a variable (X2). The settings are chosen to allow a relatively efficient calculation of the bifurcation diagram:</p>
+<ul>
+
+<li>The plotting is started after at most 50 oscillations, but earlier, if a limit cycle is reached before that with an accuracy of 1e-5.</li>
+<li>The plotting is stopped after 1000 time units or 50 detected maxima, whichever occurs earlier. Again, it is stopped earlier if a limit cycle is detected.</li>
+</ul>
+
+<p><img class="img-responsive  center-block" border=0 id="Picture 19"
+alt="Cross section options for chaotic example"
+title="Cross section options for chaotic example"
+src="images/ex2-cross-section-settings.png"></p>
+
+<p>The scan task is set up to scan the autocatalytic expansion parameter from 0.05 to 0.2, and a plot with the scan parameter on the x axis and X2-concentration on the y axis is defined. </p>
+
+<p><img class="img-responsive  center-block" border=0 id="Picture 19"
+alt="Scan settings options for chaotic example"
+title="Scan settings options for chaotic example"
+src="images/ex2-scan-settings.png"></p>
+
+<p>The result is the famous Feigenbaum diagram of the period doubling route to chaos.</p>
+
+<p><img class="img-responsive  center-block" border=0 id="Picture 19"
+alt="Resulting plot for chaotic example"
+title="Resulting plot for chaotic example"
+src="images/ex2-plot.png"></p>
+
+<p>And the complete example with the scan setup: <a class="btn btn-default" href="./chaos3v2.cps" role="button" download><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download &raquo;</a></p>
+
+<h3>References</h3>
+<p>[1] O. E. Rössler: An Equation for Continuous Chaos. Physics Letters Vol. 57A no 5, pp 397-398, 1976.</p>
+<p>[2] Baier, G., & Sahle, S. (1995). Design of hyperchaotic flows. Physical Review E, 51(4), R2712–R2714. <a href="http://doi.org/10.1103/PhysRevE.51.R2712" target="_blank">doi:10.1103/PhysRevE.51.R2712</a></p>
 </div>
 
  
