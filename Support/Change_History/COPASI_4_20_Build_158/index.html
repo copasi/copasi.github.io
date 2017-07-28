@@ -1,0 +1,195 @@
+---
+layout: structure
+title: "COPASI 4.20 Build 158"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.20.158</h3>
+    Release Date: July 31, 2017<br />
+    <h4>New Features since COPASI 4.19 (Build 140)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            It is now possible to export the rendered mathematical
+            expressions to a PDF document.
+          </li>
+          <li> 
+            The application window remembers the size of the window
+            and the with of the left browser pane to avoid frequent
+            adjustment by the user.
+          </li>
+          <li> 
+            Plots can now be activated and deactivated in the plot itself.
+          </li>
+          <li>
+            When an experimental data file is not found at the
+            expected location COPASI allows now specify a new location
+            by opening a file open dialog.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li> 
+            The Avogadro symbol can now be used in user defined functions.
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.19 (Build 140)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Changing the quantity unit is now reflected in plots for
+            which data new data is generated after the change. 
+          </li>
+          <li>
+            Name changes in newly created plots and report are now
+            properly propagated.
+          </li>
+          <li>
+            Fixed a problem which prevented the changing of the rate law for reactions.
+          </li>
+          <li> 
+            Fixed a problem which prevented setting the initial state
+            to the current state of the model through by pressing the
+            S -> IS button.
+          </li>
+          <li> 
+            Fixed problem which caused reactions to loose parameter
+            mapping for species when the species had been renamed.
+          </li>
+          <li> 
+            The scaling compartment is now correctly displayed in the ODEs.
+          </li>
+          <li> 
+            Stead-State analysis result are no longer editable by the user.
+          </li>
+          <li> 
+            The units of model can now be entered directly by the user
+            instead of being limited by the selection available in the
+            combo boxes.
+          </li>
+          <li> 
+            Fixed crash when changing a rate law while sliders
+            associated with reaction parameters were displayed.
+          </li>
+          <li> 
+            Saving a model right after entering an initial assignment
+            for a species without committing the changes lead to an
+            inconsistency when loading the file. The assignment was
+            correctly loaded however the outdated initial value was not recalculated.
+          </li>
+          <li> 
+            Improved the undo/redo functionality to better record and
+            apply the changes done by the user.
+          </li>
+          <li> 
+            Improved graphics quality and Mac-OS with retina display.
+          </li>
+          <li> 
+            Prevented crash when attempting to set the start value of
+            parameters in the optimization and parameter estimation
+            task based on current solution values occurring when no
+            current solution was found.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Prevent crash occurring when attempting to access result
+            matrix elements which are not existing. 
+          </li>
+          <li> 
+            When loading a COPASI while with a broken parameter
+            mapping for species in a reaction COPASI recovers automatically.
+          </li>
+          <li> 
+            Prevented crash of models with discontinuities that where
+            triggered by the condition during time course execution.
+          </li>
+          <li> 
+            Fixed an issues in the parameter estimation task where
+            constraints where in some cases constraints where not
+            correctly evaluated.
+          </li>
+          <li> 
+            Fixed a problem where empty reactions could cause a crash
+            during undo.
+          </li>
+          <li> 
+            Improved restart after a discrete event did not change the model
+            state to prevent detecting the same event twice.
+          </li>
+          <li> 
+            Fixed scaling problem of MCA result caused by the addition
+            of the summation theorem error check column.
+          </li>
+          <li> 
+            Prevent problem where in some situations during stochastic
+            simulations with discrete events COPASI did no longer proceed.
+          </li>
+          <li> 
+            Fixed a problem where an event assignment changing an
+            infinite value to a finite value was not propagated to
+            the integrator.
+          </li>
+          <li> 
+            Improved stability of the time scaling separation analysis.
+          </li>
+        </ul>
+      </li>
+      <li> SBML
+        <ul>
+          <li>
+            Fix problem which prevented opening an SBML file through
+            the open dialog or drag and drop.
+          </li>
+          <li> 
+            Fixed an issue where SBML export and subsequent SBML
+            import changed the model behavior of reactions whose modifiers
+            where in different compartment than substrates and products.
+          </li>
+          <li> 
+            Corrected the export of the scaling compartment in the
+            case where the user choose non-default behavior for a
+            multi-compartment reaction.
+          </li>
+          <li> 
+            Constraints are now correctly listed in the default report
+            for parameter estimation.
+          </li>
+        </ul>
+      </li>
+      <li> SED-ML
+        <ul>
+          <li>
+            Fixed export of reactions which had parenthesis in the
+            reaction name.
+          </li>
+          <li> 
+            Improved import and export of time course description to
+            properly handle output start times different from the
+            initial time.
+          </li>
+          <li> 
+            Improved export of plots so that they can be unique
+            associated with an analysis task.
+          </li>
+        </ul>
+      </li>
+      <li> ODE Export
+        <ul>
+          <li>
+            Fixed problem where not all local rection parameters where exported.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
