@@ -1,8 +1,25 @@
 -
- Reference: "Dalle Pezze P, Le Novère N (2017) SBpipe: a collection of pipelines for automating repetitive simulation and analysis tasks. BMC systems biology, 11(1), 46"
+ Reference: "Baumgart L, Mather W, Hasty J (2017) Synchronized DNA cycling across a bacterial population. Nature Genetics, 49:1282–128"
+ Year: 2017
+ URL: https://doi.org/10.1038/ng.3915
+ Keywords:
+  - Synthetic Biology
+  - Microbiology
+ Type: 2
+ Locations:
+  - University of California, San Diego, La Jolla, California, USA
+  - Virginia Tech, Blacksburg, Virginia, USA
+ Funding:
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Dalle Pezze P, Le Novère N (2017) SBpipe: a collection of pipelines for automating repetitive simulation and analysis tasks. BMC Systems Biology, 11:46"
  Year: 2017
  URL: https://doi.org/10.1186/s12918-017-0423-3
  Keywords:
+  - Computational Method
  Type: 3
  Locations: 
   - The Babraham Institute, Cambridge, UK
@@ -20,6 +37,68 @@
   - CSIR-Central Drug Research Institute, Lucknow, India
   - Jaypee Institute of Information Technology, Noida, India
   - Deen Dayal Upadhyay Gorakhpur University, Gorakhpur, India
+-
+ Reference: "Tolleter D, Chochois V, Poiré R, Price GD, Badger MR (2017) Measuring CO2 and HCO3- permeabilities of isolated chloroplasts using a MIMS-18O approach. Journal of Experimental Botany. doi:10.1093/jxb/erx188"
+ Year: 2017
+ URL: https://doi.org/10.1093/jxb/erx188
+ Keywords:
+  - Laboratory Method
+  - Physiology
+ Type: 3
+ Locations:
+  - Australian National University, Canberra, Australia
+ Funding:
+  - Australian Research Council
+  - Bill and Melinda Gates Foundation
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Andrews SS, Peria WJ, Richard CY, Colman-Lerner A, Brent R (2016) Push-pull and feedback mechanisms can align signaling system outputs with inputs. Cell Systems 3:444–455"
+ Year: 2016
+ URL: https://doi.org/10.1016/j.cels.2016.10.002
+ Keywords:
+  - Signaling
+ Type: 2
+ Locations:
+  - Fred Hutchinson Cancer Research Center, Seattle, Washington, USA
+  - University of Buenos Aires, Argentina
+  - The Molecular Sciences Institute, Berkeley, California, USA
+ Funding:
+  - NIH
+  - MITRE
+  - Simons Foundation
+-
+ Reference: "Beuke K (2016) TNF-induced NF-κB Signal Transduction in the Liver. PhD Thesis, Heidelberg University."
+ Year: 2016
+ Keywords:
+  - Immunology
+  - Signaling
+ URL: https://doi.org/10.11588/heidok.00020853
+ Locations:
+  - Heidelberg University, Heidelberg, Germany
+ Funding:
+  - BMBF
+ Methods:
+  - steady state
+  - time course
+  - parameter estimation
+-
+ Reference: "Boross G, Papp B (2016) No evidence that protein noise-induced epigenetic epistasis constrains gene expression evolution. Molecular Biology and Evolution 34:380–390"
+ Year: 2016
+ URL: https://doi.org/10.1093/molbev/msw236
+ Keywords:
+  - Metabolism
+  - Genetics
+ Type: 2
+ Locations:
+  - Institute of Biochemistry, Biological Research Centre, Szeged, Hungary
+ Funding:
+  - The Wellcome Trust
+  - Hungarian Academy of Sciences
+ Methods:
+  - steady state
+  - parameter scan
 -
  Reference: "Burés J (2016) A Simple Graphical Method to Determine the Order in Catalyst. Angew. Chem. Int. Ed. Engl. 55:2028-31"
  Year: 2016
@@ -198,6 +277,23 @@
  Funding:
   - University of Chester
 -
+ Reference: "Özkar S, Finke RG (2016) Palladium(0) Nanoparticle Formation, Stabilization, and Mechanistic Studies: Pd(acac) 2 as a Preferred Precursor, [Bu 4 N] 2 HPO 4 Stabilizer, plus the Stoichiometry, Kinetics, and Minimal, Four-Step Mechanism of the Palladium Nanoparticle Formation and Subsequent Agglomeration Reactions. Langmuir 32:3699–3716"
+ Year: 2016
+ URL: https://doi.org/10.1021/acs.langmuir.6b00013
+ Keywords:
+  - Chemistry
+ Type: 2
+ Locations:
+  - Colorado State University, Colorado, USA
+  - Middle East Technical University, Ankara, Turkey
+ Funding:
+  - DOE
+  - Fulbright Foundation
+  - Turkish Academy of Sciences
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Pappalardo F, Russo G, Candido S, Pennisi M, Cavalieri S, Motta S, McCubrey JA, Nicoletti F, Libra M (2016) Computational Modeling of PI3K/AKT and MAPK Signaling Pathways in Melanoma Cancer. PLOS ONE 11:e0152104"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pone.0152104
@@ -330,6 +426,28 @@
  Funding:
   - NIH
 -
+ Reference: "Woller A, Duez H, Staels B, Lefranc M (2016) A mathematical model of the liver circadian clock linking feeding and fasting cycles to clock function. Cell Reports 17:1087–1097"
+ Year: 2016
+ URL: https://doi.org/10.1016/j.celrep.2016.09.060
+ Keywords:
+  - Metabolism
+  - Physiology
+  - Signaling
+ Locations:
+  - University of Lille, Lille, France
+ Funding:
+  - INSERM
+  - CNRS
+  - French Ministry of Higher Education and Research
+  - Hauts de France Regional Council
+  - European Regional Development Fund
+  - European Foundation for the Study of Diabetes
+  - Fondation Francophone pour la Recherche sur le Diabète
+  - EU FP7
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Xu H, Diccianni JB, Katigbak J, Hu C, Zhang Y, Diao T (2016) Bimetallic C–C Bond-Forming Reductive Elimination from Nickel. Journal of the American Chemical Society 138:4779–4786"
  Year: 2016
  URL: https://doi.org/10.1021/jacs.6b00016
@@ -343,23 +461,6 @@
   - New York University
  Methods:
   - parameter estimation
--
- Reference: "Özkar S, Finke RG (2016) Palladium(0) Nanoparticle Formation, Stabilization, and Mechanistic Studies: Pd(acac) 2 as a Preferred Precursor, [Bu 4 N] 2 HPO 4 Stabilizer, plus the Stoichiometry, Kinetics, and Minimal, Four-Step Mechanism of the Palladium Nanoparticle Formation and Subsequent Agglomeration Reactions. Langmuir 32:3699–3716"
- Year: 2016
- URL: https://doi.org/10.1021/acs.langmuir.6b00013
- Keywords:
-  - Chemistry
- Type: 2
- Locations:
-  - Colorado State University, Colorado, USA
-  - Middle East Technical University, Ankara, Turkey
- Funding:
-  - DOE
-  - Fulbright Foundation
-  - Turkish Academy of Sciences
- Methods:
-  - parameter estimation
-  - time course
 -
  Reference: "Amemiya T, Honma M, Kariya Y, Ghosh S, Kitano H, Kurachi Y, Fujita K, Sasaki Y, Homma Y, Abernethy DR, Kume H, Suzuki H (2015) Elucidation of the molecular mechanisms underlying adverse reactions associated with a kinase inhibitor using systems toxicology. npj Systems Biology and Applications 1:15005"
  Year: 2015
@@ -522,7 +623,7 @@
  Locations:
   - University of Lübeck, Lübeck, Germany
  Funding:
-  - Germany's Excellence Initiative (DFG)
+  - "Germany's Excellence Initiative (DFG)"
 -
  Reference: "Dromms RA, Styczynski MP (2015) Improved metabolite profile smoothing for flux estimation. Molecular BioSystems 11:2394-2405"
  Year: 2015
@@ -4171,7 +4272,7 @@
   - University of Glasgow, Glasgow, UK
   - Maastricht University, Maastricht, Netherlands
   - Lund University, Lund, Sweden
-  - St Jude Children's Research Hospital, Memphis TN, USA
+  - "St Jude Children's Research Hospital, Memphis TN, USA"
   - Beatson Institute for Cancer Research, Glasgow, UK
   - Brunel University, Middlesex, UK
  Funding:
