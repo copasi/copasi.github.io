@@ -37,6 +37,39 @@
  Methods:
   - time course
 -
+ Reference: "Haffez H, Chisholm DR, Valentine R, Pohl E, Redfern C, Whiting A (2017) The molecular basis of the interactions between synthetic retinoic acid analogues and the retinoic acid receptors. MedChemComm 8:578"
+ Year: 2017
+ URL: https://doi.org/10.1039/c6md00680a
+ Keywords:
+  - Biochemistry
+  - Pharmacology
+ Type: 2
+ Locations:
+  - Durham University, UK
+  - Newcastle University, Newcastle upon Tyne, UK
+  - Helwan University, Cairo, Egypt
+  - High Force Research Ltd., Bowburn North Industrial Estate, Bowburn, Durham, DH6 5PF, UK
+ Funding:
+  - EPSRC
+  - BBSRC
+  - High Force Research Ltd.
+  - Egyptian Council and Cultural Bureau
+-
+ Reference: "Hagen SJ, Son M (2017) Origins of heterogeneity in Streptococcus mutans competence: interpreting an environment-sensitive signaling pathway. Physical Biology 14:015001"
+ Year: 2017
+ URL: https://doi.org/10.1088/1478-3975/aa546c
+ Keywords:
+  - Signaling
+  - Microbiology
+ Locations:
+  - University of Florida, Gainesville, Florida, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - stochastic simulation
+  - sensitivity analysis
+-
  Reference: "Haurat MF, Figueiredo AS, Hoffmann L, Li L, Herr K, J Wilson A, Beeby M, Schaber J, Albers S-V (2017) ArnS, a kinase involved in starvation-induced archaellum expression. Molecular Microbiology 103:181–194"
  Year: 2017
  URL: https://doi.org/10.1111/mmi.13550
@@ -478,6 +511,19 @@
   - University of Chicago, Chicago, Illinois, USA
  Funding:
   - NIH
+- 
+ Reference: "Wei D, Roisnel T, Darcel C, Clot E, Sortais J-B (2016) Hydrogenation of Carbonyl Derivatives with a Well-Defined Rhenium Precatalyst. ChemCatChem 9:80–83"
+ Year: 2016
+ URL: https://doi.org/10.1002/cctc.201601141
+ Keywords:
+  - Chemistry
+ Type: 2
+ Locations:
+  - NRS Université de Rennes 1, France
+  - Université de Montpellier, France
+ Funding:
+  - CNRS
+  - EU ERDF
 -
  Reference: "Woller A, Duez H, Staels B, Lefranc M (2016) A mathematical model of the liver circadian clock linking feeding and fasting cycles to clock function. Cell Reports 17:1087–1097"
  Year: 2016
@@ -500,6 +546,22 @@
  Methods:
   - time course
   - parameter estimation
+-
+ Reference: "Xie Y (2016) Multi-scale modelling of the cellular and molecular mechanisms of hyperpolarisation mediated synaptic plasticity in the vestibular nuclei. MSc Thesis, The University of Edinburgh"
+ Year: 2016
+ URL: http://hdl.handle.net/1842/18025
+ Keywords:
+  - Signaling
+  - Physiology
+ Locations:
+  - The University of Edinburgh
+ Type: 2
+ Funding:
+  - Zhejiang University, China
+ Methods:
+  - time course
+  - events
+  - parameter scan
 -
  Reference: "Xu H, Diccianni JB, Katigbak J, Hu C, Zhang Y, Diao T (2016) Bimetallic C–C Bond-Forming Reductive Elimination from Nickel. Journal of the American Chemical Society 138:4779–4786"
  Year: 2016
