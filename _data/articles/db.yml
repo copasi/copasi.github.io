@@ -128,6 +128,42 @@
   - time course
   - parameter estimation
 -
+ Reference: "Levin MD, Kaphan DM, Hong CM, Bergman RG, Raymond KN, Toste FD (2016) Scope and Mechanism of Cooperativity at the Intersection of Organometallic and Supramolecular Catalysis. Journal of the American Chemical Society 138:9682–9693"
+ Year: 2016
+ URL: https://doi.org/10.1021/jacs.6b05442
+ Keywords:
+  - Enzymology
+  - Chemistry
+ Type: 2
+ Locations:
+  - Lawrence Berkeley National Laboratory, Berkeley, California, USA
+  - University of California, Berkeley, California, USA
+ Funding:
+  - U.S. Department of Energy
+  - NIH
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Meng X, Firczuk H, Pietroni P, Westbrook R, Dacheux E, Mendes P, McCarthy JE (2016) Minimum-noise production of translation factor eIF4G maps to a mechanistically determined optimal rate control window for protein synthesis. Nucleic Acids Research 45:1015–1025"
+ Year: 2016
+ URL: https://doi.org/10.1093/nar/gkw1194
+ Keywords:
+  - Biochemistry
+  - Macromolecular Biochemistry
+ Type: 2
+ Locations:
+  - University of Warwick, Coventry, UK
+  - University of Connecticut School of Medicine, Farmington, Connecticut, USA
+ Funding:
+  - BBSRC
+  - NIH
+  - University of Warwick
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Mizeranschi AE, Swain MT, Scona R, Fazilleau Q, Bosak B, Piontek T, Kopta P, Thompson P, Dubitzky W (2016) MultiGrain/MAPPER: A distributed multiscale computing approach to modeling and simulating gene regulation networks. Future Generation Computer Systems 63:1–14"
  Year: 2016
  URL: https://doi.org/10.1016/j.future.2016.04.002
@@ -173,6 +209,18 @@
   - Brody School of Medicine at East Carolina University, Greenville, NC, United States of America
  Funding:
   - FIR2014 University of Catania, Italy
+-
+ Reference: "Pires JC, Conant GC (2016) Robust yet fragile: expression noise, protein misfolding, and gene dosage in the evolution of genomes. Annual Review of Genetics 50:113–131"
+ Year: 2016
+ URL: https://doi.org/10.1146/annurev-genet-120215-035400
+ Keywords:
+  - Genetics
+  - Genomics
+ Type: 2
+ Locations:
+  - University of Missouri, Columbia, Missouri
+ Funding:
+  - NSF
 -
  Reference: "Rantasalo A, Czeizler E, Virtanen R, Rousu J, Lähdesmäki H, Penttilä M, Jäntti J, Mojzita D (2016) Synthetic Transcription Amplifier System for Orthogonal Control of Gene Expression in Saccharomyces cerevisiae. PLOS ONE 11:e0148320"
  Year: 2016
@@ -3827,9 +3875,10 @@
  Keywords:
  Type: 2
  Locations:
-  - UniVersity of Wisconsin-Madison, Madison, Wisconsin, USA
+  - University of Wisconsin-Madison, Madison, Wisconsin, USA
  Funding:
-  - the National Science Foundation (CHE-0715491) NSF CHE-0342998, NIH 1 S10 RR13866-01, NSF CHE-9629688, and NSF CHE-9208463
+  - NSF
+  - NIH
 -
  Reference: "Wendelsdorf K, Bassaganya-Riera J, Hontecillas R,  Eubank S (2010) Model of colonic inflammation: immune modulatory mechanisms in inflammatory bowel disease. J. Theoret. Biol. 264:1225-1239"
  Year: 2010
