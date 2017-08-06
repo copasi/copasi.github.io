@@ -20,9 +20,45 @@
  URL: https://doi.org/10.1186/s12918-017-0423-3
  Keywords:
   - Computational Method
+  - Software
  Type: 3
  Locations: 
   - The Babraham Institute, Cambridge, UK
+-
+ Reference: "Fortuny AF (2017) Chemometric Approaches for Systems Biology. PhD Thesis, Universitat Politècnica de València."
+ Year: 2017
+ URL: https://riunet.upv.es/handle/10251/77148
+ Keywords:
+  - Computational Method
+ Type: 3
+ Locations:
+  - Universitat Politècnica de València, Spain
+ Funding:
+ Methods:
+  - time course
+-
+ Reference: "Haurat MF, Figueiredo AS, Hoffmann L, Li L, Herr K, J Wilson A, Beeby M, Schaber J, Albers S-V (2017) ArnS, a kinase involved in starvation-induced archaellum expression. Molecular Microbiology 103:181–194"
+ Year: 2017
+ URL: https://doi.org/10.1111/mmi.13550
+ Keywords:
+  - Microbiology
+  - Signaling
+ Type: 2
+ Locations:
+  - University of Freiburg, Germany
+  - Otto von Guericke University, Magdeburg, Germany
+  - Imperial College London, London, UK
+ Funding:
+  - Max Planck Society
+  - Chinese Scholarship Council
+  - BMBF
+  - DFG
+  - EU Horizon2020
+  - EU Marie Curie Career Integration Grant
+  - Leverhulme Trust
+ Methods:
+  - parameter estimation
+  - time course
 -
  Reference: "Kaushik AC, Kumar A, Dwivedi VD, Bharadwaj S, Kumar S, Bharti K, Kumar P, Chaudhary RK, Mishra SK (2017) Deciphering the Biochemical Pathway and Pharmacokinetic Study of Amyloid βeta-42 with Superparamagnetic Iron Oxide Nanoparticles (SPIONs) Using Systems Biology Approach. Molecular Neurobiology"
  Year: 2017
@@ -164,6 +200,23 @@
   - Pew Scholar Award
   - Alexander von Humboldt Foundation
   - Howard Hughes Medical Institute
+-
+ Reference: "Kagan VE, Mao G, Qu F, Angeli JPF, Doll S, St Croix C, Dar HH, Liu B, Tyurin VA, Ritov VB, Kapralov AA, Amoscato AA, Jiang J, Anthonymuthu T, Mohammadyani D, Yang Q, Proneth B, Klein-Seetharaman J, Watkins S, Bahar I, Greenberger J, Mallampalli RK, Stockwell BR, Tyurina YY, Conrad M, Bayır H (2017) Oxidized arachidonic and adrenic PEs navigate cells to ferroptosis. Nature Chemical Biology 13:81–90"
+ Year: 2016
+ URL: https://doi.org/10.1038/nchembio.2238
+ Type: 2
+ Keywords:
+  - Metabolism
+  - Cell Biology
+ Locations:
+  - University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+  - Institute of Developmental Genetics, Helmholtz Zentrum München, Neuherberg, Germany
+  - University of Warwick, Coventry, UK
+  - Columbia University, New York, New York, USA
+ Funding:
+  - Human Frontier Science Program
+  - NIH
+  - DFG
 -
  Reference: "Kilner J, Corfe BM, McAuley MT, Wilkinson SJ (2016) A deterministic oscillatory model of microtubule growth and shrinkage for differential actions of short chain fatty acids. Mol. BioSystems 12:93-101"
  Year: 2016
@@ -462,6 +515,54 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Zaccarin M, Bosello-Travain V, Di Paolo ML, Falda M, Maiorino M, Miotto G, Piccolo S, Roveri A, Ursini F, Venerando R, Toppo, Stefano (2016) Redox status in a model of cancer stem cells. Archives of Biochemistry and Biophysics 617:120–128"
+ Year: 2016
+ URL: https://doi.org/10.1016/j.abb.2016.09.002
+ Keywords: 
+  - Metabolism
+  - Biochemistry
+ Type: 2
+ Locations:
+  - University of Padova, Italy
+ Funding:
+  - Human Frontier Science Program
+  - University of Padova
+ Methods:
+  - steady state
+-
+ Reference: "Zimmer C, Bergmann FT, Sahle S (2016) Reducing local minima in fitness landscapes of parameter estimation by using piecewise evaluation and state estimation. arXiv preprint arXiv:1601.04458"
+ Year: 2016
+ URL: https://arxiv.org/abs/1601.04458
+ Keywords:
+  - Computational Method
+ Type: 3
+ Locations:
+  - Heidelberg University, Germany
+ Funding:
+  - BIOMS
+  - BMBF Virtual Liver
+  - NIH
+  - Klaus Tschira Stiftung
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Zimmer C, Sahle S (2016) Comparison of approaches for parameter estimation on stochastic models: Generic least squares versus specialized approaches. Computational Biology and Chemistry 61:75–85"
+ Year: 2016
+ URL: https://doi.org/10.1016/j.compbiolchem.2015.10.003
+ Keywords:
+  - Computational Method
+ Type: 3
+ Locations:
+  - Heidelberg University, Germany
+ Funding:
+  - BIOMS
+  - Klaus Tschira Stiftung
+ Methods:
+  - stochastic simulation
+  - time course
+  - parameter estimation
+-
  Reference: "Amemiya T, Honma M, Kariya Y, Ghosh S, Kitano H, Kurachi Y, Fujita K, Sasaki Y, Homma Y, Abernethy DR, Kume H, Suzuki H (2015) Elucidation of the molecular mechanisms underlying adverse reactions associated with a kinase inhibitor using systems toxicology. npj Systems Biology and Applications 1:15005"
  Year: 2015
  URL: https://doi.org/10.1038/npjsba.2015.5
@@ -623,7 +724,7 @@
  Locations:
   - University of Lübeck, Lübeck, Germany
  Funding:
-  - "Germany's Excellence Initiative (DFG)"
+  - DFG
 -
  Reference: "Dromms RA, Styczynski MP (2015) Improved metabolite profile smoothing for flux estimation. Molecular BioSystems 11:2394-2405"
  Year: 2015
