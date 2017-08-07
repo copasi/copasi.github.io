@@ -1,14 +1,16 @@
 pages:
 - path: Events
   title: "Events"
-- path: Events/CMC16
-  title: "2016 Conference on Computational Modelling with COPASI"
-- path: Events/CMC16/Travel
-  title: "Travel and Accommodation"
-- path: Events/CMC16/Program
-  title: "Program"
+- path: Events/ICSB_2017_Tutorials
+  title: "ICSB 2017 Tutorials"
 - path: Events/Past_Events
   title: "Past Events"
+- path: Events/Past_Events/CMC16
+  title: "2016 Conference on Computational Modelling with COPASI"
+- path: Events/Past_Events/CMC16/Travel
+  title: "Travel and Accommodation"
+- path: Events/Past_Events/CMC16/Program
+  title: "Program"
 - path: Events/Past_Events/COPASI_User_Workshop_Manchester_May_2015
   title: "COPASI User Workshop Manchester May, 2015"
 - path: Events/Past_Events/COPASI_User_Workshop_VBI_2014
