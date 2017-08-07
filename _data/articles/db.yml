@@ -500,6 +500,55 @@
  Methods:
   - parameter estimation
 -
+ Reference: "van Eunen K, Volker-Touw CM, Gerding A, Bleeker A, Wolters JC, van Rijt WJ, Martines A-CM, Niezen-Koning KE, Heiner RM, Permentier H, Groen AK, Reijngoud D-J, Derks TGJ, Bakker BM (2016) Living on the edge: substrate competition explains loss of robustness in mitochondrial fatty-acid oxidation disorders. BMC Biology 14:107"
+ Year: 2016
+ URL: https://doi.org/10.1186/s12915-016-0327-5
+ Keywords:
+  - Metabolism
+ Type: 2
+ Locations:
+  - University of Groningen, The Netherlands
+  - University Medical Center Utrecht, The Netherlands
+ Funding:
+  - University of Groningen
+  - NWO
+  - Top Institute for Food and Nutrition
+ Methods:
+  - time course
+  - steady state
+  - parameter estimation
+-
+ Reference: "Vinciotti V, Augugliaro L, Abbruzzo A, Wit EC (2016) Model selection for factorial Gaussian graphical models with an application to dynamic regulatory networks. Statistical Applications in Genetics and Molecular Biology 15:193–212"
+ Year: 2016
+ https://doi.org/10.1515/sagmb-2014-0075
+ Keywords:
+  - Computational Method
+ Type: 3
+ Locations:
+  - Brunel University London, Uxbridge, UK
+  - University of Palermo, Italy
+  - University of Groningen, The Netherlands
+ Funding:
+ Methods:
+  - time course
+-
+ Reference: "Vranish JN, Das D, Barondeau DP (2016) Real-Time Kinetic Probes Support Monothiol Glutaredoxins As Intermediate Carriers in Fe–S Cluster Biosynthetic Pathways. ACS Chemical Biology 11:3114–3121"
+ Year: 2016
+ URL: https://doi.org/10.1021/acschembio.6b00632
+ Type: 2
+ Keywords:
+  - Enzymology
+  - Biochemistry
+ Locations:
+  - Texas A&M University, College Station, Texas, USA
+ Funding:
+  - Robert A. Welch Foundation
+  - NIH
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Walker MA, Madduri R, Rodriguez A, Greenstein JL, Winslow RL (2016) Models and Simulations as a Service: Exploring the Use of Galaxy for Delivering Computational Models. Biophysical Journal 110:1038–1043"
  Year: 2016
  URL: https://doi.org/10.1016/j.bpj.2015.12.041
