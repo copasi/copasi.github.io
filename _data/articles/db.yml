@@ -467,9 +467,9 @@
  Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
  Year: 2016
  URL: https://doi.org/10.1016/j.freeradbiomed.2016.02.035
+ Type: 2
  Keywords:
   - Metabolism
- Type: 2
  Locations:
   - Newcastle University, Newcastle upon Tyne, UK
   - University College London, London, UK
@@ -482,6 +482,19 @@
   - Howard Hughes Medical Institute
  Methods:
   - parameter estimation
+-
+ Reference: "Troják M, Šafránek D, Hrabec J, Šalagovič J, Romanovská F, Červenỳ J (2016) E-Cyanobacterium. org: A Web-Based Platform for Systems Biology of Cyanobacteria. International Conference on Computational Methods in Systems Biology. Springer, 316–322."
+ Year: 2016
+ URL: https://doi.org/10.1007/978-3-319-45177-0_20
+ Type: 3
+ Keywords:
+  - Software
+ Locations:
+  - Masaryk University, Brno, Czech Republic
+  - Global Change Research Centre AS CR, v. v. i., Brno, Czech Republic
+ Funding:
+  - Czech National Infrastructure
+  - Czech Science Foundation
 -
  Reference: "Tyc KM, Herwald SE, Hogan JA, Pierce JV, Klipp E, Kumamoto CA (2016) The game theory of Candida albicans colonization dynamics reveals host status-responsive gene expression. BMC Systems Biology 10:20"
  Year: 2016
@@ -499,6 +512,24 @@
   - EU Marie Curie Initial Training Network
  Methods:
   - parameter estimation
+-
+ Reference: "Valero E, Macià H, Ildefonso M, Hernández J-A, González-Sánchez M-I, García-Carmona F (2016) Modeling the ascorbate-glutathione cycle in chloroplasts under light/dark conditions. BMC Systems Biology 10:11"
+ Year: 2016
+ URL: https://doi.org/10.1186/s12918-015-0239-y
+ Type: 2
+ Keywords:
+  - Metabolism
+  - Physiology
+ Locations:
+  - University of Castilla-La Mancha, Spain
+  - University of the Basque Country, Spain
+  - University of Murcia, Spain
+  - CEBAS-CSIC, Murcia, Spain
+ Funding:
+  - Spanish Ministry of Economy and Competitiveness
+  - Junta de Comunidades de Castilla-La Mancha
+ Methods:
+  - time course
 -
  Reference: "van Eunen K, Volker-Touw CM, Gerding A, Bleeker A, Wolters JC, van Rijt WJ, Martines A-CM, Niezen-Koning KE, Heiner RM, Permentier H, Groen AK, Reijngoud D-J, Derks TGJ, Bakker BM (2016) Living on the edge: substrate competition explains loss of robustness in mitochondrial fatty-acid oxidation disorders. BMC Biology 14:107"
  Year: 2016
