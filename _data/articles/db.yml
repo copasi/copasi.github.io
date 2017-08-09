@@ -97,7 +97,10 @@
  Year: 2017
  URL: https://doi.org/10.1007/s12035-017-0546-y
  Keywords:
- Type: 3
+  - Biochemistry
+  - Pharmacology
+  - Laboratory Method
+ Type: 2
  Locations: 
   - Gautam Buddha University, Greater Noida, India
   - Ben-Gurion University of the Negev, Beer-Sheva, Israel
@@ -106,6 +109,20 @@
   - CSIR-Central Drug Research Institute, Lucknow, India
   - Jaypee Institute of Information Technology, Noida, India
   - Deen Dayal Upadhyay Gorakhpur University, Gorakhpur, India
+-
+ Reference: "Stasiw DE, Mandal M, Neisen BD, Mitchell LA, Cramer CJ, Tolman WB (2017) Why So Slow? Mechanistic Insights from Studies of a Poor Catalyst for Polymerization of ε-Caprolactone. Inorganic Chemistry 56:725–728"
+ Year: 2017
+ URL: https://doi.org/10.1021/acs.inorgchem.6b02849
+ Keywords:
+  - Chemistry
+ Type: 2
+ Locations:
+  - University of Minnesota, Minneapolis, Minnesota, USA
+ Funding:
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Tatham MH, Cole C, Scullion P, Wilkie R, Westwood NJ, Stark LA, Hay RT (2017) A proteomic approach to analyse the aspirin-mediated lysine acetylome. Molecular & Cellular Proteomics 16:310–326"
  Year: 2017
@@ -484,6 +501,37 @@
   - CNRS/Université Paris-Sud/CEA, Gif sur Yvette, France
  Funding:
   - Japanese Ministry of Education, Culture, Sports, Science and Technology
+-
+ Reference: "Stanger FV, Burmann BM, Harms A, Aragão H, Mazur A, Sharpe T, Dehio C, Hiller S, Schirmer T (2016) Intrinsic regulation of FIC-domain AMP-transferases by oligomerization and automodification. Proceedings of the National Academy of Sciences 113:E529–E537"
+ Year: 2016
+ URL: https://doi.org/10.1073/pnas.1516930113
+ Keywords:
+  - Enzymology
+ Type: 2
+ Locations:
+  - University of Basel, CH-4056 Basel, Switzerland
+ Funding:
+  - European Research Council
+  - Swiss National Science Foundation
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Sung S, Sale D, Braddock DC, Armstrong A, Brennan C, Davies RP (2016) Mechanistic Studies on the Copper-Catalyzed N-Arylation of Alkylamines Promoted by Organic Soluble Ionic Bases. ACS Catalysis 6:3965–74"
+ Year: 2016
+ URL: https://doi.org/10.1021/acscatal.6b00504
+ Keywords:
+  - Chemistry
+ Type: 2
+ Locations:
+  - Imperial College London, South Kensington, London SW7 2AZ, UK
+  - Process Studies Group, Syngenta, Bracknell, Berkshire RG42 6EY, UK
+ Funding:
+  - Syngenta
+  - EPSRC
+ Methods:
+  - parameter estimation
+  - time course
 -
  Reference: "Thiaville JJ, Frelin O, García-Salinas C, Harrison K, Hasnain G, Horenstein NA, de la Garza RID, Henry CS, Hanson AD, de Crécy-Lagard V (2016) Experimental and Metabolic Modeling Evidence for a Folate-Cleaving Side-Activity of Ketopantoate Hydroxymethyltransferase (PanB). Frontiers in Microbiology 7:431"
  Year: 2016
