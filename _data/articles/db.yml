@@ -107,6 +107,27 @@
   - Jaypee Institute of Information Technology, Noida, India
   - Deen Dayal Upadhyay Gorakhpur University, Gorakhpur, India
 -
+ Reference: "Tatham MH, Cole C, Scullion P, Wilkie R, Westwood NJ, Stark LA, Hay RT (2017) A proteomic approach to analyse the aspirin-mediated lysine acetylome. Molecular & Cellular Proteomics 16:310–326"
+ Year: 2017
+ URL: https://doi.org/10.1074/mcp.O116.065219
+ Keywords:
+  - Pharmacology
+  - Biochemistry
+  - Laboratory Method
+ Type: 2
+ Locations:
+  - University of Dundee, Dow Street, Dundee, DD1 5EH, UK
+  - University of St Andrews, North Haugh, St Andrews, Fife, KY16 9ST, UK
+  - EaStCHEM, North Haugh, St Andrews, Fife, KY16 9ST, UK
+  - Edinburgh Cancer Research Centre, Institute of Genetics and Molecular Medicine, University of Edinburgh, EH4 2XU UK
+ Funding:
+  - CRUK
+  - The Wellcome Trust
+ Methods:
+  - time course
+  - parameter scan
+  - parameter estimation
+-
  Reference: "Tolleter D, Chochois V, Poiré R, Price GD, Badger MR (2017) Measuring CO2 and HCO3- permeabilities of isolated chloroplasts using a MIMS-18O approach. Journal of Experimental Botany. doi:10.1093/jxb/erx188"
  Year: 2017
  URL: https://doi.org/10.1093/jxb/erx188
@@ -464,6 +485,22 @@
  Funding:
   - Japanese Ministry of Education, Culture, Sports, Science and Technology
 -
+ Reference: "Thiaville JJ, Frelin O, García-Salinas C, Harrison K, Hasnain G, Horenstein NA, de la Garza RID, Henry CS, Hanson AD, de Crécy-Lagard V (2016) Experimental and Metabolic Modeling Evidence for a Folate-Cleaving Side-Activity of Ketopantoate Hydroxymethyltransferase (PanB). Frontiers in Microbiology 7:431"
+ Year: 2016
+ URL: https://doi.org/10.3389/fmicb.2016.00431
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - University of Florida, Gainesville, Florida, USA
+  - Tecnológico de Monterrey, Campus Monterrey, Monterrey, Mexico
+  - Argonne National Laboratory, Argonne, Illinois, USA
+  - The University of Chicago, Chicago, Illinois, USA
+ Funding:
+  - NSF
+ Methods:
+  - time course
+-
  Reference: "Tomalin LE, Day AM, Underwood ZE, Smith GR, Dalle Pezze P, Rallis C, Patel W, Dickinson BC, Bähler J, Brewer TF, Chang CJ-L, Shanley DP, Veal EA (2016) Increasing extracellular H2O2 produces a bi-phasic response in intracellular H2O2, with peroxiredoxin hyperoxidation only triggered once the cellular H2O2-buffering capacity is overwhelmed. Free Radical Biology and Medicine 95:333–348"
  Year: 2016
  URL: https://doi.org/10.1016/j.freeradbiomed.2016.02.035
@@ -482,6 +519,20 @@
   - Howard Hughes Medical Institute
  Methods:
   - parameter estimation
+-
+ Reference: "Tootoonchi MH, Sharma G, Calles J, Prabhakar R, Kaifer AE (2016) Cooperative Self-Assembly of a Quaternary Complex Formed by Two Cucurbit [7] uril Hosts, Cyclobis (paraquat-p-phenylene), and a “Designer” Guest. Angewandte Chemie 128:11679–83"
+ Year: 2016
+ URL: https://doi.org/10.1002/ange.201606038
+ Keywords:
+  - Chemistry
+ Type: 2
+ Locations:
+  - University of Miami, Coral Gables, Florida, USA
+ Funding:
+  - NSF
+ Methods:
+  - parameter estimation
+  - steady state
 -
  Reference: "Troják M, Šafránek D, Hrabec J, Šalagovič J, Romanovská F, Červenỳ J (2016) E-Cyanobacterium. org: A Web-Based Platform for Systems Biology of Cyanobacteria. International Conference on Computational Methods in Systems Biology. Springer, 316–322."
  Year: 2016
