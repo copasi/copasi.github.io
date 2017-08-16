@@ -1997,6 +1997,26 @@
   - GlaxoSmithKline
   - NIHR
 -
+ Reference: "Jarrah AS, Castiglione F, Evans NP, Grange RW, Laubenbacher R (2014) A Mathematical Model of Skeletal Muscle Disease and Immune Response in the mdx Mouse. BioMed Research International 2014:871810"
+ Year: 2014
+ URL: https://doi.org/10.1155/2014/871810
+ Keywords:
+  - Immunology
+ Type: 2
+ Locations:
+  - American University of Sharjah, Sharjah 26666, United Arab Emirates
+  - Institute for Applied Mathematics, National Research Council of Italy, 00185 Rome, Italy
+  - Virginia Tech, Blacksburg, Virginia, USA
+  - University of Connecticut Health Center, Farmington, Connecticut, USA
+  - Jackson Laboratory for Genomic Medicine, Farmington, Connecticut, USA
+ Funding:
+  - EU FP7
+  - American University of Sharjah
+ Methods:
+  - time course
+  - parameter scan
+  - parameter estimation
+-
  Reference: "Karonen M, Mattila H, Huang P, Mamedov F, Styring S, Tyystjärvi E (2014) A tandem mass spectrometric method for singlet oxygen measurement. Photochem. Photobiol. 90:965-971"
  Year: 2014
  URL: https://doi.org/10.1111/php.12291
