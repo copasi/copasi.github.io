@@ -502,6 +502,40 @@
  Funding:
   - Japanese Ministry of Education, Culture, Sports, Science and Technology
 -
+ Reference: "Sluka JP, Fu X, Swat M, Belmonte JM, Cosmanescu A, Clendenon SG, Wambaugh JF, Glazier JA (2016) A Liver-Centric Multiscale Modeling Framework for Xenobiotics. PloS One 11:e0162428"
+ Year:2016
+ URL: https://doi.org/10.1371/journal.pone.0162428
+ Keywords:
+  - Physiology
+  - Pharmacology
+ Type: 2
+ Locations:
+  - Indiana University Bloomington, Bloomington, Indiana, USA
+  - US EPA, Research Triangle Park, North Caroliba, USA
+ Funding:
+  - US EPA
+  - NIH
+  - Lilly Endowment
+  - Indiana University
+  - Indiana METACyt Initiative
+ Methods:
+  - Time course
+-
+ Reference: "Stalidzans E, Mozga I, Sulins J, Zikmanis P (2016) Search for a minimal set of parameters by assessing the total optimisation potential for a dynamic model of a biochemical network. IEEE/ACM Transactions on Computational Biology and Bioinformatics 14:978–985"
+ Year: 2016
+ URL: https://doi.org/10.1109/TCBB.2016.2550451
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Latvia University of Agriculture, Jelgava, Latvia
+  - University of Latvia, Riga, Latvia
+ Funding:
+  - EU, European Structural Fund
+ Methods:
+  - steady state
+  - optimization
+-
  Reference: "Stanger FV, Burmann BM, Harms A, Aragão H, Mazur A, Sharpe T, Dehio C, Hiller S, Schirmer T (2016) Intrinsic regulation of FIC-domain AMP-transferases by oligomerization and automodification. Proceedings of the National Academy of Sciences 113:E529–E537"
  Year: 2016
  URL: https://doi.org/10.1073/pnas.1516930113
