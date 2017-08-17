@@ -169,7 +169,7 @@
  Type: 2
  Locations:
   - Fred Hutchinson Cancer Research Center, Seattle, Washington, USA
-  - University of Buenos Aires, Argentina
+  - University of Buenos Aires, Buenos Aires, Argentina
   - The Molecular Sciences Institute, Berkeley, California, USA
  Funding:
   - NIH
@@ -4428,6 +4428,7 @@
  Type: 2
  Locations:
   - Ecole Supérieure d’Ingenieurs de Poitiers, Poitiers Cedex, France
+  - Coordinates: 46.568330, 0.383714
 -
  Reference: "Curien G, Bastien O, Robert-Genthon M, Cornish-Bowden A, Cárdenas ML, Dumas R (2009) Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters. Mol. Sys. Biol. 5:271"
  Year: 2009
@@ -4810,7 +4811,7 @@
   - Universidad Nacional de Cuyo, Mendoza, Argentina
   - Coordinates: 38.747855, -9.153478
   - Coordinates: 49.384064, 8.710716
-  - Coordinates: 32.881186, -68.877144
+  - Coordinates: -32.881186, -68.877144
 -
  Reference: "Jungmann R, Renner S, Simmel FC (2008) From DNA nanotechnology to synthetic biology. HFSP Journal 2:99-109"
  Year: 2008
