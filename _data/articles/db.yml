@@ -470,6 +470,17 @@
   - SASTRA University, Tirumalaisamudram, Tamil Nadu, India
   - Stony Brook University, Stony Brook, New York, USA
 -
+ Reference: "Scharm M, Waltemath D (2016) A fully featured COMBINE archive of a simulation study on syncytial mitotic cycles in Drosophila embryos. F1000Research 5:2421"
+ Year: 2016
+ URL: http://dx.doi.org/10.12688/f1000research.9379.1
+ Type: 3
+ Locations:
+  - University of Rostock, Rostock, Germany
+ Keywords:
+  - Computational Method
+ Funding:
+  - BMBF
+-
  Reference: "Semenov SN, Kraft LJ, Ainla A, Zhao M, Baghbanzadeh M, Campbell VE, Kang K, Fox JM, Whitesides GM (2016) Autocatalytic, bistable, oscillatory networks of biologically relevant organic reactions. Nature 537:656–660"
  Year: 2016
  URL: https://doi.org/10.1038/nature19776
@@ -501,6 +512,23 @@
   - CNRS/Université Paris-Sud/CEA, Gif sur Yvette, France
  Funding:
   - Japanese Ministry of Education, Culture, Sports, Science and Technology
+-
+ Reference: "Shi Q, Mower MP, Blackmond DG, Rebek J (2016) Water-soluble cavitands promote hydrolyses of long-chain diesters. Proceedings of the National Academy of Sciences 113:9199–9203"
+ Year: 2016
+ URL: http://dx.doi.org/10.1073/pnas.1610006113
+ Keywords:
+  - Chemistry
+ Type: 2
+ Locations:
+  - Fudan University, Shanghai 200433, China
+  - The Scripps Research Institute, La Jolla, California, USA
+ Funding:
+  - Thousand Talents Program of China
+  - NSF
+  - Simons Foundation
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Sluka JP, Fu X, Swat M, Belmonte JM, Cosmanescu A, Clendenon SG, Wambaugh JF, Glazier JA (2016) A Liver-Centric Multiscale Modeling Framework for Xenobiotics. PloS One 11:e0162428"
  Year: 2016
