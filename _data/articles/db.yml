@@ -470,6 +470,50 @@
   - SASTRA University, Tirumalaisamudram, Tamil Nadu, India
   - Stony Brook University, Stony Brook, New York, USA
 -
+ Reference: "Reichard EL, Chirico GG, Dewey WJ, Nassif ND, Bard KE, Millas NE, Kraut DA (2016) Substrate Ubiquitination Controls the Unfolding Ability of the Proteasome. Journal of Biological Chemistry 291:18547–18561"
+ Year: 2016
+ URL: https://doi.org/10.1074/jbc.M116.720151
+ Type: 2
+ Keywords:
+  - Biochemistry
+  - Macromolecular Biochemistry
+ Funding:
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+- 
+ Reference: "Rentergent J, Driscoll MD, Hay S (2016) Time course analysis of enzyme-catalyzed DNA polymerization. Biochemistry 55:5622–5634"
+ Year: 2016
+ URL: https://doi.org/10.1021/acs.biochem.6b0044
+ Type: 2
+ Locations:
+  - Manchester Institute of Biotechnology, University of Manchester, Manchester M1 7DN, U.K.
+ Keywords:
+  - Biochemistry
+  - Enzymology
+  - Macromolecular Biochemistry
+ Funding:
+  - BBSRC
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Salcedo-Sora JE, Mc Auley MT (2016) A mathematical model of microbial folate biosynthesis and utilisation: implications for antifolate development. Molecular BioSystems 12:923–933"
+ Year: 2016
+ URL: https://doi.org/10.1039/C5MB00801H
+ Type: 2
+ Keywords:
+  - Microbiology
+  - Metabolism
+  - Biotechnology
+ Locations:
+  - School of Health Science, Liverpool Hope University, Hope Park, Liverpool, L16 9JD, UK
+  - Department of Chemical Engineering, University of Chester, Thornton Science Park, Chester, CH2 4NU, UK
+ Funding:
+ Methods:
+  - time course
+-
  Reference: "Sano T, Kawata K, Ohno S, Yugi K, Kakuda H, Kubota H, Uda S, Fujii M, Kunida K, Hoshino D, Hatano, Atsushi, Matsuoka Y, Sato M, Suzuki Y, Kuroda S (2016) Selective control of up-regulated and down-regulated genes by temporal patterns and doses of insulin. Science Signaling 9:ra112–ra112"
  Year: 2016
  URL: http://dx.doi.org/10.1126/scisignal.aaf3739
@@ -528,6 +572,27 @@
   - CNRS/Université Paris-Sud/CEA, Gif sur Yvette, France
  Funding:
   - Japanese Ministry of Education, Culture, Sports, Science and Technology
+-
+ Reference: "Shepelyuk TO, Panteleev MA, Sveshnikova AN (2016) Computational modeling of quiescent platelet energy metabolism in the context of whole-body glucose turnover. Mathematical Modelling of Natural Phenomena 11:91–101"
+ Year: 2016
+ URL: http://dx.doi.org/10.1051/mmnp/201611606
+ Type: 2
+ Keywords:
+  - metabolism
+  - physiology
+ Locations:
+  - Center for Theoretical Problems of Physicochemical Pharmacology, Russian Academy of Sciences, 4 Kosygina St, Moscow, Russia
+  - Federal Research and Clinical Center of Pediatric Hematology, Oncology and Immunology, 1 Samory Mashela St, Moscow, Russia
+  - Faculty of Medicine, Lomonosov Moscow State University, Lomonosovsky pr. 31/5, Moscow, Russia
+  - Faculty of Physics, Lomonosov Moscow State University, 1/2 Leninskie gory, Moscow,Russia
+  - Faculty of Biological and Medical Physics, Moscow Institute of Physics and Technology, 9 Institutskii per., Dolgoprudnyi, Russia
+  - Therapeutic Faculty, Pirogov Russian National Research Medical University, 1 Ostrovityanova St, Moscow, Russia
+ Funding:
+  - Russian Foundation for Basic Research
+  - Russian President Grants
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Shi Q, Mower MP, Blackmond DG, Rebek J (2016) Water-soluble cavitands promote hydrolyses of long-chain diesters. Proceedings of the National Academy of Sciences 113:9199–9203"
  Year: 2016
@@ -610,6 +675,30 @@
  Methods:
   - parameter estimation
   - time course
+-
+ Reference: "Sveshnikova AN, Balatskiy AV, Demianova AS, Shepelyuk TO, Shakhidzhanov SS, Balatskaya MN, Pichugin AV, Ataullakhanov FI,  Panteleev MA (2016) Systems biology insights into the meaning of the platelet’s dual-receptor thrombin signaling. Journal of Thrombosis and Haemostasis 14:2045–2057"
+ Year: 2016
+ URL: https://doi.org/10.1111/jth.13442
+ Type: 2
+ Keywords:
+  - Physiology
+  - Signaling
+ Locations:
+  - Faculty of Physics, Lomonosov Moscow State University, 1/2 Leninskie gory, Moscow,Russia
+  - Center for Theoretical Problems of Physicochemical Pharmacology, Russian Academy of Sciences, 4 Kosygina St, Moscow, Russia
+  - Federal Research and Clinical Center of Pediatric Hematology, Oncology and Immunology, 1 Samory Mashela St, Moscow, Russia
+  - Therapeutic Faculty, Pirogov Russian National Research Medical University, 1 Ostrovityanova St, Moscow, Russia
+  - Faculty of Medicine, Lomonosov Moscow State University, Lomonosovsky pr. 31/5, Moscow, Russia
+  - Institute of Immunology FMBA of Russia, 24 Kashirskoye Road Moscow, Russia
+  - Faculty of Biological and Medical Physics, Moscow Institute of Physics and Technology, 9 Institutskii per., Dolgoprudnyi, Russia
+ Funding:
+  - Russian Foundation for Basic Research
+  - Russian Federation President Grants for Young Scientists
+  - Russian Academy of Sciences
+ Methods:
+  - time course
+  - parameter estimation
+  - stochastic simulation
 -
  Reference: "Thiaville JJ, Frelin O, García-Salinas C, Harrison K, Hasnain G, Horenstein NA, de la Garza RID, Henry CS, Hanson AD, de Crécy-Lagard V (2016) Experimental and Metabolic Modeling Evidence for a Folate-Cleaving Side-Activity of Ketopantoate Hydroxymethyltransferase (PanB). Frontiers in Microbiology 7:431"
  Year: 2016
@@ -3587,6 +3676,22 @@
  Locations:
   - Humboldt University of Berlin, Berlin, Germany
   - J.W. Goethe University, Frankfurt, Germany
+-
+ Reference: "Kraut DA, Israeli E, Schrader EK, Patil A, Nakai K, Nanavati D, Inobe T, Matouschek A (2012) Sequence- and Species-Dependence of Proteasomal Processivity. ACS Chemical Biology 7:1444–1453"
+ Year: 2012
+ URL: https://doi.org/10.1021/cb3001155
+ Type: 2
+ Keywords:
+  - Biochemistry
+  - Macromolecular Biochemistry
+ Locations:
+  - Department of Molecular Biosciences, Northwestern University, Evanston, Illinois 60208, USA
+ Funding:
+  - NIH
+  - American Cancer Society
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Leach MD, Tyc KM, Brown AJP, Klipp E (2012) Modelling the Regulation of Thermal Adaptation in Candida albicans, a Major Fungal Pathogen of Humans. PLoS ONE 7:e32467"
  Year: 2012
