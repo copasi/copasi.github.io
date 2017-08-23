@@ -418,6 +418,19 @@
   - parameter estimation
   - time course
 -
+ Reference: "Panchal C, Azimi S, Petre I (2016) Generating the Logicome of a Biological Network. International Conference on Algorithms for Computational Biology. Springer, 38–49"
+ Year: 2016
+ URL: https://doi.org/10.1007/978-3-319-38827-4_4
+ Type: 3
+ Keywords:
+  - Computational Method
+  - Signaling
+ Locations:
+  - Computational Biomodeling Laboratory, Turku Centre for Computer Science, Åbo Akademi University, Agora, Domkyrkotorget 3, 20500 Åbo, Finland
+ Funding:
+ Methods:
+  - time course
+-
  Reference: "Pappalardo F, Russo G, Candido S, Pennisi M, Cavalieri S, Motta S, McCubrey JA, Nicoletti F, Libra M (2016) Computational Modeling of PI3K/AKT and MAPK Signaling Pathways in Melanoma Cancer. PLOS ONE 11:e0152104"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pone.0152104
@@ -614,8 +627,8 @@
  URL: http://dx.doi.org/10.1051/mmnp/201611606
  Type: 2
  Keywords:
-  - metabolism
-  - physiology
+  - Metabolism
+  - Physiology
  Locations:
   - Center for Theoretical Problems of Physicochemical Pharmacology, Russian Academy of Sciences, 4 Kosygina St, Moscow, Russia
   - Federal Research and Clinical Center of Pediatric Hematology, Oncology and Immunology, 1 Samory Mashela St, Moscow, Russia
