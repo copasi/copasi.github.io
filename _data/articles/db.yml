@@ -396,10 +396,57 @@
   - Metabolism
  Type: 2
  Locations:
-  - University of Chester, Chester, CH2 4NU
-  - Edge Hill University, Lancashire, L39 4QP
+  - University of Chester, Chester, CH2 4NU, UK
+  - Edge Hill University, Lancashire, L39 4QP, UK
  Funding:
   - University of Chester
+-
+ Reference: "Orlenko A, Hermansen RA, Liberles DA (2016) Flux control in glycolysis varies across the tree of life. Journal of Molecular Evolution 82:146–161"
+ Year: 2016
+ URL: https://doi.org/10.1007/s00239-016-9731-2
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Department of Biology, Temple University,  Philadelphia, Pennsylvania, USA
+  - Department of Molecular Biology, University of Wyoming, Laramie, Wyoming, USA
+ Funding:
+  - NSF
+ Methods:
+  - steady state
+  - MCA
+-
+ Reference: "Orlenko A, Teufel AI, Chi PB, Liberles DA (2016) Selection on metabolic pathway function in the presence of mutation-selection-drift balance leads to rate-limiting steps that are not evolutionarily stable. Biology Direct 11:31"
+ Year: 2016
+ URL: https://doi.org/10.1186/s13062-016-0133-6
+ Type: 2
+ Keywords:
+  - Genetics
+  - Metabolism
+ Locations:
+  - Department of Biology, Temple University,  Philadelphia, Pennsylvania, USA
+  - Department of Molecular Biology, University of Wyoming, Laramie, Wyoming, USA
+  - Department of Mathematics and Computer Science, Ursinus College, 601 E. Main Street, Collegeville, Pennsylvania, USA
+ Funding:
+  - NSF
+ Methods:
+  - steady state
+  - time course
+-
+ Reference: "Ouzounoglou E, Dionysiou D, Stamatakos GS (2016) Differentiation resistance through altered retinoblastoma protein function in acute lymphoblastic leukemia: in silico modeling of the deregulations in the G1/S restriction point pathway. BMC Systems Biology 10:23"
+ Year: 2016
+ URL: https://doi.org/10.1186/s12918-016-0264-5
+ Type: 2
+ Keywords:
+  - Cell Biology
+ Locations:
+  - School of Electrical and Computer Engineering, National Technical University of Athens, Greece
+ Funding:
+  - EU FP7
+ Methods:
+  - time course
+  - parameter scan
+  - parameter estimation
 -
  Reference: "Özkar S, Finke RG (2016) Palladium(0) Nanoparticle Formation, Stabilization, and Mechanistic Studies: Pd(acac) 2 as a Preferred Precursor, [Bu 4 N] 2 HPO 4 Stabilizer, plus the Stoichiometry, Kinetics, and Minimal, Four-Step Mechanism of the Palladium Nanoparticle Formation and Subsequent Agglomeration Reactions. Langmuir 32:3699–3716"
  Year: 2016
@@ -417,6 +464,20 @@
  Methods:
   - parameter estimation
   - time course
+-
+ Reference: "Palai T, Kumar A, Bhattacharya PK (2016) Enzyme immobilization/bioconjugation in producing galactio-oligosaccharidies from lactose: developments of kinetic models and bio-reactors. Materials Today: Proceedings 3:3568–3586"
+ Year: 2016
+ URL: https://doi.org/10.1016/j.matpr.2016.10.039
+ Type: 2
+ Keywords:
+  - Biotechnology
+ Locations:
+  - Indian Institute of Technology Kanpur, Kanpur 208 016, India
+ Funding:
+  - Department of Biotechnology, Government of India
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Panchal C, Azimi S, Petre I (2016) Generating the Logicome of a Biological Network. International Conference on Algorithms for Computational Biology. Springer, 38–49"
  Year: 2016
