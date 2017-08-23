@@ -442,6 +442,42 @@
  Funding:
   - NSF
 -
+ Reference: "Pletneva NV, Pletnev S, Pakhomov AA, Chertkova RV, Martynov VI, Muslinkina L, Dauter Z, Pletnev VZ (2016) Crystal structure of the fluorescent protein from Dendronephthya sp. in both green and photoconverted red forms. Acta Crystallographica Section D: Structural Biology D72:922-932"
+ Year: 2016
+ URL: https://doi.org/10.1107/S205979831601038X
+ Type: 2
+ Keywords:
+  - Biophysics
+ Locations:
+  - Shemyakin–Ovchinnikov Institute of Bioorganic Chemistry, Russian Academy of Sciences, Moscow, Russia
+  - Synchrotron Radiation Research Section, Macromolecular Crystallography Laboratory, National Cancer Institute, Argonne, Illinois 60439, USA
+  - Basic Research Program, Leidos Biomedical Research Inc., Argonne, Illinois 60439, USA
+  - Arbuzov Institute of Organic and Physical Chemistry, Russian Academy of Sciences, Kazan, Russia
+ Funding:
+  - Russian Science Foundation
+  - NIH
+  - DOE
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Proctor CJ, Gartland A (2016) Simulated interventions to ameliorate age-related bone loss indicate the importance of timing. Frontiers in Endocrinology 7:61"
+ Year: 2016
+ URL: https://doi.org/10.3389/fendo.2016.00061
+ Type: 2
+ Keywords:
+  - Physiology
+  - Signaling
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, UK
+  - University of Sheffield Medical School, Sheffield, UK
+ Funding:
+  - MRC
+  - Arthritis Research UK
+ Methods:
+  - time course
+  - sensitivity analysis
+-
  Reference: "Rantasalo A, Czeizler E, Virtanen R, Rousu J, Lähdesmäki H, Penttilä M, Jäntti J, Mojzita D (2016) Synthetic Transcription Amplifier System for Orthogonal Control of Gene Expression in Saccharomyces cerevisiae. PLOS ONE 11:e0148320"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pone.0148320
