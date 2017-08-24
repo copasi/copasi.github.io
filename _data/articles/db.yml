@@ -349,6 +349,77 @@
   - time course
   - parameter estimation
 -
+ Reference: "Lima AP, Baixinho V, Machado D, Rocha I (2016) A Comparative Analysis of Dynamic Models of the Central Carbon Metabolism of Escherichia coli. IFAC-PapersOnLine 49:270–276"
+ Year: 2016
+ URL: https://doi.org/10.1016/j.ifacol.2016.12.137
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Centre of Biological Engineering, University of Minho, Campus de Gualtar, 4710-057 Braga, Portugal
+ Funding:
+  - Portuguese Foundation for Science and Technology (FCT)
+ Methods:
+  - steady state
+  - time course
+-
+ Reference: "Lloréns-Rico V, Cano J, Kamminga T, Gil R, Latorre A, Chen W-H, Bork P, Glass JI, Serrano L, Lluch-Senar M (2016) Bacterial antisense RNAs are mainly the product of transcriptional noise. Science Advances 2:e1501363"
+ Year: 2016
+ URL: https://doi.org/10.1126/sciadv.1501363
+ Type: 2
+ Keywords:
+  - Microbiology
+  - Genetics
+ Locations:
+  - EMBL/CRG Systems Biology Research Unit, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, 08003 Barcelona, Spain
+  - Universitat Pompeu Fabra (UPF), 08002 Barcelona, Spain
+  - MSD Animal Health, Bioprocess Technology and Support, 5830 AB Boxmeer, Netherlands
+  - Wageningen University, 6700 EJ Wageningen, Netherlands
+  - Universitat de València, 46980 Paterna, València, Spain
+  - Fundación para el Fomento de la Investigación Sanitaria y Biomédica de la Comunitat Valenciana (FISABIO)—Salud Pública, 46020 Valencia, Spain
+  - European Molecular Biology Laboratory, 69117 Heidelberg, Germany
+  - Max Delbrück Centre (MDC) for Molecular Medicine, 13125 Berlin, Germany
+  - Department of Synthetic Biology and Bioenergy, J. Craig Venter Institute, La Jolla, CA 92037, USA
+  - Department of Synthetic Biology and Bioenergy, J. Craig Venter Institute, Rockville, MD 20850, USA
+  - Institució Catalana de Recerca i Estudis Avançats (ICREA), Pg. Lluis Companys 23, 08010 Barcelona, Spain
+ Funding:
+  - EU - FP7
+  - EU - ERC
+  - Fundación Botín
+  - Spanish Ministry of Economy and Competitiveness
+  - EU - European Regional Development Fund
+ Methods:
+  - SBML
+-
+ Reference: "Marín-Hernández Á, Rodríguez-Zavala JS, Del Mazo-Monsalvo I, Rodríguez-Enríquez S, Moreno-Sánchez R, Saavedra E (2016) Inhibition of Non-flux-Controlling Enzymes Deters Cancer Glycolysis by Accumulation of Regulatory Metabolites of Controlling Steps. Frontiers in Physiology 7:412"
+ Year: 2016
+ URL: https://doi.org/10.3389/fphys.2016.00412
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Departamento de Bioquímica, Instituto Nacional de Cardiología, Mexico City, Mexico
+ Funding:
+  - CONACyT-Mexico
+ Methods:
+  - steady state
+  - MCA
+  - parameter scan
+-
+ Reference: "McClary WD (2016) Interactions of Cytochrome P450 3A4 with Phospholipid Bilayer Nanodiscs. PhD Thesis, Seattle, University of Washington."
+ Year: 2016
+ URL: http://hdl.handle.net/1773/37192
+ Type: 2
+ Keywords:
+  - Biochemistry
+  - Macromolecular Biochemistry
+ Locations:
+  - Department of Medicinal Chemistry, University of Washington, Seattle, USA
+ Funding:
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Meng X, Firczuk H, Pietroni P, Westbrook R, Dacheux E, Mendes P, McCarthy JE (2016) Minimum-noise production of translation factor eIF4G maps to a mechanistically determined optimal rate control window for protein synthesis. Nucleic Acids Research 45:1015–1025"
  Year: 2016
  URL: https://doi.org/10.1093/nar/gkw1194
