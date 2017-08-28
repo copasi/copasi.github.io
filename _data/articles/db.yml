@@ -249,6 +249,40 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Julien-Laferrière A (2016) Models and algorithms applied to metabolism: From revealing the responses to perturbations towards the design of microbial consortia. PhD Thesis, Université Lyon 1-Claude Bernard"
+ Year: 2016
+ URL: https://hal.inria.fr/tel-01394113/
+ Type: 3
+ Keywords:
+  - Computational Method
+  - Metabolism
+  - Microbiology
+ Locations:
+  - Université Lyon 1-Claude Bernard, 43 Boulevard du 11 Novembre 1918, 69100 Villeurbanne, France
+ Funding:
+  - INRIA
+ Methods:
+  - time course
+-
+ Reference: "Jung J, Czabany T, Wilding B, Klempier N, Nidetzky B (2016) Kinetic analysis and probing with substrate analogues of the reaction pathway of the nitrile reductase QueF from Escherichia coli. Journal of Biological Chemistry 291:25411–25426"
+ Year: 2016
+ URL: https://doi.org/10.1074/jbc.M116.747014
+ Type: 2
+ Keywords:
+  - Enzymology
+ Locations:
+  - Graz University of Technology, Stremayrgasse 9, A-8010 Graz, Austria 
+ Funding:
+  - Federal Ministry of Economy, Family and Youth (BMWFW), Austria
+  - Federal Ministry for Transport, Innovation and Technology (BMVIT), Austria
+  - Styrian Business Promotion Agency (SFG), Austria
+  - Vienna Business Agency, Austria
+  - Standortagentur Tirol, Austria
+  - Austrian Research Promotion Agency (FFG)
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Jungmann R, Avendaño MS, Dai M, Woehrstein JB, Agasti SS, Feiger Z, Rodal A, Yin P (2016) Quantitative super-resolution imaging with qPAINT. Nature Methods 13:439–442"
  Year: 2016
  URL: https://doi.org/10.1038/nmeth.3804
@@ -304,6 +338,23 @@
   - time course
   - sensitivity analysis
 -
+ Reference: "Kollarovic G, Studencka M, Ivanova L, Lauenstein C, Heinze K, Lapytsko A, Talemi SR, Figueiredo AS, Schaber J (2016) To senesce or not to senesce: how primary human fibroblasts decide their cell fate after DNA damage. Aging  8:158"
+ Year: 2016
+ URL: https://doi.org/10.18632/aging.100883
+ Type: 2
+ Locations:
+  - Institute for Experimental Internal Medicine, Medical Faculty, Otto-von-Guericke University, Magdeburg, Germany
+  - Cancer Research Institute, Slovak Academy of Sciences, Bratislava, Slovakia
+ Keywords:
+  - Cell Biology
+ Funding:
+  - BMBF
+  - International Max Planck Research School (IMPRS) for Advanced Methods in Process and System Engineering (Magdeburg)
+  - Ministry of Science and Economy of Saxony-Anhalt, Germany
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Laviska DA, Zhou T, Kumar A, Emge TJ, Krogh-Jespersen K, Goldman AS (2016) Single and Double C–H Activation of Biphenyl or Phenanthrene. An Example of C–H Addition to Ir(III) More Facile than Addition to Ir(I). Organometallics 35:1613–1623"
  Year: 2016
  URL: https://doi.org/10.1021/acs.organomet.6b00055
@@ -330,6 +381,65 @@
  Methods:
   - time course
   - parameter estimation
+-
+ Reference: "Leber A, Bassaganya-Riera J, Tubau-Juni N, Zoccoli-Rodriguez V, Viladomiu M, Abedi V, Lu P, Hontecillas R (2016) Modeling the Role of Lanthionine Synthetase C-Like 2 (LANCL2) in the Modulation of Immune Responses to Helicobacter pylori Infection. PloS One 11:e0167440"
+ Year: 2016
+ URL: https://doi.org/10.1371/journal.pone.0167440
+ Type: 2
+ Keywords:
+  - Immunology
+ Locations:
+  - Biocomplexity Institute of Virginia Tech, Virginia Tech, Blacksburg, Virginia, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - sensitivity analysis
+-
+ Reference: "Ledwitch KV, Barnes RW, Roberts AG (2016) Unravelling the complex drug–drug interactions of the cardiovascular drugs, verapamil and digoxin, with P-glycoprotein. Bioscience Reports 36:e00309"
+ Year: 2016
+ URL: https://doi.org/10.1042/BSR20150317
+ Type: 2
+ Locations:
+  - Department of Pharmaceutical and Biomedical Sciences, University of Georgia, Athens, Georgia 30602, USA
+ Keywords:
+  - Pharmacology
+  - Biochemistry
+ Funding:
+  - NIH
+  - American Heart Association
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Ledwitch KV, Gibbs ME, Barnes RW, Roberts AG (2016) Cooperativity between verapamil and ATP bound to the efflux transporter P-glycoprotein. Biochemical Pharmacology 118:96–108"
+ Year: 2016
+ URL: https://doi.org/10.1016/j.bcp.2016.08.013
+ Type: 2
+ Keywords:
+  - Pharmacology
+  - Biochemistry
+ Locations:
+  - Department of Pharmaceutical and Biomedical Sciences, University of Georgia, Athens, Georgia 30602, USA
+ Funding:
+  - NIH
+  - American Heart Association
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Levenhagen MA, Ferreira GA, Pereira GM, Santos AR (2016) A computer simulation model for Strongyloides infection. PeerJ Preprints 4:e2399v1"
+ Year: 2016
+ URL: https://doi.org/10.7287/peerj.preprints.2399v1
+ Type: 2
+ Keywords:
+  - Immunology
+  - Parasitology
+ Locations:
+  - Federal University of Uberlândia, Uberlândia, Minas Gerais, Brasil
+ Funding:
+ Methods:
+  - time course
 -
  Reference: "Levin MD, Kaphan DM, Hong CM, Bergman RG, Raymond KN, Toste FD (2016) Scope and Mechanism of Cooperativity at the Intersection of Organometallic and Supramolecular Catalysis. Journal of the American Chemical Society 138:9682–9693"
  Year: 2016
