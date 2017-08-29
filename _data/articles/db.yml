@@ -228,6 +228,20 @@
   - University of Sheffield, Sheffield, UK
   - STFC Rutherford Apple Labs, Didcot, UK
 -
+ Reference: "Ganesan N, Li J, Sharma V, Jiang H, Compagnoni A (2016) Process Simulation of Complex Biological Pathways in Physical Reactive Space and Reformulated for Massively Parallel Computing Platforms. IEEE/ACM Transactions on Computational Biology and Bioinformatics 13:365–379"
+ Year: 2016
+ URL: https://doi.org/10.1109/TCBB.2015.2443784
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Stevens Institute of Technology, Hoboken, NJ, USA
+ Funding:
+  - NVIDIA
+  - Xilinx University Program (XUP)
+ Methods:
+  - time course
+-
  Reference: "Gerber S, Fröhlich M, Lichtenberg-Fraté H, Shabala S, Shabala L, Klipp E (2016) A Thermodynamic Model of Monovalent Cation Homeostasis in the Yeast Saccharomyces cerevisiae. PLOS Computational Biology 12:e1004703"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pcbi.1004703
@@ -248,6 +262,76 @@
   - Australian Research Council
  Methods:
   - parameter estimation
+-
+ Reference: "Haffez HRS (2016) Design, synthesis and biological evaluation of small molecules for controlling cellular development. PhD Thesis, Durham University, UK."
+ Year: 2016
+ URL: http://etheses.dur.ac.uk/11391/
+ Type: 2
+ Keywords:
+  - Biochemistry
+  - Pharmacology
+ Locations:
+  - Durham University, South Rd, Durham DH1 3LE, UK
+ Funding:
+ Methods:
+  - steady state
+  - time course
+-
+ Reference: "Hamgini BB (2016) Petri net siphon analysis and network centrality measures for identifying combination therapies in signaling pathways. PhD Thesis, Queen’s University, Kingston, Ontario, Canada"
+ Year: 2016
+ URL: http://hdl.handle.net/1974/15016
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - "Queen's University, Kingston, Ontario, Canada"
+ Funding:
+ Methods:
+  - time course
+  - parameter estimation
+  - API
+-
+ Reference: "Hendrickx DM, Souza T, Jennen DG, Kleinjans JC (2016) DTNI: a novel toxicogenomics data analysis tool for identifying the molecular mechanisms underlying the adverse effects of toxic compounds. Archives of Toxicology 1–10"
+ Year: 2016
+ URL: https://doi.org/10.1007/s00204-016-1922-5
+ Type: 2
+ Keywords:
+  - Toxicology
+ Locations:
+  - GROW-School for Oncology and Developmental Biology, Maastricht University, Maastricht, The Netherlands
+ Funding:
+  - EU FP7
+- 
+ Reference: "Henkel R, Hoehndorf R, Kacprowski T, Knüpfer C, Liebermeister W, Waltemath D (2016) Notions of similarity for systems biology models. Briefings in Bioinformatics bbw090"
+ Year: 2016
+ URL: https://doi.org/10.1093/bib/bbw090
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Systems Biology and Bioinformatics, Institute of Computer Science, University of Rostock, Germany
+  - Heidelberg Institute for Theoretical Studies, Heidelberg, Germany
+  - University of Greifswald, Domstrasse 11, 17489 Greifswald, Germany
+ Funding:
+  - BMBF
+  - German Research Foundation
+ Methods:
+  - time course
+-
+ Reference: "Ihekwaba AE, Mura I, Walshaw J, Peck MW, Barker GC (2016) An Integrative Approach to Computational Modelling of the Gene Regulatory Network Controlling Clostridium botulinum Type A1 Toxin Production. PLoS Computational Biology 12:e1005205"
+ Year: 2016
+ URL: https://doi.org/10.1371/journal.pcbi.1005205
+ Type: 2
+ Keywords:
+  - Microbiology
+ Locations:
+  - Gut Health and Food Safety, Institute of Food Research, Norwich Research Park, Colney, Norwich, UK
+  - Department of Industrial Engineering, Universidad de los Andes, Bogotá, Colombia
+  - School of Computing Sciences, University of East Anglia, Norwich, United Kingdom 
+ Funding:
+  - BBSRC
+ Methods:
+  - time course
 -
  Reference: "Julien-Laferrière A (2016) Models and algorithms applied to metabolism: From revealing the responses to perturbations towards the design of microbial consortia. PhD Thesis, Université Lyon 1-Claude Bernard"
  Year: 2016
