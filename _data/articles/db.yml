@@ -176,6 +176,53 @@
   - MITRE
   - Simons Foundation
 -
+ Reference: "Barbon A, Bortolus M, Isse AA, Reznikov VA, Weiner L (2016) Electron transfer in pH-sensitive nitroxide radicals. Chemical Physics Letters 665:137–140"
+ Year: 2016
+ URL: https://doi.org/10.1016/j.cplett.2016.10.067
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Università degli Studi di Padova, via Marzolo 1, Padova 35131, Italy
+  - Novosibirsk State University, Pirogova str. 2, 630090 Novosibirsk, Russia
+  - Weizmann Institute of Science, Rehovot 76100, Israel
+ Funding:
+  - University of Padova
+  - Weizmann Institute of Science
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Behinaein B, Rudie K, Sangrar W (2016) Petri net siphon analysis and graph theoretic measures for identifying combination therapies in cancer. IEEE/ACM Transactions on Computational Biology and Bioinformatics doi:10.1109/TCBB.2016.2614301"
+ Year: 2016
+ URL: https://doi.org/10.1109/TCBB.2016.2614301
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Electrical and Computer En-gineering, Queen’s University, Kingston, ON, Canada
+ Funding:
+  - NSERC, Canada
+  - Breast Cancer Action Kingston Research 
+  - Clare Nelson Bequest and Dering Cancer Research
+ Methods:
+  - parameter estimation
+  - API
+-
+ Reference: "Bergmann FT, Sahle S, Zimmer C (2016) Piecewise parameter estimation for stochastic models in COPASI. Bioinformatics 32:1586–1588"
+ Year: 2016
+ URL: https://doi.org/10.1093/bioinformatics/btv759
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - COS Heidelberg/BioQuant, Heidelberg 69120, Germany
+  - BIOMS, University of Heidelberg, Heidelberg, Germany
+ Funding:
+  - NIH
+  - Klaus Tschira Foundation
+  - BMBF
+-
  Reference: "Beuke K (2016) TNF-induced NF-κB Signal Transduction in the Liver. PhD Thesis, Heidelberg University."
  Year: 2016
  Keywords:
@@ -218,15 +265,183 @@
  Funding:
   - EU - FP7
 -
+ Reference: "Bush A, Vasen G, Constantinou A, Dunayevich P, Patop IL, Blaustein M, Colman-Lerner A (2016) Yeast GPCR signaling reflects the fraction of occupied receptors, not the number. Molecular Systems Biology 12:898" 
+ Year: 2016
+ URL: https://doi.org/10.15252/msb.20166910
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - Department of Physiology, Molecular and Cellular Biology, University of Buenos Aires, Buenos Aires, Argentina
+  - Institute of Physiology, Molecular Biology and Neurosciences, National Research Council (CONICET), Buenos Aires, Argentina
+ Funding:
+  - Argentine Agency of Research and Technology
+  - NIH
+ Methods:
+  - C export
+-
+ Reference: "Claudino M, Zhang X, Alim MD, Podgórski M, Bowman CN (2016) Mechanistic Kinetic Modeling of Thiol–Michael Addition Photopolymerizations via Photocaged “Superbase” Generators: An Analytical Approach. Macromolecules 49:8061–8074"
+ Year: 2016
+ URL: https://doi.org/10.1021/acs.macromol.6b01605
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemical and Biological Engineering, University of Colorado, UCB 596, Boulder, Colorado 80309, USA
+  - Faculty of Chemistry, Department of Polymer Chemistry, MCS University, pl. Marii Curie-Skłodowskiej 5, 20-031 Lublin, Poland
+ Funding:
+  - NIH
+ Methods:
+  - time course
+-
  Reference: "Coakley S, Richmond P, Gheorghe M, Chin S, Worth D, Holcombe M, Greenough C (2016) Large-Scale Simulations with FLAME. In Intelligent Agents in Data-intensive Computing (Kolodziej J, Correia L, Molina JM eds.), Springer pp.123-142"
  Year: 2016
  URL: https://doi.org/10.1007/978-3-319-23742-8_6
+ Type: 3
  Keywords:
   - Software
- Type: 3
  Locations:
   - University of Sheffield, Sheffield, UK
   - STFC Rutherford Apple Labs, Didcot, UK
+-
+ Reference: "Compel WS (2016) The use of coordinating solvents in gold cluster synthesis. PhD Thesis, Colorado State University."
+ Year: 2016
+ URL: http://hdl.handle.net/10217/176752
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Colorado State University, Fort Collins, Colorado, USA
+ Funding:
+- 
+ Reference: "Costa RS, Vinga S (2016) Control analysis of the impact of allosteric regulation mechanism in a Escherichia coli kinetic model: Application to serine production. Biochemical Engineering Journal 110:59–70"
+ Year: 2016
+ URL: https://doi.org/10.1016/j.bej.2016.01.013
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais 1, 1049-001 Lisboa, Portugal
+ Funding:
+  - FCT Portugal
+  - EU European Social Fund
+ Methods:
+  - steady state
+  - time course
+  - MCA
+-
+ Reference: "Dalle Pezze P, Ruf S, Sonntag AG, Langelaar-Makkinje M, Hall P, Heberle AM, Navas PR, Van Eunen K, Tölle RC, Schwarz JJ, Wiese H, Warscheid B, Deitersen J, Stork B, Fäßler E, Schäuble S, Horvatovich P, Shanley DP, Thedieck K (2016) A systems study reveals concurrent activation of AMPK and mTOR by amino acids. Nature Communications 7:13254"
+ Year: 2016
+ URL: https://doi.org/10.1038/ncomms13254
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - Newcastle University, Newcastle upon Tyne NE2 4HH, UK
+  - Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK
+  - Institute for Biology 3, Albert-Ludwigs-University Freiburg, 79104 Freiburg, Germany
+  - Faculty of Biology, University of Freiburg, 79104 Freiburg, Germany
+  - Department of Pediatrics, University of Groningen, University Medical Center Groningen (UMCG), 9713 AV Groningen, The Netherlands
+  - Department of Pharmacy, Analytical Biochemistry, University of Groningen, 9713 AV Groningen, The Netherlands
+  - School of Medicine and Health Sciences, Carl von Ossietzky University Oldenburg, 26111 Oldenburg, Germany
+  - Institute of Pharmacology and Toxicology, University of Ulm, 89081 Ulm, Germany
+  - Medical Faculty, Heinrich-Heine-University, 40225 Düsseldorf, Germany
+  - Friedrich-Schiller-University Jena, 07743 Jena, Germany
+ Funding:
+  - EU FP6
+  - BMBF
+  - Rosalind-Franklin-Fellowship of the University of Groningen, NL
+  - Ubbo Emmius Fund
+  - Stichting Michelle
+  - DFG
+  - CRC AquaDiva
+  - BBSRC
+  - AXA Research Fund
+ Methods:
+  - time course
+-
+ Reference: "del Pozo J, Salas G, Álvarez R, Casares JA, Espinet P (2016) The Negishi Catalysis: Full Study of the Complications in the Transmetalation Step and Consequences for the Coupling Products. Organometallics 35:3604–3611"
+ Year: 2016
+ URL: https://doi.org/10.1021/acs.organomet.6b00660
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Facultad de Ciencias, Universidad de Valladolid, 47011 Valladolid, Spain
+  - IMDEA Nanociencia, Ciudad Universitaria de Cantoblanco, 28049 Madrid, Spain
+  - Departamento de Química Orgánica, Facultad de Química (CINBIO), Universidade de Vigo, 36310 Vigo, Spain
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Di Camillo B, Carlon A, Eduati F, Toffolo GM (2016) A rule-based model of insulin signalling pathway. BMC Systems Biology 10:38"
+ Year: 2016
+ URL: https://doi.org/10.1186/s12918-016-0281-4
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - Department of Information Engineering, University of Padova, Italy
+  - Magnetic Resonance Center (CERM) and Department of Chemistry “Ugo Schiff”, University of Florence, Italy
+  - European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, UK
+ Funding:
+  - CARIPARO 2008–2010
+ Methods:
+  - sensitivity analysis
+-
+ Reference: "Dubey BN, Lori C, Ozaki S, Fucile G, Plaza-Menacho I, Jenal U, Schirmer T (2016) Cyclic di-GMP mediates a histidine kinase/phosphatase switch by noncovalent domain cross-linking. Science advances 2:e1600823"
+ Year: 2016
+ URL: https://doi.org/10.1126/sciadv.1600823
+ Type: 2
+ Keywords:
+  - Biochemistry
+  - Signaling
+ Locations:
+  - Biozentrum, University of Basel, CH-4056 Basel, Switzerland
+  - Swiss Institute of Bioinformatics, sciCORE Computing Center, University of Basel, CH-4056 Basel, Switzerland
+ Funding:
+  - Swiss National Science Foundation
+  - EU European Research Council
+-
+ Reference: "Dunn AL, Landis CR (2016) Progress toward reaction monitoring at variable temperatures: a new stopped-flow NMR probe design. Magnetic Resonance in Chemistry 55:329–336"
+ Year: 2016
+ URL: https://doi.org/10.1002/mrc.4538
+ Type: 3
+ Keywords:
+  - Laboratory Method
+ Locations:
+  - Department of Chemistry, University of Wisconsin, Madison, Wisconsin, USA
+ Methods:
+  - parameter estimation
+ Funding:
+  - University of Wisconsin
+-
+ Reference: "Froese RD, Whiteker GT, Peterson TH, Arriola DJ, Renga JM, Shearer JW (2016) Computational and Experimental Studies of Regioselective SNAr Halide Exchange (Halex) Reactions of Pentachloropyridine. The Journal of Organic Chemistry 81:10672–10682"
+ Year: 2016
+ URL: https://doi.org/10.1021/acs.joc.6b01656
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - The Dow Chemical Company, 1776 Building, Midland, Michigan 48674, USA
+  - Dow AgroSciences, 9330 Zionsville Road, Indianapolis, Indiana 46268, USA
+ Funding:
+  - Dow Chemical Company
+ Methods:
+  - steady state
+-
+ Reference: "Furrow SD, Cervellati R, Greco E (2016) Study of the transition to higher iodide in the malonic acid Briggs–Rauscher oscillator. Reaction Kinetics, Mechanisms and Catalysis 118:59–71"
+ Year: 2016
+ URL: https://doi.org/10.1007/s11144-015-0967-4
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Penn State Berks College, Pennsylvania State University, Reading, Pennsylvania, USA
+  - Dipartimento di Chimica “G. Ciamician”, University of Bologna, Bologna, Italy
+ Funding:
+ Methods:
+  - time course
 -
  Reference: "Ganesan N, Li J, Sharma V, Jiang H, Compagnoni A (2016) Process Simulation of Complex Biological Pathways in Physical Reactive Space and Reformulated for Massively Parallel Computing Platforms. IEEE/ACM Transactions on Computational Biology and Bioinformatics 13:365–379"
  Year: 2016
