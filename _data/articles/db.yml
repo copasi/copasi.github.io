@@ -3335,6 +3335,17 @@
  Locations:
   - Freie Universität Berlin, Berlin, Germany
 -
+ Reference: "Galazka M, Hay JO (2013) In silico metabolic control analysis of Brassica napus seeds based on dynamic kinetic modeling. A Compilation of Internship Reports. Brookhaven National Laboratory, Office of Educational Programs. pp. 75–80"
+ Year: 2013
+ URL: https://doi.org/10.2172/1122732
+ Locations:
+  - Housatonic Community College, Bridgeport Connecticut 06604, USA
+  - Biosciences Department, Brookhaven National Laboratory, Upton, New York 11973, USA
+ Keywords:
+  - Metabolism
+ Funding:
+  - DOE
+-
  Reference: "Geenen S, du Preez FB, Snoep JL, Foster AJ, Sarda S, Kenna JG, Wilson ID, Westerhoff HV (2013) Glutathione metabolism modeling: a mechanism for liver drug-robustness and a new biomarker strategy. Biochim. Biophys. Acta 1830:4943- 59"
  Year: 2013
  URL: https://doi.org/10.1016/j.bbagen.2013.04.014
@@ -3384,6 +3395,18 @@
  Locations:
   - Universidad de Buenos Aires, Buenos Aires, Argentina
   - Fundación Instituto Leloir-CONICET, Buenos Aires, Argentina
+-
+ Reference: "Jensen MV, Hay JO (2013) Systems Biology Markup Language formulation of a dynamic kinetic model and its uses in quantitative and computational metabolic modeling. A Compilation of Internship Reports. Brookhaven National Laboratory, Office of Educational Programs. pp. 108–112"
+ Year: 2013
+ URL: https://doi.org/10.2172/1122732
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Computer Science, Suffolk County Community College, Selden, New York 11784, USA
+  - Biosciences Department, Brookhaven National Laboratory, Upton, New York 11973, USA
+ Funding:
+  - DOE
 -
  Reference: "Kennedy N, Mizeranschi A, Thompson P, Zheng H, Dubitzky W (2013) Reverse engineering of gene regulation models from multi-condition experiments. Proceedings of the 2013 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), pp.112-119"
  Year: 2013
