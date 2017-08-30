@@ -150,6 +150,26 @@
   - parameter estimation
   - time course
 -
+ Reference: "Kagan VE, Mao G, Qu F, Angeli JPF, Doll S, Croix CS, Dar HH, Liu B, Tyurin VA, Ritov VB, Kapralov AA, Amoscato AA, Jiang J, Anthonymuthu T, Mohammadyani D, Yang Q, Proneth B, Klein-Seetharaman J, Watkins S, Bahar I, Greenberger J, Mallampalli RK, Stockwell BR, Tyurina YY, Conrad M, Bayır H (2017) Oxidized arachidonic and adrenic PEs navigate cells to ferroptosis. Nature Chemical Biology 13:81–90"
+ Year: 2017
+ URL: https://doi.org/10.1038/nchembio.2238
+ Type: 2
+ Keywords:
+  - Signaling
+  - Cell Biology
+ Locations:
+  - University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+  - Institute of Developmental Genetics, Helmholtz Zentrum München, Neuherberg, Germany
+  - Division of Metabolic and Vascular Health, University of Warwick, Coventry, UK
+  - Columbia University, New York, New York, USA
+ Funding:
+  - NIH
+  - Human Frontier Science Program
+  - DFG
+ Methods:
+  - time course
+  - sensitivity analysis
+-
  Reference: "Kaushik AC, Kumar A, Dwivedi VD, Bharadwaj S, Kumar S, Bharti K, Kumar P, Chaudhary RK, Mishra SK (2017) Deciphering the Biochemical Pathway and Pharmacokinetic Study of Amyloid βeta-42 with Superparamagnetic Iron Oxide Nanoparticles (SPIONs) Using Systems Biology Approach. Molecular Neurobiology"
  Year: 2017
  URL: https://doi.org/10.1007/s12035-017-0546-y
@@ -217,6 +237,19 @@
  Methods:
   - time course
   - parameter estimation
+-
+ Reference: "Zimmer C, Yaesoubi R, Cohen T (2017) A Likelihood Approach for Real-Time Calibration of Stochastic Compartmental Epidemic Models. PLOS Computational Biology 13:e1005257"
+ Year: 2017
+ URL: https://doi.org/10.1371/journal.pcbi.1005257
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Yale School of Public Health, New Haven, Connecticut, USA
+ Funding:
+  - NIH
+ Methods:
+  - stochastic simulation
 -
  Reference: "Andrews SS, Peria WJ, Richard CY, Colman-Lerner A, Brent R (2016) Push-pull and feedback mechanisms can align signaling system outputs with inputs. Cell Systems 3:444–455"
  Year: 2016
