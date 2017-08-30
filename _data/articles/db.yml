@@ -16,7 +16,7 @@
   - parameter estimation
 -
  Reference: "Beuke K, Schildberg FA, Pinna F, Albrecht U, Liebe R, Bissinger M, Schirmacher P, Dooley S, Bode JG, Knolle PA, Kummer U, Breuhahn K, Sahle S (2017) Quantitative and integrative analysis of paracrine hepatocyte activation by non-parenchymal cells upon lipopolysaccharide induction. The FEBS Journal 284:796–813"
- Year: 2016
+ Year: 2017
  URL: https://doi.org/10.1111/febs.14022
  Type: 2
  Keywords:
@@ -36,6 +36,19 @@
  Methods:
   - time course
   - parameter estimation
+-
+ Reference: "Brezny AC, Landis CR (2017) Unexpected CO Dependencies, Catalyst Speciation, and Single-Turnover Hydrogenolysis Studies of Hydroformylation via High Pressure NMR Spectroscopy. Journal of the American Chemical Society 139:2778–2785"
+ Year: 2017
+ URL: https://doi.org/10.1021/jacs.6b12533
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of Wisconsin—Madison, 1101 University Avenue, Madison, Wisconsin 53706, United States
+ Funding:
+  - NSF
+ Methods:
+  - time course
 -
  Reference: "Dalle Pezze P, Le Novère N (2017) SBpipe: a collection of pipelines for automating repetitive simulation and analysis tasks. BMC Systems Biology, 11:46"
  Year: 2017
