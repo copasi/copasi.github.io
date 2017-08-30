@@ -67,13 +67,14 @@ section: Research
       <div class="col-xs-12">
         {% for year in cps_article_years %}
         <div class="panel panel-default">
+          {% assign count = 0 %}
           <div class="panel-heading">{{ year }}</div>
           {% for item in site.data.articles.db %}
           {% assign delta = item.Year | minus: year %}
           {% if delta == 0 %}
           <div class="panel-body" style="padding-bottom:0" >
-            {{ item.Reference }} 
-
+            {{ item.Reference }}
+            {% assign count = count | plus: 1 %}
             {% for key in item.Keywords %}
             <span class="label label-default">{{ key }}</span>
             {% endfor %}
@@ -83,6 +84,7 @@ section: Research
           {% endif %}
           {% endfor %}
           <br/>
+          <div class="panel-heading">{{ count }} publications</div>
         </div>
         {% endfor %}
       </div>
