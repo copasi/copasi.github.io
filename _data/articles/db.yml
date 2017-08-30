@@ -15,6 +15,28 @@
   - time course
   - parameter estimation
 -
+ Reference: "Beuke K, Schildberg FA, Pinna F, Albrecht U, Liebe R, Bissinger M, Schirmacher P, Dooley S, Bode JG, Knolle PA, Kummer U, Breuhahn K, Sahle S (2017) Quantitative and integrative analysis of paracrine hepatocyte activation by non-parenchymal cells upon lipopolysaccharide induction. The FEBS Journal 284:796–813"
+ Year: 2016
+ URL: https://doi.org/10.1111/febs.14022
+ Type: 2
+ Keywords:
+  - Immunology
+ Locations:
+  - Department of Modeling of Biological Processes, COS Heidelberg/BIOQUANT, Heidelberg University, Germany
+  - Department of Microbiology and Immunobiology, Harvard Medical School, Boston, Massachusetts, USA
+  - Institute of Pathology, University Hospital of Heidelberg, Germany
+  - Clinic for Gastroenterology, Heinrich-Heine-University of Düsseldorf, Germany
+  - Molecular Hepatology, Department of Medicine II, Medical Faculty at Mannheim, Heidelberg University, Germany
+  - Institute of Molecular Immunology and Experimental Oncology, München Rechts der Isar, Technische Universität München, Germany
+ Funding:
+  - BMBF
+  - Klaus Tschira Foundation
+  - DFG
+  - International Society for Advancement of Cytometry
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Dalle Pezze P, Le Novère N (2017) SBpipe: a collection of pipelines for automating repetitive simulation and analysis tasks. BMC Systems Biology, 11:46"
  Year: 2017
  URL: https://doi.org/10.1186/s12918-017-0423-3
@@ -4430,6 +4452,26 @@
  Type: 2
  Locations:
   - Indian Institute of Technology Kanpur, Kanpur, India
+-
+ Reference: "Pinna F, Sahle S, Beuke K, Bissinger M, Tuncay S, D’Alessandro LA, Gauges R, Raue A, Timmer J, Klingmüller U, Schirmacher P, Kummer U, Breuhahn K (2012) A Systems Biology Study on NFκB Signaling in Primary Mouse Hepatocytes. Frontiers in Physiology 3:466"
+ Year: 2012
+ URL: https://doi.org/10.3389/fphys.2012.00466
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - Institute of Pathology, University Hospital of Heidelberg, Heidelberg, Germany
+  - Department of Modeling of Biological Processes, Centre for Organismal Studies Heidelberg/BIOQUANT, University of Heidelberg, Heidelberg, Germany
+  - Division of Systems Biology of Signal Transduction, German Cancer Research Center, DKFZ-ZMBH Alliance, BIOQUANT, Heidelberg, Germany
+  - Albstadt Sigmaringen University, Sigmaringen, Germany
+  - Department of Data Analysis and Modeling of Dynamic Processes in the Life Sciences, University of Freiburg, Freiburg, Germany
+ Funding:
+  - BMBF
+  - Klaus Tschira Foundation
+ Methods:
+  - time course
+  - sensitivity analysis
+  - parameter estimation
 -
  Reference: "Piras V, Hayashi K, Tomita M, Selvarajoo K (2012) Investigation of stochasticity in TRAIL signaling cancer model. IEEE, 609-614."
  Year: 2012
