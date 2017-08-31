@@ -3844,7 +3844,7 @@
   - steady state
   - time course
 -
- Reference: "Shemirani MI (2013) Construction of metabolic pathway of catecholamine from tyrosine in human fibroblast cell. Degree Proejct in Medicine, School of Medicine and Health Science, Orerbo University, Sweden"
+ Reference: "Shemirani MI (2013) Construction of metabolic pathway of catecholamine from tyrosine in human fibroblast cell. Degree Project in Medicine, School of Medicine and Health Science, Orerbo University, Sweden"
  Year: 2013
  URL: http://www.researchgate.net/profile/Mahnaz_Shemirani/publication/259692806_CONSTRUCTION_OF_METABOLIC_PATHWAY_OF_CATECHOLAMINE_FROM_TYROSINE_IN_HUMAN_FIBROBLAST_CELL/links/00b4952d58fb25f430000000.pdf
  Keywords:
@@ -4721,6 +4721,7 @@
  URL: https://doi.org/10.1371/journal.pone.0047525
  Keywords:
   - Genomics
+  - Immunology
  Type: 2
  Locations:
   - Virginia Tech, Blacksburg VA, USA
@@ -5035,6 +5036,8 @@
  Year: 2010
  URL: http://users.minet.uni-jena.de/~dittrich/p/EHDSM2010Biosignals.pdf
  Keywords:
+  - Computational Method
+  - Biotechnology
  Type: 2
  Locations:
   - Friedrich-Schiller University of Jena, Jena, Germany
@@ -5063,11 +5066,13 @@
  Year: 2010
  URL: https://doi.org/10.1021/jp911492f
  Keywords:
+  - Chemistry
  Type: 2
  Locations:
   - Pennsylvania State University, Reading, PA, USA
  Funding:
-  - the NSF (DUE 0310554) and Penn State Berks College
+  - the NSF (DUE 0310554) 
+  - Penn State Berks College
 -
  Reference: "Hallinan JS, Misirli G, Wipat A (2010) Evolutionary computation for the design of a stochastic switch for synthetic genetic circuits. IEEE, 768–774"
  Year: 2010
@@ -5085,6 +5090,7 @@
  Year: 2010
  URL: https://doi.org/10.1021/ja107054x
  Keywords:
+  - Enzymology
  Type: 2
  Locations:
   - University of California, Davis, CA, USA
@@ -5242,6 +5248,7 @@
  Year: 2010
  URL: https://doi.org/10.1021/ja909619a
  Keywords:
+  - Chemistry
  Type: 2
  Locations:
   - University of Wisconsin-Madison, Madison, Wisconsin, USA
@@ -5260,8 +5267,9 @@
 -
  Reference: "Yao G, Tan C, West M, Nevins JR, You L (2010) A Minimal Gene Circuit Underlying the Bistable Cell Cycle Entry."
  Year: 2010
- URL: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.184.1759&rep=rep1&type=pdf
+ URL: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.184.1759
  Keywords:
+  - Synthetic Biology
  Type: 2
  Locations:
   - Duke University Durham, Durham, NC, USA
@@ -5331,6 +5339,7 @@
  Year: 2009
  URL: https://doi.org/10.1021/es901425n
  Keywords:
+  - Chemistry
  Type: 2
  Locations:
   - Ecole Supérieure d’Ingenieurs de Poitiers, Poitiers Cedex, France
@@ -5479,6 +5488,7 @@
  Year: 2009
  URL: https://arxiv.org/abs/0903.4844
  Keywords:
+  - Theory
  Type: 3
  Locations:
   - University of Pune, Pune-411007, Maharashtra, India
