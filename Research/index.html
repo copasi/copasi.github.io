@@ -76,15 +76,18 @@ section: Research
             {{ item.Reference }}
             {% assign count = count | plus: 1 %}
             {% for key in item.Keywords %}
-            <span class="label label-default">{{ key }}</span>
+            <a href="{{ site.baseurl }}/Research/{{ key }}" target="_blank"><span class="label label-default">{{ key }}</span></a>
             {% endfor %}
-
             <a href="{{ item.URL }}" target="_blank">Link</a>
           </div>
           {% endif %}
           {% endfor %}
           <br/>
-          <div class="panel-heading">{{ count }} publications</div>
+          {% if count < 2 %}
+              <div class="panel-heading">{{ count }} publication</div>
+          {% else %}
+              <div class="panel-heading">{{ count }} publications</div>
+          {% endif %}
         </div>
         {% endfor %}
       </div>
