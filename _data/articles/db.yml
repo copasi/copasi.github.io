@@ -1,4 +1,22 @@
 -
+ Reference: "Agrawal R, Kalmady SV, Venkatasubramanian G (2017) In Silico Model-driven Assessment of the Effects of Brain-derived Neurotrophic Factor Deficiency on Glutamate and Gamma-Aminobutyric Acid: Implications for Understanding Schizophrenia Pathophysiology. Clinical Psychopharmacology and Neuroscience 15:115"
+ Year: 2017
+ URL: https://doi.org/10.9758/cpn.2017.15.2.115
+ Type: 2
+ Keywords:
+  - Physiology
+  - Signaling
+ Locations:
+  - Neurobiology Research Centre, National Institute of Mental Health and Neuro Sciences, Bangalore 560029, India
+ Funding:
+  - CEIB Programme
+  - Wellcome Trust / DBT India Alliance
+ Methods:
+  - steady state
+  - paramater estimation
+  - time course
+  - sensitivity analysis
+- 
  Reference: "Baumgart L, Mather W, Hasty J (2017) Synchronized DNA cycling across a bacterial population. Nature Genetics, 49:1282–128"
  Year: 2017
  URL: https://doi.org/10.1038/ng.3915
@@ -49,6 +67,26 @@
   - NSF
  Methods:
   - time course
+-
+ Reference: "Chelushkin MA, Panteleev MA, Sveshnikova AN (2017) Activation of the contact pathway of blood coagulation on the circulating microparticles may explain blood plasma coagulation induced by dilution. Biochemistry (Moscow), Supplement Series A: Membrane and Cell Biology 11:130–143"
+ Year: 2017
+ URL: https://doi.org/10.1134/S1990747817020040
+ Type: 2
+ Keywords:
+  - Biophysics
+ Locations:
+  - Faculty of Physics, Moscow Lomonosov State University, Moscow, Russia
+  - Center for Theoretical Problems of Physicochemical Pharmacology, Russian Academy of Sciences, Moscow, Russia
+  - Federal Research and Clinical Center of Pediatric Hematology, Oncology and Immunology, Moscow, Russia
+  - Faculty of Biological and Medical Physics, Moscow Institute of Physics and Technology, Dolgoprudnyi, Russia
+  - Pirogov Russian National Research Medical University, Moscow, Russia
+ Funding:
+  - Russian Foundation for Basic Research
+  - Moscow city Government
+  - Russian President Grants
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Dalle Pezze P, Le Novère N (2017) SBpipe: a collection of pipelines for automating repetitive simulation and analysis tasks. BMC Systems Biology, 11:46"
  Year: 2017
@@ -187,6 +225,22 @@
   - Jaypee Institute of Information Technology, Noida, India
   - Deen Dayal Upadhyay Gorakhpur University, Gorakhpur, India
 -
+ Reference: "Stalidzans E, Mozga I, Sulins J, Zikmanis P (2017) Search for a Minimal Set of Parameters by Assessing the Total Optimization Potential for a Dynamic Model of a Biochemical Network. IEEE/ACM transactions on computational biology and bioinformatics 14:978–985"
+ Year: 2017 
+ URL: https://doi.org/10.1109/TCBB.2016.2550451
+ Type: 3
+ Keywords:
+  - Computational Method
+  - Biotechnology
+ Locations:
+  - Department of Computer Systems, Biosystems Group, Latvia University of Agriculture, Jelgava, Latvia
+  - Institute of Microbiology and Biotechnology, University of Latvia, Riga, Latvia
+ Funding:
+  - EU European Structural Fund
+ Methods:
+  - steady state
+  - optimization
+-
  Reference: "Stasiw DE, Mandal M, Neisen BD, Mitchell LA, Cramer CJ, Tolman WB (2017) Why So Slow? Mechanistic Insights from Studies of a Poor Catalyst for Polymerization of ε-Caprolactone. Inorganic Chemistry 56:725–728"
  Year: 2017
  URL: https://doi.org/10.1021/acs.inorgchem.6b02849
@@ -237,6 +291,20 @@
  Methods:
   - time course
   - parameter estimation
+-
+ Reference: "Zaccarin M, Bosello-Travain V, Di Paolo ML, Falda M, Maiorino M, Miotto G, Piccolo S, Roveri A, Ursini F, Venerando R, Toppo S (2017) Redox status in a model of cancer stem cells. Archives of Biochemistry and Biophysics 617:120–128"
+ Year: 2017
+ URL: https://doi.org/10.1016/j.abb.2016.09.002
+ Type: 2
+ Keywords:
+  - Biochemistry
+  - Cell Biology
+ Locations:
+  - Department of Molecular Medicine, University of Padova, Viale G.Colombo 3, 35121 Padova, Italy
+ Funding:
+  - Human Frontier Science Program
+ Methods:
+  - time course
 -
  Reference: "Zimmer C, Yaesoubi R, Cohen T (2017) A Likelihood Approach for Real-Time Calibration of Stochastic Compartmental Epidemic Models. PLOS Computational Biology 13:e1005257"
  Year: 2017
