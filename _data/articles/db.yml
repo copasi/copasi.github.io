@@ -4880,6 +4880,10 @@
   - Osaka University, Osaka, Japan
   - Japan Tobacco, Osaka, Japan
   - Hyogo College of Medicine, Hyogo, Japan
+ Funding:
+  - Japanese Ministry of Education, Culture, Sports, Science and Technology, 
+  - Japanese Ministry of Health, Labour and Welfare 
+  - Japan Society for the Promotion of Science
 -
  Reference: "Izawa Y, Pun D, Stahl SS (2011) Palladium-Catalyzed Aerobic Dehydrogenation of Substituted Cyclohexanones to Phenols. Science  333:209-213"
  Year: 2011
@@ -4894,6 +4898,24 @@
   - Eastman Chemical
   - NSF
 -
+ Reference: "Kleppe R, Martinez A, Døskeland SO, Haavik J (2011) The 14-3-3 proteins in regulation of cellular metabolism. Seminars in Cell & Developmental Biology. 22:713–719"
+ Year: 2011
+ URL: https://doi.org/10.1016/j.semcdb.2011.08.008
+ Type: 2
+ Keywords:
+  - Signaling
+  - Metabolism
+ Locations:
+  - University of Bergen, Jonas Lies vei 91, 5009 Bergen, Norway
+  - Haukeland University Hospital, Bergen, Norway
+ Funding:
+  - Research Council of Norway
+  - The Kristian Gerhard Jebsen Foundation
+  - Norwegian Cancer Society
+  - Western Norway Health Authorities
+ Methods:
+  - time course
+-
  Reference: "Johnson KRD, Hayes PG (2011) Kinetic and Mechanistic Investigation of Metallacycle Ring Opening in an Ortho-Metalated Lutetium Aryl Complex. Organometallics 30:58–67"
  Year: 2011
  URL: https://doi.org/10.1021/om100814h
@@ -4906,7 +4928,7 @@
   - NSERC
   - Canada Foundation for Innovation
 -
- Reference: "Keitz BK, Grubbs RH (2011) Probing the origin of degenerate metathesis selectivity via characterization and dynamics of ruthenacyclobutanes containing variable NHCs. J. Am. Chem. Soc. 133:16277-16284"
+ Reference: "Keitz BK, Grubbs RH (2011) Probing the origin of degenerate metathesis selectivity via characterization and dynamics of ruthenacyclobutanes containing variable NHCs. Journal of the American Chemical Society 133:16277-16284"
  Year: 2011
  URL: https://doi.org/10.1021/ja207252r
  Keywords:
@@ -4918,7 +4940,7 @@
   - NIH
   - NDSEG
 -
- Reference: "Klotz C, Ziegler T, Figueiredo AS, Rausch S, Hepworth MR, Obsivac N, Sers C, Lang R, Hammerstein P, Lucius R, Hartmann S (2011) A Helminth Immunomodulator Exploits Host Signaling Events to Regulate Cytokine Production in Macrophages. PLoS Pathog. 7:e1001248"
+ Reference: "Klotz C, Ziegler T, Figueiredo AS, Rausch S, Hepworth MR, Obsivac N, Sers C, Lang R, Hammerstein P, Lucius R, Hartmann S (2011) A Helminth Immunomodulator Exploits Host Signaling Events to Regulate Cytokine Production in Macrophages. PLoS Pathogogens 7:e1001248"
  Year: 2011
  URL: https://doi.org/10.1371/journal.ppat.1001248
  Keywords:
@@ -4967,7 +4989,7 @@
   - Computational Method
  Type: 3
  Locations:
-  - California Institute of Technology, Pasadena CA, USA
+  - California Institute of Technology, Pasadena, California 91125, USA
 -
  Reference: "Qian L, Winfree E (2011) A simple DNA gate motif for synthesizing large-scale circuits. J. Royal Soc. Interface 8:1281-97"
  Year: 2011
@@ -4976,7 +4998,21 @@
   - Synthetic Biology
  Type: 2
  Locations:
-  - California Institute of Technology, Pasadena CA, USA
+  - California Institute of Technology, Pasadena, California 91125, USA
+-
+ Reference: "Qian L, Winfree E (2011) Scaling up digital circuit computation with DNA strand displacement cascades. Science 332:1196–1201"
+ Year: 2011
+ URL: https://doi.org/10.1126/science.1200520
+ Type: 2
+ Keywords:
+  - Synthetic Biology
+ Locations:
+  - California Institute of Technology, Pasadena, California 91125, USA
+ Funding:
+  - NSF
+  - Human Frontier Science Program
+ Methods:
+  - time course
 -
  Reference: "Rodriguez F, Bustos MA, Zanetti MN, Ruete MC, Mayorga LS, Tomes CN (2011) alpha-SNAP prevents docking of the acrosome during sperm exocytosis because it sequesters monomeric syntaxin. PLoS ONE 6:e21925"
  Year: 2011
@@ -4991,6 +5027,37 @@
   - CONICET (Argentina)
   - Secretaría de Ciencia y Técnica-Universidad Nacional de Cuyo (Argentina)
   - ANPCYT (Argentina)
+-
+ Reference: "Waltemath D, Adams R, Beard DA, Bergmann FT, Bhalla US, Britten R, Chelliah V, Cooling MT, Cooper J, Crampin EJ, Garny A, Hoops S, Hucka M, Hunter P, Klipp E, Laibe C, Miller AK, Moraru I, Nickerson D, Nielsen P, Nikolski M, Sahle S, Sauro HM, Schmidt H, Snoep JL, Tolle D, Wolkenhauer O, Novère NL (2011) Minimum Information About a Simulation Experiment (MIASE). PLOS Computational Biology 7:e1001122"
+ Year: 2011
+ URL: https://doi.org/10.1371/journal.pcbi.1001122
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Rostock University, Rostock, Mecklenburg-Vorpommern, Germany 
+  - Department of Physiology, Medical College of Wisconsin, Milwaukee, Wisconsin, USA
+  - University of Washington, Seattle, Washington, USA
+  - Keck Graduate Institute, Claremont, California, USA
+  - National Centre for Biological Sciences, Tata Institute of Fundamental Research, Bangalore, India
+  - Auckland Bioengineering Institute, The University of Auckland, Auckland, New Zealand
+  - EMBL-EBI, Wellcome-Trust Genome Campus, Hinxton, UK
+  - University of Oxford, Oxford, UK
+  - Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, Virginia, USA
+  - The California Institute of Technology, Pasadena, California, USA
+  - Theoretical Biophysics, Humboldt Universität zu Berlin, Berlin, Germany
+  - Department of Cell Biology, University of Connecticut Health Center, Farmington, Connecticut, USA
+  - Laboratoire Bordelais de Recherche en Informatique, Universite Bordeaux 1, Bordeaux, France
+  - BIOQUANT, University of Heidelberg, Heidelberg, Germany 
+  - Novartis Pharma AG, Novartis Campus, Basel, Switzerland 
+  - Department of Biochemistry, Stellenbosch University, Matieland, South Africa
+ Funding:
+  - BBSRC
+  - EU Marie Curie Program
+  - DFG
+  - King Abdullah University of Science and Technology (KAUST)
+  - NIH
+  - EU FP7
 -
  Reference: "Yao G, Tan C, West M, Nevins JR, You L (2011) Origin of bistability underlying mammalian cell cycle entry. Mol. Systems Biol. 7:485"
  Year: 2011
