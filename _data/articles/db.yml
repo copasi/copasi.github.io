@@ -1437,7 +1437,7 @@
   - Federal Research and Clinical Center of Pediatric Hematology, Oncology and Immunology, 1 Samory Mashela St, Moscow, Russia
   - Therapeutic Faculty, Pirogov Russian National Research Medical University, 1 Ostrovityanova St, Moscow, Russia
   - Faculty of Medicine, Lomonosov Moscow State University, Lomonosovsky pr. 31/5, Moscow, Russia
-  - Institute of Immunology FMBA of Russia, 24 Kashirskoye Road Moscow, Russia
+  - Institute of Immunology, Federal Biomedical Agency of Russia, 24 Kashirskoye Road, 115478 Moscow, Russia
   - Faculty of Biological and Medical Physics, Moscow Institute of Physics and Technology, 9 Institutskii per., Dolgoprudnyi, Russia
  Funding:
   - Russian Foundation for Basic Research
@@ -4100,6 +4100,23 @@
   - University of Manchester, Manchester, UK
   - Warsaw University of Technology, Warsaw, Poland
 -
+ Reference: "Adams RR, Tsorman N, Stratford K, Akman OE, Gilmore S, Juty N, Le Novère N, Millar AJ, Millar AJ (2012) The Input Signal Step Function (ISSF), a standard method to encode input signals in SBML models with software support, applied to circadian clock models. Journal of Biological Rhythms 27:328–332"
+ Year: 2012
+ URL: https://doi.org/10.1177/0748730412451077
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - SynthSys, University of Edinburgh, Edinburgh, UK
+  - European Molecular Biology Laboratory, European Bioinformatics Institute, Hinxton, UK
+  - School of Engineering, Computing and Mathematics, University of Exeter, UK
+ Funding:
+  - BBSRC
+  - EPSRC
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Adiamah DA, Schwartz J-M (2012) Construction of a Genome-Scale Kinetic Model of Mycobacterium Tuberculosis Using Generic Rate Equations. Metabolites 2:382-397"
  Year: 2012
  URL: https://doi.org/10.3390/metabo2030382
@@ -4379,6 +4396,22 @@
  Locations:
   - Humboldt University of Berlin, Berlin, Germany
 -
+ Reference: "Holcombe M, Adra S, Bicak M, Chin S, Coakley S, I. Graham A, Green J, Greenough C, Jackson D, Kiran M, MacNeil S, Maleki-Dizaji A, McMinn P, Pogson M, Poole R, Qwarnstrom E, Ratnieks F, D. Rolfe M, Smallwood R, Sun T, Worth D (2012) Modelling complex biological systems using an agent-based approach. Integrative Biology 4:53–64"
+ Year: 2012
+ URL: https://doi.org/10.1039/C1IB00042J
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - University of Sheffield, UK
+  - Department of Biology and Environmental Science, University of Sussex, UK
+  - Rutherford Appleton Laboratory, STFC, UK
+  - Department of Computing and Engineering, University of Ulster, UK
+ Funding:
+  - EPSRC
+  - BBSRC
+  - BTExact
+-
  Reference: "Hultqvist G, Punekar AS, Morrone A, Chi CN, Engström Å, Selmer M, Gianni S, Jemth P (2012) Tolerance of Protein Folding to a Circular Permutation in a PDZ Domain. PLoS ONE 7:e50055"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0050055
@@ -4437,6 +4470,23 @@
  Type: 3
  Locations:
   - Latvia University of Agriculture, Jelgava, Latvia
+-
+ Reference: "Koval OM, Snyder JS, Wolf RM, Pavlovicz RE, Glynn P, Curran J, Leymaster ND, Dun W, Wright PJ, Cardona N, Qian L, Mitchell CC, Boyden PA, Binkley PF, Li C, Anderson ME, Mohler PJ, Hund TJ (2012) Ca2+/calmodulin-dependent protein kinase II-based regulation of voltage-gated Na+ channel in cardiac disease. Circulation 126:2084–2094"
+ Year: 2012
+ URL: https://doi.org/10.1161/CIRCULATIONAHA.112.105320
+ Type: 2
+ Keywords:
+  - Physiology
+  - Signaling
+ Locations:
+  - University of Iowa Carver College of Medicine, Iowa City, Iowa, USA
+  - The Ohio State University Medical Center, Columbus, Ohio, USA
+  - The Ohio State University, Columbus, OH;
+  - The Ohio State University Medical Center, Columbus, Ohio, USA
+  - University of Iowa, Iowa City, Iowa, USA
+  - Columbia University, New York, NY, USA
+ Methods:
+  - parameter estimation
 -
  Reference: "Kowald A, Hamann A, Zintel S, Ullrich S, Klipp E, Osiewacz HD (2012) A systems biological analysis links ROS metabolism to mitochondrial protein quality control. Mechanisms of Ageing and Development 133:331-337"
  Year: 2012
