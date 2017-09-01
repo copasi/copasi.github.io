@@ -4589,6 +4589,24 @@
   - University of Rostock, Rostock, Germany
   - University of Lille 1, Lille, France
 -
+ Reference: "Mc Auley MT, Wilkinson DJ, Jones JJ, Kirkwood TB (2012) A whole-body mathematical model of cholesterol metabolism and its age-associated dysregulation. BMC Systems Biology 6:130"
+ Year: 2012
+ URL: https://doi.org/10.1186/1752-0509-6-130
+ Keywords:
+  - Metabolism
+  - Physiology
+ Type: 2
+ Locations:
+  - Newcastle University, Newcastle upon Tyne NE1 7RU, UK
+  - Unilever R&D, Port Sunlight, UK
+ Funding:
+  - EPSRC
+  - Unilever PLC
+  - NIHR
+ Methods:
+  - steady state
+  - parameter scan
+-
  Reference: "Micheau J-C, Coudret C, Cruz J-M, Buhse T (2012) Amplification of enantiomeric excess, mirror-image symmetry breaking and kinetic proofreading in Soai reaction models with different oligomeric orders. Physical Chemistry Chemical Physics 14:13239"
  Year: 2012
  URL: https://doi.org/10.1039/c2cp42041d
@@ -4701,6 +4719,25 @@
  Locations:
   - Rice University, Houston TX, USA
   - University of Texas MD Anderson Cancer Center, Houston TX, USA
+-
+ Reference: "Reyes-Palomares A, Montañez R, Sánchez-Jiménez F, Medina MÁ (2012) A combined model of hepatic polyamine and sulfur amino acid metabolism to analyze S-adenosyl methionine availability. Amino acids 42:597–610"
+ Year: 2012
+ URL: https://doi.org/10.1007/s00726-011-1035-7
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Facultad de Ciencias, Universidad de Málaga, Bulevar Louis Pasteur, 31, 29010  Málaga, Spain
+  - CIBER de Enfermedades Raras (CIBERER), ISCIII, Bulevar Louis Pasteur, 31, 29010 Málaga, Spain
+  - Institut de Biologia Evolutiva (CSIC-UPF), Universitat Pompeu Fabra, Barcelona, Spain
+ Funding:
+  - Spanish Ministry of Science and Innovation
+  - Andalusian Government
+  - Spanish Ministry of Education
+ Methods:
+  - steady state
+  - time course
+  - sensitivity analysis
 -
  Reference: "Salvado B, Vilaprinyo E, Karathia H, Sorribas A, Alves R (2012) Two Component Systems: Physiological Effect of a Third Component. PLoS ONE 7:e31095"
  Year: 2012
