@@ -3344,6 +3344,30 @@
  Locations:
   - Virginia Tech, Blacksburg VA, USA
 -
+ Reference: "Chelliah V, Laibe C, Le Novere N (2013) BioModels database: a repository of mathematical models of biological processes. Methods in Molecular Biology 1021:189–199"
+ Year: 2013
+ URL: https://doi.org/10.1007/978-1-62703-450-0_10
+ Type: 3
+ Keywords:
+  - Software
+ Locations:
+  - European Bioinformatics Institute, Hinxton, Cambridge CB10 1SD, UK
+  - Babraham Institute, Cambridge CB22 3AT, UK
+ Funding:
+-
+ Reference: "Claudino M (2013) Macromolecular design: UV-curable thiol-ene networks based on renewable resources. PhD Thesis, KTH Royal Institute of Technology, Stockholm, Sweden"
+ Year: 2013
+ URL: http://www.diva-portal.org/smash/record.jsf?pid=diva2:652895
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - KTH Royal Institute of Technology, Stockholm, Sweden
+ Funding:
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Cornish-Bowden A, Piedrafita G, Morán F, Cárdenas ML, Montero F (2013) Simulating a model of metabolic closure. Biological Theory 8:383-390"
  Year: 2013
  URL: https://doi.org/10.1007/s13752-013-0132-0
