@@ -3101,6 +3101,21 @@
   - NSF
   - Camille and Henry Dreyfus Postdoctoral Program in Environmental Chemistry
 -
+ Reference: "Mozga I, Stalidzans E (2014) Reduction of Combinatorial Space of Adjustable Kinetic Parameters of Biochemical Network Models in Optimisation Task. Baltic Journal of Modern Computing 150:150–159"
+ Year: 2014
+ URL: https://pdfs.semanticscholar.org/5bda/be23b3088935a305986e69c62bd04cad9643.pdf
+ Type: 3
+ Keywords:
+  - Computational Model
+ Locations:
+  - Biosystems Group, Department of Computer Systems, Latvia University of Agriculture, Liela iela 2, LV3001, Jelgava, Latvia
+  - SIA TIBIT, Dobeles iela 10-9, LV3001, Jelgava, Latvia
+  - Institute of Microbiology and Biotechnology, University of Latvia, Kronvalda boulv. 4, Riga, LV-1586, Latvia
+ Methods:
+  - Optimization
+ Funding:
+  - EU European Structural Funds
+-
  Reference: "Nobile MS, Cazzaniga P, Besozzi D, Mauri G (2014) GPU-accelerated simulations of mass-action kinetics models with cupSODA. J. Supercomputing 69:17-24"
  Year: 2014
  URL: https://doi.org/10.1007/s11227-014-1208-8
@@ -3192,6 +3207,16 @@
  Funding:
   - MRC
   - NIHR
+-
+ Reference: "Raganati F (2014) Butanol production by fermentation of renewable feedstocks. PhD Thesis, Università di Napoli Federico II, Naples, Italy"
+ Year: 2014
+ URL: http://www.fedoa.unina.it/id/eprint/9657
+ Type: 2
+ Keywords:
+  - Biotechnology
+ Locations:
+  - Università degli Studi di Napoli Federico II, P.le V. Tecchio 80, 80125 Napoli, Italy
+ Funding:
 -
  Reference: "Rao S, van der Schaft A, van Eunen K, Bakker BM, Jayawardhana B (2014) A model reduction method for biochemical reaction networks. BMC systems biology 8:52"
  Year: 2014
