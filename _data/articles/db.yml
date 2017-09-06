@@ -2736,6 +2736,16 @@
  Locations:
   - Indian Institute of Science, Bangalore, India
 -
+ Reference: "Boba P, Gries S, Hamacher K (2014) R as an Integration Tool in High Performance Computing - Lessons Learned. GI-Jahrestagung. Lecture Notes in Informatics 232:138–148"
+ Year: 2014
+ URL: http://subs.emis.de/LNI/Proceedings/Proceedings232/article53.html
+ Type: 3
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  - Computational Biology and Simulation, Technische Universität Darmstadt, Schnittspahnstraße 2, 64283 Darmstadt, Germany
+-
  Reference: "Carbo A, Olivares-Villagómez D, Hontecillas R, Bassaganya-Riera J, Chaturvedi R, Piazuelo MB, Delgado A, Washington MK, Wilson KT, Algood HMS (2014) Systems modeling of the role of IL-21 in the maintenance of effector CD4+ T cell responses during chronic Helicobacter pylori infection. mBio 5:e01243-14"
  Year: 2014
  URL: https://doi.org/10.1128/mBio.01243-14
@@ -2761,6 +2771,15 @@
  Funding:
   - Spanish Comisión Interministerial de Ciencia y Tecnología
   - Junta de Castilla y León
+-
+ Reference: "Castaldi DF (2014) Network Based Simulation on HPC for Translational Medicine: an Application to Anticoagulation. PhD Thesis, University of Milano-Bicocca, Milan, Italy."
+ Year: 2014
+ URL: http://hdl.handle.net/10281/52649
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Informatics, Systems and Communication, University of Milano-Bicocca, Piazza dell`Ateneo Nuovo 1,  20126, Milano, Italy
 -
  Reference: "Cazzaniga P, Nobile MS, Besozzi D, Bellini M, Mauri G (2014) Massive exploration of perturbed conditions of the blood coagulation cascade through GPU parallelization. BioMed Res. Int. 2014:863298"
  Year: 2014
@@ -2882,6 +2901,16 @@
  Locations:
   - Newcastle University, Newcastle upon Tyne, United Kingdom
 -
+ Reference: "Helgeson L (2014) Mechanisms of Branched Actin Network Formation through Coordinate Activation of Arp2/3 Complex. PhD Thesis, University of Oregon."
+ Year: 2014
+ URL: http://hdl.handle.net/1794/18717
+ Type: 2
+ Keywords:
+  - Cell Biology
+ Locations:
+  - Department of Biology, University of Oregon, Eugene, Oregon 97401, USA
+ Funding:
+-
  Reference: "Ihekwaba AEC, Mura I, Barker GC (2014) Computational modelling and analysis of the molecular network regulating sporulation initiation in Bacillus subtilis. BMC Systems Biology 8:119"
  Year: 2014
  URL: https://doi.org/10.1186/s12918-014-0119-x
@@ -2931,6 +2960,18 @@
   - time course
   - parameter scan
   - parameter estimation
+-
+ Reference: "Jones A (2014) Mechanistic studies of enantioselective alkene bromolactonisation reactions. PhD Thesis, Imperial College London."
+ Year: 2014
+ URL: http://hdl.handle.net/10044/1/24940
+ Type: 2
+ Keywords: Chemistry
+ Locations:
+  - Department of Chemistry, Imperial College London, South Kensington, London SW7 2AZ, UK
+ Funding:
+  - GSK
+ Methods:
+  - time course
 -
  Reference: "Karonen M, Mattila H, Huang P, Mamedov F, Styring S, Tyystjärvi E (2014) A tandem mass spectrometric method for singlet oxygen measurement. Photochem. Photobiol. 90:965-971"
  Year: 2014
@@ -3232,7 +3273,7 @@
   - Netherlands Genomics Initiative
   - Top Institute Food and Nutrition
 -
- Reference: "Sakkalis V, Sfakianakis S, Tzamali E, Marias K, Stamatakos G, Misichroni F, Ouzounoglou E, Kolokotroni E, Dionysiou D, Johnson D, McKeever S, Graf N (2014) Web-based workflow planning platform supporting the design and execution of complex multiscale cancer models. IEEE J. Biomed. Health Informatics 18:824-31"
+ Reference: "Sakkalis V, Sfakianakis S, Tzamali E, Marias K, Stamatakos G, Misichroni F, Ouzounoglou E, Kolokotroni E, Dionysiou D, Johnson D, McKeever S, Graf N (2014) Web-based workflow planning platform supporting the design and execution of complex multiscale cancer models. IEEE J. Biomededical Health Informatics 18:824-31"
  Year: 2014
  URL: https://doi.org/10.1109/JBHI.2013.2297167
  Keywords:
@@ -3530,6 +3571,16 @@
  Methods:
   - MCA
   - parameter estimation
+-
+ Reference: "Gow C-H (2013) Novel mechanisms of transcriptional regulation by leukemia fusion proteins. PhD Thesis, University of Cincinnati, Cincinnati, OH."
+ Year: 2013
+ URL: https://etd.ohiolink.edu/!etd.send_file?accession=ucin1394724980&disposition=inline
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - Department of Cancer and Cell Biology, College of Medicine, University of Cincinnati, Cincinnati Ohio, USA 
+ Funding:
 -
  Reference: "Haq I,  Irving JA, Faull SV, Dickens JA, Ordonez A, Belorgey D, Gooptu B, Lomas, DA (2013) Reactive centre loop mutants of alpha-1-antitrypsin reveal position-specific effects on intermediate formation along the polymerization pathway. Biosci. Rep. 33:499-511"
  Year: 2013
@@ -4024,6 +4075,18 @@
  Type: 2
  Locations:
   - Stevens Institute of Technology, Hoboken NJ, USA
+-
+ Reference: "Sharp GC (2013) Comprehensive data analysis to study parturition. PhD Thesis, University of Edinburgh."
+ Year: 2013
+ URL: http://hdl.handle.net/1842/9534
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - University of Edinburgh, Edinburgh, United Kingdom
+ Methods:
+  - steady state
+  - time course
 -
  Reference: "Sharp GC, Ma H, Saunders PTK, Norman JE (2013) A Computational Model of Lipopolysaccharide-Induced Nuclear Factor Kappa B Activation: A Key Signalling Pathway in Infection-Induced Preterm Labour. PLoS ONE 8:e70180"
  Year: 2013
