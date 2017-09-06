@@ -3362,8 +3362,22 @@
  Keywords:
   - Chemistry
  Locations:
-  - KTH Royal Institute of Technology, Stockholm, Sweden
+  - KTH Royal Institute of Technology, SE-100 44 Stockholm, Sweden
  Funding:
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Claudino M, Jonsson M, Johansson M (2013) Thiol–ene coupling kinetics of d-limonene: a versatile ‘non-click’free-radical reaction involving a natural terpene. RSC Advances 3:11021–11034"
+ Year: 2013
+ URL: https://doi.org/10.1039/C3RA40696B
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - KTH Royal Institute of Technology, SE-100 44 Stockholm, Sweden
+ Funding:
+  - Swedish Research Council
  Methods:
   - time course
   - parameter estimation
@@ -3402,6 +3416,18 @@
  Funding:
   - NIH
   - NSF
+-
+ Reference: "Emiola A, Falcarin P, Tocher J, George J (2013) A model for the proteolytic regulation of LpxC in the lipopolysaccharide pathway of Escherichia coli. Computational Biology and Chemistry 47:1–7"
+ Year: 2013
+ URL: https://doi.org/10.1016/j.compbiolchem.2013.06.001
+ Type: 2
+ Keywords:
+  - Biochemistry
+  - Microbiology
+ Locations:
+  - School of Health, Sports and Bioscience, University of East London, Stratford Campus, London E15 4LZ, UK
+  - School of Architecture, Computing and Engineering, University of East London, Docklands Campus, London E16 2RD, UK
+ Funding:
 -
  Reference: "Firczuk H, Kannambath S, Pahle J, Claydon A, Beynon R, Duncan J, Westerhoff H, Mendes P, McCarthy JEG (2013) An in vivo control map for the eukaryotic mRNA translation machinery. Molecular Systems Biology 9:635"
  Year: 2013
@@ -3736,6 +3762,17 @@
   - BBSRC
   - NIH
 -
+ Reference: "Mozga I (2013) Determinition of best set of adjustable parameters with full search and limited search methods. Biosystems and Information Technology 2:11–14"
+ Year: 2013
+ URL: https://doi.org/10.11592/bit.130503
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - SIA TIBIT, Dobeles iela 10-9, LV-3001, Jelgava, Latvia
+ Methods:
+  - parameter estimation
+-
  Reference: "Nobile MS , Besozzi D, Cazzaniga P, Mauri G, Pescini D (2013) cupSODA: a CUDA-powered simulator of mass-action kinetics. Parallel Computing Technologies Proceedings of the 12th International Conference, PaCT 2013, St. Petersburg, pp.344-357"
  Year: 2013
  URL: https://doi.org/10.1007/978-3-642-39958-9_32
@@ -3811,6 +3848,21 @@
   - University of Southampton, Southampton, UK
   - Ottawa Hospital Research Institute, Ottawa, Canada
   - University of Ottawa, Ottawa, Canada
+-
+ Reference: "Pun D, Diao T, Stahl SS (2013) Aerobic dehydrogenation of cyclohexanone to phenol catalyzed by Pd (TFA) 2/2-dimethylaminopyridine: Evidence for the role of Pd nanoparticles. Journal of the American Chemical Society 135:8213–8221"
+ Year: 2013
+ URL: https://doi.org/10.1021/ja403165u
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of Wisconsin−Madison, 1101 University Avenue, Madison, Wisconsin 53706, USA
+ Funding:
+  - NIH
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Ravichandran S, Rao KVS, Jain S (2013) Bistability in a model of early B cell receptor activation and its role in tonic signaling and system tunability. Molecular BioSystems 9:2498-2511"
  Year: 2013
@@ -3945,6 +3997,17 @@
  Locations:
   - Orerbo University, Örebro, Sweden
 -
+ Reference: "Sheng X (2013) Evolutionary and Functional Aspects of Two-Component Signalling Systems. PhD Thesis, Imperial College London."
+ Year: 2013
+ URL: http://hdl.handle.net/10044/1/17940
+ Type: 2
+ Keywords:
+  - Microbiology
+ Locations:
+  - Imperial College London, South Kensington Campus, London SW7 2AZ, UK
+ Funding:
+  - SHKP-KWOK
+-
  Reference: "Singh VK, Ghosh I (2013) Methylerythritol phosphate pathway to isoprenoids: kinetic modeling and in silico enzyme inhibitions in Plasmodium falciparum. FEBS Lett. 587:2806-2817"
  Year: 2013
  URL: https://doi.org/10.1016/j.febslet.2013.06.024
@@ -4004,6 +4067,24 @@
   - time course
   - sensitivity analysis
   - parameter estimation
+-
+ Reference: "Stanford NJ, Lubitz T, Smallbone K, Klipp E, Mendes P, Liebermeister W (2013) Systematic construction of kinetic models from genome-scale metabolic networks. PloS One 8:e79195"
+ Year: 2013
+ URL: https://doi.org/10.1371/journal.pone.0079195
+ Type: 3
+ Keywords:
+  - Computational Method
+  - Whole-Cell Models
+ Locations:
+  - Manchester Centre for Integrative Systems Biology, The University of Manchester, Manchester M1 7DN, UK
+  - Institut für Biologie, Theoretische Biophysik, Humboldt-Universität zu Berlin, Berlin, Germany
+  - Virginia Tech, 1015 Life Science Circle, Blacksburg, Virginia 24061, USA
+ Funding:
+  - BBSRC
+  - EPSRC
+  - EU FP7
+  - DFG
+  - NIH
 -
  Reference: "Stavrum A-K, Heiland I, Schuster S, Puntervoll P, Ziegler M (2013) Model of tryptophan metabolism, readily scalable using tissue-specific gene expression data. J. Biol. Chem. 288:34555-34566"
  Year: 2013
