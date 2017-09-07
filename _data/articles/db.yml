@@ -3737,6 +3737,25 @@
   - time course
   - parameter estimation
 -
+ Reference: "Talemi SR, Jacobson T, Garla V, Navarrete C, Wagner A, Tamás MJ, Schaber J (2014) Mathematical modelling of arsenic transport, distribution and detoxification processes in yeast. Molecular microbiology 92:1343–1356"
+ Year: 2014
+ URL: https://doi.org/10.1111/mmi.12631
+ Type: 2
+ Keywords:
+  - Toxicology
+  - Metabolism
+ Locations:
+  - Institute for Experimental Internal Medicine, Medical Faculty, Otto-von-Guericke University, Magdeburg, Germany
+  - University of Gothenburg, Gothenburg, Sweden
+  - Yale Center for Medical Informatics, Yale University, New Haven, CT, USA
+ Methods:
+  - parameter estimation
+  - parameter scan
+ Funding:
+  - Swedish Research Council
+  - Ministry of Education of Saxony-Anhalt
+  - International Max Planck Research School (IMPRS) Magdeburg for Advanced Methods in Process and Systems Engineering
+-
  Reference: "Tunnicliffe RB, Hautbergue GM, Wilson SA, Kalra P, Golovanov AP (2014) Competitive and Cooperative Interactions Mediate RNA Transfer from Herpesvirus Saimiri ORF57 to the Mammalian Export Adaptor ALYREF. PLoS Pathog 10(2): e1003907."
  Year: 2014
  URL: https://doi.org/10.1371/journal.ppat.1003907
@@ -3749,6 +3768,19 @@
   - BBSRC
   - Wellcome Trust
 -
+ Reference: "Valero G, Ribó JM, Moyano A (2014) A closer look at spontaneous mirror symmetry breaking in aldol reactions. Chemistry-A European Journal 20:17395–17408"
+ Year: 2014
+ URL: https://doi.org/10.1002/chem.201404497
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Departament de Química Orgànica, Facultat de Química, Universitat de Barcelona, C. Martí I Franquès 1-11, 08028-Barcelona, Spain
+ Funding:
+  - Spanish Ministry of Economy and Competitivity
+ Methods:
+  - time course
+-
  Reference: "Valero González G (2014) Estudis mecanístics i metodològics de processos d'autocatàlisi i organocatàlisi asimètriques. Ph.D. Thesis, Department of Organic Chemistry, University of Barcelona"
  Year: 2014
  URL: http://hdl.handle.net/10803/285338
@@ -3759,6 +3791,23 @@
   - University of Barcelona, Barcelona, Spain
  Funding:
   - Ministerio de Ciencia e Innovación (Spain)
+-
+ Reference: "Ventura AC, Bush A, Vasen G, Goldín MA, Burkinshaw B, Bhattacharjee N, Folch A, Brent R, Chernomoretz A, Colman-Lerner A (2014) Utilization of extracellular information before ligand-receptor binding reaches equilibrium expands and shifts the input dynamic range. Proceedings of the National Academy of Sciences 111:E3860–E3869" 
+ Year: 2014
+ URL: https://doi.org/10.1073/pnas.1322761111
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - University of Buenos Aires, C1428EGA Buenos Aires, Argentina
+  - Fundación Instituto Leloir, C1405BWE Buenos Aires, Argentina
+  - Department of Bioengineering, University of Washington, Seattle, WA 98195, USA
+  - Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA
+ Funding:
+  - Argentine Agency of Research and Technology
+  - NIH
+ Methods:
+  - stochastic simulation
 -
  Reference: "Vickers JW, Sumliner JM, Lv H, Morris M, Geletii YV, Hill CL (2014) Collecting meaningful early-time kinetic data in homogeneous catalytic water oxidation with a sacrificial oxidant. Phys. Chem. Chemical Physics 16:11942-11949"
  Year: 2014
