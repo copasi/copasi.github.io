@@ -3382,7 +3382,7 @@
  URL: https://pdfs.semanticscholar.org/5bda/be23b3088935a305986e69c62bd04cad9643.pdf
  Type: 3
  Keywords:
-  - Computational Model
+  - Computational Method
  Locations:
   - Biosystems Group, Department of Computer Systems, Latvia University of Agriculture, Liela iela 2, LV3001, Jelgava, Latvia
   - SIA TIBIT, Dobeles iela 10-9, LV3001, Jelgava, Latvia
@@ -3486,6 +3486,21 @@
   - Austria Wirtschaftsservice GmbH
   - Max Planck Society
   - BIOCRATES Life Sciences AG
+-
+ Reference: "Peterson JR, Labhsetwar P, Ellermeier JR, Kohler PR, Jain A, Ha T, Metcalf WW, Luthey-Schulten Z (2014) Towards a computational model of a methane producing archaeum. Archaea 2014:898453"
+ Year: 2014
+ URL: https://doi.org/10.1155/2014/898453
+ Type: 2
+ Keywords:
+  - Whole-Cell Models
+  - Microbiology
+ Locations:
+  - University of Illinois at Urbana Champaign, Urbana, IL 61801, USA
+ Funding:
+  - DOE
+  - NASA
+  - NIH
+  - NSF
 -
  Reference: "Phelix CF, Villareal G, LeBaron RG, Perry G, Roberson DJ (2014) Precision medicine using individualized biosimulations of drug dosing: Alzheimer’s disease. Healthcare Innovation Conference (HIC), IEEE, 292–295"
  Year: 2014
