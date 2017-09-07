@@ -3247,6 +3247,18 @@
   - time course
   - stochastic simulation
 -
+ Reference: "Luo J (2014) Mechanistic investigation of catalytic organometallic reactions using ESI MS. PhD Thesis, University of Victoria, British Columbia, Canada."
+ Year: 2014
+ URL: http://hdl.handle.net/1828/5767
+ Type: 2
+ Keywords:
+  - Chemistry
+ Location:
+  - Department of Chemistry, Victoria University, 3800 Finnerty Road, Victoria, British Columbia  V8P 5C2, Canada
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Lutz A, Sanwald J, Thomas M, Feuer R, Sawodny O, Ederer M,  Borner C, Humar M, Merfort I (2014) Interleukin-1beta Enhances FasL-Induced Caspase-3/-7 Activity without Increasing Apoptosis in Primary Mouse Hepatocytes. PLoS ONE 9:e115603."
  Year: 2014
  URL: https://doi.org/10.1371/journal.pone.0115603
@@ -3282,6 +3294,19 @@
  Locations:
   - University of Cincinnati, Cincinnati OH, USA
 -
+ Reference: "Marín-Hernández A, López-Ramírez SY, Del Mazo-Monsalvo I, Gallardo-Pérez JC, Rodríguez-Enríquez S, Moreno-Sánchez R, Saavedra E (2014) Modeling cancer glycolysis under hypoglycemia, and the role played by the differential expression of glycolytic isoforms. FEBS Journal 281:3325–3345"
+ Year: 2014
+ URL: https://doi.org/10.1111/febs.12864
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Departamento de Bioquímica, Instituto Nacional de Cardiología, Juan Badiano No. 1, Col. Sección XVI, Tlalpan, México D.F., 14080 Mexico
+  - Laboratorio de Medicina Traslacional, Instituto Nacional de Cancerología, Mexico
+ Funding:
+  - CONACyT México
+  - Instituto de Ciencia y Tecnología del Distrito Federal
+-
  Reference: "Marín-Hernández A, López-Ramírez SY, Gallardo-Pérez JC, Rodríguez-Enríquez S, Moreno-Sánchez R, Saavedra E (2014) Systems biology approaches to cancer energy metabolism. in M.A. Aon et al. (eds.), Systems Biology of Metabolic and Signaling Networks, Springer-Verlag pp.213-239"
  Year: 2014
  URL: https://doi.org/10.1007/978-3-642-38505-6_9
@@ -3306,6 +3331,17 @@
   - Keio University, Yokohama, Japan
   - Okinawa Institute of Science and Technology, Okinawa, Japan
   - RIKEN Center for Integrative Medical Sciences, Yokohama, Japan
+-
+ Reference: "Mei Y, Carbo A, Hontecillas R, Hoops S, Liles N, Lu P, Philipson C, Bassaganya-Riera J (2014) ENISI MSM: A novel multi-scale modeling platform for computational immunology. 2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), IEEE, 391–396"
+ Year: 2014
+ URL: https://doi.org/10.1109/BIBM.2014.6999190
+ Type: 3
+ Keywords:
+  - Software
+ Locations:
+  - Virginia Tech, Blacksburg, Virginia 24061, USA
+ Funding:
+  - NIH
 -
  Reference: "McAuley MT, Khalil R, Stockton DJ, Schilstra MJ (2014) Modelling the flagellar motor assembly process to help improve industrial operations systems design."
  Year: 2014
@@ -3381,6 +3417,22 @@
  Funding:
   - Research Infrastructure “SYSBIO Centre of Systems Biology”
 -
+ Reference: "Ouzounoglou E, Kalamatianos D, Emmanouilidou E, Xilouri M, Stefanis L, Vekrellis K, Manolakos ES (2014) In silico modeling of the effects of alpha-synuclein oligomerization on dopaminergic neuronal homeostasis. BMC Systems Biology 8:54"
+ Year: 2014
+ URL: https://doi.org/10.1186/1752-0509-8-54
+ Type: 2
+ Keywords:
+  - Physiology
+  - Cell Biology
+ Locations:
+  - Department of Informatics and Telecommunications, National and Kapodistrian University of Athens, Zografou 161 22, Greece
+  - School of Electrical and Computer Engineering, National Technical University of Athens, Athens, Greece
+  - Biomedical Research Foundation of the Academy of Athens, 4 Soranou Ephessiou Street, Athens 115 27, Greece
+  - Second Department of Neurology, University of Athens Medical School, Τετραπολεως 18, Athens 115 27, Greece
+ Funding:
+  - EU FP7
+  - Michael J. Fox Foundation
+-
  Reference: "Palai T, Singh AK, Bhattacharya PK (2014) Enzyme, beta-galactosidase immobilized on membrane surface for galacto-oligosaccharides formation from lactose: kinetic study with feed flow under recirculation loop. Biochem. Eng. J. 88:68-76"
  Year: 2014
  URL: https://doi.org/10.1016/j.bej.2014.03.017
@@ -3392,6 +3444,18 @@
   - Indian Institute of Technology Kanpur, Kanpur, India
  Funding:
   - Department of Biotechnology Government of India
+-
+ Reference: "Palmisano A, Hoops S, Watson LT, Jones Jr TC, Tyson JJ, Shaffer CA (2014) Multistate Model Builder (MSMB): a flexible editor for compact biochemical models. BMC Systems Biology 8:42"
+ Year: 2014
+ URL: https://doi.org/10.1186/1752-0509-8-42
+ Type: 3
+ Keywords:
+  - Software
+  - Computational Method
+ Locations:
+  - Virginia Tech, Blacksburg, Virginia 24061, USA
+ Funding:
+  - NIH
 -
  Reference: "Pandey V (2014) Metabolic modeling of different degrees of steatohepatitis in mice. PhD Thesis, Department of Mathematics and Computer Science, Free University of Berlin."
  Year: 2014
