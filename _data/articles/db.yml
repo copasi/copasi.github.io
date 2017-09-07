@@ -2700,6 +2700,25 @@
  Locations:
   - Heidelberg University, Heidelberg, Germany
 -
+ Reference: "Antunes G, Sebastião AM, de Souza FMS (2014) Mechanisms of regulation of olfactory transduction and adaptation in the olfactory cilium. PLoS One 9:e105531"
+ Year: 2014
+ URL: https://doi.org/10.1371/journal.pone.0105531
+ Type: 2
+ Keywords:
+  - Signaling
+  - Pharmacology
+ Locations:
+  - Neurosciences Unit, Institute of Molecular Medicine, University of Lisbon, Lisbon, Portugal
+  - Institute of Pharmacology and Neurosciences, Faculty of Medicine, University of Lisbon, Lisbon, Portugal
+  - Department of Psychology, Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, Brazil
+  - Center for Mathematics, Computation and Cognition, Federal University of ABC, São Bernardo do Campo, Brazil
+ Funding:
+  - EU FP7
+  - Foundation for Science and Technology of Portugal
+ Methods:
+  - stochastic simulation
+  - condor-copasi
+-
  Reference: "Aubert N, Mosca C, Fujii T, Hagiya M, Rondelez Y (2014) Computer-assisted design for scaling up systems based on DNA reaction networks J. Royal Soc. Interface 11:20131167"
  Year: 2014
  URL: https://doi.org/10.1098/rsif.2013.1167
@@ -2722,6 +2741,19 @@
  Funding:
   - EraSysBio
   - INRA
+-
+ Reference: "Bellini M, Besozzi D, Cazzaniga P, Mauri G, Nobile MS (2014) Simulation and analysis of the blood coagulation cascade accelerated on GPU. 2014 22nd Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP), IEEE, 590–593"
+ Year: 2014
+ URL: https://doi.org/10.1109/PDP.2014.52
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Dipartimento di Informatica, Università degli Studi di Milano, 20135 Milano, Italy
+  - Dipartimento di Scienze Umane e Sociali,  Università degli Studi di Bergamo, 24129 Bergamo, Italy
+  - Dipartimento di Informatica, Sistemistica e Comunicazione, Università degli Studi di Milano-Bicocca,  20126 Milano, Italy
+ Methods:
+  - time course
 -
  Reference: "Benfeitas R, Selvaggio G, Antunes F, Coelho PMBM, Salvador A (2014) Hydrogen peroxide metabolism and sensing in human erythrocytes: a validated kinetic model and reappraisal of the role of peroxiredoxin II. Free Radical Biology and Medicine 74:35-49"
  Year: 2014
@@ -3381,6 +3413,18 @@
   - National Centre for Cell Science, Pune, India
  Funding:
   - Department of Biotechnology, Government of India
+-
+ Reference: "Spiaggi AJ (2014) Caracterización de los pasos involucrados en el transporte de K+ por la Na+/K+-ATPasa. PhD Thesis, Universidad de Buenos Aires, Argentina."
+ Year: 2014
+ URL: http://repositoriouba.sisbi.uba.ar/gsdl/cgi-bin/library.cgi?a=d&c=posgrauba&cl=CL1&d=HWA_793
+ Type: 2
+ Keywords:
+  - Enzymology
+ Locations:
+  - Facultad de Farmacia y Bioquímica, Universidad de Buenos Aires, Argentina
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Tunnicliffe RB, Hautbergue GM, Wilson SA, Kalra P, Golovanov AP (2014) Competitive and Cooperative Interactions Mediate RNA Transfer from Herpesvirus Saimiri ORF57 to the Mammalian Export Adaptor ALYREF. PLoS Pathog 10(2): e1003907."
  Year: 2014
