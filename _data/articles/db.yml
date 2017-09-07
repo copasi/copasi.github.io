@@ -2922,6 +2922,18 @@
   - Wellcome Trust
   - DFG
 -
+ Reference: "Gautam VK, Czeizler E, Haddow PC, Kuiper M (2014) Design of a Minimal System for Self-replication of Rectangular Patterns of DNA Tiles. In: Dediu AH, Lozano M, Martín-Vide C (eds) Theory and Practice of Natural Computing. TPNC 2014. Lecture Notes in Computer Science, 8890:119-133"
+ Year: 2014
+ URL: https://doi.org/10.1007/978-3-319-13749-0_11
+ Type: 2
+ Keywords:
+  - Synthetic Biology
+ Locations:
+  - The Norwegian University of Science and Technology, Trondheim, Norway
+  - Department of Information and Computer Science, School of Science, Aalto University, Aalto, Finland
+ Methods:
+  - time course
+-
  Reference: "Godfrey L, Yamada-Fowler N, Smith J, Thornalley PJ, Rabbani N (2014) Arginine-directed glycation and decreased HDL plasma concentration and functionality. Nutrition & Diabetes 4:e134"
  Year: 2014
  URL: https://doi.org/10.1038/nutd.2014.31
@@ -2946,6 +2958,24 @@
  Funding:
   - NIH
 -
+ Reference: "Guillaud F, Dröse S, Kowald A, Brandt U, Klipp E (2014) Superoxide production by cytochrome bc 1 complex: A mathematical model. Biochimica et Biophysica Acta 1837:1643–1652"
+ Year: 2014
+ URL: https://doi.org/10.1016/j.bbabio.2014.05.358
+ Type: 2
+ Keywords:
+  - Enzymology
+ Locations:
+  - Theoretische Biophysik, Humboldt University, Invalidenstraße 42, 10115, Berlin, Germany
+  - Molecular Bioenergetics Group, Medical School, Goethe University, Frankfurt am Main, Germany
+  - Nijmegen Centre for Mitochondrial Disorders, Radboud University Medical Centre, Geert Grooteplein-Zuid 10, 6525GA Nijmegen, The Netherlands
+  - INSERM U1082, Faculty of Medicine and Pharmacy, University of Poitiers, CHU of Poitiers, 6 rue de la Milétrie, 86021 Poitiers, France
+ Funding:
+  - BMBF
+  - DFG
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Hallinan JS, Gilfellon O, Misirli G, Wipat A (2014) Tuning receiver characteristics in bacterial quorum communication: An evolutionary approach using standard virtual biological parts. Proceedings of the 2014 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology, 1-8"
  Year: 2014
  URL: https://doi.org/10.1109/CIBCB.2014.6845520
@@ -2965,6 +2995,24 @@
   - Department of Biology, University of Oregon, Eugene, Oregon 97401, USA
  Funding:
 -
+ Reference: "Hui W, Young DA, Rowan AD, Xu X, Cawston TE, Proctor CJ (2014) Oxidative changes and signalling pathways are pivotal in initiating age-related changes in articular cartilage. Annals of the Rheumatic Diseases 75:449–458"
+ Year: 2014
+ URL: https://doi.org/10.1136/annrheumdis-2014-206295
+ Type: 2
+ Keywords:
+  - Signaling
+  - Immunology
+ Locations:
+  - Institute of Cellular Medicine, Medical School, Newcastle University, Newcastle upon Tyne, UK
+  - Newcastle University Institute for Ageing, Newcastle University, Campus for Ageing and Vitality, Newcastle upon Tyne, UK
+ Funding:
+  - JGWP Foundation
+  - MRC/Arthritis Research UK Centre for Integrated Research into Musculoskeletal Ageing (CIMA)
+  - NIHR Newcastle Biomedical Research Centre 
+  - Northumberland, Tyne and Wear Comprehensive Local Research Network
+ Methods:
+  - stochastic simulation
+-
  Reference: "Ihekwaba AEC, Mura I, Barker GC (2014) Computational modelling and analysis of the molecular network regulating sporulation initiation in Bacillus subtilis. BMC Systems Biology 8:119"
  Year: 2014
  URL: https://doi.org/10.1186/s12918-014-0119-x
@@ -2980,6 +3028,24 @@
   - steady state
   - sensitivity analysis
 -
+ Reference: "Irving JA, Haq I, Dickens JA, Faull SV, Lomas DA (2014) Altered native stability is the dominant basis for susceptibility of α1-antitrypsin mutants to polymerization. Biochemical Journal 460:103–119"
+ Year: 2014
+ URL: https://doi.org/10.1042/BJ20131650
+ Type: 2
+ Keywords:
+  - Macromolecular Biochemistry
+ Locations:
+  - Cambridge Institute for Medical Research, Department of Medicine, University of Cambridge, Wellcome Trust/MRC Building, Hills Road, Cambridge CB2 0XY, UK
+  - Wolfson Institute for Biomedical Research, The Cruciform Building, University College London, Gower Street, London WC1E 6BT, UK
+ Funding:
+  - MRC
+  - EPSRC
+  - NIHR
+  - GlaxoSmithKline
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Ivan ANY (2014) Assisted Design of DNA Computing Systems: the DNA Toolbox and Beyond. PhD Thesis, University of Tokyo."
  Year: 2014
  URL: http://hdl.handle.net/2261/58371
@@ -2989,6 +3055,23 @@
   - Computational Method
  Locations:
   - University of Tokyo, Tokyo, Japan
+-
+ Reference: "Jakubík J, Zimčík P, Randáková A, Fuksová K, El-Fakahany EE, Doležal V (2014) Molecular mechanisms of methoctramine binding and selectivity at muscarinic acetylcholine receptors. Molecular pharmacology 86:180–192"
+ Year: 2014
+ URL: https://doi.org/10.1124/mol.114.093310
+ Type: 2
+ Keywords:
+  - Pharmacology
+ Locations:
+  - Institute of Physiology, Academy of Sciences of the Czech Republic, Prague, Czech Republic
+  - Institute of Experimental Botany, Academy of Sciences of the Czech Republic, Prague, Czech Republic
+  - Department of Experimental and Clinical Pharmacology, University of Minnesota College of Pharmacy, Minneapolis, Minnesota, USA
+ Funding:
+  - Academy of Sciences of the Czech Republic
+  - Grant Agency of the Czech Republic
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "James AI, Imran HAQ, Jennifer AD, Sarah VF, David AL (2014) Altered native stability is the dominant basis for susceptibility of alpha1-antitrypsin mutants to polymerization. Biochem. J. 460:103-115"
  Year: 2014
@@ -3074,6 +3157,21 @@
  Funding:
   - DOE
 -
+ Reference: "Khandekar DC, Palai T, Agarwal A, Bhattacharya PK (2014) Kinetics of sucrose conversion to fructo-oligosaccharides using enzyme (invertase) under free condition. Bioprocess and Biosystems Engineering 37:2529–2537"
+ Year: 2014
+ URL: https://doi.org/10.1007/s00449-014-1230-5
+ Type: 2
+ Keywords:
+  - Enzymology
+  - Biotechnology
+ Locations:
+  - Department of Chemical Engineering, Indian Institute of Technology Kanpur, Kanpur, India
+ Funding:
+  - Department of Biotechnology (DBT), Government of India
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Kleppe R, Ghorbani S, Martinez A, Haavik J (2014) Modelling cellular signal communication mediated by phosphorylation dependent interaction with 14-3-3 proteins. FEBS Letters 588:92–98"
  Year: 2014
  URL: https://doi.org/10.1016/j.febslet.2013.11.012
@@ -3131,8 +3229,23 @@
  Locations:
   - Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA
   - School of Biological Sciences, University of Edinburgh, Edinburgh, UK
+-
+ Reference: "Ligon TS, Leonhardt C, Rädler JO (2014) Multi-level kinetic model of mRNA delivery via transfection of lipoplexes. PLoS One 9:e107148"
+ Year: 2014
+ URL: https://doi.org/10.1371/journal.pone.0107148
+ Type: 2
+ Keywords:
+  - Cell Biology
+  - Genomics
+ Locations:
+  -  Faculty of Physics and Center for NanoScience (CeNS), Ludwig-Maximilians-Universität, München, Germany
  Funding:
-  - 
+  - DFG
+  - Excellence Cluster ‘Nanosystems Initiative Munich (NIM)’
+  - EU FP7
+ Methods:
+  - time course
+  - stochastic simulation
 -
  Reference: "Lutz A, Sanwald J, Thomas M, Feuer R, Sawodny O, Ederer M,  Borner C, Humar M, Merfort I (2014) Interleukin-1beta Enhances FasL-Induced Caspase-3/-7 Activity without Increasing Apoptosis in Primary Mouse Hepatocytes. PLoS ONE 9:e115603."
  Year: 2014
