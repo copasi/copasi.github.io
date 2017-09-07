@@ -3502,6 +3502,19 @@
   - NIH
   - NSF
 -
+ Reference: "Phelix CF, Villareal G, LeBaron RG, Roberson DJ (2014) Biomarkers from biosimulations: Transcriptome-to-reactome™ Technology for individualized medicine. 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 3452–3455"
+ Year: 2014
+ URL: https://doi.org/10.1109/EMBC.2014.6944365
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - University of Texas at San Antonio, Texas 78249, USA
+  - AL Phahelix Biometrics, Inc., San Antonio, Texas 78269, USA
+ Methods:
+  - time course
+  - sensitivity analysis
+-
  Reference: "Phelix CF, Villareal G, LeBaron RG, Perry G, Roberson DJ (2014) Precision medicine using individualized biosimulations of drug dosing: Alzheimer’s disease. Healthcare Innovation Conference (HIC), IEEE, 292–295"
  Year: 2014
  URL: https://doi.org/10.1109/HIC.2014.7038932
@@ -3527,6 +3540,23 @@
   - MRC
   - NIHR
 -
+ Reference: "Rabbani N, Xue M, Thornalley PJ (2014) Activity, regulation, copy number and function in the glyoxalase system. Biochemical Society Transactions 42:419–424"
+ Year: 2014
+ URL: https://doi.org/10.1042/BST20140008
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Warwick Medical School, University of Warwick, University Hospital, Coventry CV2 2DX, UK
+ Funding:
+  - BBSRC
+  - MRC
+  - Wellcome Trust
+  - British Heart Foundation
+  - Cancer Research UK
+  - Juvenile Diabetes Research Fund
+  - British Council
+-
  Reference: "Raganati F (2014) Butanol production by fermentation of renewable feedstocks. PhD Thesis, Università di Napoli Federico II, Naples, Italy"
  Year: 2014
  URL: http://www.fedoa.unina.it/id/eprint/9657
@@ -3551,6 +3581,22 @@
   - Netherlands Genomics Initiative
   - Top Institute Food and Nutrition
 -
+ Reference: "Rossi F, Ristori S, Marchettini N, Pantani OL (2014) Functionalized clay microparticles as catalysts for chemical oscillators. The Journal of Physical Chemistry C 118:24389–24396"
+ Year: 2014
+ URL: https://doi.org/10.1021/jp5032724
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Dipartimento di Chimica e Biologia, Università di Salerno, Via Giovanni Paolo II 132, 84084 Fisciano (SA), Italy
+  - Dipartimento di Scienze della Terra & CSGI, Università degli Studi di Firenze, Via della Lastruccia, 3, 50019 Sesto Fiorentino, Italy
+  - Dipartimento Scienze delle Produzioni Agroalimentari e dell’Ambiente, Università degli Studi di Firenze, P.zle Cascine 28, 50144 Firenze, Italy
+  - Department of Earth, Environmental and Physical Sciences, Università di Siena, Pian dei Mantellini 44, 53100 Siena, Italy
+ Funding:
+  - University of Salerno
+ Methods:
+  - time course
+-
  Reference: "Sakkalis V, Sfakianakis S, Tzamali E, Marias K, Stamatakos G, Misichroni F, Ouzounoglou E, Kolokotroni E, Dionysiou D, Johnson D, McKeever S, Graf N (2014) Web-based workflow planning platform supporting the design and execution of complex multiscale cancer models. IEEE J. Biomededical Health Informatics 18:824-31"
  Year: 2014
  URL: https://doi.org/10.1109/JBHI.2013.2297167
@@ -3565,6 +3611,19 @@
   - Saarland University Hospital, Homburg, Germany
  Funding:
   - EU - FP7
+-
+ Reference: "Sapra A, Ramadan D, Thorpe C (2014) Multivalency in the inhibition of oxidative protein folding by arsenic (III) species. Biochemistry 54:612–621"
+ Year: 2014
+ URL: https://doi.org/10.1021/bi501360e
+ Type: 2
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware 19716, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
 -
  Reference: "Saller S, Kunz L, Berg D, Berg U, Lara H, Urra J, Hecht S, Pavlik R, Thaler CJ, Mayerhofer A (2014) Dopamine in human follicular fluid is associated with cellular uptake and metabolism-dependent generation of reactive oxygen species in granulosa cells: implications for physiology and pathology. Human Reproduction 29:555-67"
  Year: 2014
@@ -3591,6 +3650,23 @@
  Funding:
   - BMBF
   - International Max Planck Research School Magdeburg for Advanced Methods in Process and Systems Engineering
+-  
+ Reference: "Schleicher J, Guthke R, Dahmen U, Dirsch O, Holzhuetter HG, Schuster S (2014) A theoretical study of lipid accumulation in the liver—Implications for nonalcoholic fatty liver disease. Biochimica et Biophysica Acta 1841:62–69"
+ Year: 2014
+ URL: https://doi.org/10.1016/j.bbalip.2013.08.016
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Department of Bioinformatics, University of Jena, Jena, Germany
+  - Leibniz Institute for Natural Product Research and Infection Biology-Hans Knoell Institute, Jena, Germany
+  - Experimental Transplantation Surgery, University Hospital of Jena, Jena, Germany
+  - Institute for Pathology, University Hospital of Jena, Jena, Germany
+  - Institute of Biochemistry, Medical Department (Charité), University of Berlin, Berlin, Germany
+ Funding:
+  - BMBF
+ Methods:
+  - stability analysis
 -
  Reference: "Schmitz U, Lai X, Winter F, Wolkenhauer O, Vera J, Gupta SK (2014) Cooperative gene regulation by microRNA pairs and their identification using a computational workflow. Nucleic Acids Res. 42:7539-7552"
  Year: 2014
@@ -3618,6 +3694,36 @@
   - National Centre for Cell Science, Pune, India
  Funding:
   - Department of Biotechnology, Government of India
+-
+ Reference: "Smallbone K, M Corfe B (2014) A mathematical model of the colon crypt capturing compositional dynamic interactions between cell types. International Journal of Experimental Pathology 95:1–7"
+ Year: 2014
+ URL: https://doi.org/10.1111/iep.12062
+ Type: 2
+ Keywords:
+  - Physiology
+ Locations:
+  - Manchester Institute of Biotechnology, University of Manchester, Manchester M1 7DN, UK
+  - Department of Oncology, University of Sheffield, Sheffield S10 2RX, UK
+ Funding:
+  - EU FP7
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Sosa CM, Pavarotti MA, Zanetti MN, Zoppino FCM, De Blas GA, Mayorga LS (2014) Kinetics of human sperm acrosomal exocytosis. MHR: Basic science of reproductive medicine 21:244–254"
+ Year: 2014
+ URL: https://doi.org/10.1093/molehr/gau110
+ Type: 2
+ Keywords:
+  - Cell Biology
+ Locations:
+  - UNCUYO Facultad de Ciencias Médicas, National University of Cuyo, 5500 Mendoza, Argentina
+ Funding:
+  - Universidad Nacional de Cuyo, Argentina
+  - Consejo Nacional de Investigaciones Científicas y Técnicas de Argentina
+  - Agencia Nacional de Promoción Científica y Tecnológica de Argentina
+  Methods:
+   - time course
 -
  Reference: "Spiaggi AJ (2014) Caracterización de los pasos involucrados en el transporte de K+ por la Na+/K+-ATPasa. PhD Thesis, Universidad de Buenos Aires, Argentina."
  Year: 2014
