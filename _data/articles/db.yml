@@ -5639,6 +5639,30 @@
   - Eastman Chemical
   - NSF
 -
+ Reference: "Gauges R (2011) Standards and Tools for Model Exchange and Analysis in Systems Biology. PhD Thesis, Heidelberg University"
+ Year: 2011
+ URL: https://doi.org/DOI:10.11588/heidok.00012206
+ Type: 3
+ Keywords:
+  - Software
+  - Computational Method
+ Locations:
+  - Heidelberg University, Heidelberg, Germany
+-
+ Reference: "Hinze T, Schumann M, Bodenstein C, Heiland I, Schuster S (2011) Biochemical Frequency Control by Synchronisation of Coupled Repressilators: An In Silico Study of Modules for Circadian Clock Systems. Computational Intelligence and Neuroscience 2011:1–9"
+ Year: 2011
+ URL: https://doi.org/10.1155/2011/262189
+ Type: 2
+ Keywords:
+  - Theory
+ Locations:
+  - Department of Bioinformatics, Faculty of Biology and Pharmacy, Friedrich Schiller University Jena, E.-Abbe-Platz 1-4,
+07743 Jena, Germany
+ Funding:
+  - BMBF
+ Methods:
+  - time course
+-
  Reference: "Iwasaki H, Takeuchi O, Teraguchi S, Matsushita K, Uehata T, Kuniyoshi K, Satoh T, Saitoh T, Matsushita M, Standley DM, Akira S (2011) The IkB kinase complex regulates the stability of cytokine-encoding mRNA induced by TLR-IL-1R by controlling degradation of regnase-1. Nature Immunology 12:1167-75"
  Year: 2011
  URL: https://doi.org/10.1038/ni.2137
@@ -5817,6 +5841,18 @@
  Locations:
   - Heidelberg University, Heidelberg, Germany
 -
+ Reference: "Shivanandan A (2011) Stochastic modelling and identification of arabinose uptake network in Escherichia coli (PDF Download Available). MS Thesis, Université Joseph Fourier, Grenoble, France."
+ Year: 2011
+ URL: https://doi.org/http://dx.doi.org/10.13140/RG.2.1.3451.0248
+ Type: 2
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Locations:
+  - Université Grenoble Alpes, 621 avenue Centrale, 38400 Saint-Martin-d Hères, France
+ Methods:
+  - stochastic simulation
+-
  Reference: "Waltemath D, Adams R, Beard DA, Bergmann FT, Bhalla US, Britten R, Chelliah V, Cooling MT, Cooper J, Crampin EJ, Garny A, Hoops S, Hucka M, Hunter P, Klipp E, Laibe C, Miller AK, Moraru I, Nickerson D, Nielsen P, Nikolski M, Sahle S, Sauro HM, Schmidt H, Snoep JL, Tolle D, Wolkenhauer O, Novère NL (2011) Minimum Information About a Simulation Experiment (MIASE). PLOS Computational Biology 7:e1001122"
  Year: 2011
  URL: https://doi.org/10.1371/journal.pcbi.1001122
@@ -5860,6 +5896,16 @@
   - time course
   - parameter estimation
   - sensitivity analysis 
+-
+ Reference: "Yang J (2011) Midazolam as a Probe Drug to Study Cytochrome P450 3A Allosterism. PhD Thesis, University of Washington, Seattle, USA."
+ Year: 2011
+ URL: https://search.proquest.com/docview/906489750/abstract/5B957C2CD99A4DA5PQ/1
+ Type: 2
+ Keywords:
+  - Enzymology
+  - Pharmacology
+ Locations:
+  - Department of Pharmaceutics, University of Washington, Seattle, Washington, USA
 -
  Reference: "Yao G, Tan C, West M, Nevins JR, You L (2011) Origin of bistability underlying mammalian cell cycle entry. Mol. Systems Biol. 7:485"
  Year: 2011
