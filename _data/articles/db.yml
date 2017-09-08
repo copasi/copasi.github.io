@@ -5820,6 +5820,19 @@
   - NIH
   - EU FP7
 -
+ Reference: "Wendelsdorf KV (2011) Models of the Mucosal Inflammatory and Regulatory Immune Pathways: The Role of Host Response in Microbial Persistence and Pathogenesis. PhD Thesis, Virginia Tech, Blacksburg, Virginia, USA."
+ Year: 2011
+ URL: http://hdl.handle.net/10919/29717
+ Type: 2
+ Keywords:
+  - Immunology
+ Locations:
+  - Virginia Tech, Blacksburg, Virginia 24061, USA
+ Methods:
+  - time course
+  - parameter estimation
+  - sensitivity analysis 
+-
  Reference: "Yao G, Tan C, West M, Nevins JR, You L (2011) Origin of bistability underlying mammalian cell cycle entry. Mol. Systems Biol. 7:485"
  Year: 2011
  URL: https://doi.org/10.1038/msb.2011.19
