@@ -5596,6 +5596,28 @@
  Locations:
   - Heidelberg University, Heidelberg, Germany
 -
+ Reference: "Baez M, Wilson CA, Babul J (2011) Folding kinetic pathway of phosphofructokinase-2 from Escherichia coli: a homodimeric enzyme with a complex domain organization. FEBS Letters 585:2158–2164"
+ Year: 2011
+ URL: https://doi.org/10.1016/j.febslet.2011.05.041
+ Type: 2
+ Keywords:
+  - Macromolecular Biochemistry
+ Locations:
+  - Departamento de Biología, Facultad de Ciencias, Universidad de Chile, Santiago, Chile
+ Funding:
+  - Comisión Nacional de Investigación Cientifica y Tecnológica, Chile
+ Methods:
+  - parameter estimation
+-
+ Reference: "Bairy S, Wong CF (2011) Influence of kinetics of drug binding on EGFR signaling: A comparative study of three EGFR signaling pathway models. Proteins: Structure, Function, and Bioinformatics 79:2491–2504"
+ Year: 2011
+ URL: https://doi.org/10.1002/prot.23072
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - University of Missouri-Saint Louis, One University Boulevard, St. Louis, Missouri 63121, USA
+-
  Reference: "Bandaru P, Bansal M, Nemenman I (2011) Mass Conservation and Inference of Metabolic Networks from High-Throughput Mass Spectrometry Data. J. Comput. Biol. 18:147-154"
  Year: 2011
  URL: https://doi.org/10.1089/cmb.2010.0222
@@ -5606,6 +5628,16 @@
  Locations:
   - Columbia University, New York NY, USA
   - Emory University, Atlanta GA, USA
+-
+ Reference:
+  - "Berestovsky N (2011) On the modeling of signaling networks with petri nets. MS Thesis, Rice University, Houston, Texas, USA." 
+  Year: 2011
+  URL: http://hdl.handle.net/1911/64384
+  Type: 3
+  Keywords:
+   - Computational Method
+  Locations:
+   - Department of Computer Science, Rice University, 6100 Main St., Houston, TX 77005-1892, USA
 -
  Reference: "Checkley S (2011) Engineering Tuneable Gene Circuits in Yeast. PhD Thesis, University of Manchester."
  Year: 2011
