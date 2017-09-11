@@ -5638,6 +5638,30 @@
  Locations:
   - Department of Computer Science, Rice University, 6100 Main St., Houston, TX 77005-1892, USA
 -
+ Reference: "Casas A, Ramos MJ, Pérez Á (2011) Kinetics of chemical interesterification of sunflower oil with methyl acetate for biodiesel and triacetin production. Chemical Engineering Journal 171:1324–1332"
+ Year: 2011
+ URL: https://doi.org/10.1016/j.cej.2011.05.037
+ Type: 2
+ Keywords:
+  - Biotechnology
+  - Chemistry
+ Locations:
+  - University of Castilla-La Mancha, Avd. Camilo José Cela s/n 13071, Ciudad Real, Spain
+ Methods:
+  - parameter estimation
+ Funding:
+  - ECOPRIBER, S.A.
+-
+ Reference: "Chandran D (2011) TinkerCell: Computer-Aided Design for Synthetic Biology. PhD Thesis, University of Washington, Seattle."
+ Year: 2011
+ URL: https://search.proquest.com/docview/931896207
+ Type: 3
+ Keywords:
+  - Software
+  - Synthetic Biology
+ Locations:
+  - Department of Bioengineering, University of Washington, Seattle, Washington 98195-5061, USA
+-
  Reference: "Checkley S (2011) Engineering Tuneable Gene Circuits in Yeast. PhD Thesis, University of Manchester."
  Year: 2011
  URL: https://www.researchgate.net/profile/Stephen_Checkley/publication/236847923_Engineering_Tuneable_Gene_Circuits_in_Yeast/links/02e7e51961e992935e000000.pdf
@@ -5655,6 +5679,36 @@
   - Toxicology
  Locations:
   - University of Iowa Carver College of Medicine, 200 Hawkins Drive, Iowa City, Iowa 52242, USA
+-
+ Reference: "Danis J, Turányi T (2011) Sensitivity analysis of bacterial chemotaxis models. Procedia Computer Science 7:233–234"
+ Year: 2011
+ URL: https://doi.org/10.1016/j.procs.2011.09.062
+ Type: 2
+ Keywords:
+  - Signaling
+  - Microbiology
+ Locations:
+  - Eötvös University, Pázmány Péter sétány 1/A, 1117 Budapest, Hungary
+ Funding:
+  - OTKA
+ Methods:
+  - sensitivity analysis
+-
+ Reference: "DasGupta B, Vera-Licona P, Sontag E (2011) Reverse engineering of molecular networks from a common combinatorial approach. In Algorithms in Computational Molecular Biology: Techniques, Approaches and Applications, M. Elloumi and A. Zomaya (editors). John Wiley & Sons, Inc."
+ Year: 2011
+ URL: https://arxiv.org/abs/1102.4904
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Computer Science, University of Illinois at Chicago, Chicago, Illinois 60607, USA
+  - Mathematics Department, Rutgers University, Piscataway, New Jersey 08854, USA
+ Funding:
+  - NIH
+  - NSF
+  - US Air Force
+ Methods:
+  - time course
 -
  Reference: "Diao T, Stahl SS (2011) Synthesis of Cyclic Enones via Direct Palladium-Catalyzed Aerobic Dehydrogenation of Ketones. Journal of the American Chemical Society , 133:14566–9"
  Year: 2011
