@@ -5724,6 +5724,19 @@
   - Eastman Chemical
   - NSF
 -
+ Reference: "Fedosov SN, Xu X (2011) Enzymatic synthesis of biodiesel from fatty acids. Kinetics of the reaction measured by fluorescent response of Nile Red. Biochemical engineering journal 56:172–183"
+ Yerar: 2011
+ URL: https://doi.org/10.1016/j.bej.2011.06.005
+ Type: 2
+ Keywords:
+  - Biotechnology
+ Locations:
+  - Dept. Molecular Biology, Aarhus University, Science Park, Gustav Wieds Vej 10C, 8000 Aarhus C, Denmark
+ Funding:
+  - Danish National Advanced Technology Foundation
+ Methods:
+  - time course
+-
  Reference: "Gauges R (2011) Standards and Tools for Model Exchange and Analysis in Systems Biology. PhD Thesis, Heidelberg University"
  Year: 2011
  URL: https://doi.org/DOI:10.11588/heidok.00012206
@@ -5733,6 +5746,32 @@
   - Computational Method
  Locations:
   - Heidelberg University, Heidelberg, Germany
+-
+ Reference: "Genc S, Kurnaz IA, Ozilgen M (2011) Astrocyte-neuron lactate shuttle may boost more ATP supply to the neuron under hypoxic conditions-in silico study supported by in vitro expression data. BMC Systems Biology 5:162"
+ Year: 2011
+ URL: https://doi.org/10.1186/1752-0509-5-162
+ Type: 2
+ Keywords:
+  - Cell Biology
+  - Metabolism
+ Locations:
+  - Yeditepe University,  Istanbul 34755, Turkey 
+ Funding:
+  - TUBITAK
+ Methods:
+  - time course
+-
+ Reference: "Gerber S (2011) In silico modeling of cation homeostasis in Saccharomyces cerevisiae. PhD Thesis, Humboldt-University of Berlin."
+ Year: 2011
+ URL: http://edoc.hu-berlin.de/browsing/docviews/abstract.php?id=38791
+ Type: 2
+ Keywords:
+  - Physiology
+ Locations:
+  - Faculty of Mathematics and Natural Sciences, Humboldt-University of Berlin, Rudower Chaussee 25, 12489 Berlin, Germany
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Hinze T, Schumann M, Bodenstein C, Heiland I, Schuster S (2011) Biochemical Frequency Control by Synchronisation of Coupled Repressilators: An In Silico Study of Modules for Circadian Clock Systems. Computational Intelligence and Neuroscience 2011:1–9"
  Year: 2011
