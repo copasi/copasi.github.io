@@ -5773,7 +5773,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Hein JE, Armstrong A, Blackmond DG (2011) Kinetic profiling of prolinate-catalyzed α-amination of aldehydes. Organic letters 13:4300–4303"
+ Reference: "Hein JE, Armstrong A, Blackmond DG (2011) Kinetic profiling of prolinate-catalyzed α-amination of aldehydes. Organic Letters 13:4300–4303"
  Year: 2011
  URL: https://doi.org/10.1021/ol201639z
  Type: 2
@@ -5785,6 +5785,19 @@
  Funding:
   - EPSRC
   - The Scripps Research Institute
+ Methods:
+  - time course
+-
+ Reference: "Hill MP, Freer LH, Vang MC, Carroll EC, Larsen DS (2011) Multiphoton Manipulations of Enzymatic Photoactivity in Aspartate Aminotransferase. The Journal of Physical Chemistry B 115:4474–4483"
+ Year: 2011
+ URL: https://doi.org/10.1021/jp112400g
+ Type: 2
+ Keywords:
+  - Enzymology
+ Locations:
+  - Department of Chemistry, University of California—Davis, 1 Shields Avenue, Davis, California 95616, USA
+ Funding:
+  - Human Frontiers Science Organization
  Methods:
   - time course
 -
@@ -5800,6 +5813,22 @@
   - BMBF
  Methods:
   - time course
+-
+ Reference: "Hoffman-Sommer M, Supady A, Klipp E (2011) Cell-to-Cell Communication Circuits: Quantitative Analysis of Synthetic Logic Gates. Frontiers in Physiology 3:287–287"
+ Year: 2011
+ URL: https://doi.org/10.3389/fphys.2012.00287
+ Type: 2
+ Keywords:
+  - Synthetic Biology
+ Locations:
+  - Theoretical Biophysics, Institute of Biology, Humboldt-Universität zu Berlin, Berlin, Germany
+ Funding:
+  - EU FP7
+  - EU ERC
+ Methods:
+  - time course
+  - parameter estimation
+  - sensitivity analysis
 -
  Reference: "Iwasaki H, Takeuchi O, Teraguchi S, Matsushita K, Uehata T, Kuniyoshi K, Satoh T, Saitoh T, Matsushita M, Standley DM, Akira S (2011) The IkB kinase complex regulates the stability of cytokine-encoding mRNA induced by TLR-IL-1R by controlling degradation of regnase-1. Nature Immunology 12:1167-75"
  Year: 2011
