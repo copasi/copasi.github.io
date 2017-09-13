@@ -5725,7 +5725,7 @@
   - NSF
 -
  Reference: "Fedosov SN, Xu X (2011) Enzymatic synthesis of biodiesel from fatty acids. Kinetics of the reaction measured by fluorescent response of Nile Red. Biochemical engineering journal 56:172–183"
- Yerar: 2011
+ Year: 2011
  URL: https://doi.org/10.1016/j.bej.2011.06.005
  Type: 2
  Keywords:
@@ -5772,6 +5772,21 @@
  Methods:
   - time course
   - parameter estimation
+-
+ Reference: "Hein JE, Armstrong A, Blackmond DG (2011) Kinetic profiling of prolinate-catalyzed α-amination of aldehydes. Organic letters 13:4300–4303"
+ Year: 2011
+ URL: https://doi.org/10.1021/ol201639z
+ Type: 2
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, The Scripps Research Institute, La Jolla, California 92037, USA
+  - Department of Chemistry, Imperial College London, SW7 2AZ, UK
+ Funding:
+  - EPSRC
+  - The Scripps Research Institute
+ Methods:
+  - time course
 -
  Reference: "Hinze T, Schumann M, Bodenstein C, Heiland I, Schuster S (2011) Biochemical Frequency Control by Synchronisation of Coupled Repressilators: An In Silico Study of Modules for Circadian Clock Systems. Computational Intelligence and Neuroscience 2011:1–9"
  Year: 2011
