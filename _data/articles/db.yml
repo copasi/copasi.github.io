@@ -5859,6 +5859,19 @@
   - Eastman Chemical
   - NSF
 -
+ Reference: "Jablonsky J, Bauwe H, Wolkenhauer O (2011) Modeling the Calvin-Benson cycle. BMC Systems Biology 5:185"
+ Year: 2011
+ URL: https://doi.org/10.1186/1752-0509-5-185
+ Type: 2
+ Keywords:
+  - Metabolism
+ Locations:
+  - Department of Systems Biology and Bioinformatics, University of Rostock, 18051 Rostock, Germany
+ Funding:
+  - DFG
+ Methods:
+  - time course
+-
  Reference: "Kleppe R, Martinez A, Døskeland SO, Haavik J (2011) The 14-3-3 proteins in regulation of cellular metabolism. Seminars in Cell & Developmental Biology. 22:713–719"
  Year: 2011
  URL: https://doi.org/10.1016/j.semcdb.2011.08.008
