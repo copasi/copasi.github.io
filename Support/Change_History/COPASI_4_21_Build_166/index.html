@@ -1,0 +1,99 @@
+---
+layout: structure
+title: "COPASI 4.21 Build 166"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.21.166</h3>
+    Release Date: October 9, 2017<br />
+    <h4>New Features since COPASI 4.20 (Build 158)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Improved editing of report definitions allowing drag and drop of items.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Improved performance of calculation significantly leading to calculation time being less than 50% compared to COPASI 4.20 (Build 158) and less than 80% of COPASI 4.16 (Build 104).
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.20 (Build 158)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            When editing experimental data for parameter estimation it is now possible to copy the setup from a previous experiment even if it is not in the same data file.
+          </li>
+          <li>
+            Improved result display of the Time Scale Separation analysis synchronizing the content with the associated report definition.
+          </li>
+          <li>
+            Fixed rendering of units in the user interface lead to incorrect units to be displayed.
+          </li>
+          <li>
+            Object names are now sanitized meaning leading and trailing white space characters are removed to avoid names which cannot distinguished in the user interface.
+          </li>
+          <li>
+            Fixed occasional crash when editing a reaction rate constant in the parameter overview.
+          </li>
+          <li>
+            Fixed incomplete saving of a user defined function created by copying an existing function without any modification.
+          </li>
+          <li>
+            Fixed crash occurring when running a parameter task immediately after performing MCA analysis.
+          </li>
+          <li>
+            Fixed a problem where saving a model immediately after changing a name of an object used an initial assignment was not reflected in the saved file.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Fixed problem in the Time Scale Separation CSP method which for some models returned NaN values.
+          </li>
+          <li>
+            Fixed problem in steady-state calculation where the system has zero initial values and the Jacobian cannot be inverted. 
+          </li>
+          <li>
+            Fixed an issue where Matrix elements could not be correctly selected if the name of the object contained a comma leading to 'Object not found' messages for reports and plots.
+          </li>
+          <li>
+            Fixed a problem where the validation data was ignored during parameter estimation.
+          </li>
+          <li>
+            Fixed crash when running the Time Course with the Gibson & Bruck method on an empty model.
+          </li>
+        </ul>
+      </li>
+      <li> SBML
+        <ul>
+          <li>
+            Improved export of units using Avogadro's constant.
+          </li>
+          <li>
+            Fixed issue importing arcs from the SBML layout packaged which sometimes where not stacked correctly.
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings
+        <ul>
+          <li>
+            Python bindings are no longer directly linked a specific version allowing the bindings to be used different Python libraries e.g. Anaconda or system libraries.
+          </li>
+          <li>
+            Improved access to the reaction interface by exposing more methods.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>

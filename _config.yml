@@ -21,7 +21,7 @@ github_repo_url: https://github.com/copasi/COPASI
 exclude: [tmp, README.md]
 
 # Add Processing features
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate
