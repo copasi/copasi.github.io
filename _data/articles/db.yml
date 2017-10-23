@@ -292,6 +292,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Winter F, Bludszuweit-Philipp C, Wolkenhauer O (2017) Mathematical analysis of the influence of brain metabolism on the BOLD signal in Alzheimer’s disease. Journal of Cerebral Blood Flow & Metabolism 0271678X17693024"
+ Yeaer: 2017
+ URL:  https://doi.org/10.1177/0271678X17693024
+ Type: 2
+ Keywords:
+  - Metabolism
+  - Biophysics
+ Locations:
+  - ASD Advanced Simulation and Design GmbH, Rostock, Germany
+  - Department of Systems Biology and Bioinformatics, Rostock University, Rostock, Germany
+  - Stellenbosch Institute for Advanced Study, Wallenberg Research Centre at Stellenbosch University, Stellenbosch, South Africa
+ Funding:
+  - EU FP7
+ Methods:
+  - time course
+-
  Reference: "Zaccarin M, Bosello-Travain V, Di Paolo ML, Falda M, Maiorino M, Miotto G, Piccolo S, Roveri A, Ursini F, Venerando R, Toppo S (2017) Redox status in a model of cancer stem cells. Archives of Biochemistry and Biophysics 617:120–128"
  Year: 2017
  URL: https://doi.org/10.1016/j.abb.2016.09.002
@@ -5859,41 +5875,6 @@
   - Eastman Chemical
   - NSF
 -
- Reference: "Jablonsky J, Bauwe H, Wolkenhauer O (2011) Modeling the Calvin-Benson cycle. BMC Systems Biology 5:185"
- Year: 2011
- URL: https://doi.org/10.1186/1752-0509-5-185
- Type: 2
- Keywords:
-  - Metabolism
- Locations:
-  - Department of Systems Biology and Bioinformatics, University of Rostock, 18051 Rostock, Germany
- Funding:
-  - DFG
- Methods:
-  - time course
--
- Reference: "Keitz BK, Grubbs RH (2011) Probing the origin of degenerate metathesis selectivity via characterization and dynamics of ruthenacyclobutanes containing variable NHCs. Journal of the American Chemical Society 133:16277–16284"
- Year: 2011
- URL: https://doi.org/10.1021/ja207252r
- Keywords:
-  - Chemistry
- Locations:
-  - California Institute of Technology, Pasadena, California 91125, USA
- Funding:
-  - NIH
-  - NSF
-  - NDSEG
--
- Reference: "Kennedy N, Thompson P, Zheng HR, Dubitzky W (2011) Multi-scale modelling of the bile acid and xenobiotic system,. paper presented at the Int’l Conference on Bioinformatics and Computational Biology. Las Vegas, USA: Worldcomp, 499–505."
- Year: 2011
- URL: http://uir.ulster.ac.uk/31829/
- Keywords:
-  - Physiology
-  - Toxicology
- Locations:
-  - School of Biomedical Sciences, University of Ulster, Coleraine, Northern Ireland, UK
-  - School of Computing & Mathematics, University of Ulster, Belfast, Northern Ireland, UK
--
  Reference: "Kleppe R, Martinez A, Døskeland SO, Haavik J (2011) The 14-3-3 proteins in regulation of cellular metabolism. Seminars in Cell & Developmental Biology. 22:713–719"
  Year: 2011
  URL: https://doi.org/10.1016/j.semcdb.2011.08.008
@@ -5911,21 +5892,6 @@
   - Western Norway Health Authorities
  Methods:
   - time course
--
- Reference: "Klipp E (2011) Computational yeast systems biology: a case study for the MAP kinase cascade. Methods in Molecular Biology 759:323–343"
- Year: 2011
- URL: https://doi.org/10.1007/978-1-61779-173-4_19
- Type: 2
- Keywords:
-  - Signaling
- Locations:
-  - Theoretical Biophysics, Humboldt-Universität zu Berlin, Berlin, Germany
- Funding:
-  - EU FP7
- Methods:
-  - time course
-  - parameter estimation
-  - MCA
 -
  Reference: "Johnson KRD, Hayes PG (2011) Kinetic and Mechanistic Investigation of Metallacycle Ring Opening in an Ortho-Metalated Lutetium Aryl Complex. Organometallics 30:58–67"
  Year: 2011
@@ -6198,7 +6164,6 @@
  Year: 2010
  URL: https://doi.org/10.1021/cr900005n
  Keywords:
-  - Chemistry
  Type: 2
  Locations:
   - University of California, Berkeley, CA, USA
