@@ -225,6 +225,21 @@
   - Jaypee Institute of Information Technology, Noida, India
   - Deen Dayal Upadhyay Gorakhpur University, Gorakhpur, India
 -
+ Reference: "Komasilovs V, Pentjuss A, Elsts A, Stalidzans E (2017) Total enzyme activity constraint and homeostatic constraint impact on the optimization potential of a kinetic model 8–"
+ Year: 2017
+ URL: https://doi.org/10.1016/j.biosystems.2017.09.016
+ Keywords:
+  - Optimization
+  - Kinetic model
+  - Adjustable parameters
+  - Optimization potential
+ Type: 3
+ Locations:
+  - Department of Computer Systems, Biosystems Group, Latvia University of Agriculture, Jelgava, Latvia
+  - Department of Electrical and Electronic Engineering, University of Bristol, Bristol, BS8 1UB, UK
+ Methods:
+  - optimization
+-
  Reference: "Stalidzans E, Mozga I, Sulins J, Zikmanis P (2017) Search for a Minimal Set of Parameters by Assessing the Total Optimization Potential for a Dynamic Model of a Biochemical Network. IEEE/ACM transactions on computational biology and bioinformatics 14:978–985"
  Year: 2017 
  URL: https://doi.org/10.1109/TCBB.2016.2550451
