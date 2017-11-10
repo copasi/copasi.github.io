@@ -1,0 +1,61 @@
+---
+layout: structure
+title: "COPASI 4.22 Build 170"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.22.170</h3>
+    Release Date: November 10, 2017<br />
+    <h4>New Features since COPASI 4.21 (Build 166)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Reaction diagrams can now be exported in SVG format.
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.21 (Build 166)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Rendering of diagrams including hidden text has been corrected.
+          </li>
+          <li>
+            The interface for displaying multi-dimensional (&ge; 3) arrays has been fixed.
+          </li>
+          <li>
+            The total amount and particle number of moieties is now correctly updated in the mass conservation results. The moieties were correctly calculated and used during simulation and analysis. This was just a display issue.
+          </li>
+          <li>
+            Fixed problem when attempting to plot elements of the sensitivity result matrices.
+          </li>
+          <li>
+            Improved tab navigation in the scan task interface.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            The interpretation of mathematical expressions has been fixed to correctly determine whether function variables are Boolean or not. Thus fixing rare crashes when importing SBML.
+          </li>
+        </ul>
+      </li>
+      <li> SBML
+        <ul>
+          <li>
+            The detection of mass action kinetics has been fixed to correctly handle reversible mass action like kinetics having only one rate constant.
+          </li>
+          <li>
+            Fixed import of SBML species references without defined stoichiometry by updating to a patched libSBML.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
