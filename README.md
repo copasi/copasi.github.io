@@ -58,7 +58,7 @@ The data for each reference may contain the following fields, where lines starti
  Funding: 
   - 
 </pre>
-Each entry in the file must start wit a line including only a single '-'. Indentation is crucial and must be as in the example below.
+Each entry in the file must start with a line including only a single '-'. Indentation is crucial and must be as in the example below.
 <pre>
 -
  Reference: "Diao T, Pun D, Stahl SS (2013) Aerobic Dehydrogenation of Cyclohexanone to Cyclohexenone Catalyzed by Pd(DMSO)2(TFA)2: Evidence for Ligand-Controlled Chemoselectivity. J. Am. Chem. Soc. 135:8205-8212"
