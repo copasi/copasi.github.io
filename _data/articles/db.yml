@@ -228,13 +228,13 @@
  Reference: "Komasilovs V, Pentjuss A, Elsts A, Stalidzans E (2017) Total enzyme activity constraint and homeostatic constraint impact on the optimization potential of a kinetic model. Biosystems 162:128-134"
  Year: 2017
  URL: https://doi.org/10.1016/j.biosystems.2017.09.016
+ Type: 3
  Keywords:
   - Computational Method
   - Biotechnology
- Type: 3
  Locations:
-  - Department of Computer Systems, Biosystems Group, Latvia University of Agriculture, Jelgava, Latvia
-  - Department of Electrical and Electronic Engineering, University of Bristol, Bristol, BS8 1UB, UK
+  - Latvia University of Agriculture, Liela iela 2, LV-3001 Jelgava, Latvia
+  - University of Bristol, Bristol, BS8 1UB, UK
  Methods:
   - optimization
 -
