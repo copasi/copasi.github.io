@@ -238,6 +238,17 @@
  Methods:
   - optimization
 -
+ Reference: "Man-Sai A, Siles-Canales F,Mora-Rodriguez RA (2017) A biocomputational platform for the automated construction of large-scale mathematical models of miRNA-transcription factor networks for studies on gene dosage compensation. 2016 IEEE 36th Central American and Panama Convention (CONCAPAN XXXVI), San Jose, 2016, pp. 1-7"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1109/CONCAPAN.2016.7942348
+ Keywords:
+  - Genomics
+ Locations:
+  - University of Costa Rica , San José, Costa Rica
+ Methods:
+  - parameter estimation
+-
  Reference: "Stalidzans E, Mozga I, Sulins J, Zikmanis P (2017) Search for a Minimal Set of Parameters by Assessing the Total Optimization Potential for a Dynamic Model of a Biochemical Network. IEEE/ACM transactions on computational biology and bioinformatics 14:978–985"
  Year: 2017 
  URL: https://doi.org/10.1109/TCBB.2016.2550451
@@ -307,7 +318,7 @@
 -
  Reference: "Winter F, Bludszuweit-Philipp C, Wolkenhauer O (2017) Mathematical analysis of the influence of brain metabolism on the BOLD signal in Alzheimer’s disease. Journal of Cerebral Blood Flow & Metabolism 0271678X17693024"
  Year: 2017
- URL:  https://doi.org/10.1177/0271678X17693024
+ URL: https://doi.org/10.1177/0271678X17693024
  Type: 2
  Keywords:
   - Metabolism
