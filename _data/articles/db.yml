@@ -346,6 +346,23 @@
  Methods:
   - time course
 -
+ Reference: "Zhao W, Pferdehirt L, Segatori L (2017) Quantitatively predictable control of cellular protein levels through proteasomal degradation. ACS Synthetic Biology 7:540–552"
+ Year: 2017
+ URL: https://doi.org/10.1021/acssynbio.7b00325
+ Type: 2
+ Keywords:
+  - Synthetic Biology
+  - Macromolecular Biochemistry
+ Locations:
+  - Rice University, Houston, Texas 77005, United States
+ Funding:
+  - NSF
+  - Welch Foundation
+  - Kleberg Foundation
+ Methods:
+  - Parameter Estimation
+  - Sensitivity Analysis
+-
  Reference: "Zimmer C, Yaesoubi R, Cohen T (2017) A Likelihood Approach for Real-Time Calibration of Stochastic Compartmental Epidemic Models. PLOS Computational Biology 13:e1005257"
  Year: 2017
  URL: https://doi.org/10.1371/journal.pcbi.1005257
