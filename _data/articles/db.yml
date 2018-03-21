@@ -332,6 +332,21 @@
  Methods:
   - time course
 -
+ Reference: "Xu H, Curtis TY, Powers SJ, Raffan S, Gao R, Huang J, Heiner M, Gilbert DR, Halford NG (2017) Genomic, biochemical and modelling analyses of asparagine synthetases from wheat. Frontiers in Plant Science 8:2237"
+ Year: 2017
+ URL: https://doi.org/10.3389/fpls.2017.02237
+ Locations:
+  - Biotechnology Research Institute, Shanghai Academy of Agricultural Sciences, Shanghai, China
+  - Rothamsted Research, Harpenden, United Kingdom
+  - Brandenburg University of Technology Cottbus-Senftenberg, Cottbus, Germany
+  - Brunel University London, Uxbridge, United Kingdom
+ Funding:
+  - Shanghai Agriculture Applied Technology Development Program, China
+  - Shanghai Academy of Agricultural Sciences, Shanghai, China
+  - BBSRC
+ Methods:
+  - parameter estimation
+-
  Reference: "Zaccarin M, Bosello-Travain V, Di Paolo ML, Falda M, Maiorino M, Miotto G, Piccolo S, Roveri A, Ursini F, Venerando R, Toppo S (2017) Redox status in a model of cancer stem cells. Archives of Biochemistry and Biophysics 617:120–128"
  Year: 2017
  URL: https://doi.org/10.1016/j.abb.2016.09.002
@@ -345,6 +360,33 @@
   - Human Frontier Science Program
  Methods:
   - time course
+-
+ Reference: 
+-
+ Reference: "Zhang Y, Kouril T, Snoep JL, Siebers B, Barberis M, Westerhoff HV (2017) The peculiar glycolytic pathway in hyperthermophylic archaea: understanding its whims by experimentation in silico. International Journal of Molecular Sciences 18:876"
+ Year: 2017
+ URL: https://doi.org/10.3390/ijms18040876
+ Keywords:
+  - Metabolism
+  - Microbiology
+  - Enzymology
+ Locations:
+  - University of Amsterdam, 1098 XH Amsterdam, The Netherlands
+  - Vrije Universiteit Amsterdam, De Boelelaan 1085, 1081 HV Amsterdam, The Netherlands
+  - University Duisburg—Essen, Universitätsstr. 5, 45141 Essen, Germany
+  - University of Stellenbosch, Stellenbosch 7602, South Africa
+  - Manchester Institute for Biotechnology, University of Manchester, Manchester M1 7DN, UK
+ Funding:
+  - EU - FP7
+  - EU - H2020
+  - BBSRC
+  - China Scholarship Council
+  - University of Amsterdam
+  - BMBF
+ Methods:
+  - steady state
+  - metabolic control analysis
+  - parameter scan
 -
  Reference: "Zhao W, Pferdehirt L, Segatori L (2017) Quantitatively predictable control of cellular protein levels through proteasomal degradation. ACS Synthetic Biology 7:540–552"
  Year: 2017
@@ -360,8 +402,8 @@
   - Welch Foundation
   - Kleberg Foundation
  Methods:
-  - Parameter Estimation
-  - Sensitivity Analysis
+  - parameter estimation
+  - sensitivity analysis
 -
  Reference: "Zimmer C, Yaesoubi R, Cohen T (2017) A Likelihood Approach for Real-Time Calibration of Stochastic Compartmental Epidemic Models. PLOS Computational Biology 13:e1005257"
  Year: 2017
