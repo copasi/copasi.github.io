@@ -300,6 +300,31 @@
   - parameter scan
   - parameter estimation
 -
+ Reference: "Tikidji-Hamburyan A, Reinhard K, Storchi R, Dietter J, Seitter H, Davis KE, Idrees S, Mutter M, Walmsley L, Bedford RA, Ueffing M, Ala-Laurila P, Brown TM, Lucas RJ, Münch TA (2017) Rods progressively escape saturation to drive visual responses in daylight conditions. Nature Communications 8:1813"
+ Year: 2017
+ URL: https://doi.org/10.1038/s41467-017-01816-6
+ Locations:
+  - University of Tübingen, 72076 Tübingen, Germany 
+  - University of Manchester, Manchester M13 9PT, UK
+  - University of Helsinki, 00014 Helsinki, Finland
+  - Aalto University School of Science and Technology, 00076 Espoo, Finland
+ Keywords:
+  - Biochemistry
+  - Biophysics
+  - Physiology
+ Funding:
+  - DFG
+  - BMBF
+  - Academy of Finland
+  - BBSRC
+  - EU - ERC
+  - Kerstan Foundation
+  - Christiane-Nüsslein-Volhard Foundation
+  - Pro Retina Foundation for the Prevention of Blindness
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Tolleter D, Chochois V, Poiré R, Price GD, Badger MR (2017) Measuring CO2 and HCO3- permeabilities of isolated chloroplasts using a MIMS-18O approach. Journal of Experimental Botany. doi:10.1093/jxb/erx188"
  Year: 2017
  URL: https://doi.org/10.1093/jxb/erx188
