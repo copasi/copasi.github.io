@@ -316,6 +316,62 @@
   - time course
   - parameter estimation
 -
+ Reference: "Vranish JN, Ancona MG, Oh E, Susumu K, Medintz IL (2017) Enhancing coupled enzymatic activity by conjugating one enzyme to a nanoparticle. Nanoscale 9:5172–5187"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1039/C7NR00200A
+ Keywords:
+  - Enzymology
+  - Biotechnology
+ Locations:
+  - National Research Council, Washington, D.C. 20001, USA
+  - U.S. Naval Research Laboratory, 4555 Overlook Ave, SW, Washington, D.C. 20375, USA
+  - Sotera Defense Solutions, Inc., Columbia, Maryland 21046, USA
+ Funding:
+  - Office of Naval Research
+  - Naval Research Laboratory
+-
+ Reference: "Wagner AJ, Zubarev DY, Aspuru-Guzik A, Blackmond DG (2017) Chiral Sugars Drive Enantioenrichment in Prebiotic Amino Acid Synthesis. ACS Central Science 3:322–328"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1021/acscentsci.7b00085
+ Keywords:
+  - Chemistry
+ Locations:
+  - The Scripps Research Institute, La Jolla, California 92037, USA
+  - Harvard University, Cambridge, Massachusetts 02139, USA
+ Funding:
+  - Simons Foundation
+ Methods:
+  - time course
+-
+ Reference: "Wang H, Ray JCJ (2017) Dynamical predictors of an imminent phenotypic switch in bacteria. Physical biology 14:045007"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1088/1478-3975/aa7870
+ Keywords:
+  - Microbiology
+  - Biochemistry
+ Locations:
+  - University of Kansas, 2030 Becker Drive, Lawrence, KS 66047, USA
+ Funding:
+  - NIH
+ Methods:
+  - stochastic simulation
+-
+ Reference: "Wei D, Roisnel T, Darcel C, Clot E, Sortais J-B (2017) Hydrogenation of Carbonyl Derivatives with a Well-Defined Rhenium Precatalyst. ChemCatChem 9:80–83"
+ Year: 2017
+ URL: https://doi.org/10.1002/cctc.201601141
+ Type: 2
+ Locations:
+  - Institut des Sciences Chimiques de Rennes, UMR 6226, CNRS Université de Rennes 1, Rennes Cedex, France
+  - Institut Charles Gerhardt, UMR 5253 CNRS-UM-ENSCM, Université de Montpellier, Montpellier Cedex 5, France
+ Keywords:
+  - Chemistry
+ Funding:
+  - CNRS
+  - EU - ERDF
+-
  Reference: "Winter F, Bludszuweit-Philipp C, Wolkenhauer O (2017) Mathematical analysis of the influence of brain metabolism on the BOLD signal in Alzheimer’s disease. Journal of Cerebral Blood Flow & Metabolism 0271678X17693024"
  Year: 2017
  URL: https://doi.org/10.1177/0271678X17693024
@@ -334,6 +390,7 @@
 -
  Reference: "Xu H, Curtis TY, Powers SJ, Raffan S, Gao R, Huang J, Heiner M, Gilbert DR, Halford NG (2017) Genomic, biochemical and modelling analyses of asparagine synthetases from wheat. Frontiers in Plant Science 8:2237"
  Year: 2017
+ Type: 2
  URL: https://doi.org/10.3389/fpls.2017.02237
  Locations:
   - Biotechnology Research Institute, Shanghai Academy of Agricultural Sciences, Shanghai, China
@@ -361,10 +418,9 @@
  Methods:
   - time course
 -
- Reference: 
--
  Reference: "Zhang Y, Kouril T, Snoep JL, Siebers B, Barberis M, Westerhoff HV (2017) The peculiar glycolytic pathway in hyperthermophylic archaea: understanding its whims by experimentation in silico. International Journal of Molecular Sciences 18:876"
  Year: 2017
+ Type: 2
  URL: https://doi.org/10.3390/ijms18040876
  Keywords:
   - Metabolism
