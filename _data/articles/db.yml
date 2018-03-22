@@ -249,6 +249,21 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Sier JH, Thumser AE, Plant NJ (2017) Linking physiologically-based pharmacokinetic and genome-scale metabolic networks to understand estradiol biology. BMC Systems Biology 11:141"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1186/s12918-017-0520-3
+ Keywords:
+  - Physiology
+  - Pharmacology
+ Locations:
+  - University of Surrey, Guildford GU2 7XH, UK
+  - University of Leeds, Leeds LS2 9JT, UK
+ Funding:
+  - BBSRC
+ Methods:
+  - time course
+-
  Reference: "Stalidzans E, Mozga I, Sulins J, Zikmanis P (2017) Search for a Minimal Set of Parameters by Assessing the Total Optimization Potential for a Dynamic Model of a Biochemical Network. IEEE/ACM transactions on computational biology and bioinformatics 14:978–985"
  Year: 2017 
  URL: https://doi.org/10.1109/TCBB.2016.2550451
@@ -265,6 +280,21 @@
   - steady state
   - optimization
 -
+ Reference: "Stasiw DE, Luke AM, Rosen T, League AB, Mandal M, Neisen BD, Cramer CJ, Kol M, Tolman WB (2017) Mechanism of the Polymerization of rac-Lactide by Fast Zinc Alkoxide Catalysts. Inorganic chemistry 56:14366–14372"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1021/acs.inorgchem.7b02544
+ Keywords:
+  - Chemistry
+ Locations:
+  - University of Minnesota, 207 Pleasant Street SE, Minneapolis, Minnesota 55455, USA
+  - Tel Aviv University, Ramat Aviv, Tel Aviv 69978, Israel
+ Funding:
+  - NSF
+  - US-Israel Binational Science Foundation
+ Methods:
+  - parameter estimation
+-
  Reference: "Stasiw DE, Mandal M, Neisen BD, Mitchell LA, Cramer CJ, Tolman WB (2017) Why So Slow? Mechanistic Insights from Studies of a Poor Catalyst for Polymerization of ε-Caprolactone. Inorganic Chemistry 56:725–728"
  Year: 2017
  URL: https://doi.org/10.1021/acs.inorgchem.6b02849
@@ -277,6 +307,22 @@
   - NSF
  Methods:
   - time course
+  - parameter estimation
+-
+ Reference: "Sveshnikova AN, Panteleev MA, Dreval AV, Shestakova TP, Medvedev OS, Dreval OA (2017) Theoretical evaluation of the parameters of glucose metabolism on the basis of continuous glycemia monitoring data using mathematical modeling. Biophysics 62:842–847"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1134/S0006350917050220
+ Keywords:
+  - Metabolism
+  - Physiology
+ Locations:
+  - Lomonosov Moscow State University, Moscow, Russia
+  - Moscow Regional Research and Clinical Institute named after M.F. Vladimirskii, Moscow, Russia
+  - Faculty of Basic Medicine, Moscow State University, Moscow, Russia
+ Funding:
+  - Russian Foundation for Basic Research
+ Methods:
   - parameter estimation
 -
  Reference: "Tatham MH, Cole C, Scullion P, Wilkie R, Westwood NJ, Stark LA, Hay RT (2017) A proteomic approach to analyse the aspirin-mediated lysine acetylome. Molecular & Cellular Proteomics 16:310–326"
