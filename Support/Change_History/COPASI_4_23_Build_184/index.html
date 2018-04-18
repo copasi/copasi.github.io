@@ -1,0 +1,180 @@
+---
+layout: structure
+title: "COPASI 4.23 Build 178"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.23.184</h3>
+    Release Date: April 18, 2018<br />
+    <h4>New Features since COPASI 4.22 (Build 170)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Model Merging: COPASI allows to add a second model and to merge its content with the existing one.
+          </li>
+          <li>
+            Compartment dimensionality may now be specified as: volume, area, length, or dimensionless.
+          </li>
+          <li>
+            Problems (Errors, Warnings) of the model are no marked in the object browser at the problematic entity.
+          </li>
+          <li>
+            Enhanced Unit Support for kinetic parameters.
+          </li>
+          <li>
+            Import and export of Combine Archive is now supported.
+          </li>
+          <li>
+            The full and reduced Jacobian of the current model state are now shown under Model/Mathematical/Matrices.
+          </li>
+          <li>
+            Enable copying table and annotated matrix items to the clipboard.
+          </li>
+          <li>
+            A warning is now raised when loading an invalid model (i.e: one that does not compile) and the problematic
+            entity is marked in the browser pane.
+          </li>
+          <li>
+            Added ability to add COPASI version, current date/time, first name, last name, email and organization
+            as well as line breaks to a reports.
+          </li>
+          <li>
+            Allow for the selection of matrices in Object Browser expert mode.
+          </li>
+          </li>
+            Plots can be associated with tasks similar to the existing report association
+          </li>
+          <li>
+            The direct dependencies, i.e, the objects which are directly effected by changes or removal of an
+            entity are now displayed on all modeling entities.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            COPASI supports Stochastic Differential Equations (SDEs). It is possible to add noise to reactions and
+            entities (compartments, species, and global quantities) determined by ODEs.
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.22 (Build 170)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Improved interface for parameter sets and parameter overview
+          </li>
+          <li>
+            Fixed display of units containing space in the symbol.
+          </li>
+          <li>
+            Fixed issue where derived units where not correctly displayed in the global quantities widget.
+          </li>
+          <li>
+            Common Names edited directly in the report definition are now resolved.
+          </li>
+          <li>
+            Preserve assigned layout name after export and re-import.
+          </li>
+          <li>
+            Fixed issue where some window types (sliders, etc.) remained in the open window menu, after they were closed.
+          </li>
+          <li>
+            Fixed issue where fit result eigenvalues took up way to much space in the display.
+          </li>
+          <li>
+            Suppress inconsequential errors when reloading a file with defined functions.
+          </li>
+          <li>
+            Fixed improper multiplier exponentiation in unit display.
+          </li>
+          <li>
+            The steady-state result was incorrectly displayed in the GUI in the previous release. However,
+            reports, plots, and the model show the correct state.
+          </li>
+          <li>
+            Ensure the "unsaved model" warning dialog appears after reactions are added,
+            when not saving prior to loading/creating a new model, or closing.
+          </li>
+          <li>
+            Fixed crash where a specific sequence of GUI events caused a reaction expression to be invalid.
+          </li>
+          <li>
+            Fixed issue where changing multiple compartment volumes through the compartments table  in succession lead to
+            inconsistent updates of species concentrations and particle numbers.
+          </li>
+          <li>
+            Fixed crash which might occur when deleting global quantity.
+          </li>
+          <li>
+            The precision of real numbers displayed in the GUI is now configurable and consistent.
+          </li>
+          <li>
+            Fixed issue where species concentrations or numbers appeared to change, after moving to a new compartment.
+          </li>
+          <li>
+            Correct (transpose) the display of the Fisher Information Matrix eigenvectors to match the eigenvalues.
+          </li>
+          <li>
+            Fixed default filename ending for saving plots.
+          </li>
+          <li>
+            Undefined units are now suppressed on plot axis instead of showing '?'.
+          </li>
+          <li>
+            Fixed deletion of sliders where occasionally the wrong slider was deleted.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Random functions are now always recalculated when used in any expression, even if the expression
+            is otherwise constant.
+          </li>
+          <li>
+            The elements of the column 'Summation Error' in the MCA results are now accessible in reports and plots.
+          </li>
+          <li>
+            During a scan of optimization the results where not correctly reported or displayed for the following
+            algorithms: Particle Swarm, Praxes, GASR, and SRES.
+          </li>
+          <li>
+            Fixed crash in parameter estimation with cross-validation in the case that a fitted parameter was not found.
+          </li>
+          <li>
+            Fixed crash when using experimental data that was mapped to no longer existing model elements.
+          </li>
+          <li>
+            Fixed crash that might occur of deleting a global used in a reaction.
+          </li>
+        </ul>
+      </li>
+      <li> SBML
+        <ul>
+          <li>
+            Import of SBML files which have an unneeded BOM (byte order mark) is now supported.
+          </li>
+          <li>
+            Fixed export of rate of global quantities.
+          </li>
+          <li>
+            Fixed import of MIRIAM annotations which could occasionally result in the process not finishing.
+          </li>
+          <li>
+            During import, don't raise an error when when more than one annotation from a particular namespace
+            is encountered.
+          </li>
+          <li>
+            Fixed issue where data and math objects were not re-mapped during resize.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
