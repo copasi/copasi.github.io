@@ -1,0 +1,97 @@
+---
+layout: structure
+title: "COPASI 4.24 Build 197"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.24.197</h3>
+    Release Date: July 30, 2018<br />
+    <h4>New Features since COPASI 4.23 (Build 184)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Implemented a new 3d bar graph view of matrixes allowing for better selection of interesting values.
+            The new view also avoids OpenGL issues due to incomplete graphic card support of the OS.
+          </li>
+          <li>
+            Improved issue display in the object browser which did not recognize missing expressions
+            for entities of type ODE and occasionally marked missing initial expressions when not required.
+          </li>
+          <li>
+            Improved display of advanced method parameters. If advanced parameter usage is indicated in the
+            preferences they will be shown last. If it is not selected non advanced parameters which are not
+            at their value will be shown to inform the user.
+          </li>
+        </ul>
+      </li>
+      <li> SBML
+        <ul>
+          <li>
+            Models which explicitely reference Avogadro's number can now be exported to SBML.
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.23 (Build 184)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Fixed crash during reload of a model while the dependency window is open.
+          </li>
+          <li>
+            Improved dependency tracking when deleting a reaction, which was to conservative.
+          </li>
+          <li>
+            Improved dependency tracking when deleting a species, which did not check for use
+            as a modifier.
+          </li>
+          <li>
+            Fixed a crash occurring when changing reaction kinetics in a model which has
+            discontinuities in the ODE system.
+          </li>
+          <li>
+            Fixed a problem where editing the equation of a reaction in the table view could lead to a crash.
+          </li>
+          <li>
+            Fixed crash occasionally occurring when executing a task in a second or third model in the same
+            COPASI session.
+          </li>
+          <li>
+            Fixed problem leading to a crash caused by a spectrogram plot referencing invalid objects for display. 
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Improved load of corrupted COPASI files with an incomplete reaction modifier list. 
+          </li>
+          <li>
+            Fixed crash in cross section task.
+          </li>
+        </ul>
+      </li>
+      <li> SBML
+        <ul>
+          <li>
+            Fixed problems loading layout and render information caused by changes in libSBML.
+          </li>
+        </ul>
+      </li>
+     <li> SED-ML
+        <ul>
+          <li>
+            SED-ML export will always use SBML Level 3.1
+          </li>
+          <li>
+            Fixed import problem when loading an SED-ML file containing a report.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
