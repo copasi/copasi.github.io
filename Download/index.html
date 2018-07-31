@@ -119,6 +119,13 @@ function cps_getBuildNumber(name) {
     return parseInt(match[1], 10);
 }
 
+function cps_getVersion(name) {
+    var regex_build = /COPASI ([0-9]+)\.([0-9]+) \(Build ([0-9]+)\)/;
+    var match = regex_build.exec(name);
+                                                            
+    return  match[1] + "." + match[2] + "." + match[3];                                                      
+}
+                                                            
 function cps_getPlatform(filename) {
     var regex_darwin_64 = /(darwin|macosx).*64/i;
     var regex_darwin = /(darwin|macosx|tiger|leopard)/i;
@@ -211,7 +218,24 @@ function update_packages() {
         div_txt += '</tr>';
     }
 
-    if (Build > 89) {
+    if (Build > 170) {
+        var version = cps_getVersion(github_json[release_idx]["name"]);   
+        div_txt += '<tr>';
+        div_txt += '<td>Language Bindings: Python</td>';
+        div_txt += '<td>Linux</td>';
+        div_txt += '<td><a target="_blank" href="https://pypi.python.org/pypi/python-copasi/" >All available Combinations of COPASI and Python Versions</a></td>';
+        div_txt += '</tr>';
+        div_txt += '<tr>';
+        div_txt += '<td>Language Bindings: Python</td>';
+        div_txt += '<td>Mac OS X</td>';
+        div_txt += '<td><a target="_blank" href="https://pypi.python.org/pypi/python-copasi/" >All available Combinations of COPASI and Python Versions</a></td>';
+        div_txt += '</tr>';
+        div_txt += '<tr>';
+        div_txt += '<td>Language Bindings: Python</td>';
+        div_txt += '<td>Windows</td>';
+        div_txt += '<td><a target="_blank" href="https://pypi.python.org/pypi/python-copasi/" >All available Combinations of COPASI and Python Versions</a></td>';
+        div_txt += '</tr>';
+    } else if (Build > 89) {
         div_txt += '<tr>';
         div_txt += '<td>Language Bindings: Python</td>';
         div_txt += '<td>Linux</td>';

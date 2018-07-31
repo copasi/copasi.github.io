@@ -1,5 +1,5 @@
 ### Global gh-pages pre-amble
-safe: true
+safe: false
 lsi: false
 
 ### The following properties will change on a project-by-project basis
@@ -21,7 +21,7 @@ github_repo_url: https://github.com/copasi/COPASI
 exclude: [tmp, README.md]
 
 # Add Processing features
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate
