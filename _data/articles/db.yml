@@ -249,6 +249,25 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Musante V, Li L, Kanyo J, Lam TT, Colangelo CM, Cheng SK, Brody AH, Greengard P, Le Novère N, Nairn AC (2017) Reciprocal regulation of ARPP-16 by PKA and MAST3 kinases provides a cAMP-regulated switch in protein phosphatase 2A inhibition. ELife 6:e24998"
+ Year: 2017
+ URL: https://doi.org/10.7554/eLife.24998
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - Yale University School of Medicine, New Haven, Connecticut, USA
+  - The Babraham Institute, Cambridge, UK
+  - The Rockefeller University, New York, NY, USA
+ Funding:
+  - State of Connecticut Department of Mental Health and Addiction Services, USA
+  - NIH
+  - EU FP7
+  - BBSRC
+  - Brain and Behavior Research Foundation
+ Methods:
+  - parameter estimation
+-
  Reference: "Orlenko A, Chi PB, Liberles DA (2017) Characterizing the roles of changing population size and selection on the evolution of flux control in metabolic pathways. BMC Evolutionary Biology 17:117"
  Year: 2017 
  URL: https://doi.org/10.1186/s12862-017-0962-7
