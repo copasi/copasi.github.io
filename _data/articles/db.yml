@@ -249,6 +249,26 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Millard P, Smallbone K, Mendes P (2017) Metabolic regulation is sufficient for global and robust coordination of glucose uptake, catabolism, energy production and growth in Escherichia coli. PLoS computational biology 13:e1005396"
+ Year: 2017
+ URL: https://doi.org/10.1371/journal.pcbi.1005396
+ Type: 2
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Locations:
+  - University of Manchester, Manchester, UK
+  - LISBP, Université de Toulouse, CNRS, INRA, INSA, Toulouse, France
+  - Center for Quantitative Medicine, UConn Health, Farmington, CT 06030, USA
+ Funding:
+  - INRA
+  - EU Marie-Curie FP7 COFUND
+  - EU FP7
+  - BBSRC
+  - NIH
+ Methods:
+  - parameter estimation
+-
  Reference: "Musante V, Li L, Kanyo J, Lam TT, Colangelo CM, Cheng SK, Brody AH, Greengard P, Le Novère N, Nairn AC (2017) Reciprocal regulation of ARPP-16 by PKA and MAST3 kinases provides a cAMP-regulated switch in protein phosphatase 2A inhibition. ELife 6:e24998"
  Year: 2017
  URL: https://doi.org/10.7554/eLife.24998
