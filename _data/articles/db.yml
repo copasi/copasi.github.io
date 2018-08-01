@@ -249,6 +249,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Rodesney CA, Roman B, Dehamani N, Cooley BJ, Touhami A, Gordon VD (2017) Mechanosensing of shear by Pseudomonas aeruginosa leads to increased levels of the cyclic-di-GMP signal initiating biofilm development. Proceedings of the National Academy of Sciences 114:5906–5911"
+ Year: 2017
+ URL:  https://doi.org/10.1073/pnas.1703255114
+ Type: 2
+ Keywords:
+  - Microbiology
+  - Signaling
+ Methods: 
+  - time course
+  - parameter estimation
+ Locations:
+  - The University of Texas at Austin, Austin, TX 78712, USA
+  - Mechanical Engineering Department, San Diego State University, San Diego, CA 92182, USA
+  - Department of Physics, The University of Texas Rio Grande Valley, Brownsville, TX 78520, USA
+ Funding:
+  - University of Texas at Austin
+-
  Reference: "Roy RD, Rosenmund C, Stefan MI (2017) Cooperative binding mitigates the high-dose hook effect. BMC Systems Biology 11:74"
  Year: 2017
  URL: https://doi.org/10.1186/s12918-017-0447-8
