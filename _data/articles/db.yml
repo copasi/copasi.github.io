@@ -249,6 +249,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Pinna F, Bissinger M, Beuke K, Huber N, Longerich T, Kummer U, Schirmacher P, Sahle S, Breuhahn K (2017) A20/TNFAIP3 Discriminates Tumor Necrosis Factor (TNF)-Induced NF-κB from JNK Pathway Activation in Hepatocytes. Frontiers in Physiology 8:610"
+ Year: 2017
+ URL: https://doi.org/10.3389/fphys.2017.00610
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - University Hospital Heidelberg, Heidelberg, Germany
+  - RWTH Aachen University Hospital, Aachen, Germany
+  - BioQuant, University of Heidelberg, Heidelberg, Germany
+ Funding:
+  - BMBF
+  - Klaus Tschira Foundation
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Proctor CJ, Goljanek-Whysall K (2017) Using computer simulation models to investigate the most promising microRNAs to improve muscle regeneration during ageing. Scientific Reports 7:12314"
  Year: 2017
  URL: https://doi.org/10.1038/s41598-017-12538-6
