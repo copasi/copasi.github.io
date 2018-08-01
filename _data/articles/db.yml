@@ -249,6 +249,21 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Parmar JH, Davis G, Shevchuk H, Mendes P (2017) Modeling the dynamics of mouse iron body distribution: hepcidin is necessary but not sufficient. BMC Systems Biology 11:57"
+ Year: 2017
+ URL: https://doi.org/10.1186/s12918-017-0431-3
+ Type: 2
+ Keywords:
+  - Physiology
+ Locations:
+  - Center for Quantitative Medicine, UConn Health, Farmington, CT 06030, USA
+  - School of Computer Science, University of Manchester, Manchester, UK
+ Funding:
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Pinna F, Bissinger M, Beuke K, Huber N, Longerich T, Kummer U, Schirmacher P, Sahle S, Breuhahn K (2017) A20/TNFAIP3 Discriminates Tumor Necrosis Factor (TNF)-Induced NF-κB from JNK Pathway Activation in Hepatocytes. Frontiers in Physiology 8:610"
  Year: 2017
  URL: https://doi.org/10.3389/fphys.2017.00610
