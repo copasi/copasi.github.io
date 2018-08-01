@@ -249,6 +249,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Selvarajoo K (2017) A systems biology approach to overcome TRAIL resistance in cancer treatment. Progress in Biophysics and Molecular Biology 128:142–154"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1016/j.pbiomolbio.2017.02.009
+ Keywords: 
+  - Signaling
+ Methods:
+  - parameter estimation
+  - time course
+ Locations:
+  - Institute for Advanced Biosciences, Keio University, 14-1 Baba-cho, 997-0035, Tsuruoka, Japan
+  - Systems Biology Program, Graduate School of Media and Governance, Keio University, 5322 Endo, 252-0882, Fujisawa, Japan
+ Funding:
+  - Japan Society for the Promotion of Science (JSPS) 
+  - Grants-in-Aid for Scientific Research, Japan
+  - Tsuruoka City, Yamagata Prefecture, Japan
+-
  Reference: "Shrivastava N, Macwan AS, Kohler H-PE, Kumar A (2017) Important amino acid residues of hexachlorocyclohexane dehydrochlorinases (LinA) for enantioselective transformation of hexachlorocyclohexane isomers. Biodegradation 28:171–180"
  Year: 2017
  Type: 2
