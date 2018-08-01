@@ -249,6 +249,19 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Roy RD, Rosenmund C, Stefan MI (2017) Cooperative binding mitigates the high-dose hook effect. BMC Systems Biology 11:74"
+ Year: 2017
+ URL: https://doi.org/10.1186/s12918-017-0447-8
+ Keywords:
+  - Theory
+  - Macromolecular Biochemistry
+ Type: 2
+ Locations:
+  - NWFZ, Charité Crossover, Charite Universitätsmedizin, Berlin, Germany
+  - Department of Neurobiology, Harvard Medical School, Boston, USA 
+  - Babraham Institute, Cambridge, UK 
+  - Centre for Integrative Physiology, University of Edinburgh, Edinburgh, UK
+-
  Reference: "Selvarajoo K (2017) A systems biology approach to overcome TRAIL resistance in cancer treatment. Progress in Biophysics and Molecular Biology 128:142–154"
  Year: 2017
  Type: 2
@@ -2744,17 +2757,6 @@
   - Paul Scherrer Institute, Villigen, Switzerland
  Funding:
   - Swiss National Science Foundation
--
- Reference: "Roy RD, Stefan MI (2015) Cooperative Binding Mitigates the High-Dose Hook Effect. BioArchive doi:10.1101/021717"
- Year: 2015
- URL: https://doi.org/10.1101/021717
- Keywords:
-  - Theory
-  - Macromolecular Biochemistry
- Type: 2
- Locations:
-  - Karolinska Institutet, Stockholm, Sweden
-  - University of Edinburgh, Edinburgh, UK
 -
  Reference: "Samal SS, Grigoriev D, Fröhlich H, Weber A, Radulescu O (2015) A Geometric Method for Model Reduction of Biochemical Networks with Polynomial Rate Functions. Bull. Math. Biol. 77:2180-211."
  Year: 2015
