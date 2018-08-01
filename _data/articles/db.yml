@@ -249,6 +249,20 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Orlenko A, Chi PB, Liberles DA (2017) Characterizing the roles of changing population size and selection on the evolution of flux control in metabolic pathways. BMC Evolutionary Biology 17:117"
+ Year: 2017 
+ URL: https://doi.org/10.1186/s12862-017-0962-7
+ Type: 2
+ Locations:
+  - Temple University, Philadelphia, PA 19122, USA
+  - University of Wyoming, Laramie, WY 82071, USA
+  - Ursinus College, Collegeville, PA 19426, USA
+ Keywords:
+  - Biochemistry
+  - Genetics
+ Methods:
+  - steady state
+-
  Reference: "Oroszlán G, Dani R, Szilágyi A, Závodszky P, Thiel S, Gál P, Dobó J (2017) Extensive basal level activation of complement mannose-binding lectin-associated serine protease (MASP)-3: kinetic modeling of lectin pathway activation provides possible mechanism. Frontiers in Immunology 8:1821"
  Year: 2017
  URL: https://doi.org/10.3389/fimmu.2017.01821
@@ -7504,6 +7518,7 @@
  Year: 2007
  URL: https://www.osti.gov/scitech/biblio/948125
  Keywords:
+  - Chemistry
  Type: 2
  Locations:
   - Lawrence Berkeley National Laboratory, Berkeley, California, USA
