@@ -110,6 +110,23 @@
  Methods:
   - time course
 -
+ Reference: "Fribourg M, Logothetis DE, González-Maeso J, Sealfon SC, Galocha-Iragüen B, Andrés FL-H, Brezina V (2017) Elucidation of molecular kinetic schemes from macroscopic traces using system identification. PLoS Computational Biology 13:e1005376"
+ Year: 2017
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pcbi.1005376
+ Keywords:
+  - Computational Method
+ Locations:
+  - Icahn School Of Medicine at Mount Sinai, New York, New York, USA
+  - Department of Pharmaceutical Sciences, Northeastern University, Boston, Massachusetts, USA
+  - Department of Physiology and Biophysics, Virginia Commonwealth University School of Medicine, Richmond, Virginia, USA
+  - Department of Signals Systems and Radiocommunications, Universidad Politécnica de Madrid, Madrid, Spain
+  - Department of Electrical Engineering, Universidad de Oviedo, Gijón, Spain
+ Funding:
+  - NIH
+ Methods:
+  - time course
+-
  Reference: "Funes-Ardoiz I, Nelson DJ, Maseras F (2017) Halide Abstraction Competes with Oxidative Addition in the Reactions of Aryl Halides with [Ni (PMenPh (3-n)) 4]. Chemistry 23:16728–16733"
  Year: 2017
  Type: 2
