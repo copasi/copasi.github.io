@@ -188,6 +188,19 @@
   - parameter estimation
   - time course
 -
+ Reference: "Jiang Y, AkhavanAghdam Z, Tsimring LS, Hao N (2017) Coupled feedback loops control the stimulus-dependent dynamics of the yeast transcription factor Msn2. Journal of Biological Chemistry 292:12366–12372"
+ Year: 2017
+ URL: https://doi.org/10.1074/jbc.C117.800896
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - University of California San Diego, La Jolla, California 92093, USA
+ Funding:
+  - NIH
+ Methods:
+  - stochastic simulation
+-
  Reference: "Jover J (2017) Quantitative DFT modeling of product concentration in organometallic reactions: Cu-mediated pentafluoroethylation of benzoic acid chlorides as a case study. Physical Chemistry Chemical Physics 19:29344–29353" 
  Year: 2017
  URL: https://doi.org/10.1039/C7CP05709A
