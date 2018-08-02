@@ -110,6 +110,19 @@
  Methods:
   - time course
 -
+ Reference: "Greene JL, Wäechter A, Tyo KE, Broadbelt LJ (2017) Acceleration Strategies to Enhance Metabolic Ensemble Modeling Performance. Biophysical journal 113:1150–1162"
+ Year: 2017
+ URL: https://doi.org/10.1016/j.bpj.2017.07.018
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Northwestern University, Evanston, Illinois
+ Funding:
+  - NSF
+ Methods:
+  - mass conservation analysis
+-
  Reference: "Guimera AM, Welsh CM, Proctor CJ, McArdle A, Shanley DP (2017) ‘Molecular habituation’ as a potential mechanism of gradual homeostatic loss with age. Mechanisms of ageing and development"
  Year: 2017
  URL: https://doi.org/10.1016/j.mad.2017.11.010
