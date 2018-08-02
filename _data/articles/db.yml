@@ -238,6 +238,27 @@
  Methods:
   - optimization
 -
+ Reference: "Kwon JS, Everetts NJ, Wang X, Wang W, Della Croce K, Xing J, Yao G (2017) Controlling Depth of Cellular Quiescence by an Rb-E2F Network Switch. Cell Reports 20:3223–3235"
+ Year: 2017
+ URL: https://doi.org/10.1016/j.celrep.2017.09.007
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - University of Arizona, Tucson, AZ 85721, USA
+  - University of Pittsburgh School of Medicine, Pittsburgh, PA 15260, USA
+  - UPMC-Hillman Cancer Center, University of Pittsburgh, Pittsburgh, PA 15232, USA
+ Funding:
+  - NSF
+  - DARPA
+  - NIH
+  - NSF of China
+  - Anhui Province, China
+ Methods:
+  - parameter scan
+  - time course
+  - stochastic simulation
+-
  Reference: "Man-Sai A, Siles-Canales F, Mora-Rodriguez RA (2017) A biocomputational platform for the automated construction of large-scale mathematical models of miRNA-transcription factor networks for studies on gene dosage compensation. 2016 IEEE 36th Central American and Panama Convention (CONCAPAN XXXVI), San Jose, 2016, pp. 1-7"
  Year: 2017
  Type: 2
@@ -252,7 +273,7 @@
  Reference: "Madec M, Lallement C, Haiech J (2017) Modeling and simulation of biological systems using SPICE language. PloS one 12:e0182385"
  Year: 2017
  URL: https://doi.org/10.1371/journal.pone.0182385
- Type: 2
+ Type: 3
  Keywords:
   - Software
  Locations:
