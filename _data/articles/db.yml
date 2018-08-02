@@ -238,6 +238,21 @@
  Methods:
   - optimization
 -
+ Reference: "Korman TP, Opgenorth PH, Bowie JU (2017) A synthetic biochemistry platform for cell free production of monoterpenes from glucose. Nature communications 8:15526"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1038/ncomms15526
+ Keywords:
+  - Synthetic Biology
+  - Metabolism
+ Locations:
+  - Department of Chemistry and Biochemistry, University of California, Los Angeles, California 90095-1570, USA
+ Funding:
+  - DOE
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Kwon JS, Everetts NJ, Wang X, Wang W, Della Croce K, Xing J, Yao G (2017) Controlling Depth of Cellular Quiescence by an Rb-E2F Network Switch. Cell Reports 20:3223–3235"
  Year: 2017
  URL: https://doi.org/10.1016/j.celrep.2017.09.007
