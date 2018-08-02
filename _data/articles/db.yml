@@ -249,6 +249,36 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Meng X, Firczuk H, Pietroni P, Westbrook R, Dacheux E, Mendes P, McCarthy JEG (2017) Minimum-noise production of translation factor eIF4G maps to a mechanistically determined optimal rate control window for protein synthesis. Nucleic Acids Research 45:1015–1025"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1093/nar/gkw1194
+ Keywords:
+  - Macromolecular Biochemistry
+ Locations:
+  - School of Life Sciences, University of Warwick, Gibbet Hill, Coventry CV4 7AL, UK
+  - Center for Quantitative Medicine, UConn Health, Farmington, CT 06030, USA
+ Funding:
+  - BBSRC
+  - NIH
+ Methods:
+  - parameter estimation
+  - time course
+- 
+ Reference: "Meyners C, Meyer‐Almes F‐J (2017) Impact of binding mechanism on selective inhibition of histone deacetylase isoforms. Chemical Biology & Drug Design 90:1215–1225"
+ Year: 2017
+ URL: https://doi.org/10.1111/cbdd.13041
+ Type: 2
+ Keywords:
+  - Enzymology
+  - Pharmacology
+ Locations:
+  - Department of Chemical Engineering and Biotechnology, University of Applied Sciences, Darmstadt, Germany
+ Funding:
+  - DFG
+ Methods:
+  - parameter estimation
+-
  Reference: "Millard P, Smallbone K, Mendes P (2017) Metabolic regulation is sufficient for global and robust coordination of glucose uptake, catabolism, energy production and growth in Escherichia coli. PLoS computational biology 13:e1005396"
  Year: 2017
  URL: https://doi.org/10.1371/journal.pcbi.1005396
@@ -266,20 +296,6 @@
   - EU FP7
   - BBSRC
   - NIH
- Methods:
-  - parameter estimation
-- 
- Reference: "Meyners Christian, Meyer‐Almes Franz‐Josef (2017) Impact of binding mechanism on selective inhibition of histone deacetylase isoforms. Chemical Biology & Drug Design 90:1215–1225"
- Year: 2017
- URL: https://doi.org/10.1111/cbdd.13041
- Type: 2
- Keywords:
-  - Enzymology
-  - Pharmacology
- Locations:
-  - Department of Chemical Engineering and Biotechnology, University of Applied Sciences, Darmstadt, Germany
- Funding:
-  - DFG
  Methods:
   - parameter estimation
 -
@@ -345,6 +361,7 @@
  Methods:
   - time course
   - parameter estimation
+  - parameter scan
 -
  Reference: "Pinna F, Bissinger M, Beuke K, Huber N, Longerich T, Kummer U, Schirmacher P, Sahle S, Breuhahn K (2017) A20/TNFAIP3 Discriminates Tumor Necrosis Factor (TNF)-Induced NF-κB from JNK Pathway Activation in Hepatocytes. Frontiers in Physiology 8:610"
  Year: 2017
