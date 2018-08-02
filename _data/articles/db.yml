@@ -110,6 +110,25 @@
  Methods:
   - time course
 -
+ Reference: "Gil-Lozano C, Davila AF, Losa-Adams E, Fairen AG, Gago-Duport L (2017) Quantifying Fenton reaction pathways driven by self-generated H2O2 on pyrite surfaces. Scientific Reports 7:43703"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1038/srep43703
+ Keywords:
+  - Chemistry
+ Locations:
+  - Centro de Astrobiología (CSIC-INTA), Instituto Nacional Técnica Aeroespacial,  28850 Torrejón de Ardoz, Madrid, Spain.
+  - Carl Sagan Center at the SETI Institute, 189 Bernardo Avenue, Suite 100, Mountain View, CA 94043, USA
+  - Departamento de Geociencias Marinas, Universidad de Vigo, Lagoas Marcosende, 36310-Vigo, Spain
+  - Department of Astronomy, Cornell University, Ithaca, 14853 NY, USA
+ Funding:
+  - Spanish Ministry of Science and Innovation
+  - EU European Regional Development Fund
+  - EU ERC
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Greene JL, Wäechter A, Tyo KE, Broadbelt LJ (2017) Acceleration Strategies to Enhance Metabolic Ensemble Modeling Performance. Biophysical journal 113:1150–1162"
  Year: 2017
  URL: https://doi.org/10.1016/j.bpj.2017.07.018
