@@ -188,6 +188,21 @@
   - parameter estimation
   - time course
 -
+ Reference: "Henze R, Dittrich P, Ibrahim B (2017) A Dynamical Model for Activating and Silencing the Mitotic Checkpoint. Scientific Reports 7:3865"
+ Year: 2017
+ URL: https://doi.org/10.1038/s41598-017-04218-2
+ Type: 2
+ Keywords:
+  - Cell Biology
+ Locations:
+  - Department of Mathematics and Computer Science, Friedrich Schiller University Jena, 07743, Jena, Germany
+  - Institute for Numerical Simulation, University of Bonn, 53115, Bonn, Germany
+ Funding:
+  - EU FP7
+  - Carl Zeiss foundation
+ Methods:
+  - hybrid stochastic-deterministic simulation
+-
  Reference: "Hill DE, Bay KL, Yang Y-F, Plata RE, Takise R, Houk KN, Yu J-Q, Blackmond DG (2017) Dynamic Ligand Exchange as a Mechanistic Probe in Pd-Catalyzed Enantioselective C–H Functionalization Reactions Using Monoprotected Amino Acid Ligands. Journal of the American Chemical Society 139:18500–18503"
  Year: 2017
  Type: 2
