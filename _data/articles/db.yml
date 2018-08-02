@@ -110,6 +110,23 @@
  Methods:
   - time course
 -
+ Reference: "Gao Y, Guan C, Zhou M, Kumar A, Emge TJ, Wright AM, Goldberg KI, Krogh-Jespersen K, Goldman AS (2017) β-Hydride Elimination and C–H Activation by an Iridium Acetate Complex, Catalyzed by Lewis Acids. Alkane Dehydrogenation Cocatalyzed by Lewis Acids and [2, 6-Bis (4, 4-dimethyloxazolinyl)-3, 5-dimethylphenyl] iridium. Journal of the American Chemical Society 139:6338–6350"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1021/jacs.6b12995
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, New Brunswick, New Jersey 08903, USA
+  - Department of Natural Sciences, Lawrence Technological University, Southfield, Michigan 48075, USA
+  - Department of Chemistry, Indian Institute of Technology Guwahati, Guwahati 781039, Assam, India
+  - Department of Chemistry, University of Washington, Box 351700, Seattle, Washington 98195-1700, USA
+ Funding:
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Gil-Lozano C, Davila AF, Losa-Adams E, Fairen AG, Gago-Duport L (2017) Quantifying Fenton reaction pathways driven by self-generated H2O2 on pyrite surfaces. Scientific Reports 7:43703"
  Year: 2017
  Type: 2
@@ -129,7 +146,7 @@
   - parameter estimation
   - time course
 -
- Reference: "Greene JL, Wäechter A, Tyo KE, Broadbelt LJ (2017) Acceleration Strategies to Enhance Metabolic Ensemble Modeling Performance. Biophysical journal 113:1150–1162"
+ Reference: "Greene JL, Wäechter A, Tyo KE, Broadbelt LJ (2017) Acceleration Strategies to Enhance Metabolic Ensemble Modeling Performance. Biophysical Journal 113:1150–1162"
  Year: 2017
  URL: https://doi.org/10.1016/j.bpj.2017.07.018
  Type: 3
