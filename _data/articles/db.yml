@@ -249,6 +249,29 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Malek M, Kielkowska A, Chessa T, Anderson KE, Barneda D, Pir P, Nakanishi H, Eguchi S, Koizumi A, Sasaki J, Juvin V, Kiselev VY, Niewczas I, Gray A, Valayer A, Spensberger D, Imbert M, Felisbino S, Habuchi T, Beinke S, Cosulich S, Le Novère N, Sasaki T, Clark J, Hawkins PT, Stephens LR (2017) PTEN Regulates PI(3,4)P2 Signaling Downstream of Class I PI3K. Molecular Cell 68:566-580.e10"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1016/j.molcel.2017.09.024
+ Keywords:
+  - Signaling
+ Locations:
+  - Babraham Institute, Cambridge, UK
+  - AstraZeneca R&D Cambridge, CRUK Cambridge Institute, Cambridge, UK
+  - Akita University Graduate School of Medicine, 1-1-1 Hondo, Akita, Japan
+  - School of Life Sciences, University of Dundee, Dow St., Dundee, UK
+  - Sao Paulo State University - UNESP, Botucatu, Sao Paulo, Brazil
+  - GlaxoSmithKline, Stevenage, UK
+ Funding:
+  - BBSRC
+  - The Wellcome Trust
+  - Japan Society for the Promotion of Science
+  - Japan Agency for Medical Research and Development
+  - GSK
+  - AstraZeneca
+ Methods:
+  - parameter estimation
+-
  Reference: "Meng X, Firczuk H, Pietroni P, Westbrook R, Dacheux E, Mendes P, McCarthy JEG (2017) Minimum-noise production of translation factor eIF4G maps to a mechanistically determined optimal rate control window for protein synthesis. Nucleic Acids Research 45:1015–1025"
  Year: 2017
  Type: 2
