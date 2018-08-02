@@ -249,6 +249,18 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Madec M, Lallement C, Haiech J (2017) Modeling and simulation of biological systems using SPICE language. PloS one 12:e0182385"
+ Year: 2017
+ URL: https://doi.org/10.1371/journal.pone.0182385
+ Type: 2
+ Keywords:
+  - Software
+ Locations:
+  - Solid and Systems Electronic Department, University of Strasbourg, Strasbourg, France 
+ Methods:
+  - time course
+  - steady state
+-
  Reference: "Malek M, Kielkowska A, Chessa T, Anderson KE, Barneda D, Pir P, Nakanishi H, Eguchi S, Koizumi A, Sasaki J, Juvin V, Kiselev VY, Niewczas I, Gray A, Valayer A, Spensberger D, Imbert M, Felisbino S, Habuchi T, Beinke S, Cosulich S, Le Novère N, Sasaki T, Clark J, Hawkins PT, Stephens LR (2017) PTEN Regulates PI(3,4)P2 Signaling Downstream of Class I PI3K. Molecular Cell 68:566-580.e10"
  Year: 2017
  Type: 2
