@@ -188,6 +188,19 @@
   - parameter estimation
   - time course
 -
+ Reference: "Hendrickx DM, Souza T, Jennen DG, Kleinjans JC (2017) DTNI: a novel toxicogenomics data analysis tool for identifying the molecular mechanisms underlying the adverse effects of toxic compounds. Archives of Toxicology 91:2343–2352"
+ Year: 2017
+ Type: 3
+ URL: https://doi.org/10.1007/s00204-016-1922-5
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Toxicogenomics, GROW-School for Oncology and Developmental Biology, Maastricht University, Universiteitssingel 40, 6229 ER, Maastricht, The Netherlands
+ Funding:
+  - EU FP7
+ Methods:
+  - time course
+-
  Reference: "Henze R, Dittrich P, Ibrahim B (2017) A Dynamical Model for Activating and Silencing the Mitotic Checkpoint. Scientific Reports 7:3865"
  Year: 2017
  URL: https://doi.org/10.1038/s41598-017-04218-2
