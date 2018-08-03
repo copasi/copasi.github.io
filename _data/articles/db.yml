@@ -33,6 +33,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Bergmann FT, Hoops S, Klahn B, Kummer U, Mendes P, Pahle J, Sahle S (2017) COPASI and its applications in biotechnology. Journal of biotechnology 261:215–220"
+ Year: 2017
+ Type: 3
+ URL: https://doi.org/10.1016/j.jbiotec.2017.06.1200
+ Keywords:
+  - Software
+ Locations:
+  - BioQuant/COS, Heidelberg University, Heidelberg, Germany
+  - Biocomplexity Institute of Virginia Tech, Virginia Tech, Blacksburg, VA, USA
+  - Center for Quantitative Medicine, UConn Health, Farmington, CT, USA
+ Funding:
+  - BMBF
+  - NIH
+  - BBSRC
+  - Klaus Tschira Foundation
+-
  Reference: "Beuke K, Schildberg FA, Pinna F, Albrecht U, Liebe R, Bissinger M, Schirmacher P, Dooley S, Bode JG, Knolle PA, Kummer U, Breuhahn K, Sahle S (2017) Quantitative and integrative analysis of paracrine hepatocyte activation by non-parenchymal cells upon lipopolysaccharide induction. The FEBS Journal 284:796–813"
  Year: 2017
  URL: https://doi.org/10.1111/febs.14022
