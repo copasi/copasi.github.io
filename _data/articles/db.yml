@@ -55,6 +55,25 @@
   - time course
   - parameter estimation
 -
+ Reference: "Bleicken S, Hantusch A, Das KK, Frickey T, Garcia-Saez AJ (2017) Quantitative interactome of a membrane Bcl-2 network identifies a hierarchy of complexes for apoptosis regulation. Nature communications 8:73"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1038/s41467-017-00086-6
+ Keywords:
+  - Signaling
+ Locations:
+  - Max Planck Institute for Intelligent Systems, Heisenbergstr. 3, 70569, Stuttgart, Germany
+  - German Cancer Research Center, Im Neuenheimer Feld 280, 69120, Heidelberg, Germany
+  - Interfaculty Institute of Biochemistry, Eberhard Karls University Tübingen, Hoppe-Seyler-Str. 4, 72076, Tübingen, Germany
+  - ZEMOS, Ruhr-University Bochum, Universitätsstr. 150, 44801, Bochum, Germany
+  - University of Konstanz, Applied Bioinformatics, Universitaetsstr. 10, 78457, Konstanz, Germany
+ Funding:
+  - BMBF
+  - EU ERC
+  - DFG
+ Methods:
+  - parameter estimation
+-
  Reference: "Brezny AC, Landis CR (2017) Unexpected CO Dependencies, Catalyst Speciation, and Single-Turnover Hydrogenolysis Studies of Hydroformylation via High Pressure NMR Spectroscopy. Journal of the American Chemical Society 139:2778–2785"
  Year: 2017
  URL: https://doi.org/10.1021/jacs.6b12533
@@ -86,6 +105,21 @@
   - Russian President Grants
  Methods:
   - time course
+  - parameter estimation
+-
+ Reference: "Chizzolini F, Forlin M, Yeh Martín N, Berloffa G, Cecchi D, Mansy SS (2017) Cell-free translation is more variable than transcription. ACS Synthetic Biology 6:638–647"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1021/acssynbio.6b00250
+ Keywords:
+  - Macromolecular Biochemistry
+  - Synthetic Biology
+ Locations:
+  - Center for Integrative Biology (CIBIO), University of Trento , via Sommarive 9, 38123 Povo TN, Italy
+ Funding:
+  - Armenise-Harvard Foundation
+  - Autonomous Province of Trento, Italy
+ Methods:
   - parameter estimation
 -
  Reference: "Chung R, Hein JE (2017) The More, The Better: Simultaneous In Situ Reaction Monitoring Provides Rapid Mechanistic and Kinetic Insight. Topics in Catalysis 60:594–608"
