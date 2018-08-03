@@ -16,7 +16,26 @@
   - parameter estimation
   - time course
   - sensitivity analysis
-- 
+-
+ Reference: "Badet T, Peyraud R, Mbengue M, Navaud O, Derbyshire M, Oliver RP, Barbacci A, Raffaele S (2017) Codon optimization underpins generalist parasitism in fungi. Elife 6:e22472"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.7554/eLife.22472
+ Keywords:
+  - Genomics
+  - Theory
+  - Macromolecular Biochemistry
+ Locations:
+  - LIPM, Université de Toulouse, INRA, CNRS, Castanet-Tolosan, France
+  - Centre for Crop and Disease Management, Department of Environment and Agriculture, Curtin University, Perth, Australia
+ Funding:
+  - EU ERC
+  - Australian grains research and development corporation
+  - Labex TULIP (France)
+  - Curtin University
+ Methods:
+  - time course
+-
  Reference: "Baumgart L, Mather W, Hasty J (2017) Synchronized DNA cycling across a bacterial population. Nature Genetics, 49:1282–128"
  Year: 2017
  URL: https://doi.org/10.1038/ng.3915
