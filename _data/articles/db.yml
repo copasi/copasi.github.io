@@ -98,6 +98,21 @@
  Locations: 
   - The Babraham Institute, Cambridge, UK
 -
+ Reference: "Fieser ME, Sanford MJ, Mitchell LA, Dunbar CR, Mandal M, Van Zee NJ, Urness DM, Cramer CJ, Coates GW, Tolman WB (2017) Mechanistic Insights into the Alternating Copolymerization of Epoxides and Cyclic Anhydrides Using a (Salph) AlCl and Iminium Salt Catalytic System. Journal of the American Chemical Society 139:15222–15231"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1021/jacs.7b09079
+ Keywords:
+  - Chemistry
+ Locations:
+  - University of Minnesota , 207 Pleasant Street SE, Minneapolis, Minnesota 55455, USA
+  - Department of Chemistry and Chemical Biology, Baker Laboratory, Cornell University , Ithaca, New York 14853, USA
+ Funding:
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Földes T, Madarász Á, Révész Á, Dobi Z, Varga S, Hamza A, Nagy PR, Pihko PM, Pápai I (2017) Stereocontrol in Diphenylprolinol Silyl Ether Catalyzed Michael Additions: Steric Shielding or Curtin–Hammett Scenario? Journal of the American Chemical Society 139:17052–17063"
  Year: 2017
  Type: 2
