@@ -17,6 +17,23 @@
   - time course
   - sensitivity analysis
 -
+ Reference: "Aguilera LU, Zimmer C, Kummer U (2017) A new efficient approach to fit stochastic models on the basis of high-throughput experimental data using a model of IRF7 gene expression as case study. BMC systems biology 11:26"
+ Year: 2017
+ Type: 3
+ URL: https://doi.org/10.1186/s12918-017-0406-4
+ Keywords:
+  - Computational Methods
+  - Immunology
+ Locations:
+  - Bioquant, Heidelberg University, Im Neuenheimer Feld 267, Heidelberg, 69120, Germany
+ Funding:
+  - Consejo Nacional de Ciencia y Tecnología, Mexico
+  - BMBF
+  - BIOMS
+ Methods:
+  - stocahstic simulation
+  - parameter estimation
+-
  Reference: "Amdahl MB, Sparacino-Watkins CE, Corti P, Gladwin MT, Tejero J (2017) Efficient Reduction of Vertebrate Cytoglobins by the Cytochrome b 5/Cytochrome b 5 Reductase/NADH System. Biochemistry 56:3993–4004" 
  Year: 2017
  Type: 2
