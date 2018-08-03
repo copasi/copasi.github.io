@@ -355,7 +355,7 @@
  Methods:
   - time course
 -
- Reference: "Fribourg M, Logothetis DE, González-Maeso J, Sealfon SC, Galocha-Iragüen B, Andrés FL-H, Brezina V (2017) Elucidation of molecular kinetic schemes from macroscopic traces using system identification. PLoS Computational Biology 13:e1005376"
+ Reference: "Fribourg M, Logothetis DE, González-Maeso J, Sealfon SC, Galocha-Iragüen B, Andrés FL-H, Brezina V (2017) Elucidation of molecular kinetic schemes from macroscopic traces using system identification. PLOS Computational Biology 13:e1005376"
  Year: 2017
  Type: 3
  URL: https://doi.org/10.1371/journal.pcbi.1005376
@@ -765,7 +765,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Madec M, Lallement C, Haiech J (2017) Modeling and simulation of biological systems using SPICE language. PloS One 12:e0182385"
+ Reference: "Madec M, Lallement C, Haiech J (2017) Modeling and simulation of biological systems using SPICE language. PLOS One 12:e0182385"
  Year: 2017
  URL: https://doi.org/10.1371/journal.pone.0182385
  Type: 3
@@ -830,7 +830,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Millard P, Smallbone K, Mendes P (2017) Metabolic regulation is sufficient for global and robust coordination of glucose uptake, catabolism, energy production and growth in Escherichia coli. PLoS Computational Biology 13:e1005396"
+ Reference: "Millard P, Smallbone K, Mendes P (2017) Metabolic regulation is sufficient for global and robust coordination of glucose uptake, catabolism, energy production and growth in Escherichia coli. PLOS Computational Biology 13:e1005396"
  Year: 2017
  URL: https://doi.org/10.1371/journal.pcbi.1005396
  Type: 2
@@ -949,7 +949,7 @@
  Methods:
   - time course
 -
- Reference: "Proctor CJ, Smith GR (2017) Computer simulation models as a tool to investigate the role of microRNAs in osteoarthritis. PloS One 12:e0187568"
+ Reference: "Proctor CJ, Smith GR (2017) Computer simulation models as a tool to investigate the role of microRNAs in osteoarthritis. PLOS One 12:e0187568"
  Year: 2017
  URL:  https://doi.org/10.1371/journal.pone.0187568
  Type: 2
@@ -1744,7 +1744,7 @@
  Methods:
   - time course
 -
- Reference: "Ihekwaba AE, Mura I, Walshaw J, Peck MW, Barker GC (2016) An Integrative Approach to Computational Modelling of the Gene Regulatory Network Controlling Clostridium botulinum Type A1 Toxin Production. PLoS Computational Biology 12:e1005205"
+ Reference: "Ihekwaba AE, Mura I, Walshaw J, Peck MW, Barker GC (2016) An Integrative Approach to Computational Modelling of the Gene Regulatory Network Controlling Clostridium botulinum Type A1 Toxin Production. PLOS Computational Biology 12:e1005205"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pcbi.1005205
  Type: 2
@@ -1892,7 +1892,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Leber A, Bassaganya-Riera J, Tubau-Juni N, Zoccoli-Rodriguez V, Viladomiu M, Abedi V, Lu P, Hontecillas R (2016) Modeling the Role of Lanthionine Synthetase C-Like 2 (LANCL2) in the Modulation of Immune Responses to Helicobacter pylori Infection. PloS One 11:e0167440"
+ Reference: "Leber A, Bassaganya-Riera J, Tubau-Juni N, Zoccoli-Rodriguez V, Viladomiu M, Abedi V, Lu P, Hontecillas R (2016) Modeling the Role of Lanthionine Synthetase C-Like 2 (LANCL2) in the Modulation of Immune Responses to Helicobacter pylori Infection. PLOS One 11:e0167440"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pone.0167440
  Type: 2
@@ -5205,7 +5205,7 @@
  Locations:
   - National Technical University of Athens, Zografou, Greece
 -
- Reference: "Kraut DA (2013) Slippery substrates impair ATP-dependent protease function by slowing unfolding. J. Biol. Chem. 288:34729-34735"
+ Reference: "Kraut DA (2013) Slippery substrates impair ATP-dependent protease function by slowing unfolding. Journal of Biological Chemistry 288:34729-34735"
  Year: 2013
  URL: https://doi.org/10.1074/jbc.M113.512533
  Keywords:
@@ -5668,7 +5668,7 @@
   - sensitivity analysis
   - parameter estimation
 -
- Reference: "Stanford NJ, Lubitz T, Smallbone K, Klipp E, Mendes P, Liebermeister W (2013) Systematic construction of kinetic models from genome-scale metabolic networks. PlOS One 8:e79195"
+ Reference: "Stanford NJ, Lubitz T, Smallbone K, Klipp E, Mendes P, Liebermeister W (2013) Systematic construction of kinetic models from genome-scale metabolic networks. PLOS One 8:e79195"
  Year: 2013
  URL: https://doi.org/10.1371/journal.pone.0079195
  Type: 3
@@ -7596,7 +7596,7 @@
  Locations:
   - Technische Universität München, Garching, Germany
 -
- Reference: "Gallagher SS, Sable JE, Sheetz MP, Cornish VW (2009) An In Vivo Covalent TMP-Tag Based on Proximity-Induced Reactivity. ACS Chem. Biol. 4:547-56"
+ Reference: "Gallagher SS, Sable JE, Sheetz MP, Cornish VW (2009) An In Vivo Covalent TMP-Tag Based on Proximity-Induced Reactivity. ACS Chemical Biology 4:547-56"
  Year: 2009
  URL: https://doi.org/10.1021/cb900062k
  Keywords:
@@ -8204,7 +8204,7 @@
   - NIH
   - BMBF
 -
- Reference: "Rippe K, Schrader A, Riede P, Strohner R, Lehmann E,Längst G (2007) DNA sequence- and conformation-directed positioning of nucleosomes by chromatin-remodeling complexes. PNAS 104:15635-40"
+ Reference: "Rippe K, Schrader A, Riede P, Strohner R, Lehmann E,Längst G (2007) DNA sequence- and conformation-directed positioning of nucleosomes by chromatin-remodeling complexes. Proceedings of the National Academy of Sciences 104:15635-40"
  Year: 2007
  URL: https://doi.org/10.1073/pnas.0702430104
  Keywords:
