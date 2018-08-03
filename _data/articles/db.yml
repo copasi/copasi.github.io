@@ -98,6 +98,20 @@
  Locations: 
   - The Babraham Institute, Cambridge, UK
 -
+ Reference: "Dunn AL, Landis CR (2017) Progress toward reaction monitoring at variable temperatures: a new stopped-flow NMR probe design. Magnetic Resonance in Chemistry 55:329–336"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1002/mrc.4538
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of Wisconsin—Madison, 1101 University Avenue, Madison, Wisconsin 53706, USA
+ Funding:
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Dunn AL, Landis CR (2017) Stopped-Flow NMR and Quantitative GPC Reveal Unexpected Complexities for the Mechanism of NHC-Catalyzed Lactide Polymerization. Macromolecules 50:2267–2275"
  Year: 2017
  Type: 2
