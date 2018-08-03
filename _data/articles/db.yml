@@ -98,6 +98,20 @@
  Locations: 
   - The Babraham Institute, Cambridge, UK
 -
+ Reference: "Dunn AL, Landis CR (2017) Stopped-Flow NMR and Quantitative GPC Reveal Unexpected Complexities for the Mechanism of NHC-Catalyzed Lactide Polymerization. Macromolecules 50:2267–2275"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1021/acs.macromol.6b02139
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of Wisconsin—Madison, 1101 University Avenue, Madison, Wisconsin 53706, USA
+ Funding:
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Fieser ME, Sanford MJ, Mitchell LA, Dunbar CR, Mandal M, Van Zee NJ, Urness DM, Cramer CJ, Coates GW, Tolman WB (2017) Mechanistic Insights into the Alternating Copolymerization of Epoxides and Cyclic Anhydrides Using a (Salph) AlCl and Iminium Salt Catalytic System. Journal of the American Chemical Society 139:15222–15231"
  Year: 2017
  Type: 2
