@@ -2,7 +2,7 @@
  Reference: "Carpine R, Raganati F, Olivieri G, Hellingwerf KJ, Pollio A, Salatino P, Marzocchella A (2018) Poly-β-hydroxybutyrate (PHB) production by Synechocystis PCC6803 from CO2: Model development. Algal Research 29:49–60"
  Year: 2018
  Type: 2
- https://doi.org/10.1016/j.algal.2017.11.011
+ URL: https://doi.org/10.1016/j.algal.2017.11.011
  Keywords:
   - Microbiology
   - Biochemistry
@@ -92,7 +92,7 @@
  Methods:
   - time course
 -
- Reference: "Badet T, Peyraud R, Mbengue M, Navaud O, Derbyshire M, Oliver RP, Barbacci A, Raffaele S (2017) Codon optimization underpins generalist parasitism in fungi. Elife 6:e22472"
+ Reference: "Badet T, Peyraud R, Mbengue M, Navaud O, Derbyshire M, Oliver RP, Barbacci A, Raffaele S (2017) Codon optimization underpins generalist parasitism in fungi. ELife 6:e22472"
  Year: 2017
  Type: 2
  URL: https://doi.org/10.7554/eLife.22472
@@ -127,7 +127,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Bergmann FT, Hoops S, Klahn B, Kummer U, Mendes P, Pahle J, Sahle S (2017) COPASI and its applications in biotechnology. Journal of biotechnology 261:215–220"
+ Reference: "Bergmann FT, Hoops S, Klahn B, Kummer U, Mendes P, Pahle J, Sahle S (2017) COPASI and its applications in biotechnology. Journal of Biotechnology 261:215–220"
  Year: 2017
  Type: 3
  URL: https://doi.org/10.1016/j.jbiotec.2017.06.1200
@@ -165,7 +165,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Bleicken S, Hantusch A, Das KK, Frickey T, Garcia-Saez AJ (2017) Quantitative interactome of a membrane Bcl-2 network identifies a hierarchy of complexes for apoptosis regulation. Nature communications 8:73"
+ Reference: "Bleicken S, Hantusch A, Das KK, Frickey T, Garcia-Saez AJ (2017) Quantitative interactome of a membrane Bcl-2 network identifies a hierarchy of complexes for apoptosis regulation. Nature Communications 8:73"
  Year: 2017
  Type: 2
  URL: https://doi.org/10.1038/s41467-017-00086-6
@@ -439,7 +439,7 @@
  Methods:
   - mass conservation analysis
 -
- Reference: "Guimera AM, Welsh CM, Proctor CJ, McArdle A, Shanley DP (2017) ‘Molecular habituation’ as a potential mechanism of gradual homeostatic loss with age. Mechanisms of ageing and development"
+ Reference: "Guimera AM, Welsh CM, Proctor CJ, McArdle A, Shanley DP (2017) ‘Molecular habituation’ as a potential mechanism of gradual homeostatic loss with age. Mechanisms of Ageing and Development 169:53-62"
  Year: 2017
  URL: https://doi.org/10.1016/j.mad.2017.11.010
  Type: 2
@@ -591,7 +591,7 @@
  Methods:
   - Elementary Flux Modes
 -
- Reference: "Jaraíz M, Enríquez L, Pinacho R, Rubio JE, Lesarri A, López-Pérez JL (2017) A DFT-Based Computational-Experimental Methodology for Synthetic Chemistry: Example of Application to the Catalytic Opening of Epoxides by Titanocene. The Journal of Organic Chemistry 82:3760–3766"
+ Reference: "Jaraíz M, Enríquez L, Pinacho R, Rubio JE, Lesarri A, López-Pérez JL (2017) A DFT-Based Computational-Experimental Methodology for Synthetic Chemistry: Example of Application to the Catalytic Opening of Epoxides by Titanocene. Journal of Organic Chemistry 82:3760–3766"
  Year: 2017
  Type: 2
  URL: https://doi.org/10.1021/acs.joc.7b00220
@@ -688,7 +688,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Kaushik AC, Kumar A, Dwivedi VD, Bharadwaj S, Kumar S, Bharti K, Kumar P, Chaudhary RK, Mishra SK (2017) Deciphering the Biochemical Pathway and Pharmacokinetic Study of Amyloid βeta-42 with Superparamagnetic Iron Oxide Nanoparticles (SPIONs) Using Systems Biology Approach. Molecular Neurobiology"
+ Reference: "Kaushik AC, Kumar A, Dwivedi VD, Bharadwaj S, Kumar S, Bharti K, Kumar P, Chaudhary RK, Mishra SK (2017) Deciphering the Biochemical Pathway and Pharmacokinetic Study of Amyloid βeta-42 with Superparamagnetic Iron Oxide Nanoparticles (SPIONs) Using Systems Biology Approach. Molecular Neurobiology 55:3224–3236"
  Year: 2017
  URL: https://doi.org/10.1007/s12035-017-0546-y
  Keywords:
@@ -718,7 +718,7 @@
  Methods:
   - optimization
 -
- Reference: "Korman TP, Opgenorth PH, Bowie JU (2017) A synthetic biochemistry platform for cell free production of monoterpenes from glucose. Nature communications 8:15526"
+ Reference: "Korman TP, Opgenorth PH, Bowie JU (2017) A synthetic biochemistry platform for cell free production of monoterpenes from glucose. Nature Communications 8:15526"
  Year: 2017
  Type: 2
  URL: https://doi.org/10.1038/ncomms15526
@@ -765,7 +765,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Madec M, Lallement C, Haiech J (2017) Modeling and simulation of biological systems using SPICE language. PloS one 12:e0182385"
+ Reference: "Madec M, Lallement C, Haiech J (2017) Modeling and simulation of biological systems using SPICE language. PloS One 12:e0182385"
  Year: 2017
  URL: https://doi.org/10.1371/journal.pone.0182385
  Type: 3
@@ -830,7 +830,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Millard P, Smallbone K, Mendes P (2017) Metabolic regulation is sufficient for global and robust coordination of glucose uptake, catabolism, energy production and growth in Escherichia coli. PLoS computational biology 13:e1005396"
+ Reference: "Millard P, Smallbone K, Mendes P (2017) Metabolic regulation is sufficient for global and robust coordination of glucose uptake, catabolism, energy production and growth in Escherichia coli. PLoS Computational Biology 13:e1005396"
  Year: 2017
  URL: https://doi.org/10.1371/journal.pcbi.1005396
  Type: 2
@@ -1059,7 +1059,7 @@
  Methods:
   - time course
 -
- Reference: "Stalidzans E, Mozga I, Sulins J, Zikmanis P (2017) Search for a Minimal Set of Parameters by Assessing the Total Optimization Potential for a Dynamic Model of a Biochemical Network. IEEE/ACM transactions on computational biology and bioinformatics 14:978–985"
+ Reference: "Stalidzans E, Mozga I, Sulins J, Zikmanis P (2017) Search for a Minimal Set of Parameters by Assessing the Total Optimization Potential for a Dynamic Model of a Biochemical Network. IEEE/ACM Transactions on Computational Biology and Bioinformatics 14:978–985"
  Year: 2017 
  URL: https://doi.org/10.1109/TCBB.2016.2550451
  Type: 3
@@ -1182,7 +1182,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Torbensen K, Ristori S, Rossi F, Abou-Hassan A (2017) Tuning the Chemical Communication of Oscillating Microdroplets by Means of Membrane Composition. The Journal of Physical Chemistry C 121:13256–13264"
+ Reference: "Torbensen K, Ristori S, Rossi F, Abou-Hassan A (2017) Tuning the Chemical Communication of Oscillating Microdroplets by Means of Membrane Composition. Journal of Physical Chemistry C 121:13256–13264"
  Year: 2017
  URL: https://doi.org/10.1021/acs.jpcc.7b04615
  Type: 2
@@ -1243,7 +1243,7 @@
  Methods:
   - time course
 -
- Reference: "Wang H, Ray JCJ (2017) Dynamical predictors of an imminent phenotypic switch in bacteria. Physical biology 14:045007"
+ Reference: "Wang H, Ray JCJ (2017) Dynamical predictors of an imminent phenotypic switch in bacteria. Physical Biology 14:045007"
  Year: 2017
  Type: 2
  URL: https://doi.org/10.1088/1478-3975/aa7870
@@ -1600,7 +1600,7 @@
  Methods:
   - sensitivity analysis
 -
- Reference: "Dubey BN, Lori C, Ozaki S, Fucile G, Plaza-Menacho I, Jenal U, Schirmer T (2016) Cyclic di-GMP mediates a histidine kinase/phosphatase switch by noncovalent domain cross-linking. Science advances 2:e1600823"
+ Reference: "Dubey BN, Lori C, Ozaki S, Fucile G, Plaza-Menacho I, Jenal U, Schirmer T (2016) Cyclic di-GMP mediates a histidine kinase/phosphatase switch by noncovalent domain cross-linking. Science Advances 2:e1600823"
  Year: 2016
  URL: https://doi.org/10.1126/sciadv.1600823
  Type: 2
@@ -1627,7 +1627,7 @@
  Funding:
   - University of Wisconsin
 -
- Reference: "Froese RD, Whiteker GT, Peterson TH, Arriola DJ, Renga JM, Shearer JW (2016) Computational and Experimental Studies of Regioselective SNAr Halide Exchange (Halex) Reactions of Pentachloropyridine. The Journal of Organic Chemistry 81:10672–10682"
+ Reference: "Froese RD, Whiteker GT, Peterson TH, Arriola DJ, Renga JM, Shearer JW (2016) Computational and Experimental Studies of Regioselective SNAr Halide Exchange (Halex) Reactions of Pentachloropyridine. Journal of Organic Chemistry 81:10672–10682"
  Year: 2016
  URL: https://doi.org/10.1021/acs.joc.6b01656
  Type: 2
@@ -1833,7 +1833,7 @@
   - NIH
   - DFG
 -
- Reference: "Kilner J, Corfe BM, McAuley MT, Wilkinson SJ (2016) A deterministic oscillatory model of microtubule growth and shrinkage for differential actions of short chain fatty acids. Mol. BioSystems 12:93-101"
+ Reference: "Kilner J, Corfe BM, McAuley MT, Wilkinson SJ (2016) A deterministic oscillatory model of microtubule growth and shrinkage for differential actions of short chain fatty acids. Molecular BioSystems 12:93-101"
  Year: 2016
  URL: https://doi.org/10.1039/C5MB00211G
  Keywords:
