@@ -4798,7 +4798,7 @@
   - Ministry of Education of Saxony-Anhalt
   - International Max Planck Research School (IMPRS) Magdeburg for Advanced Methods in Process and Systems Engineering
 -
- Reference: "Tunnicliffe RB, Hautbergue GM, Wilson SA, Kalra P, Golovanov AP (2014) Competitive and Cooperative Interactions Mediate RNA Transfer from Herpesvirus Saimiri ORF57 to the Mammalian Export Adaptor ALYREF. PLOS Pathogens 10(2): e1003907."
+ Reference: "Tunnicliffe RB, Hautbergue GM, Wilson SA, Kalra P, Golovanov AP (2014) Competitive and Cooperative Interactions Mediate RNA Transfer from Herpesvirus Saimiri ORF57 to the Mammalian Export Adaptor ALYREF. PLOS Pathogens 10:e1003907"
  Year: 2014
  URL: https://doi.org/10.1371/journal.ppat.1003907
  Keywords:
@@ -8176,16 +8176,17 @@
   - University of Glasgow, Glasgow, UK
   - Johns Hopkins University, Baltimore MD, USA
 -
- Reference: "Klipp E, Liebermeister W, Helbig A, Kowald A, Schaber J (2007) Standards in computational systems biology. "
+ Reference: "Klipp E, Liebermeister W, Helbig A, Kowald A, Schaber J (2007) Systems biology standards - The community speaks. Nature Biotechnology 25:390-1"
  Year: 2007
- URL: http://www.ebi.ac.uk/compneur-srv/biomodels/doc/KlippSurvey.pdf
+ URL: https://doi.org/10.1038/nbt0407-390
  Keywords:
+  - Computational Methods
  Type: 3
  Locations:
   - Ruhr University Bochum, Bochum, Germany
   - Humboldt-University of Berlin, Berlin, Germany
  Funding:
-  - "the European Community to E.K.: the Yeast Systems Biology Network (YSBN, EU-Project No FP6-2004-LSH-5 # 018942), EMICD (EU-Project No 503269), QUASI (EU-Project No LSHG-CT2003-530203) and ENFIN (EU-Project No LSHG-CT-2005-518254)"
+  - EU FP6
 -
  Reference: "Kummer U, Zobeley J, Brasen JC, Fahmy R, Kindzelskii AL, Petty AR, Clark AJ, Petty HR (2007) Elevated Glucose Concentrations Promote Receptor-Independent Activation of Adherent Human Neutrophils: An Experimental and Computational Approach. Biophysical Journal 92:2597-2607"
  Year: 2007
