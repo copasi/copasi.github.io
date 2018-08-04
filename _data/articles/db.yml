@@ -6405,7 +6405,7 @@
   - sensitivity analysis
   - parameter estimation
 -
- Reference: "Piras V, Hayashi K, Tomita M, Selvarajoo K (2012) Investigation of stochasticity in TRAIL signaling cancer model. IEEE 609-614."
+ Reference: "Piras V, Hayashi K, Tomita M, Selvarajoo K (2012) Investigation of stochasticity in TRAIL signaling cancer model. Proceedings of the 2012 ICME International Conference on Complex Medical Engineering (CME) 609-614."
  Year: 2012
  URL: https://doi.org/10.1109/ICCME.2012.6275648
  Keywords:
@@ -7153,7 +7153,7 @@
  Methods:
   - time course
 -
- Reference: "Baker, S.M., Schallau, K., Junker, B.H. (2010). Comparison of different algorithms for simultaneous estimation of multiple parameters in kinetic metabolic models. Journal of Integrative Bioinformatics 7(3):519-520"
+ Reference: "Baker, S.M., Schallau, K., Junker, B.H. (2010). Comparison of different algorithms for simultaneous estimation of multiple parameters in kinetic metabolic models. Journal of Integrative Bioinformatics 7:519-520"
  Year: 2010
  URL: https://doi.org/10.2390/biecoll-jib-2010-133
  Keywords:
