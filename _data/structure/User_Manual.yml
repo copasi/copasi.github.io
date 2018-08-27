@@ -147,6 +147,8 @@ pages:
   title: "Levenberg - Marquardt"
 - path: Support/User_Manual/Methods/Optimization_Methods/Nelder_-_Mead
   title: "Nelder - Mead"
+- path: Support/User_Manual/Methods/Optimization_Methods/NL2SOL
+  title: "NL2SOL"
 - path: Support/User_Manual/Methods/Optimization_Methods/Particle_Swarm
   title: "Particle Swarm"
 - path: Support/User_Manual/Methods/Optimization_Methods/Praxis
