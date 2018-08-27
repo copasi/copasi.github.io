@@ -1,0 +1,20 @@
+---
+layout: structure
+title: "NL2SOL"
+structure: "User_Manual"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+
+The NL2SOL method is based on an adaptive nonlinear least-squares algorithm, devised by Dennis and colleagues[<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Dennis81/" >Dennis81</a>]. For problems with large number of residuals, this algorithm is known to be more reliable than Gauss-Newton or Levenberg-Marquardt method and more efficient than the secant or variable metric algorithms that are intended for general function minimization. A more complete description of the method can be found in [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Dennis81/" >Dennis81</a>] and [<a title="COPASI: Support/User Manual/Bibliography" href="{{ site.baseurl }}/Support/User_Manual/Bibliography#Dennis81b" >Dennis81b</a>].<br />
+<br />
+This implementation of the NL2SOL method was originally written in FORTRAN by John E. Dennis, Jr. (Rice University), David M. Gay (Massachusetts Institute of Technology) and Roy E. Welsch (Massachusetts Institute of Technology). The original code is available from <a target="_blank" href="http://www.netlib.org/port/index.html" rel="external">http://www.netlib.org/port/</a>). The original code was translated automatically to C by the F2C program from AT&amp;T Bell Labs (available at <a target="_blank" href="http://www.netlib.org/f2c/" rel="external">http://www.netlib.org/f2c/</a> ). The C code was then enhanced to suite COPASI's reentrant optimization method interface.<br />
+<br />
+<h3 name="Options_for_NL2SOL">Options for NL2SOL</h3>
+<dl><dt><b>Iteration Limit</b></dt><dd> This parameter is a positive integer to determine the maximum number of iterations the method is to perform. The default value is '2000'.</dd></dl><br />
+<br />
+  </div>
+</div>
+
+
