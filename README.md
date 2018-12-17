@@ -62,7 +62,7 @@ Each entry in the file must start with a line including only a single '-'. Inden
 <pre>
 -
  Reference: "Diao T, Pun D, Stahl SS (2013) Aerobic Dehydrogenation of Cyclohexanone to Cyclohexenone Catalyzed by Pd(DMSO)2(TFA)2: Evidence for Ligand-Controlled Chemoselectivity. J. Am. Chem. Soc. 135:8205-8212"
- URL: http://dx.doi.org/10.1021/ja4031648 
+ URL: https://doi.org/10.1021/ja4031648 
  Year: 2013
  Keywords:
   - Chemistry
@@ -73,7 +73,7 @@ Each entry in the file must start with a line including only a single '-'. Inden
   - NSF
 -
  Reference: "Firczuk H, Kannambath S, Pahle J, Claydon A, Beynon R, Duncan J, Westerhoff H, Mendes P, McCarthy JEG (2013) An in vivo control map for the eukaryotic mRNA translation machinery. Molecular Systems Biology 9:635"
- URL: http://dx.doi.org/10.1038/msb.2012.73
+ URL: https://doi.org/10.1038/msb.2012.73
  Year: 2013
  Keywords:
   - Macromolecular biochemistry
