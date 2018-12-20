@@ -15,6 +15,23 @@
   - time course
   - parameter estimation
 -
+ Reference: "Maiorov AS, Shepelyuk TO, Balabin FA, Martyanov AA, Nechipurenko DY, Sveshnikova AN (2018) Modeling of Granule Secretion upon Platelet Activation through the TLR4-Receptor. Biophysics 63:357–364"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1134/S0006350918030144
+ Keywords:
+  - Signaling
+  - Immunology
+ Locations:
+  - Moscow State University, Moscow, 119991 Russia
+  - Center for Theoretical Problems of Physicochemical Pharmacology, Russian Academy of Sciences, Moscow, 119991 Russia
+  - National Medical Research Center of Pediatric Hematology, Oncology, and Immunology, Moscow, 117197 Russia
+ Funding:
+  - Russian Foundation for Basic Research
+  - President of the Russian Federation
+ Methods:
+  - time course
+-
  Reference: "Agrawal R, Kalmady SV, Venkatasubramanian G (2017) In Silico Model-driven Assessment of the Effects of Brain-derived Neurotrophic Factor Deficiency on Glutamate and Gamma-Aminobutyric Acid: Implications for Understanding Schizophrenia Pathophysiology. Clinical Psychopharmacology and Neuroscience 15:115"
  Year: 2017
  URL: https://doi.org/10.9758/cpn.2017.15.2.115
@@ -110,6 +127,20 @@
   - Curtin University
  Methods:
   - time course
+-
+ Reference: "Barry JK (2017) Mathematical Modelling of the HIV Life Cycle: Identifying Optimal Treatment Strategies. PhD Thesis, Universitätsmedizin der Ernst-Moritz-Arndt-Universität Greifswald."
+ Year: 2017
+ Type: 2
+ URL: https://nbn-resolving.org/urn:nbn:de:gbv:9-opus-21088
+ Keywords:
+  - Microbiology
+  - Immunology
+ Locations:
+  - Universitätsmedizin der Ernst-Moritz-Arndt-Universität, Franz-Mehring-Strasse 47, 17489 Greifswald, Germany
+ Methods:
+  - time course
+  - parameter estimation
+  - stochastic simulation
 -
  Reference: "Baumgart L, Mather W, Hasty J (2017) Synchronized DNA cycling across a bacterial population. Nature Genetics 49:1282–128"
  Year: 2017
