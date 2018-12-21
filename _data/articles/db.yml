@@ -32,6 +32,53 @@
  Methods:
   - time course
 -
+ References: "Yu Y, Rebek Jr J (2018) Reactions of Folded Molecules in Water. Accounts of Chemical Research 51:3031–3040"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1021/acs.accounts.8b00269
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Shanghai University, 99 Shang-Da Road, Shanghai 200444, China
+  - The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, California 92037, USA
+ Funding:
+  - NSF
+  - Thousand Talents Program of China
+ Methods:
+  - parameter estimation
+-
+ Reference: "Zhou Q (2018) Kinetic Modeling of Inhibitor Effects on Butanol Synthesis by Clostridium saccharoperbutylacetonicum. PhD Thesis, North Carolina State University"
+ Year: 2018
+ Type: 2
+ URL: http://www.lib.ncsu.edu/resolver/1840.20/35733
+ Locations:
+  - North Carolina State University, Raleigh, North Carolina, 27695 USA
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Funding:
+  - USDA 
+ Methods:
+  - time course
+  - parameter estimation
+  - parameter scan
+-
+ Reference: "Zhou Q, Liu Y, Yuan W (2018) Kinetic modeling of lactic acid and acetic acid effects on butanol fermentation by Clostridium saccharoperbutylacetonicum. Fuel 226:181–189"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1016/j.fuel.2018.04.019
+ Locations:
+  - North Carolina State University, Raleigh, North Carolina, 27695 USA
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Funding:
+  - USDA
+ Methods:
+  - time course
+  - parameter estimation
+  - parameter scan
+-
  Reference: "Zhou Q, Zheng H, Yuan W (2018) Modeling Butanol Synthesis in Xylose by Clostridium saccharoperbutylacetonicum. BioResources 13:7270–7280"
  Year: 2018
  Type: 2
