@@ -32,6 +32,23 @@
  Methods:
   - time course
 -
+ Reference: "Woo SS, Kim J, Sarpeshkar R (2018) A Digitally Programmable Cytomorphic Chip for Simulation of Arbitrary Biochemical Reaction Networks. IEEE Transactions on Biomedical Circuits and Systems 12:360–378"
+ Year: 2018
+ Type: 3
+ URL: https://doi.org/10.1109/TBCAS.2017.2781253
+ Keywords:
+  - Computational Method
+ Locations:
+  - Massachusetts Institute of Technology, Cambridge, MA, USA
+  - Dartmouth College, Hanover, NH, USA
+ Funding:
+  - NIH
+  - NSF
+  - MIT 
+  - Dartmouth College
+ Methods:
+  - time course
+-
  Reference: "Ximing L (2018) Insights into Delivery of Somatic Calcium Signals to the Nucleus During LTP Revealed by Computational Modeling. PhD Thesis, Ohio University"
  Year: 2018
  Type: 2
@@ -97,7 +114,7 @@
  Methods:
   - time course
 -
- References: "Yu Y, Rebek Jr J (2018) Reactions of Folded Molecules in Water. Accounts of Chemical Research 51:3031–3040"
+ Reference: "Yu Y, Rebek Jr J (2018) Reactions of Folded Molecules in Water. Accounts of Chemical Research 51:3031–3040"
  Year: 2018
  Type: 2
  URL: https://doi.org/10.1021/acs.accounts.8b00269
