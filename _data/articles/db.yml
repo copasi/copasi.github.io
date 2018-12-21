@@ -32,6 +32,22 @@
  Methods:
   - time course
 -
+ Reference: "Winter F, Bludszuweit-Philipp C, Wolkenhauer O (2018) Mathematical analysis of the influence of brain metabolism on the BOLD signal in Alzheimer’s disease. Journal of Cerebral Blood Flow & Metabolism 38:304–316"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1177/0271678X17693024
+ Keywords:
+  - Physiology
+ Locations:
+  - Advanced Simulation and Design GmbH, Rostock, Germany
+  - Department of Systems Biology and Bioinformatics, Rostock University, Rostock, Germany
+  - Wallenberg Research Centre at Stellenbosch University, Stellenbosch, South Africa
+ Funding:
+  - EU FP7
+ Methods:
+  - time course
+  - sensitivity analysis
+-
  Reference: "Woller A, Gonze D (2018) Modeling clock-related metabolic syndrome due to conflicting light and food cues. Scientific reports 8:13641"
  Year: 2018
  Type: 2
