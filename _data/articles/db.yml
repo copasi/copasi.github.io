@@ -32,6 +32,40 @@
  Methods:
   - time course
 -
+ Reference: "Xu H, Curtis TY, Powers SJ, Raffan S, Gao R, Huang J, Heiner M, Gilbert DR, Halford NG (2018) Genomic, biochemical and modelling analyses of asparagine synthetases from wheat. Frontiers in Plant Science 8:2237"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.3389/fpls.2017.02237
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Biotechnology Research Institute, Shanghai Academy of Agricultural Sciences, Shanghai, China
+  - Rothamsted Research, Harpenden, United Kingdom
+  - Brandenburg University of Technology Cottbus-Senftenberg, Cottbus, Germany
+  - Brunel University London, Uxbridge, United Kingdom
+ Funding:
+  - Shanghai Agriculture Applied Technology Development Program, China
+  - Shanghai Academy of Agricultural Sciences, Shanghai, China
+  - BBSRC
+ Methods:
+  - parameter estimation
+-
+ Reference: "Yeom K-H, Mitchell S, Linares AJ, Zheng S, Lin C-H, Wang X-J, Hoffmann A, Black DL (2018) Polypyrimidine tract-binding protein blocks miRNA-124 biogenesis to enforce its neuronal-specific expression in the mouse. Proceedings of the National Academy of Sciences 115:E11061–E11070"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1073/pnas.1809609115
+ Locations:
+  - University of California, Los Angeles, CA 90095, USA
+ Keywords:
+  - Genetics
+  - Biochemistry
+ Funding:
+  - NIH
+  - University of California, Los Angeles
+ Methods:
+  - parameter estimation
+  - parameter scan
+-
  Reference: "Yeung HH-M, Sapnik AF, Massingberd-Mundy F, Gaultois MW, Wu Y, Fraser DX, Henke S, Pallach R, Heidenreich N, Magdysyuk O, Vo NT, Goodwin AL (2018) Control of Metal–Organic Framework Crystallization by Metastable Intermediate Pre-equilibrium Species. Angewandte Chemie International Edition doi:10.1002/anie.201810039"
  Year: 2018
  Type: 2 
@@ -91,6 +125,7 @@
  Keywords:
   - Metabolism
   - Microbiology
+  - Biotechnology
  Funding:
   - USDA
  Methods:
@@ -1399,24 +1434,6 @@
   - EU FP7
  Methods:
   - time course
--
- Reference: "Xu H, Curtis TY, Powers SJ, Raffan S, Gao R, Huang J, Heiner M, Gilbert DR, Halford NG (2017) Genomic, biochemical and modelling analyses of asparagine synthetases from wheat. Frontiers in Plant Science 8:2237"
- Year: 2017
- Type: 2
- URL: https://doi.org/10.3389/fpls.2017.02237
- Keywords:
-  - Biochemistry
- Locations:
-  - Biotechnology Research Institute, Shanghai Academy of Agricultural Sciences, Shanghai, China
-  - Rothamsted Research, Harpenden, United Kingdom
-  - Brandenburg University of Technology Cottbus-Senftenberg, Cottbus, Germany
-  - Brunel University London, Uxbridge, United Kingdom
- Funding:
-  - Shanghai Agriculture Applied Technology Development Program, China
-  - Shanghai Academy of Agricultural Sciences, Shanghai, China
-  - BBSRC
- Methods:
-  - parameter estimation
 -
  Reference: "Zaccarin M, Bosello-Travain V, Di Paolo ML, Falda M, Maiorino M, Miotto G, Piccolo S, Roveri A, Ursini F, Venerando R, Toppo S (2017) Redox status in a model of cancer stem cells. Archives of Biochemistry and Biophysics 617:120–128"
  Year: 2017
