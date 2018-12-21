@@ -32,6 +32,23 @@
  Methods:
   - time course
 -
+ Reference: "Zhou Q, Zheng H, Yuan W (2018) Modeling Butanol Synthesis in Xylose by Clostridium saccharoperbutylacetonicum. BioResources 13:7270–7280"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.15376/biores.13.4.7270-7280
+ Locations:
+  - North Carolina State University, Raleigh, North Carolina, 27695 USA
+  - Zhejiang Agricultural and Forestry University, Hangzhou, Zhejiang 311300, China
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Funding:
+  - USDA
+ Methods:
+  - time course
+  - parameter estimation
+  - parameter scan
+-
  Reference: "Agrawal R, Kalmady SV, Venkatasubramanian G (2017) In Silico Model-driven Assessment of the Effects of Brain-derived Neurotrophic Factor Deficiency on Glutamate and Gamma-Aminobutyric Acid: Implications for Understanding Schizophrenia Pathophysiology. Clinical Psychopharmacology and Neuroscience 15:115"
  Year: 2017
  URL: https://doi.org/10.9758/cpn.2017.15.2.115
@@ -1321,6 +1338,8 @@
  Year: 2017
  Type: 2
  URL: https://doi.org/10.3389/fpls.2017.02237
+ Keywords:
+  - Biochemistry
  Locations:
   - Biotechnology Research Institute, Shanghai Academy of Agricultural Sciences, Shanghai, China
   - Rothamsted Research, Harpenden, United Kingdom
