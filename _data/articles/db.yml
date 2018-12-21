@@ -32,6 +32,16 @@
  Methods:
   - time course
 -
+ Reference: "Wei Y, Mayoral-Delgado I, Stewart NA, Dymond MK (2018) Macromolecular crowding and membrane binding proteins: the case of phospholipase A1. Chemistry and Physics of Lipids 218:91–102"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1016/j.chemphyslip.2018.12.006
+ Keywords:
+  - Biohemistry
+  - Biophysics
+ Locations:
+  - Division of Chemistry, School of Pharmacy and Biological Sciences, University of Brighton, BN2 4GL, UK
+-
  Reference: "Welsh CM, Fullard N, Proctor CJ, Martinez-Guimera A, Isfort RJ, Bascom CC, Tasseff R, Przyborski SA, Shanley DP (2018) PyCoTools: A Python Toolbox for COPASI. Bioinformatics 34:3702–3710"
  Year: 2018
  Type: 3
