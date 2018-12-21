@@ -32,6 +32,24 @@
  Methods:
   - time course
 -
+ Reference: "Welsh CM, Fullard N, Proctor CJ, Martinez-Guimera A, Isfort RJ, Bascom CC, Tasseff R, Przyborski SA, Shanley DP (2018) PyCoTools: A Python Toolbox for COPASI. Bioinformatics 34:3702–3710"
+ Year: 2018
+ Type: 3
+ URL: https://doi.org/10.1093/bioinformatics/bty409
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  - Newcastle University, Newcastle, UK
+  - Durham University, Durham, UK
+  - The Proctor & Gamble Company, Cincinnati, USA
+ Funding:
+  - Procter & Gamble
+  - MRC
+  - Arthritis Research UK
+ Methods:
+  - API
+-
  Reference: "Weyder M, Prudhomme M, Bergé M, Polard P, Fichant G (2018) Dynamic modeling of Streptococcus pneumoniae competence provides regulatory mechanistic insights into its tight temporal regulation. Frontiers in Microbiology 9:1637"
  Year: 2018
  Type: 2
