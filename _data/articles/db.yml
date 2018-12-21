@@ -32,6 +32,21 @@
  Methods:
   - time course
 -
+ Reference: "Weyder M, Prudhomme M, Bergé M, Polard P, Fichant G (2018) Dynamic modeling of Streptococcus pneumoniae competence provides regulatory mechanistic insights into its tight temporal regulation. Frontiers in Microbiology 9:1637"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.3389/fmicb.2018.01637
+ Keywords:
+  - Microbiology
+ Locations:
+  - Université de Toulouse, CNRS, Université Toulouse III Paul Sabatier, Toulouse, France
+ Funding:
+  - CNRS
+  - "Ministère de l'Enseignement Supérieur et de la Recherche"
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Wiebe HA (2018) Mechanistic applications of volume profiles for chemical and biochemical processes. PhD Thesis, Simon Fraser University"
  Year: 2018
  Type: 2
