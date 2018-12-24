@@ -32,6 +32,21 @@
  Methods:
   - time course
 -
+ Reference: "Orrico F, Möller MN, Cassina A, Denicola A, Thomson L (2018) Kinetic and stoichiometric constraints determine the pathway of H2O2 consumption by red blood cells. Free Radical Biology and Medicine 121:231–239"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1016/j.freeradbiomed.2018.05.006
+ Keywords:
+  - Metabolism
+ Locations:
+  - Facultad de Ciencias, Universidad de la República, 11400 Montevideo, Uruguay
+  - Facultad de Medicina, Universidad de la República, 11100 Montevideo, Uruguay
+ Funding:
+  - CSIC, Uruguay
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Parmar JH, Quintana J, Ramírez D, Laubenbacher R, Argüello JM, Mendes P (2018) An important role for periplasmic storage in Pseudomonas aeruginosa copper homeostasis revealed by a combined experimental and computational modeling study. Molecular Microbiology 110:357–369"
  Year: 2018
  Type: 2
