@@ -15,6 +15,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Macaranas JA, Luke AM, Mandal M, Neisen BD, Marell DJ, Cramer CJ, Tolman WB (2018) Sterically Induced Ligand Framework Distortion Effects on Catalytic Cyclic Ester Polymerizations. Inorganic Chemistry 57:3451–3457"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1021/acs.inorgchem.8b00250
+ Keywords:
+  - Chemistry
+ Locations:
+  - University of Minnesota, 207 Pleasant St. SE, Minneapolis, Minnesota 55455, United States
+ Funding:
+  - NSF
+  - NIH
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Maiorov AS, Shepelyuk TO, Balabin FA, Martyanov AA, Nechipurenko DY, Sveshnikova AN (2018) Modeling of Granule Secretion upon Platelet Activation through the TLR4-Receptor. Biophysics 63:357–364"
  Year: 2018
  Type: 2
@@ -29,6 +44,25 @@
  Funding:
   - Russian Foundation for Basic Research
   - President of the Russian Federation
+ Methods:
+  - time course
+-
+ Reference: "Maldonado EM, Fisher CP, Mazzatti DJ, Barber AL, Tindall MJ, Plant NJ, Kierzek AM, Moore JB (2018) Multi-scale, whole-system models of liver metabolic adaptation to fat and sugar in non-alcoholic fatty liver disease. NPJ Systems Biology and Applications 4:33"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1038/s41540-018-0070-3
+ Keywords:
+  - Metabolism
+ Locations:
+  - School of Biosciences and Medicine, University of Surrey, Guildford, Surrey, GU2 7XH, UK
+  - Certara UK Limited, Simcyp Division, Level 2-Acero, 1 Concourse Way, Sheffield, S1 2BJ, UK
+  - Proctor & Gamble, Cincinnati, OH 45224 USA
+  - Department of Mathematics and Statistics, University of Reading, Berkshire, RG6 6AX, UK
+  - Institute of Cardiovascular and Metabolic Research, University of Reading, Berkshire, RG6 6UR UK
+  - Faculty of Biological Sciences, University of Leeds, Leeds, West Yorkshire, LS2 9JT UK
+ Funding:
+  - BBSRC
+  - Breast Cancer Now
  Methods:
   - time course
 -
