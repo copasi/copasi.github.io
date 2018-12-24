@@ -32,6 +32,36 @@
  Methods:
   - time course
 -
+ Reference: "Parmar JH, Quintana J, Ramírez D, Laubenbacher R, Argüello JM, Mendes P (2018) An important role for periplasmic storage in Pseudomonas aeruginosa copper homeostasis revealed by a combined experimental and computational modeling study. Molecular Microbiology 110:357–369"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1111/mmi.14086
+ Keywords:
+  - Microbiology
+ Locations:
+  - Center for Quantitative Medicine, University of Connecticut School of Medicine, 195 Farmington Av., Farmington, CT 06030, USA
+  - Jackson Laboratory for Genomic Medicine, Farmington, CT 06032, USA
+  - Department of Chemistry and Biochemistry, Worcester Polytechnic Institute, Worcester, MA 01609, USA
+ Funding:
+  - NIH
+ Methods:
+  - parameter estimation
+  - time course
+-
+ Reference: "Rad M, Cui J, McCabe M, Pan K, others (2018) A Mobile-Based Diet Monitoring System for Obesity Management. Journal of Health & Medical Informatics 9:307"
+ Year: 2018
+ Type: 3
+ URL: https://doi.org/10.4172/2157-7420.1000307
+ Locations:
+  - University of Nebraska, Lincoln, Nebraska, USA
+  - Department of Computer Science, McGill University, Montreal, Canada
+ Keywords:
+  - laboratory method
+ Funding:
+  - NIH
+  - University of Nebraska Lincoln Food for Health seed grant
+  - Tobacco Settlement Fund 
+-
  Reference: "Revell J, Zuliani P (2018) Stochastic Rate Parameter Inference Using the Cross-Entropy Method.  In: Češka M., Šafránek D. (eds) Computational Methods in Systems Biology. CMSB2018. Lecture Notes in Computer Science, vol 11095. Springer, Cham pp.146–164"
  Year: 2018
  Type: 3
