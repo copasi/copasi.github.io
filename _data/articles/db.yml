@@ -285,6 +285,24 @@
   - optimization
   - stochastic simulation
 -
+ Reference: "Semenov SN, Ainla A, Skorb EV, Postma SG (2018) Four-Variable Model of an Enzymatic Oscillator Based on Trypsin. Israel Journal of Chemistry 58:781–786"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1002/ijch.201700146
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, MA 02138, USA
+  - Institute for Molecules and Materials, Radboud University Nijmegen, Heyendaalseweg 135, 6525 AJ Nijmegen, The Netherlands
+  - Department of Organic Chemistry, Weizmann Institute of Science, Rehovot 76100, Israel
+  - International Iberian Nanotechnology Laboratory (INL), Avenida Mestre José Veiga, 4715-330 Braga, Portugal
+  - SCAMT Laboratory, ITMO University, St. Petersburg 197101, Russian Federation
+ Funding:
+  - RSCF
+  - ITMO University
+ Methods:
+  - time course
+-
  Reference: "Silva E, Martin R, Pomuceno J, Mansilla R, Betancourt-Mar J, Cocho G, Nieto-Villar J (2018) Dose and frequency in cancer therapy. Theoretical non-autonomous model of p53 network. Biological Rhythm Research doi:10.1080/09291016.2018.1465697"
  Year: 2018
  Type: 2
