@@ -15,6 +15,24 @@
   - time course
   - parameter estimation
 -
+ Reference: "Kim J, Woo SS, Sarpeshkar R (2018) Fast and precise emulation of stochastic biochemical reaction networks with amplified thermal noise in silicon chips. IEEE Transactions on Biomedical Circuits and Systems 12:379–389"
+ Year: 2018
+ Type: 3
+ URL: https://doi.org/10.1109/TBCAS.2017.2786306
+ Keywords:
+  - Computational Method
+ Locations:
+  - Massachusetts Institute of Technology, Cambridge, MA, USA
+  - Dartmouth College, Hanover, NH, USA
+ Funding:
+  - NIH
+  - NSF
+  - Korea Foundation for Advanced Studies
+  - MIT 
+  - Dartmouth College
+ Methods:
+  - stochastic simulation
+-
  Reference: "Kleppe R, Jonassen I, Døskeland SO, Selheim F (2018) Mathematical Modelling of Nitric Oxide/Cyclic GMP/Cyclic AMP Signalling in Platelets. International Journal of Molecular Sciences 19:612"
  Year: 2018
  Type: 2
