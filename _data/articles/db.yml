@@ -15,6 +15,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Johnson HC, Cueny ES, Landis CR (2018) Chain Transfer with Dialkyl Zinc During Hafnium–Pyridyl Amido-Catalyzed Polymerization of 1-Octene: Relative Rates, Reversibility, and Kinetic Models. ACS Catalysis 8:4178–4188"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1021/acscatal.8b00524
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of Wisconsin—Madison, 1101 University Avenue, Madison, Wisconsin 53706, USA
+ Funding:
+  - The Dow Chemical Company
+  - NSF
+  - Paul and Margaret Bender Fund
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Jones Jr TC, Hoops S, Watson LT, Palmisano A, Tyson JJ, Shaffer CA (2018) JigCell Model Connector: building large molecular network models from components. SIMULATION 94:993–1008"
  Year: 2018
  Type: 3
