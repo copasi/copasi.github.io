@@ -15,6 +15,23 @@
   - time course
   - parameter estimation
 -
+ Reference: "Kleppe R, Jonassen I, Døskeland SO, Selheim F (2018) Mathematical Modelling of Nitric Oxide/Cyclic GMP/Cyclic AMP Signalling in Platelets. International Journal of Molecular Sciences 19:612"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.3390/ijms19020612
+ Keywords:
+  - Signaling
+ Locations:
+  - Department of Informatics, University of Bergen, Thormøhlensgate 55, 5008 Bergen, Norway
+  - Department of Biomedicine, University of Bergen, Jonas Lies vei 91, 5020 Bergen, Norway
+ Funding:
+  - University of Bergen
+  - Research Council of Norway 
+  - Western Norwegian Health Authorities
+ Methods:
+  - steady state
+  - parameter scan
+-
  Reference: "Kwon JS, Wang X, Yao G (2018) Study Quiescence Heterogeneity by Coupling Single-Cell Measurements and Computer Modeling. In: Lacorazza H. (eds) Cellular Quiescence. Methods in Molecular Biology, vol 1686. Humana Press, New York, NY, pp. 287–299"
  Year: 2018
  Type: 2
