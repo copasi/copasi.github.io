@@ -15,6 +15,23 @@
   - time course
   - parameter estimation
 -
+ Reference: "Kaushik AC, Kumar A, Dwivedi VD, Bharadwaj S, Kumar S, Bharti K, Kumar P, Chaudhary RK, Mishra SK (2018) Deciphering the Biochemical Pathway and Pharmacokinetic Study of Amyloid βeta-42 with Superparamagnetic Iron Oxide Nanoparticles (SPIONs) Using Systems Biology Approach. Molecular Neurobiology 55:3224–3236"
+ Year: 2018
+ URL: https://doi.org/10.1007/s12035-017-0546-y
+ Keywords:
+  - Biochemistry
+  - Pharmacology
+  - Laboratory Method
+ Type: 2
+ Locations: 
+  - Gautam Buddha University, Greater Noida, India
+  - Ben-Gurion University of the Negev, Beer-Sheva, Israel
+  - Mahatma Gandhi Chitrakoot Rural University, Chitrakoot, India
+  - Sabanci University, Istanbul, Turkey
+  - CSIR-Central Drug Research Institute, Lucknow, India
+  - Jaypee Institute of Information Technology, Noida, India
+  - Deen Dayal Upadhyay Gorakhpur University, Gorakhpur, India
+-
  Reference: "Khan S, Bhardwaj T, Somvanshi P, Mandal RK, Dar SA, Jawed A, Wahid M, Akhter N, Lohani M, Alouffi S, Haque S (2018) Inhibition of C298S mutant of human aldose reductase for antidiabetic applications: Evidence from in silico elementary mode analysis of biological network model. Journal of Cellular Biochemistry 119:6961–6973"
  Year: 2018
  Type: 2
@@ -1402,23 +1419,6 @@
   - Fulbright Program
  Methods:
   - parameter estimation
--
- Reference: "Kaushik AC, Kumar A, Dwivedi VD, Bharadwaj S, Kumar S, Bharti K, Kumar P, Chaudhary RK, Mishra SK (2017) Deciphering the Biochemical Pathway and Pharmacokinetic Study of Amyloid βeta-42 with Superparamagnetic Iron Oxide Nanoparticles (SPIONs) Using Systems Biology Approach. Molecular Neurobiology 55:3224–3236"
- Year: 2017
- URL: https://doi.org/10.1007/s12035-017-0546-y
- Keywords:
-  - Biochemistry
-  - Pharmacology
-  - Laboratory Method
- Type: 2
- Locations: 
-  - Gautam Buddha University, Greater Noida, India
-  - Ben-Gurion University of the Negev, Beer-Sheva, Israel
-  - Mahatma Gandhi Chitrakoot Rural University, Chitrakoot, India
-  - Sabanci University, Istanbul, Turkey
-  - CSIR-Central Drug Research Institute, Lucknow, India
-  - Jaypee Institute of Information Technology, Noida, India
-  - Deen Dayal Upadhyay Gorakhpur University, Gorakhpur, India
 -
  Reference: "Komasilovs V, Pentjuss A, Elsts A, Stalidzans E (2017) Total enzyme activity constraint and homeostatic constraint impact on the optimization potential of a kinetic model. Biosystems 162:128-134"
  Year: 2017
