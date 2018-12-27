@@ -15,6 +15,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Hill DE, Pei Q, Zhang E, Gage JR, Yu J-Q, Blackmond DG (2018) A General Protocol for Addressing Speciation of the Active Catalyst Applied to Ligand-Accelerated Enantioselective C(sp3)–H Bond Arylation. ACS Catalysis 8:1528–1531"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1021/acscatal.8b00103
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, The Scripps Research Institute, La Jolla, California 92037, USA
+  - New Technology Development Laboratory, Asymchem, Inc., 7 Binhai Xinqu, Tianjin 300457, China
+ Funding:
+  - NSF
+ Methods:
+  - time course
+-
  Reference: "Jaime J, Mesa-Álvarez M, Martin R, Betancourt-Mar J, Cocho G, Mansilla R, Nieto-Villar J (2018) Chronotherapy of cancer: periodic perturbations in vascular growth and metastasis. Biological Rhythm Research, doi:10.1080/09291016.2018.1465698"
  Year: 2018
  Type: 2
@@ -22,13 +36,12 @@
  Keywords:
   - Physiology
  Locations:
-  - Department of Chemical-Physics, Faculty of Chemistry, University of Havana, Havana, Cuba
+  - University of Havana, Havana, Cuba
   - Mexican Institute of Complex Systems, Tamaulipas, Mexico
   - Instituto de Física de la UNAM, Mexico City, Mexico
   - Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades, UNAM, Mexico City, Mexico
  Funding:
-  - CEIICH
-  - Institute of Physics of the UNAM, Mexico 
+  - UNAM, Mexico 
  Methods:
   - time course
   - Lyapunov exponents
