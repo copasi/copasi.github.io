@@ -15,6 +15,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Gupta A, Mendes P (2018) An overview of network-based and-free approaches for stochastic simulation of biochemical systems. Computation 6:9"
+ Year: 2018
+ Type: 3
+ URL: https://doi.org/10.3390/computation6010009
+ Keywords:
+  - Computational Method
+ Locations:
+  - Center for Quantitative Medicine, Uconn Health, 195 Farmington Av., Farmington CT 06032, USA
+ Funding:
+  - NIH
+ Methods:
+  - stochastic simulation
+-
  Reference: "Haffez H, Chisholm DR, Tatum NJ, Valentine R, Redfern C, Pohl E, Whiting A, Przyborski S (2018) Probing biological activity through structural modelling of ligand-receptor interactions of 2,4-disubstituted thiazole retinoids. Bioorganic & Medicinal Chemistry 26:1560–1572"
  Year: 2018
  Type: 2
