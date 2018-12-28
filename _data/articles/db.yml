@@ -1,17 +1,16 @@
 -
- Reference: "Carpine R, Raganati F, Olivieri G, Hellingwerf KJ, Pollio A, Salatino P, Marzocchella A (2018) Poly-β-hydroxybutyrate (PHB) production by Synechocystis PCC6803 from CO2: Model development. Algal Research 29:49–60"
+ Reference: "Burford RJ, Castro L, Maron L, Hein JE, Fryzuk MD (2018) Dinitrogen functionalization at a ditantalum center. Balancing N 2 displacement and N 2 functionalization in the reaction of coordinated N 2 with CS 2. Dalton Transactions 47:7983–7991"
  Year: 2018
  Type: 2
- URL: https://doi.org/10.1016/j.algal.2017.11.011
+ URL: https://doi.org/10.1039/C8DT01615A
  Keywords:
-  - Microbiology
-  - Biotechnology
+  - Chemistry
  Locations:
-  - Dipartimento di Ingegneria Chimica, dei Materiali e della Produzione Industriale, Università degli Studi di Napoli “Federico II”, P.le V. Tecchio, 80, 80125 Napoli, Italy
-  - Biology Department, Università degli Studi di Napoli “Federico II”, Via Foria, 223, 80139 Napoli, Italy
-  - Molecular Microbial Physiology Group, Swammerdam Institute for Life Sciences, Science Park 904, 1098 XH Amsterdam, The Netherlands
+  - Department of Chemistry, University of British Columbia, 2036 Main Mall, Vancouver, BC V6T 1Z1, Canada
+  - Universiteé de Toulouse, INSA, UPS, LPCNO, 135 Avenue de Rangueil, F-31077 Toulouse, France
  Funding:
-  - Ministero dell Università, della Ricerca, Italy
+  - NSERC (Canada)
+  - Canada Foundation for Innovation
  Methods:
   - time course
   - parameter estimation
