@@ -15,6 +15,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Fiebig D, Storka J, Roeder M, Meyners C, Schmelz S, Blankenfeldt W, Scrima A, Kolmar H, Fuchsbauer H-L (2018) Destructive twisting of neutral metalloproteases: the catalysis mechanism of the Dispase autolysis-inducing protein from Streptomyces mobaraensis DSM 40487. The FEBS journal 285:4246–4264"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1111/febs.14647
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Department of Chemical Engineering and Biotechnology, University of Applied Sciences of Darmstadt, Germany
+  - TU Darmstadt Department of Chemistry, Germany
+  - Helmholtz-Centre for Infection Research, Braunschweig, Germany
+  - Institute for Biochemistry, Biotechnology and Bioinformatics, Technische Universität Braunschweig, Germany
+ Funding:
+  - Helmholtz Association
+ Methods:
+  - parameter estimation
+-
  Reference: "Folch-Fortuny A, Teusink B, Hoefsloot HC, Smilde AK, Ferrer A (2018) Dynamic elementary mode modelling of non-steady state flux data. BMC Systems Biology 12:71"
  Year: 2018
  Type: 3
