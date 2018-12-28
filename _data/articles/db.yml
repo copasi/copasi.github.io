@@ -3833,21 +3833,6 @@
  Methods:
   - parameter estimation
 -
- Reference: "Zaccarin M, Bosello-Travain V, Di Paolo ML, Falda M, Maiorino M, Miotto G, Piccolo S, Roveri A, Ursini F, Venerando R, Toppo, Stefano (2016) Redox status in a model of cancer stem cells. Archives of Biochemistry and Biophysics 617:120–128"
- Year: 2016
- URL: https://doi.org/10.1016/j.abb.2016.09.002
- Keywords: 
-  - Metabolism
-  - Biochemistry
- Type: 2
- Locations:
-  - University of Padova, Italy
- Funding:
-  - Human Frontier Science Program
-  - University of Padova
- Methods:
-  - steady state
--
  Reference: "Zimmer C, Bergmann FT, Sahle S (2016) Reducing local minima in fitness landscapes of parameter estimation by using piecewise evaluation and state estimation. arXiv preprint arXiv:1601.04458"
  Year: 2016
  URL: https://arxiv.org/abs/1601.04458
