@@ -15,6 +15,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Costa RS, Vinga S (2018) Assessing Escherichia coli metabolism models and simulation approaches in phenotype predictions: Validation against experimental data. Biotechnology Progress 34:1344–1354"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1002/btpr.2700
+ Keywords:
+  - Metabolism
+ Locations:
+  - Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais 1, 1049‐001, Lisbon, Portugal
+ Funding:
+  - FCT, Portugal
+  - EU European Social Fund
+ Methods:
+  - steady state
+-
  Reference: "Coulthard SA, McGarrity S, Sahota K, Berry P, Redfern CP (2018) Three Faces of Mercaptopurine Cytotoxicity in vitro: Methylation, Nucleotide Homeostasis and Deoxythioguanosine in DNA. Drug Metabolism and Disposition 46:1191–1199"
  Year: 2018
  Type: 2
