@@ -2583,22 +2583,6 @@
   - time course
   - parameter estimation
 -
- Reference: "Behinaein B, Rudie K, Sangrar W (2016) Petri net siphon analysis and graph theoretic measures for identifying combination therapies in cancer. IEEE/ACM Transactions on Computational Biology and Bioinformatics 15:231-243"
- Year: 2016
- URL: https://doi.org/10.1109/TCBB.2016.2614301
- Type: 3
- Keywords:
-  - Computational Method
- Locations:
-  - Department of Electrical and Computer Engineering, Queen’s University, Kingston, ON, Canada
- Funding:
-  - NSERC, Canada
-  - Breast Cancer Action Kingston Research 
-  - Clare Nelson Bequest and Dering Cancer Research
- Methods:
-  - parameter estimation
-  - API
--
  Reference: "Bergmann FT, Sahle S, Zimmer C (2016) Piecewise parameter estimation for stochastic models in COPASI. Bioinformatics 32:1586–1588"
  Year: 2016
  URL: https://doi.org/10.1093/bioinformatics/btv759
