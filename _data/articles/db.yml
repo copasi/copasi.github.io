@@ -15,6 +15,23 @@
   - time course
   - parameter estimation
 -
+ Reference: "Folch-Fortuny A, Teusink B, Hoefsloot HC, Smilde AK, Ferrer A (2018) Dynamic elementary mode modelling of non-steady state flux data. BMC Systems Biology 12:71"
+ Year: 2018
+ Type: 3
+ URL: https://doi.org/10.1186/s12918-018-0589-3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Universitat Politècnica de València, Valencia, Spain
+  - Genetics BioIT DBC Department, DSM Food Specialties, Delft, The Netherlands
+  - Centre for Integrative Bioinformatics, Free University of Amsterdam, Amsterdam, The Netherlands
+  - Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, The Netherlands
+ Funding:
+  - Spanish Ministry of Economy and Competitiveness
+ Methods:
+  - time course
+  - elementary flux modes
+-
  Reference: "Gagnon J-S, Hochberg D, Pérez-Mercader J (2018) Selection and control of pathways by using externally adjustable noise on a stochastic cubic autocatalytic chemical system. Physical Review E 98:062216"
  Year: 2018
  Type: 2
