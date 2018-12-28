@@ -1213,6 +1213,21 @@
   - parameter estimation
   - parameter scan
 -
+ Reference: "Zimmer C, Leuba SI, Cohen T, Yaesoubi R (2018) Accurate quantification of uncertainty in epidemic parameter estimates and predictions using stochastic compartmental models. Statistical Methods in Medical Research doi:10.1177/0962280218805780"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1177/0962280218805780
+ Keywords:
+  - Epidemiology
+ Locations:
+  - Yale School of Public Health, New Haven, CT, USA
+  - Bosch Center for Artificial Intelligence, Robert Bosch GmbH, Renningen, Germany
+ Funding:
+  - NIH
+  - DFG 
+ Methods:
+  - stochastic simulation
+-
  Reference: "Agrawal R, Kalmady SV, Venkatasubramanian G (2017) In Silico Model-driven Assessment of the Effects of Brain-derived Neurotrophic Factor Deficiency on Glutamate and Gamma-Aminobutyric Acid: Implications for Understanding Schizophrenia Pathophysiology. Clinical Psychopharmacology and Neuroscience 15:115"
  Year: 2017
  URL: https://doi.org/10.9758/cpn.2017.15.2.115
