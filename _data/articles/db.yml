@@ -1,21 +1,4 @@
 -
- Reference: "Rossi F., Torbensen K., Ristori S., Abou-Hassan A. (2018) Signal Transduction and Communication Through Model Membranes in Networks of Coupled Chemical Oscillators. In: Pelillo M., Poli I., Roli A., Serra R., Slanzi D., Villani M. (eds) Artificial Life and Evolutionary Computation. WIVACE 2017. Communications in Computer and Information Science, vol 830. Springer"
- Year: 2018
- Type: 2
- URL: https://doi.org/10.1007/978-3-319-78658-2_2
- Keywords:
-  - Biochemistry
-  - Signaling
- Locations:
-  - University of Salerno, Fisciano, Italy
-  - Sorbonne Université, PHENIX, Paris, France
-  - Department of Chemistry, University of Florence, Firenze, Italy
- Funding:
-  - University of Salerno
-  - EU COST
- Methods:
-  - time course
--
  Reference: "Acón-Chan M-S, Siles-Canales F, Mora-Rodríguez R (2018) Modeling Gene Dosage Compensation Mediated by Sensor Loops in Large-Scale Mathematical Models of MicroRNA-Transcription Factor Networks. 2018 IEEE International Work Conference on Bioinspired Intelligence (IWOBI) doi:10.1109/IWOBI.2018.8464210"
  Year: 2018
  Type: 2
@@ -863,6 +846,23 @@
   - optimization
   - stochastic simulation
 -
+ Reference: "Rossi F., Torbensen K., Ristori S., Abou-Hassan A. (2018) Signal Transduction and Communication Through Model Membranes in Networks of Coupled Chemical Oscillators. In: Pelillo M., Poli I., Roli A., Serra R., Slanzi D., Villani M. (eds) Artificial Life and Evolutionary Computation. WIVACE 2017. Communications in Computer and Information Science, vol 830. Springer"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1007/978-3-319-78658-2_2
+ Keywords:
+  - Biochemistry
+  - Signaling
+ Locations:
+  - University of Salerno, Fisciano, Italy
+  - Sorbonne Université, PHENIX, Paris, France
+  - Department of Chemistry, University of Florence, Firenze, Italy
+ Funding:
+  - University of Salerno
+  - EU COST
+ Methods:
+  - time course
+-
  Reference: "Semenov SN, Ainla A, Skorb EV, Postma SG (2018) Four-Variable Model of an Enzymatic Oscillator Based on Trypsin. Israel Journal of Chemistry 58:781–786"
  Year: 2018
  Type: 2
@@ -907,6 +907,18 @@
   - Royal Thai Government
  Methods:
   - time course
+-
+ Reference: "Vargas-Mora C, Acón MS, Mora-Rodríguez R, Quirós S (2018) A Transcriptional Regulatory Network Model Reveals miR-34a as a Potential Regulator of Proliferation in Cancer Cell Lines. 2018 IEEE International Work Conference on Bioinspired Intelligence (IWOBI) doi:10.1109/IWOBI.2018.8464205"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1109/IWOBI.2018.8464205
+ Keywords:
+  - Genomics
+ Locations:
+  - University of Costa Rica (UCR), San José, Costa Rica
+ Methods:
+  - steady state
+  - parameter estimation
 -
  Reference: "Vranish JN, Ancona MG, Oh E, Susumu K, Lasarte Aragonés G, Breger JC, Walper SA, Medintz IL (2018) Enhancing Coupled Enzymatic Activity by Colocalization on Nanoparticle Surfaces: Kinetic Evidence for Directed Channeling of Intermediates. ACS Nano 12:7911–7926"
  Year: 2018
