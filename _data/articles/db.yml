@@ -1054,6 +1054,8 @@
  URL: https://doi.org/10.1177/0271678X17693024
  Keywords:
   - Physiology
+  - Metabolism
+  - Biophysics
  Locations:
   - Advanced Simulation and Design GmbH, Rostock, Germany
   - Department of Systems Biology and Bioinformatics, Rostock University, Rostock, Germany
@@ -2478,22 +2480,6 @@
  Funding:
   - CNRS
   - EU - ERDF
--
- Reference: "Winter F, Bludszuweit-Philipp C, Wolkenhauer O (2017) Mathematical analysis of the influence of brain metabolism on the BOLD signal in Alzheimer’s disease. Journal of Cerebral Blood Flow & Metabolism 38:304-316 "
- Year: 2017
- URL: https://doi.org/10.1177/0271678X17693024
- Type: 2
- Keywords:
-  - Metabolism
-  - Biophysics
- Locations:
-  - ASD Advanced Simulation and Design GmbH, Rostock, Germany
-  - Department of Systems Biology and Bioinformatics, Rostock University, Rostock, Germany
-  - Stellenbosch Institute for Advanced Study, Wallenberg Research Centre at Stellenbosch University, Stellenbosch, South Africa
- Funding:
-  - EU FP7
- Methods:
-  - time course
 -
  Reference: "Zaccarin M, Bosello-Travain V, Di Paolo ML, Falda M, Maiorino M, Miotto G, Piccolo S, Roveri A, Ursini F, Venerando R, Toppo S (2017) Redox status in a model of cancer stem cells. Archives of Biochemistry and Biophysics 617:120–128"
  Year: 2017
