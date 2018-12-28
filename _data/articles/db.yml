@@ -15,6 +15,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "e Silva BVR, Rad M, Cui J, McCabe M, Pan K (2018) A Mobile-Based Diet Monitoring System for Obesity Management. Journal of Health & Medical Informatics 9:307"
+ Year: 2018
+ Type: 3
+ URL: https://doi.org/10.4172/2157-7420.1000307
+ Locations:
+  - University of Nebraska, Lincoln, Nebraska, USA
+  - Department of Computer Science, McGill University, Montreal, Canada
+ Keywords:
+  - Laboratory method
+ Funding:
+  - NIH
+  - University of Nebraska Lincoln
+  - Tobacco Settlement Fund 
+-
  Reference: "Eibel A, Fast DE, Gescheidt G (2018) Choosing the ideal photoinitiator for free radical photopolymerizations: predictions based on simulations using established data. Polymer Chemistry 9:5107–5115"
  Year: 2018
  Type: 2
@@ -589,20 +603,6 @@
  Methods:
   - parameter estimation
   - time course
--
- Reference: "Rad M, Cui J, McCabe M, Pan K, others (2018) A Mobile-Based Diet Monitoring System for Obesity Management. Journal of Health & Medical Informatics 9:307"
- Year: 2018
- Type: 3
- URL: https://doi.org/10.4172/2157-7420.1000307
- Locations:
-  - University of Nebraska, Lincoln, Nebraska, USA
-  - Department of Computer Science, McGill University, Montreal, Canada
- Keywords:
-  - Laboratory method
- Funding:
-  - NIH
-  - University of Nebraska Lincoln Food for Health seed grant
-  - Tobacco Settlement Fund 
 -
  Reference: "Revell J, Zuliani P (2018) Stochastic Rate Parameter Inference Using the Cross-Entropy Method.  In: Češka M., Šafránek D. (eds) Computational Methods in Systems Biology. CMSB2018. Lecture Notes in Computer Science, vol 11095. Springer, Cham pp.146–164"
  Year: 2018
