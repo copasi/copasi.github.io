@@ -1762,6 +1762,7 @@
  URL: https://doi.org/10.1007/s00204-016-1922-5
  Keywords:
   - Computational Method
+  - Toxicology
  Locations:
   - Department of Toxicogenomics, GROW-School for Oncology and Developmental Biology, Maastricht University, Universiteitssingel 40, 6229 ER, Maastricht, The Netherlands
  Funding:
@@ -2908,17 +2909,6 @@
   - time course
   - parameter estimation
   - API
--
- Reference: "Hendrickx DM, Souza T, Jennen DG, Kleinjans JC (2016) DTNI: a novel toxicogenomics data analysis tool for identifying the molecular mechanisms underlying the adverse effects of toxic compounds. Archives of Toxicology 91:2343–2352"
- Year: 2016
- URL: https://doi.org/10.1007/s00204-016-1922-5
- Type: 2
- Keywords:
-  - Toxicology
- Locations:
-  - GROW-School for Oncology and Developmental Biology, Maastricht University, Maastricht, The Netherlands
- Funding:
-  - EU FP7
 - 
  Reference: "Henkel R, Hoehndorf R, Kacprowski T, Knüpfer C, Liebermeister W, Waltemath D (2016) Notions of similarity for systems biology models. Briefings in Bioinformatics 19:77–88"
  Year: 2016
