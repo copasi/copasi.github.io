@@ -1,0 +1,193 @@
+---
+layout: structure
+title: "COPASI 4.25 Build 207"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.25.207</h3>
+    Release Date: March 15, 2019<br />
+    <h4>New Features since COPASI 4.24 (Build 197)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Added capability to load and save model parameter sets from files.
+          </li>
+          <li>
+            Moiety results are now displayed according to the framework, i.e. in amount units or particle numbers.
+          </li>
+          <li>
+            Added default report moiety task
+          </li>
+          <li>
+            Advanced rarely used method parameters are no hidden if they are at default setting. The user can
+            change this behavior through the preference dialog.
+          </li>
+          <li>
+            Combine archive are can now be opened via drag and drop like all other supported formats.
+          </li>
+          <li>
+            Added additional plot type supporting banded graphs.
+          </li>
+          <li>
+            Added the capability to open files directly from an URL under the file menu.
+          </li>
+          <li>
+            Added Lyapunov exponents to the selectable result in the object selection widget.
+          </li>
+        </ul>
+      </li>
+      <li> Command-line (CopasiSE)
+        <ul>
+          <li>
+            Added option to convert the model reactions to irreversible
+          </li>
+          <li>
+            Added option to specify the task to be executed
+          </li>
+          <li>
+            Added option to override the report file name to be used.
+          </li>
+        </ul>
+      </li>
+      <li
+        <li> Language Bindings
+          <ul>
+            <li>
+              The sed-ml and combine archive functionalities are now exposed in the language bindings.
+            </li>
+          </ul>
+        </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.24 (Build 197)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Improved layout model check display to show filter capabilites without scrolling.
+          </li>
+          <li>
+            The linear noise approximations task has now steady-state analysis enable by default.
+          </li>
+          <li>
+            Experiment settings for parameter estimation can now be copied to several experiments in one step.
+          </li>
+          <li>
+            Fix crashed which occasionally happened when deleting events.
+          </li>
+          <li>
+            Fixed several instability issues encountered when merging the same model multiple times.
+          </li>
+          <li>
+            Fixed issue with raising secondary windows (plots) on Mac OS
+          </li>
+          <li>
+            Fixed crash when selecting an incomplete parameter set for display.
+          </li>
+          <li>
+            Fixed problem updating the MIRIAM resources.
+          </li>
+          <li>
+            Fixed the 'edit rate law' button in the reaction widget to again switch to selected function.
+          </li>
+          <li>
+            Fixed handling of names which are only comprised of digits.
+          </li>
+          <li>
+            Fixed layout of optimization parameter estimation tasks to give mor space to the optimization parameters.
+          </li>
+          <li>
+            Fixed initial display of concentration value when adding a missing species to a parameter set.
+          </li>
+          <li>
+            Fixed crash when selecting a result matrix for plotting.
+          </li>
+          <li>
+            Fixed race condition in the slider dialog which could lead to losing slider definitions.
+          </li>
+          <li>
+            The backward integration strategy is disabled now disabled by default for steady-state tasks.
+          </li>
+          <li>
+            Default slider ranges changed to 10 times the current value and logarithmic scaling.
+          </li>
+          <li>
+            The progress dialog is now re-sizable.
+          </li>
+          <li>
+            Fixed issue where COPASI hang during unit validation in rare cases.
+          </li>
+          <li>
+            Ignore NaN values in count of values when scaling histogram.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Added verbose log messages to all optimization methods. These verbosity can be set through an advanced
+            method parameter.
+          </li>
+          <li>
+            Increased default internal step limit 100,000 in the LSODA deterministic integration method.
+          </li>
+          <li>
+            Improved detection whether the model is autonomous for edge cases where the ODE system was not
+            time dependent but some assignments not used in the calculation were.
+          </li>
+          <li>
+            Fixed stability issues with the SDE solver (RI5)
+          </li>
+          <li>
+            Fixed issue in the hybrid RK54 integration method leading to exceeding the internal step size.
+          </li>
+          <li>
+            Fixed issue in the generation of result distributions in the hybrid RK54 method when the stochastic
+            system was very fast, i.e., advanced in very small steps.
+          </li>
+        </ul>
+      </li>
+      <li> SBML
+        <ul>
+          <li>
+            Fixed import of multi-compartment reaction where the compartments have the spatial dimension 0.
+          </li>
+          <li>
+            Allow import of models with broken function definitions. The broken function is ignored and
+            the user is warned about the missing function only if it is used within the model.
+          </li>
+          <li>
+            Fixed SBML error message (78) about differences between the substance units used and the global
+            default substance unit which is no longer required.
+          </li>
+          <li>
+            Fixed export of render information which used the numeric value NaN for unspecified attributes.
+          </li>
+        </ul>
+      </li>
+      <li> Dependencies
+        <ul>
+          <li>
+            Updated libCombine to fix invalid manifests
+          </li>
+        </ul>
+      </li>
+      <li> SED-ML
+        <ul>
+          <li>
+            Fixed import of files using change-attribute to modify the referenced model.
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings
+        <ul>
+          <li>
+            It is no possible to add a second model to an already loaded model, i.e., model merging is supported.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
