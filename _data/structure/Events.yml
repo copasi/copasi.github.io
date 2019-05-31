@@ -1,6 +1,8 @@
 pages:
 - path: Events
   title: "Events"
+- path: Events/COPASI_Developer_Workshop_2019
+  title: "COPASI Developer Workshop 2019"
 - path: Events/ICSB_2017_Tutorials
   title: "ICSB 2017 Tutorials"
 - path: Events/Past_Events
