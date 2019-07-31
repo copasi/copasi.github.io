@@ -1,0 +1,97 @@
+---
+layout: structure
+title: "COPASI 4.26 Build 213"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.26.213</h3>
+    Release Date: July 31, 2019<br />
+    <h4>New Features since COPASI 4.25 (Build 207)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Added feature to open files directly from a web page which use the link format: 'copasi://'.
+          </li>
+          <li>
+            It is to possible to specify a user selected list of time point for output in the trajectory tasks.
+          </li>
+          <li>
+            It is now possible to enable automated checks for updates of COPASI as you are used to in many
+            other applications.
+          </li>
+          <li>
+            We added a tool to remove SBML Ids from the COPASI file which are used to facilitate referencing the
+            original SBML Id on export. When an object was renamed the original SBML Id is preserved which is
+            desired in most cases. However there are circumstances where this behavior is not desired. Removing
+            the SBML Ids leads to newly created Id based on the names in COPASI.
+          </li>
+          <li>
+            A COPASI file downloaded using the 'Open URL' method has the targets of reports removed so that a
+            malicious user cannot automatically create harmful content.
+          </li>
+        </ul>
+      </li>
+      <li> Command-line (CopasiSE)
+        <ul>
+          <li>
+            Added option to export ant import different parameterizations of the model through
+            simple ini file.
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.25 (Build 207)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Fixed a problem where saving a COPASI file to a different location lost the experimental data
+            in the parameter estimation task.
+          </li>
+          <li>
+            Fixed erroneous message and editing problems for models where the volume of a compartment is dependent
+            on a contained species' concentration.
+          </li>
+          <li>
+            Fixed an issue where tab navigation in the trajectory task widget lead to confusing behavior when
+            synchronizing the interval size and number.
+          </li>
+          <li>
+            Fixed a sorting problem in the trajectory task result table which was sorting lexicographically instead
+            numerically.
+          </li>
+          <li>
+            Fixed a crash in the reaction widget which could occur when the reaction parameter were previously deleted.
+          </li>
+          <li>
+            Fixed issues with entering numbers in the scan parameter fields when the local decimal separator is not a
+            '.' (dot).
+          </li>
+          <li>
+            Fixed exporting of model parameter sets to exclude non numeric values.
+          </li>
+          <li>
+            Fixed a crash occurring occasionally after editing changing the preferences.
+          </li>
+          <li>
+            Fixed editing number in scientific notation in the slider dialog.
+          </li>
+          <li>
+            Fixed problem with species containing species when editing the chemical equation.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Improved steady state detection which was overly conservative when estimating the progress for a
+            singular systems Jacobian.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
