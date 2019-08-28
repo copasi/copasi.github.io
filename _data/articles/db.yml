@@ -743,6 +743,24 @@
  Funding:
   - NSF
 -
+ Reference: "Leedale J, Sharkey KJ, Colley HE, Norton ÁM, Peeney D, Mason CL, Sathish JG, Murdoch C, Sharma P, Webb SD (2018) A Combined In Vitro/In Silico Approach to Identifying Off-Target Receptor Toxicity. iScience 4:84–96"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1016/j.isci.2018.05.012
+ Keywords:
+  - Toxicology
+ Locations:
+  - Department of Mathematical Sciences, University of Liverpool, Liverpool L69 7ZL, UK
+  - Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool L69 3GE, UK
+  - School of Clinical Dentistry, University of Sheffield, Sheffield S10 2TA, UK
+  - Department of Applied Mathematics, Liverpool John Moores University, Liverpool L3 3AF, UK
+  - Bristol-Myers Squibb, 1 Squibb Drive, New Brunswick, NJ 08903, USA
+ Funding:
+  - EPSRC
+  - NC3R
+ Methods:
+  - mca
+-
  Reference: "Li X, Holmes WR (2018) Biophysical attributes that affect CaMKII activation deduced with a novel spatial stochastic simulation approach. PLOS Computational Biology 14:e1005946"
  Year: 2018
  Type: 2
