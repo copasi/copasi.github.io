@@ -1,4 +1,22 @@
 -
+ Reference: "Adelson CN, Johnston EM, Hilmer KM, Watts H, Dey SG, Brown DE, Broderick JB, Shepard EM, Dooley DM, Solomon EI (2019) Characterization of the Preprocessed Copper Site Equilibrium in Amine Oxidase and Assignment of the Reactive Copper Site in Topaquinone Biogenesis. Journal of the American Chemical Society 141:8877–8890"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1021/jacs.9b01922
+ Keywords:
+  - Enzymology
+  - Biochemistry
+ Locations:
+  - Department of Chemistry, Stanford University, Stanford, California 94305, United States
+  - Department of Chemistry and Biochemistry, Montana State University, Bozeman, Montana 59717, United States
+  - University of Rhode Island, Kingston, Rhode Island 02881, United States
+ Funding:
+  - NIH
+  - University of Rhode Island
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Aguilera L, Bergmann FT, Dalmasso G, Elmas S, Elsässer T, Großeholz R, Holzheu P, Kalra P, Kummer U, Sahle S, Veith N (2019) Robustness of frequency vs. amplitude coding of calcium oscillations during changing temperatures. Biophysical Chemistry 245:17–24"
  Year: 2019
  Type: 2
@@ -12,6 +30,21 @@
   - time course
   - optimization
   - sensitivity analysis
+-
+ Reference: "Chum AP, Shoemaker SR, Fleming PJ, Fleming KG (2019) Plasticity and transient binding are key ingredients of the periplasmic chaperone network. Protein Science 28:1340–1349"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1002/pro.3641
+ Keywords:
+  - Macromolecular Biochemistry
+  - Microbiology
+ Locations:
+  - Department of Biophysics, Johns Hopkins University, Baltimore, Maryland, United States
+ Funding:
+  - NIH
+  - NSF
+ Methods:
+  - stocahstic simulation
 -
  Reference: "Acón-Chan M-S, Siles-Canales F, Mora-Rodríguez R (2018) Modeling Gene Dosage Compensation Mediated by Sensor Loops in Large-Scale Mathematical Models of MicroRNA-Transcription Factor Networks. 2018 IEEE International Work Conference on Bioinspired Intelligence (IWOBI) doi:10.1109/IWOBI.2018.8464210"
  Year: 2018
