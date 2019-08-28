@@ -88,6 +88,19 @@
  Methods:
   - time course
 -
+ Reference: "Meshram RJ, Goundge MB, Kolte BS, Gacche RN (2019) An in silico approach in identification of drug targets in Leishmania: A subtractive genomic and metabolic simulation analysis. Parasitology International 69:59–70"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.parint.2018.11.006
+ Keywords:
+  - Metabolism
+ Locations:
+  - Savitribai Phule Pune University, Pune 411007, India
+ Methods:
+  - time course
+  - steady state
+  - mca
+-
  Reference: "Moreno DF, Parisi E, Yahya G, Vaggi F, Csikász-Nagy A, Aldea M (2019) Competition in the chaperone-client network subordinates cell-cycle entry to growth and stress. Life Science Alliance 2:e201800277"
  Year: 2019
  Type: 2
