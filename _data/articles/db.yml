@@ -76,6 +76,23 @@
  Methods:
   - elementary flux modes
 -
+ Reference: "Jayanthi BEK, Zhao W, Segatori L (2019) Input-dependent post-translational control of the reporter output enhances dynamic resolution of mammalian signaling systems. Methods in Enzymology 622:1–27"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/bs.mie.2019.02.013
+ Keywords:
+  - Signaling
+  - Synthetic Biology
+ Locations:
+  - Rice University, Houston, TX, United States.
+ Funding:
+  - NSF
+  - Welch Foundation
+  - NIH
+ Methods:
+  - time course
+  - sensitivity analysis
+-
  Reference: "Kaspar S (2019) The role of promoter architecture in transduction, integration and multiplexing of environmental signals in bacteria. PhD Thesis, University of Heidelberg"
  Year: 2019
  Type: 2
