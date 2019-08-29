@@ -4499,6 +4499,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Woods ML, Barnes CP (2016) Mechanistic Modelling and Bayesian Inference Elucidates the Variable Dynamics of Double-Strand Break Repair. PLoS Computational Biology 12:e1005131"
+ Year: 2016
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pcbi.1005131
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Cell and Developmental Biology, University College London, London, England
+ Funding:
+  - Wellcome Trust
+ Methods:
+  - model construction
+-
  Reference: "Xie Y (2016) Multi-scale modelling of the cellular and molecular mechanisms of hyperpolarisation mediated synaptic plasticity in the vestibular nuclei. MSc Thesis, The University of Edinburgh"
  Year: 2016
  URL: http://hdl.handle.net/1842/18025
