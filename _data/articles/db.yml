@@ -46,6 +46,28 @@
  Methods:
   - stochastic simulation
 -
+ Reference: "Anderson R, Lagnado A, Maggiorani D, Walaszczyk A, Dookun E, Chapman J, Birch J, Salmonowicz H, Ogrodnik M, Jurk D, Proctor C, Correia-Melo C, Victorelli S, Fielder E, Berlinguer-Palmini R, Owens A, Greaves LC, Kolsky KL, Parini A, Douin-Echinard V, LeBrasseur NK, Arthur HM, Tual-Chalot S, Schafer MJ, Roos CM, Miller JD, Robertson N, Mann J, Adams PD, Tchkonia T, Kirkland JL, Mialet-Perez J, Richardson GD, Passos JF (2019) Length-independent telomere damage drives post-mitotic cardiomyocyte senescence. The EMBO Journal 38:e100492"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.15252/embj.2018100492
+ Keywords:
+  - Genetics
+  - Physiology
+ Locations:
+  - Newcastle University, Newcastle upon Tyne, UK
+  - INSERM Institute of metabolic and cardiovascular diseases, University of Toulouse, Toulouse, France
+  - Mayo Clinic, Rochester, MN, USA
+  - CR-UK Beatson Institute, University of Glasgow, Glasgow, UK
+  - Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA
+ Funding:
+  - BBSRC
+  - MRC
+  - NIH
+  - Région Occitanie, France
+  - foundation Cariplo
+ Methods: 
+  - stochastic simulation
+-
  Reference: "Chum AP, Shoemaker SR, Fleming PJ, Fleming KG (2019) Plasticity and transient binding are key ingredients of the periplasmic chaperone network. Protein Science 28:1340–1349"
  Year: 2019
  Type: 2
