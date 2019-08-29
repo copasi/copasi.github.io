@@ -305,6 +305,21 @@
  Methods:
   - time course
 -
+ Reference: "Shockey WA (2019) Proteolytic network dynamics in breast cancer and tumor associated macrophages. PhD Thesis"
+ Year: 2019
+ Type: 2
+ URL: https://smartech.gatech.edu/handle/1853/61276
+ Keywords:
+  - Signaling
+  - Immunology
+ Locations:
+  - Department of Biomedical Engineering, Georgia Institute of Technology, 313 Ferst Drive, Atlanta, GA 30332, United States
+  - Department of Biomedical Engineering, Emory University, Haygood Dr, Ste W 200 Atlanta, GA
+30322, United States
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Silva E, Martin RR, Pomuceno JP, Mansilla R, Betancourt-Mar JA, Cocho G, Nieto-Villar JM (2019) Dose and frequency in cancer therapy. Theoretical non-autonomous model of p53 network. Biological Rhythm Research 50:483–489"
  Year: 2019
  Type: 2
