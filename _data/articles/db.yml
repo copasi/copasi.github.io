@@ -770,23 +770,6 @@
   - time course
   - parameter estimation
 -
- Reference: "Guimera AM, Welsh CM, Proctor CJ, McArdle A, Shanley DP (2018) ‘Molecular habituation’as a potential mechanism of gradual homeostatic loss with age. Mechanisms of Ageing and Development 169:53–62"
- Year: 2018
- Type: 2
- URL: https://doi.org/10.1016/j.mad.2017.11.010
- Keywords:
-  - Physiology
- Locations:
-  - Campus for Ageing and Vitality, Newcastle University, Newcastle Upon Tyne, NE4 5PL,United Kingdom
-  - Department of Musculoskeletal Biology, University of Liverpool, William Duncan Building, 6 West Derby Street, Liverpool L7 8TX, United Kingdom
- Funding:
-  - MRC
-  - Arthritis Research UK
- Methods:
-  - time course
-  - sensitivity analysis
-  - parameter scan
--
  Reference: "Gupta A, Mendes P (2018) An overview of network-based and-free approaches for stochastic simulation of biochemical systems. Computation 6:9"
  Year: 2018
  Type: 3
@@ -1174,6 +1157,37 @@
   - Breast Cancer Now
  Methods:
   - time course
+-
+ Reference: "Martinez Guimera A (2018) Investigating homeostatic disruption by constitutive signals during biological ageing. Thesis, Newcastle University"
+ Year: 2018
+ Type: 2
+ URL: http://theses.ncl.ac.uk/jspui/handle/10443/4180
+ Keywords:
+  - Signaling
+  - Physiology
+ Locations:
+  - Institute for Cell and Molecular Biosciences, Newcastle University, Newcastle Upon Tyne, NE4 5PL,United Kingdom
+ Methods:
+  - time course
+  - sensitivity analysis
+-
+ Reference: "Martinez Guimera A, Welsh CM, Proctor CJ, McArdle A, Shanley DP (2018) ‘Molecular habituation’as a potential mechanism of gradual homeostatic loss with age. Mechanisms of Ageing and Development 169:53–62"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1016/j.mad.2017.11.010
+ Keywords:
+  - Physiology
+ Locations:
+  - Campus for Ageing and Vitality, Newcastle University, Newcastle Upon Tyne, NE4 5PL,United Kingdom
+  - Department of Musculoskeletal Biology, University of Liverpool, William Duncan Building, 6 West Derby Street, Liverpool L7 8TX, United Kingdom
+ Funding:
+  - MRC
+  - Arthritis Research UK
+ Methods:
+  - time course
+  - sensitivity analysis
+  - parameter scan
+
 -
  Reference: "Mayorga LS, Cebrian I, Verma M, Hoops S, Bassaganya-Riera J (2018) Reconstruction of endosomal organization and function by a combination of ODE and agent-based modeling strategies. Biology Direct 13:25"
  Year: 2018
