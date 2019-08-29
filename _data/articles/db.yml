@@ -68,6 +68,22 @@
  Methods: 
   - stochastic simulation
 -
+ Reference: "Belli RG, Wu Y, Ji H, Joshi A, Yunker LP, McIndoe JS, Rosenberg L (2019) Competitive Ligand Exchange and Dissociation in Ru Indenyl Complexes. Inorganic chemistry 58:747–755"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1021/acs.inorgchem.8b02915
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of Victoria, Victoria, British Columbia V8W 2Y2, Canada
+ Funding:
+  - NSERC
+  - CFI
+  - BCKDF
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Chum AP, Shoemaker SR, Fleming PJ, Fleming KG (2019) Plasticity and transient binding are key ingredients of the periplasmic chaperone network. Protein Science 28:1340–1349"
  Year: 2019
  Type: 2
