@@ -4559,6 +4559,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Zimmer C (2016) Experimental Design for Stochastic Models of Nonlinear Signaling Pathways Using an Interval-Wise Linear Noise Approximation and State Estimation. PloS one 11:e0159902"
+ Year: 2016
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pone.0159902
+ Keywords:
+  - Computational Method
+ Locations:
+  - BIOMS, University of Heidelberg, Im Neuenheimer Feld 267, 69120 Heidelberg, Germany
+ Funding:
+  - BIOMS
+ Methods:
+  - stochastic simulation
+-
  Reference: "Zimmer C, Sahle S (2016) Comparison of approaches for parameter estimation on stochastic models: Generic least squares versus specialized approaches. Computational Biology and Chemistry 61:75–85"
  Year: 2016
  URL: https://doi.org/10.1016/j.compbiolchem.2015.10.003
