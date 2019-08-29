@@ -714,6 +714,20 @@
  Methods:
   - elementary flux modes
 -
+ Reference: "Dalle Pezze P, Karanasios E, Kandia V, Walker SA, Ktistakis NT, Novère NL (2018) Dynamic modelling suggests differential mechanisms for initiation of non-selective autophagy and mitophagy. bioRxiv:370114"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1101/370114
+ Keywords:
+  - Cell Biology
+ Locations:
+  - The Babraham Institute, Babraham Research Campus, Cambridge, CB22 3AT, UK
+ Methods:
+  - parameter estimation
+  - time course
+ Funding:
+  - BBSRC
+-
  Reference: "Diedrichs DR, Gomez JA, Huang C-S, Rutkowski DT, Curtu R (2018) A data-entrained computational model for testing the regulatory logic of the vertebrate unfolded protein response. Molecular Biology of the Cell 29:1502–1517"
  Year: 2018
  Type: 2
