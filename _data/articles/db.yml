@@ -335,6 +335,22 @@
  Methods:
   - time course
 -
+ Reference: "Stalidzans E, Landmane K, Sulins J, Sahle S (2019) Misinterpretation risks of global stochastic optimisation of kinetic models revealed by multiple optimisation runs. Mathematical Biosciences 307:25–32"
+ Year: 2019
+ Type: 3
+ URL: https://doi.org/10.1016/j.mbs.2018.11.002
+ Keywords:
+  - Computational Method
+ Locations:
+  - Faculty of Information Technologies, Latvia University of Life Sciences and Technologies, Liela iela 2, Jelgava LV-3001, Latvia
+  - Institute of Microbiology and Biotechnology, University of Latvia, Jelgavas iela 1, LV1004 Riga, Latvia
+  - BioQuant, University of Heidelberg, Im Neuenheimer Feld 267, Heidelberg 69120, Germany
+ Funding:
+  - Klaus Tschira Foundation
+  - Baltic-German University Liaison Office, Foreign Office of the Federal Republic of Germany
+ Methods:
+  - optimization
+-
  Reference: "Wei Y, Mayoral-Delgado I, Stewart NA, Dymond MK (2019) Macromolecular crowding and membrane binding proteins: The case of phospholipase A1. Chemistry and Physics of Lipids 218:91–102"
  Year: 2019
  Type: 2
