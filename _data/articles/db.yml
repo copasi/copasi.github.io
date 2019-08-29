@@ -1459,6 +1459,20 @@
   - parameter estimation
   - time course
 -
+ Reference: "Potter ME, Armstrong L-M, Raja R (2018) Combining catalysis and computational fluid dynamics towards improved process design for ethanol dehydration. Catalysis Science & Technology 8:6163–6172"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1039/C8CY01564C
+ Keywords:
+  - Chemistry
+ Locations:
+  - University of Southampton, University Road, Highfield, Southampton, UK
+ Funding:
+  - EPSRC
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Revell J, Zuliani P (2018) Stochastic Rate Parameter Inference Using the Cross-Entropy Method.  In: Češka M., Šafránek D. (eds) Computational Methods in Systems Biology. CMSB2018. Lecture Notes in Computer Science, vol 11095. Springer, Cham pp.146–164"
  Year: 2018
  Type: 3
