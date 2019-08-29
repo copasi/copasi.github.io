@@ -31,6 +31,21 @@
   - optimization
   - sensitivity analysis
 -
+ Reference: "Aguilera LU, Rodríguez-González J (2019) Modeling the effect of tat inhibitors on HIV latency. Journal of Theoretical Biology 473:20–27"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.jtbi.2019.04.018
+ Keywords:
+  - Immunology
+ Locations:
+  - Department of Modeling of Biological Processes, COS Heidelberg / Bioquant, Heidelberg University, Im Neuenheimer Feld 267, Heidelberg 69120, Germany
+  - Colorado State University, Fort Collins, Colorado, USA
+  - Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional, Unidad Monterrey, Via del Conocimiento 201, Parque PIIT, Apodaca CP 66600 NL, México
+ Funding:
+  - CONACYT, Mexico
+ Methods:
+  - stochastic simulation
+-
  Reference: "Chum AP, Shoemaker SR, Fleming PJ, Fleming KG (2019) Plasticity and transient binding are key ingredients of the periplasmic chaperone network. Protein Science 28:1340–1349"
  Year: 2019
  Type: 2
