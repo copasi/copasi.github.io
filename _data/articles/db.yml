@@ -249,6 +249,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Rampioni G, Leoni L, Stano P (2019) Molecular Communications in the Context of “Synthetic Cells” Research. IEEE Transactions on NanoBioscience 18:43–50"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1109/TNB.2018.2882543
+ Keywords:
+  - Synthetic Biology
+ Locations:
+  - Sciences Department, Roma Tre University, Rome, Italy
+  - Department of Biological and Environmental Sciences and Technologies, University of Salento Ecotekne, Lecce, Italy
+ Funding:
+  - Italian Ministry for Education, University and Research (MIUR)
+ Methods:
+  - time course
+-
  Reference: "Sangavai C, Bharathi M, Ganesh SP, Chellapandi P (2019) Kinetic modeling of Stickland reactions-coupled methanogenesis for a methanogenic culture. AMB Express 9:82"
  Year: 2019
  Type: 2
@@ -261,6 +275,17 @@
   - Department of Microbiology, Biogas Research Centre, Gujarat Vidyapith, Sadra, Gandhi Nagar, Gujarat, 382 320, India
  Funding:
   - Higher Authority of Gujarat Vidyapith, Ahmadabad, India
+ Methods:
+  - time course
+-
+ Reference: "Schoch A (2019) Quantitative Analysis of Information Transfer in Signal Transduction. PhD Thesis, University of Heidelberg"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.11588/heidok.00026833
+ Keywords:
+  - Signaling
+ Locations:
+  - Bioquant, Heidelberg University, Im Neuenheimer Feld 267, Heidelberg, 69120, Germany
  Methods:
   - time course
 -
@@ -277,17 +302,6 @@
  Funding:
   - Leverhulme Trust
   - Isaac Newton Trust
- Methods:
-  - time course
--
- Reference: "Schoch A (2019) Quantitative Analysis of Information Transfer in Signal Transduction. PhD Thesis, University of Heidelberg"
- Year: 2019
- Type: 2
- URL: https://doi.org/10.11588/heidok.00026833
- Keywords:
-  - Signaling
- Locations:
-  - Bioquant, Heidelberg University, Im Neuenheimer Feld 267, Heidelberg, 69120, Germany
  Methods:
   - time course
 -
