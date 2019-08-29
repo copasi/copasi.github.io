@@ -234,6 +234,21 @@
  Methods:
   - time course
 -
+ Reference: "Mandal M, Luke AM, Dereli B, Elwell CE, Reineke TM, Tolman WB, Cramer CJ (2019) Computational Prediction and Experimental Verification of ε-Caprolactone Ring-Opening Polymerization Activity by an Aluminum Complex of an Indolide/Schiff-Base Ligand. ACS Catalysis 9:885–889"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1021/acscatal.8b04540
+ Locations:
+  - Department of Chemistry, University of Minnesota, 207 Pleasant Street SE, Minneapolis, Minnesota 55455, United States
+  - Department of Chemistry, Washington University in St. Louis, One Brookings Drive, Campus Box 1134, St. Louis, Missouri 63130, United States
+ Keywords:
+  - Chemistry
+ Funding:
+  - NSF
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Mandal SC, Rawat KS, Nandi S, Pathak B (2019) Theoretical insights into CO 2 hydrogenation to methanol by a Mn–PNP complex. Catalysis Science & Technology 9:1867–1878"
  Year: 2019
  Type: 2
