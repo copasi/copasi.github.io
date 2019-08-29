@@ -4463,6 +4463,20 @@
  Funding:
   - NIH
 -
+ Reference: "Waltemath D, Karr JR, Bergmann FT, Chelliah V, Hucka M, Krantz M, Liebermeister W, Mendes P, Schreiber F, et al. (2016) Toward Community Standards and Software for Whole-Cell Modeling. IEEE transactions on bio-medical engineering 63:2007–2014"
+ Year: 2016
+ Type: 3
+ URL: https://doi.org/10.1109/TBME.2016.2560762
+ Keywords:
+  - Computational Methods
+  - Whole-Cell Models
+ Locations:
+  - Institute of Computer Science, University of Rostock, 18051 Rostock, Germany
+ Methods:
+  - sbml
+ Funding:
+  - Volkswagen Foundation
+-
  Reference: "Woller A, Duez H, Staels B, Lefranc M (2016) A mathematical model of the liver circadian clock linking feeding and fasting cycles to clock function. Cell Reports 17:1087–1097"
  Year: 2016
  URL: https://doi.org/10.1016/j.celrep.2016.09.060
