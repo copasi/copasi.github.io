@@ -1327,6 +1327,19 @@
  Methods:
   - time course
 -
+ Reference: "Scharm M (2018) Improving Reproducibility and Reuse of Modelling Results in the Life Sciences. PhD Thesis, University of Rostock"
+ Year: 2018
+ Type: 3
+ URL: https://doi.org/10.18453/rosdok_id00002315
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Systems Biology and Bioinformatics, Rostock University, Rostock, Germany
+ Funding:
+  - BMBF
+ Methods:
+  - time course
+-
  Reference: "Semenov SN, Ainla A, Skorb EV, Postma SG (2018) Four-Variable Model of an Enzymatic Oscillator Based on Trypsin. Israel Journal of Chemistry 58:781–786"
  Year: 2018
  Type: 2
