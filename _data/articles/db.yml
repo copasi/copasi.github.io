@@ -76,6 +76,23 @@
  Methods:
   - elementary flux modes
 -
+ Reference: "Iancu B, Sanwal U, Gratie C, Petre I (2019) Refinement-based modeling of the ErbB signaling pathway. Computers in Biology and Medicine 106:91–96"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.compbiomed.2019.01.016
+ Keywords:
+  - Signaling
+  - Computational Method
+ Locations:
+  - Computational Biomodeling Laboratory, Turku Centre for Computer Science, Finland
+  - Department of Computer Science, Åbo Akademi University, Finland
+  - Department of Mathematics and Statistics, University of Turku, Finland
+  - National Institute for Research and Development in Biological Sciences, Romania
+ Funding:
+  - Academy of Finland
+ Methods:
+  - time course
+-
  Reference: "Jayanthi BEK, Zhao W, Segatori L (2019) Input-dependent post-translational control of the reporter output enhances dynamic resolution of mammalian signaling systems. Methods in Enzymology 622:1–27"
  Year: 2019
  Type: 2
