@@ -3862,24 +3862,6 @@
   - time course
   - parameter estimation
 -
- Reference: "Meng X, Firczuk H, Pietroni P, Westbrook R, Dacheux E, Mendes P, McCarthy JE (2016) Minimum-noise production of translation factor eIF4G maps to a mechanistically determined optimal rate control window for protein synthesis. Nucleic Acids Research 45:1015–1025"
- Year: 2016
- URL: https://doi.org/10.1093/nar/gkw1194
- Keywords:
-  - Biochemistry
-  - Macromolecular Biochemistry
- Type: 2
- Locations:
-  - University of Warwick, Coventry, UK
-  - University of Connecticut School of Medicine, Farmington, Connecticut, USA
- Funding:
-  - BBSRC
-  - NIH
-  - University of Warwick
- Methods:
-  - time course
-  - parameter estimation
--
  Reference: "Mizeranschi AE, Swain MT, Scona R, Fazilleau Q, Bosak B, Piontek T, Kopta P, Thompson P, Dubitzky W (2016) MultiGrain/MAPPER: A distributed multiscale computing approach to modeling and simulating gene regulation networks. Future Generation Computer Systems 63:1–14"
  Year: 2016
  URL: https://doi.org/10.1016/j.future.2016.04.002
