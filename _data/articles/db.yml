@@ -621,6 +621,23 @@
   - parameter estimation
   - time course
 -
+ Reference: "Miller DSJ, Schmierer B, Hill CS (2019) TGF-β family ligands exhibit distinct signalling dynamics that are driven by receptor localisation. Journal of Cell Science 132 doi:10.1242/jcs.234039"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1242/jcs.234039
+ Keywords:
+  - Signaling
+ Locations:
+  - The Francis Crick Institute, 1 Midland Road, London NW1 1AT, UK
+  - Karolinska Institutet, Biomedicum 9B, Solnavägen 9, SE-171 65 Solna, Stockholm, Sweden
+ Funding:
+  - Cancer Research UK
+  - MRC
+  - Wellcome Trust
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Moreno DF, Parisi E, Yahya G, Vaggi F, Csikász-Nagy A, Aldea M (2019) Competition in the chaperone-client network subordinates cell-cycle entry to growth and stress. Life Science Alliance 2:e201800277"
  Year: 2019
  Type: 2
