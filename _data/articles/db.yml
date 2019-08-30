@@ -68,6 +68,21 @@
  Methods: 
   - stochastic simulation
 -
+ Reference: "Beal DM, Bastow EL, Staniforth GL, von der Haar T, Freedman RB, Tuite MF (2019) Quantitative Analyses of the Yeast Oxidative Protein Folding Pathway In Vitro and In Vivo. Antioxidants & Redox Signaling 31:261–274"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1089/ars.2018.7615
+ Keywords:
+  - Macromolecular Biochemistry
+ Locations:
+  - School of Biosciences, University of Kent, Canterbury, United Kingdom
+  - School of Life Sciences, Gibbet Hill Campus, University of Warwick, Coventry, United Kingdom
+ Funding:
+  - BBSRC
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Belli RG, Wu Y, Ji H, Joshi A, Yunker LP, McIndoe JS, Rosenberg L (2019) Competitive Ligand Exchange and Dissociation in Ru Indenyl Complexes. Inorganic chemistry 58:747–755"
  Year: 2019
  Type: 2
