@@ -115,6 +115,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Bockwoldt M, Houry D, Niere M, Gossmann TI, Reinartz I, Schug A, Ziegler M, Heiland I (2019) Identification of evolutionary and kinetic drivers of NAD-dependent signaling. Proceedings of the National Academy of Sciences 116:15957–15966"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1073/pnas.1902346116
+ Keywords:
+  - Signaling
+  - Metabolism
+ Locations:
+  - UiT The Arctic University of Norway, 9017 Tromsø, Norway
+  - University of Bergen, 5006 Bergen, Norway
+  - University of Sheffield, S10 2TN Sheffield, United Kingdom
+  - Bielefeld University, 33501 Bielefeld, Germany
+  - Karlsruhe Institute of Technology, 76131 Karlsruhe, Germany
+  - Steinbuch Centre for Computing, Karlsruhe Institute of Technology, 76344 Eggenstein-Leopoldshafen, Germany
+  - John von Neumann Institute for Computing, Jülich Supercomputing Centre, Forschungszentrum Jülich, 52425 Jülich, Germany
+-
  Reference: "Chum AP, Shoemaker SR, Fleming PJ, Fleming KG (2019) Plasticity and transient binding are key ingredients of the periplasmic chaperone network. Protein Science 28:1340–1349"
  Year: 2019
  Type: 2
@@ -145,6 +161,20 @@
   - EU Erasmus
  Methods:
   - time course
+-
+ Reference: "Faraj SE, Centeno M, Rossi RC, Montes MR (2019) A kinetic comparison between E2P and the E2P-like state induced by a beryllium fluoride complex in the Na,K-ATPase. Interactions with Rb. Biochimica Et Biophysica Acta. Biomembranes 1861:355–365"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.bbamem.2018.10.020
+ Keywords:
+  - Enzymology
+ Locations:
+  - Universidad de Buenos Aires, Instituto de Química y Fisicoquímica Biológicas (IQUIFIB), Buenos Aires, Argentina.
+ Funding:
+  - CONICET
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Fecteau KM, Gould IR, Glein CR, Williams LB, Hartnett HE, Shock EL (2019) Production of Carboxylic Acids from Aldehydes under Hydrothermal Conditions: A Kinetics Study of Benzaldehyde. ACS Earth and Space Chemistry 3:170–191"
  Year: 2019
