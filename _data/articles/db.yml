@@ -206,6 +206,25 @@
   - Russian Foundation for Basic Research
   - Belarusian Republican Foundation for Fundamental Research
 -
+ Reference: "Feldman-Salit A, Veith N, Wirtz M, Hell R, Kummer U (2019) Distribution of control in the sulfur assimilation in Arabidopsis thaliana depends on environmental conditions. New Phytologist 222:1392–1404"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1111/nph.15704
+ Keywords:
+  - Metabolism
+ Locations:
+  - COS Heidelberg/Bioquant, Heidelberg University, 69120, Heidelberg, Germany
+ Funding:
+  - BIOMS 
+  - Klaus Tschira Foundation 
+  - CellNetworks EcTop6
+ Methods:
+  - parameter estimation
+  - parameter scan
+  - time course
+  - steady state
+  - MCA
+-
  Reference: "Hochberg D, Ribó JM (2019) Entropic Analysis of Mirror Symmetry Breaking in Chiral Hypercycles. Life 9:28"
  Year: 2019
  Type: 2
