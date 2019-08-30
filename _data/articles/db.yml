@@ -551,6 +551,22 @@
  Methods:
   - time course
 -
+ Reference: "Li L, Lai M, Cole S, Novère NL, Edelstein SJ (2019) Neurogranin Stimulates Ca2+/calmodulin-dependent Kinase II by Inhibiting Calcineurin at Specific Calcium Spike Frequencies. bioRxiv:597278"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1101/597278
+ Keywords: 
+  - Signaling
+ Locations:
+  - Babraham Institute, Cambridge, United Kingdom
+  - Quantitative Systems Pharmacology, CERTARA, Canterbury, United Kingdom 
+  - Cambridge Systems Biology Centre, University of Cambridge, Cambridge, United Kingdom 
+  - aSciStance Ltd, Cambridge, United Kingdom 
+  - Scipio bioscience, Paris, France
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Mandal M, Luke AM, Dereli B, Elwell CE, Reineke TM, Tolman WB, Cramer CJ (2019) Computational Prediction and Experimental Verification of ε-Caprolactone Ring-Opening Polymerization Activity by an Aluminum Complex of an Indolide/Schiff-Base Ligand. ACS Catalysis 9:885–889"
  Year: 2019
  Type: 2
