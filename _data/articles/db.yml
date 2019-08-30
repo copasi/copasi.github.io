@@ -638,6 +638,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Mitchell S, Hoffmann A (2019) Substrate complex competition is a regulatory motif that allows NFκB RelA to license but not amplify NFκB RelB. Proceedings of the National Academy of Sciences of the United States of America 116:10592–10597"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1073/pnas.1816000116
+ Keywords:
+  - Signaling
+ Locations:
+  - Institute for Quantitative and Computational Biosciences, University of California, Los Angeles, CA 90095, United States 
+  - Department of Microbiology, Immunology, and Molecular Genetics, University of California, Los Angeles, CA 90095, United States
+ Funding:
+  - NIH
+ Methods:
+  - time course
+-
  Reference: "Moreno DF, Parisi E, Yahya G, Vaggi F, Csikász-Nagy A, Aldea M (2019) Competition in the chaperone-client network subordinates cell-cycle entry to growth and stress. Life Science Alliance 2:e201800277"
  Year: 2019
  Type: 2
