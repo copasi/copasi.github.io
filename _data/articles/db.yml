@@ -519,6 +519,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Lang SN, Germerodt S, Glock C, Skerka C, Zipfel PF, Schuster S (2019) Molecular crypsis by pathogenic fungi using human factor H. A numerical model. PloS One 14:e0212187"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pone.0212187
+ Keywords:
+  - Immunology
+  - Microbiology
+ Locations:
+  - Department of Bioinformatics, Friedrich Schiller University Jena, Jena, Germany
+  - Department of Infection Biology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany
+ Funding:
+  - DFG
+ Methods:
+  - time course
+-
  Reference: "Mandal M, Luke AM, Dereli B, Elwell CE, Reineke TM, Tolman WB, Cramer CJ (2019) Computational Prediction and Experimental Verification of ε-Caprolactone Ring-Opening Polymerization Activity by an Aluminum Complex of an Indolide/Schiff-Base Ligand. ACS Catalysis 9:885–889"
  Year: 2019
  Type: 2
