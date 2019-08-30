@@ -503,6 +503,22 @@
  Methods:
   - time course
 -
+ Reference: "Kühn C, Checa S (2019) Computational Modeling to Quantify the Contributions of VEGFR1, VEGFR2, and Lateral Inhibition in Sprouting Angiogenesis. Frontiers in Physiology 10:288"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.3389/fphys.2019.00288
+ Keywords:
+  - Signaling
+  - Physiology
+ Locations:
+  - Charite - Universitätsmedizin Berlin, Berlin, Germany
+ Funding:
+  - DFG
+  - Einstein Stiftung Berlin
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Mandal M, Luke AM, Dereli B, Elwell CE, Reineke TM, Tolman WB, Cramer CJ (2019) Computational Prediction and Experimental Verification of ε-Caprolactone Ring-Opening Polymerization Activity by an Aluminum Complex of an Indolide/Schiff-Base Ligand. ACS Catalysis 9:885–889"
  Year: 2019
  Type: 2
