@@ -362,6 +362,21 @@
  Methods:
   - time course
 -
+ Reference: "Jahagirdar S, Suarez-Diez M, Saccenti E (2019) Simulation and Reconstruction of Metabolite-Metabolite Association Networks Using a Metabolic Dynamic Model and Correlation Based Algorithms. Journal of Proteome Research 18:1099–1113"
+ Year: 2019
+ Type: 3
+ URL: https://doi.org/10.1021/acs.jproteome.8b00781
+ Keywords:
+  - Computational Method
+  - Metabolism
+ Locations:
+  - Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, 6708WE Wageningen, The Netherlands
+ Funding:
+  - EU FP7
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Jayanthi BEK, Zhao W, Segatori L (2019) Input-dependent post-translational control of the reporter output enhances dynamic resolution of mammalian signaling systems. Methods in Enzymology 622:1–27"
  Year: 2019
  Type: 2
