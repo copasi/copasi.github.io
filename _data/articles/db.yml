@@ -652,6 +652,22 @@
  Methods:
   - time course
 -
+ Reference: "Mitchell S, Mercado E, Ho J, Cheng Q, Ghosh G, Hoffmann A (2019) An NFκB Activity Calculator to Delineate Signaling Crosstalk: Type I and II Interferons Enhance NFκB via Distinct Mechanisms. Frontiers in Immunology 10:1425"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.3389/fimmu.2019.01425
+ Keywords:
+  - Signaling
+ Locations:
+  - Institute for Quantitative and Computational Biosciences, University of California Los Angeles, Los Angeles, CA 90095, United States
+  - Department of Chemistry and Biochemistry, University of California, San Diego, La Jolla, CA, United States
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - events
+  - parameter scan
+-
  Reference: "Moreno DF, Parisi E, Yahya G, Vaggi F, Csikász-Nagy A, Aldea M (2019) Competition in the chaperone-client network subordinates cell-cycle entry to growth and stress. Life Science Alliance 2:e201800277"
  Year: 2019
  Type: 2
