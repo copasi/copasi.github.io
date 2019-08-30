@@ -377,6 +377,23 @@
   - parameter estimation
   - time course
 -
+ Reference: "Jaime JC, Mesa-Álvarez MD, Martin RR, Betancourt-Mar JA, Cocho G, Mansilla R, Nieto-Villar JM (2019) Chronotherapy of cancer: periodic perturbations in vascular growth and metastasis. Biological Rhythm Research 50:495–504"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1080/09291016.2018.1465698
+ Keywords:
+  - Physiology
+ Locations:
+  - Department of Chemical-Physics, Faculty of Chemistry, University of Havana, Havana, Cuba
+  - Mexican Institute of Complex Systems, Tamaulipas, Mexico
+  - UNAM, Mexico City, Mexico
+ Funding:
+  - CEIICH
+  - Institute of Physics of the UNAM, Mexico
+ Methods:
+  - time course
+  - Lyapunov exponents
+-
  Reference: "Jayanthi BEK, Zhao W, Segatori L (2019) Input-dependent post-translational control of the reporter output enhances dynamic resolution of mammalian signaling systems. Methods in Enzymology 622:1–27"
  Year: 2019
  Type: 2
