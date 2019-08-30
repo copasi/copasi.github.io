@@ -607,7 +607,19 @@
  Methods:
   - time course
   - steady state
-  - mca
+  - MCA
+-
+ Reference: "Meyer-Almes F-J (2019) Determination of the binding mechanism of histone deacetylase inhibitors. Chemical Biology & Drug Design 93:1214–1250"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1111/cbdd.13449
+ Keywords:
+  - Enzymology
+ Locations:
+  - Department of Chemical Engineering and Biotechnology, University of Applied Sciences, Darmstadt, Germany
+ Methods:
+  - parameter estimation
+  - time course
 -
  Reference: "Moreno DF, Parisi E, Yahya G, Vaggi F, Csikász-Nagy A, Aldea M (2019) Competition in the chaperone-client network subordinates cell-cycle entry to growth and stress. Life Science Alliance 2:e201800277"
  Year: 2019
