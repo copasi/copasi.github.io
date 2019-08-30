@@ -319,6 +319,21 @@
  Methods:
   - elementary flux modes
 -
+ Reference: "Hodgson D, Rowan AD, Falciani F, Proctor CJ (2019) Systems biology reveals how altered TGFβ signalling with age reduces protection against pro-inflammatory stimuli. PLoS Computational Biology 15:e1006685"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1006685
+ Keywords:
+  - Signaling
+ Locations:
+  - Institute of Cellular Medicine, Campus for Ageing and Vitality, Newcastle University, Newcastle upon Tyne, United Kingdom
+  - Institute of Integrative Biology, University of Liverpool, Liverpool, United Kingdom
+ Funding:
+  - MRC
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Iancu B, Sanwal U, Gratie C, Petre I (2019) Refinement-based modeling of the ErbB signaling pathway. Computers in Biology and Medicine 106:91–96"
  Year: 2019
  Type: 2
