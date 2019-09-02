@@ -736,6 +736,36 @@
   - time course
   - parameter estimation
 -
+ Reference: "Nielsen CD-T, Mooij WJ, Sale D, Rzepa HS, Burés J, Spivey AC (2019) Reversibility and reactivity in an acid catalyzed cyclocondensation to give furanochromanes - a reaction at the “oxonium-Prins” vs. “ortho-quinone methide cycloaddition” mechanistic nexus. Chemical Science 10:406–412"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1039/c8sc04302g
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Imperial College London, Exhibition Road, London, SW7 2AZ, UK
+  - "Process Studies Group, Syngenta, Jealott's Hill, Bracknell, Berkshire, RG42 6EY, UK"
+  - School of Chemistry, University of Manchester, Oxford Road, Manchester, M13 9PL, UK
+ Funding:
+  - Syngenta
+  - EU FP7
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Ohadi D, Schmitt DL, Calabrese B, Halpain S, Zhang J, Rangamani P (2019) Computational modeling reveals frequency modulation of calcium-cAMP/PKA pathway in dendritic spines. bioRxiv:521740"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1101/521740
+ Keywords:
+  - Signaling
+ Locations:
+  - University of California San Diego, La Jolla, CA, USA
+ Methods:
+  - time course
+  - parameter estimation
+  - stochastic simulation
+-
  Reference: "Rampioni G, Leoni L, Stano P (2019) Molecular Communications in the Context of “Synthetic Cells” Research. IEEE Transactions on NanoBioscience 18:43–50"
  Year: 2019
  Type: 2
