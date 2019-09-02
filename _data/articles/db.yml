@@ -806,6 +806,21 @@
  Locations:
   - Virginia Tech, Blacksburg, VA, USA
 -
+ Reference: "Parmar JH, Mendes P (2019) A computational model to understand mouse iron physiology and disease. PLoS Computational Biology 15:e1006680"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1006680
+ Keywords:
+  - Physiology
+ Locations:
+  - University of Connecticut School of Medicine, Farmington, Connecticut, United States of America.
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - parameter estimation
+  - parameter scan
+-
  Reference: "Rampioni G, Leoni L, Stano P (2019) Molecular Communications in the Context of “Synthetic Cells” Research. IEEE Transactions on NanoBioscience 18:43–50"
  Year: 2019
  Type: 2
