@@ -761,10 +761,28 @@
   - Signaling
  Locations:
   - University of California San Diego, La Jolla, CA, USA
+ Funding: 
+  - Air Force Office of Scientific Research
+  - NIH
  Methods:
   - time course
   - parameter estimation
   - stochastic simulation
+-
+ Reference: "Özkar S, Finke RG (2019) Nanoparticle Formation Kinetics and Mechanistic Studies Important to Mechanism-Based Particle-Size Control: Evidence for Ligand-Based Slowing of the Autocatalytic Surface Growth Step Plus Postulated Mechanisms. The Journal of Physical Chemistry C 123:14047–14057"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1021/acs.jpcc.9b03220
+ Keywords: 
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Middle East Technical University, 06800 Ankara, Turkey
+  - Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523, United States
+ Funding:
+  - DOE
+ Methods:
+  - time course
+  - parameter estimation
 -
  Reference: "Rampioni G, Leoni L, Stano P (2019) Molecular Communications in the Context of “Synthetic Cells” Research. IEEE Transactions on NanoBioscience 18:43–50"
  Year: 2019
