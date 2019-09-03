@@ -2107,6 +2107,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Rodriguez J, Ren G, Day CR, Zhao K, Chow CC, Larson DR (2019) Intrinsic Dynamics of a Human Gene Reveal the Basis of Expression Heterogeneity. Cell 176:213-226.e18"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.cell.2018.11.026
+ Locations:
+  - National Cancer Institute, NIH, Bethesda, MD, USA
+  - National Heart, Lung, and Blood Institute, NIH, Behesda, MD, USA
+  - National Institute of Diabetes and Digestive and Kidney Diseases, NIH, Bethesda, MD, USA
+ Funding:
+  - NIH
+ Methods:
+  - stochastic simulation
+-
  Reference: "Rosas Lemus M, Roussarie E, Hammad N, Mougeolle A, Ransac S, Issa R, Mazat J-P, Uribe-Carvajal S, Rigoulet M, Devin A (2018) The role of glycolysis-derived hexose phosphates in the induction of the Crabtree effect. The Journal of Biological Chemistry 293:12843–12854"
  Year: 2018
  Type: 2
