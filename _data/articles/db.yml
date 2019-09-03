@@ -2157,6 +2157,24 @@
  Methods:
   - time course
 -
+ Reference: "Saavedra E, Encalada R, Vázquez C, Olivos-García A, Michels PAM, Moreno-Sánchez R (2019) Control and regulation of the pyrophosphate-dependent glucose metabolism in Entamoeba histolytica. Molecular and Biochemical Parasitology 229:75–87"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.molbiopara.2019.02.002
+ Keywords:
+  - Metabolism
+ Locations:
+  - Departamento de Bioquímica, Instituto Nacional de Cardiología Ignacio Chávez, Ciudad de México, 14080, Mexico
+  - Facultad de Medicina, Universidad Nacional Autónoma de México, Ciudad de México, 04510, Mexico
+  - School of Biological Sciences, The University of Edinburgh, Edinburgh, Scotland, United Kingdom
+ Funding:
+  - CONACyT-México
+  - BBSRC
+ Methods:
+  - time course
+  - steady state
+  - MCA
+-
  Reference: "Scharm M (2018) Improving Reproducibility and Reuse of Modelling Results in the Life Sciences. PhD Thesis, University of Rostock"
  Year: 2018
  Type: 3
