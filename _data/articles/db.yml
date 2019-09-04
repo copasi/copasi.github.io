@@ -1227,6 +1227,20 @@
  Methods:
   - time course
 -
+ Reference: "Whitehead CB, Finke RG (2019) Nucleation Kinetics and Molecular Mechanism in Transition-Metal Nanoparticle Formation: The Intriguing, Informative Case of a Bimetallic Precursor, {[(1,5-COD)IrI·HPO4]2}2–. Chemistry of Materials 31:2848–2862"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1021/acs.chemmater.8b05335
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523, United States
+ Funding:
+  - DOE
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Yvinec R, Ayoub MA, De Pascali F, Crépieux P, Reiter E, Poupon A (2019) Workflow Description to Dynamically Model β-Arrestin Signaling Networks. Methods in Molecular Biology 1957:195–215"
  Year: 2019
  Type: 3
