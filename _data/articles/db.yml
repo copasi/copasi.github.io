@@ -918,6 +918,22 @@
  Methods:
   - time course
 -
+ Reference: "Rawat KS, Mandal SC, Bhauriyal P, Garg P, Pathak B (2019) Catalytic upgrading of ethanol to n-butanol using an aliphatic Mn–PNP complex: theoretical insights into reaction mechanisms and product selectivity. Catalysis Science & Technology 9:2794–2805"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1039/C9CY00501C
+ Keywords:
+  - Chemistry
+ Locations:
+  - Indian Institute of Technology Indore, Simrol, Indore 453552, India
+ Funding:
+  - DST, India
+  - CSIR, India
+  - UGC, India
+  - MHRD, India
+ Methods:
+  - time course
+-
  Reference: "Robinson KJ, Gould IR, Fecteau KM, Hartnett HE, Williams LB, Shock EL (2019) Deamination reaction mechanisms of protonated amines under hydrothermal conditions. Geochimica et Cosmochimica Acta 244:113–128"
  Year: 2019
  Type: 2
@@ -2311,22 +2327,6 @@
  Methods:
   - time course
   - parameter estimation
--
- Reference: "Rawat KS, Mandal SC, Bhauriyal P, Garg P, Pathak B (2019) Catalytic upgrading of ethanol to n-butanol using an aliphatic Mn–PNP complex: theoretical insights into reaction mechanisms and product selectivity. Catalysis Science & Technology 9:2794–2805"
- Year: 2019
- Type: 2
- URL: https://doi.org/10.1039/C9CY00501C
- Keywords:
-  - Chemistry
- Locations:
-  - Indian Institute of Technology Indore, Simrol, Indore 453552, India
- Funding:
-  - DST, India
-  - CSIR, India
-  - UGC, India
-  - MHRD, India
- Methods:
-  - time course
 -
  Reference: "Revell J, Zuliani P (2018) Stochastic Rate Parameter Inference Using the Cross-Entropy Method.  In: Češka M., Šafránek D. (eds) Computational Methods in Systems Biology. CMSB2018. Lecture Notes in Computer Science, vol 11095. Springer, Cham pp.146–164"
  Year: 2018
