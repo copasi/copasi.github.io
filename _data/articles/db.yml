@@ -1141,6 +1141,18 @@
  Methods:
   - sensitivity analysis
 -
+ Reference: "Taran O, Patel V, Lynn DG (2019) Small molecule reaction networks that model the ROS dynamics of the rhizosphere. Chemical Communications (Cambridge, England) 55:3602–3605"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1039/c8cc08940j
+ Keywords:
+  - Chemistry
+ Locations:
+  - Emory University, 1515 Dickey Drive Atlanta, USA
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Wei Y, Mayoral-Delgado I, Stewart NA, Dymond MK (2019) Macromolecular crowding and membrane binding proteins: The case of phospholipase A1. Chemistry and Physics of Lipids 218:91–102"
  Year: 2019
  Type: 2
