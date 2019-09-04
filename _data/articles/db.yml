@@ -1181,6 +1181,27 @@
   - time course
   - parameter estimation
 -
+ Reference: "Wade OK, Woehrstein JB, Nickels PC, Strauss S, Stehr F, Stein J, Schueder F, Strauss MT, Ganji M, Schnitzbauer J, Grabmayr H, Yin P, Schwille P, Jungmann R (2019) 124-Color Super-resolution Imaging by Engineering DNA-PAINT Blinking Kinetics. Nano Letters 19:2641–2646"
+ Year: 2019
+ Type: 3
+ URL: https://doi.org/10.1021/acs.nanolett.9b00508
+ Keywords:
+  - Laboratory Method
+ Locations:
+  - Department of Physics and Center for Nanoscience, Ludwig Maximilian University, 80539 Munich, Germany
+  - Max Planck Institute of Biochemistry, 82152 Martinsried, Germany
+  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, Massachusetts 02138, United States
+  - Department of Systems Biology, Harvard Medical School, Boston, Massachusetts 02115, United States
+ Funding:
+  - DFG
+  - EU ERC
+  - Paul G. Allen Frontiers Group
+  - Max Planck Foundation
+  - NSF
+  - NIH
+ Methods:
+  - stochastic simulation
+-
  Reference: "Wei Y, Mayoral-Delgado I, Stewart NA, Dymond MK (2019) Macromolecular crowding and membrane binding proteins: The case of phospholipase A1. Chemistry and Physics of Lipids 218:91–102"
  Year: 2019
  Type: 2
