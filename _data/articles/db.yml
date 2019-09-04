@@ -903,6 +903,52 @@
  Methods:
   - time course
 -
+ Reference: "Robinson KJ, Gould IR, Fecteau KM, Hartnett HE, Williams LB, Shock EL (2019) Deamination reaction mechanisms of protonated amines under hydrothermal conditions. Geochimica et Cosmochimica Acta 244:113–128"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.gca.2018.09.020
+ Keywords:
+  - Chemistry
+ Locations:
+  - Arizona State University, Tempe, AZ 85287, United States
+ Funding:
+  - NSF
+  - NASA
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Rodriguez J, Ren G, Day CR, Zhao K, Chow CC, Larson DR (2019) Intrinsic Dynamics of a Human Gene Reveal the Basis of Expression Heterogeneity. Cell 176:213-226.e18"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.cell.2018.11.026
+ Locations:
+  - National Cancer Institute, NIH, Bethesda, MD, USA
+  - National Heart, Lung, and Blood Institute, NIH, Behesda, MD, USA
+  - National Institute of Diabetes and Digestive and Kidney Diseases, NIH, Bethesda, MD, USA
+ Funding:
+  - NIH
+ Methods:
+  - stochastic simulation
+-
+ Reference: "Saavedra E, Encalada R, Vázquez C, Olivos-García A, Michels PAM, Moreno-Sánchez R (2019) Control and regulation of the pyrophosphate-dependent glucose metabolism in Entamoeba histolytica. Molecular and Biochemical Parasitology 229:75–87"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.molbiopara.2019.02.002
+ Keywords:
+  - Metabolism
+ Locations:
+  - Departamento de Bioquímica, Instituto Nacional de Cardiología Ignacio Chávez, Ciudad de México, 14080, Mexico
+  - Facultad de Medicina, Universidad Nacional Autónoma de México, Ciudad de México, 04510, Mexico
+  - School of Biological Sciences, The University of Edinburgh, Edinburgh, Scotland, United Kingdom
+ Funding:
+  - CONACyT-México
+  - BBSRC
+ Methods:
+  - time course
+  - steady state
+  - MCA
+-
  Reference: "Sangavai C, Bharathi M, Ganesh SP, Chellapandi P (2019) Kinetic modeling of Stickland reactions-coupled methanogenesis for a methanogenic culture. AMB Express 9:82"
  Year: 2019
  Type: 2
@@ -2092,34 +2138,6 @@
   - optimization
   - stochastic simulation
 -
- Reference: "Robinson KJ, Gould IR, Fecteau KM, Hartnett HE, Williams LB, Shock EL (2019) Deamination reaction mechanisms of protonated amines under hydrothermal conditions. Geochimica et Cosmochimica Acta 244:113–128"
- Year: 2019
- Type: 2
- URL: https://doi.org/10.1016/j.gca.2018.09.020
- Keywords:
-  - Chemistry
- Locations:
-  - Arizona State University, Tempe, AZ 85287, United States
- Funding:
-  - NSF
-  - NASA
- Methods:
-  - time course
-  - parameter estimation
--
- Reference: "Rodriguez J, Ren G, Day CR, Zhao K, Chow CC, Larson DR (2019) Intrinsic Dynamics of a Human Gene Reveal the Basis of Expression Heterogeneity. Cell 176:213-226.e18"
- Year: 2019
- Type: 2
- URL: https://doi.org/10.1016/j.cell.2018.11.026
- Locations:
-  - National Cancer Institute, NIH, Bethesda, MD, USA
-  - National Heart, Lung, and Blood Institute, NIH, Behesda, MD, USA
-  - National Institute of Diabetes and Digestive and Kidney Diseases, NIH, Bethesda, MD, USA
- Funding:
-  - NIH
- Methods:
-  - stochastic simulation
--
  Reference: "Rosas Lemus M, Roussarie E, Hammad N, Mougeolle A, Ransac S, Issa R, Mazat J-P, Uribe-Carvajal S, Rigoulet M, Devin A (2018) The role of glycolysis-derived hexose phosphates in the induction of the Crabtree effect. The Journal of Biological Chemistry 293:12843–12854"
  Year: 2018
  Type: 2
@@ -2156,24 +2174,6 @@
   - EU COST
  Methods:
   - time course
--
- Reference: "Saavedra E, Encalada R, Vázquez C, Olivos-García A, Michels PAM, Moreno-Sánchez R (2019) Control and regulation of the pyrophosphate-dependent glucose metabolism in Entamoeba histolytica. Molecular and Biochemical Parasitology 229:75–87"
- Year: 2019
- Type: 2
- URL: https://doi.org/10.1016/j.molbiopara.2019.02.002
- Keywords:
-  - Metabolism
- Locations:
-  - Departamento de Bioquímica, Instituto Nacional de Cardiología Ignacio Chávez, Ciudad de México, 14080, Mexico
-  - Facultad de Medicina, Universidad Nacional Autónoma de México, Ciudad de México, 04510, Mexico
-  - School of Biological Sciences, The University of Edinburgh, Edinburgh, Scotland, United Kingdom
- Funding:
-  - CONACyT-México
-  - BBSRC
- Methods:
-  - time course
-  - steady state
-  - MCA
 -
  Reference: "Scharm M (2018) Improving Reproducibility and Reuse of Modelling Results in the Life Sciences. PhD Thesis, University of Rostock"
  Year: 2018
