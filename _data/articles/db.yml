@@ -1117,6 +1117,30 @@
  Methods:
   - optimization
 -
+ Reference: "Tang J, Gautam P, Gupta A, He L, Timonen S, Akimov Y, Wang W, Szwajda A, Jaiswal A, Turei D, Yadav B, Kankainen M, Saarela J, Saez-Rodriguez J, Wennerberg K, Aittokallio T (2019) Network pharmacology modeling identifies synergistic Aurora B and ZAK interaction in triple-negative breast cancer. NPJ systems biology and applications 5:20"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1038/s41540-019-0098-z
+ Keywords:
+  - Pharmacology
+  - Signaling
+ Locations:
+  - Faculty of Medicine, University of Helsinki, Helsinki, Finland
+  - Department of Mathematics and Statistics, University of Turku, Turku, Finland
+  - Center for Quantitative Medicine, University of Connecticut School of Medicine, Farmington, CT USA
+  - European Bioinformatics Institute (EMBL-EBI), Hinxton, UK
+  - Helsinki University Central Hospital, Helsinki, Finland
+  - Institute for Computational Biomedicine, Faculty of Medicine, Heidelberg University, Heidelberg, Germany
+  - Biotech Research & Innovation Centre (BRIC), University of Copenhagen, Copenhagen, Denmark
+ Funding:
+  - EU ERC 
+  - Academy of Finland
+  - Cancer Society of Finland
+  - Sigrid Juselius Foundation
+  - EU Marie Skłodowska-Curie
+ Methods:
+  - sensitivity analysis
+-
  Reference: "Wei Y, Mayoral-Delgado I, Stewart NA, Dymond MK (2019) Macromolecular crowding and membrane binding proteins: The case of phospholipase A1. Chemistry and Physics of Lipids 218:91–102"
  Year: 2019
  Type: 2
