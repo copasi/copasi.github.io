@@ -980,6 +980,22 @@
  Methods:
   - time course
 -
+ - Reference: "Schilling IE, Hess R, Bolotin J, Lal R, Hofstetter TB, Kohler H-PE (2019) Kinetic Isotope Effects of the Enzymatic Transformation of γ-Hexachlorocyclohexane by the Lindane Dehydrochlorinase Variants LinA1 and LinA2. Environmental Science & Technology 53:2353–2363"
+ Year: 2019
+ Type: 2
+ https://doi.org/10.1021/acs.est.8b04234
+ Keywords:
+  - Enzymology
+ Locations:
+  - Eawag, Swiss Federal Institute of Aquatic Science and Technology, CH-8600 Dübendorf, Switzerland
+  - Institute of Biogeochemistry and Pollutant Dynamics , ETH Zürich , CH-8092 Zürich , Switzerland
+  - Department of Zoology , University of Delhi , Delhi 110007 , India.
+ Funding:
+  - SNSF, Switzerland
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Schoch A (2019) Quantitative Analysis of Information Transfer in Signal Transduction. PhD Thesis, University of Heidelberg"
  Year: 2019
  Type: 2
