@@ -1038,6 +1038,18 @@
  Methods:
   - time course
 -
+ Reference: "Schweipert M, Jänsch N, Sugiarto WO, Meyer-Almes F-J (2019) Kinetically selective and potent inhibitors of HDAC8. Biological Chemistry 400:733–743"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1515/hsz-2018-0363
+ Keywords:
+  - Enzymology
+ Locations:
+  - Department of Chemical Engineering and Biotechnology, University of Applied Sciences Darmstadt, Stephanstr. 7, 64295 Darmstadt, Germany
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Shaw WM, Yamauchi H, Mead J, Gowers G-OF, Bell DJ, Öling D, Larsson N, Wigglesworth M, Ladds G, Ellis T (2019) Engineering a Model Cell for Rational Tuning of GPCR Signaling. Cell 177:782-796.e27"
  Year: 2019
  Type: 2
