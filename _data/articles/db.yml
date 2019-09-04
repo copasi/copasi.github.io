@@ -1007,6 +1007,25 @@
  Methods:
   - time course
 -
+ Reference: "Shaw WM, Yamauchi H, Mead J, Gowers G-OF, Bell DJ, Öling D, Larsson N, Wigglesworth M, Ladds G, Ellis T (2019) Engineering a Model Cell for Rational Tuning of GPCR Signaling. Cell 177:782-796.e27"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.cell.2019.02.023
+ Keywords:
+  - Synthetic Biology
+  - Signaling
+ Locations:
+  - Department of Bioengineering, Imperial College London, London SW7 2AZ, UK
+  - Department of Pharmacology, University of Cambridge, Cambridge CB2 1PD, UK
+  - Discovery Biology, Discovery Sciences, Innovative Medicines and Early Development Biotech Unit, AstraZeneca R&D, 431 50 Mölndal, Sweden
+  - Hit Discovery, Discovery Sciences, IMED Biotech Unit, AstraZeneca, Macclesfield SK10 4TG, UK
+ Funding:
+  - AstraZeneca
+  - BBSRC
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Sheppard S, Dikicioglu D (2019) Dynamic modelling of the killing mechanism of action by virus-infected yeasts. Journal of The Royal Society Interface 16:20190064"
  Year: 2019
  Type: 2
