@@ -10495,6 +10495,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Reyes-Palomares A, Sánchez-Jiménez F, Medina MÁ (2009) First steps in computational systems biology: A practical session in metabolic modeling and simulation. Biochemistry and Molecular Biology Education 37:178–181"
+ Year: 2009
+ Type: 2
+ URL: https://doi.org/10.1002/bmb.20281
+ Keywords:
+  - Education
+ Locations:
+  - Departamento de Biologı́a Molecular y Bioquı́mica, Facultad de Ciencias, Universidad de Málaga, E-29071 Málaga, Spain
+ Methods:
+  - time course
+  - steady state
+  - parameter scan
+  - MCA
+-
  Reference: "Ricagno S, Caccia S, Sorrentino G, Antonini G, Bolognesi M (2009) Human Neuroserpin: Structure and Time-Dependent Inhibition. Journal of Molecular Biology 388:109–121"
  Year: 2009
  URL: https://doi.org/10.1016/j.jmb.2009.02.056
