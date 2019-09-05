@@ -889,24 +889,6 @@
   - time course
   - steady state
 -
- Reference: "Peterson JR, Labhsetwar P, Ellermeier JR, Kohler PR, Jain A, Ha T, Metcalf WW, Luthey-Schulten Z (2014) Towards a computational model of a methane producing archaeum. Archaea 2014:898453"
- Year: 2019
- Type: 2
- URL: https://doi.org/10.1155/2014/898453
- Keywords:
-  - Metabolism
-  - Microbiology
-  - Whole-Cell Models
- Locations:
-  - University of Illinois at Urbana Champaign, Urbana, IL 61801, USA
- Funding:
-  - DOE
-  - NASA
-  - NIH
-  - NSF
- Methods:
-  - time course
--
  Reference: "Rampioni G, Leoni L, Stano P (2019) Molecular Communications in the Context of “Synthetic Cells” Research. IEEE Transactions on NanoBioscience 18:43–50"
  Year: 2019
  Type: 2
@@ -7220,11 +7202,12 @@
 -
  Reference: "Peterson JR, Labhsetwar P, Ellermeier JR, Kohler PR, Jain A, Ha T, Metcalf WW, Luthey-Schulten Z (2014) Towards a computational model of a methane producing archaeum. Archaea 2014:898453"
  Year: 2014
- URL: https://doi.org/10.1155/2014/898453
  Type: 2
+ URL: https://doi.org/10.1155/2014/898453
  Keywords:
-  - Whole-Cell Models
+  - Metabolism
   - Microbiology
+  - Whole-Cell Models
  Locations:
   - University of Illinois at Urbana Champaign, Urbana, IL 61801, USA
  Funding:
@@ -7232,6 +7215,8 @@
   - NASA
   - NIH
   - NSF
+ Methods:
+  - time course
 -
  Reference: "Phelix CF, Villareal G, LeBaron RG, Roberson DJ (2014) Biomarkers from biosimulations: Transcriptome-to-reactome™ Technology for individualized medicine. 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 3452–3455"
  Year: 2014
