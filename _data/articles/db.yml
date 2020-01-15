@@ -319,6 +319,22 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Firczuk H, Teahan J, Mendes P, McCarthy JEG (2019) Multisite rate control analysis identifies ribosomal scanning as the sole high-capacity/low-flux-control step in mRNA translation. The FEBS Journal doi:10.1111/febs.15059"
+ Year: 2019
+ URL: https://doi.org/10.1111/febs.15059
+ Type: 2
+ Keywords: 
+  - Macromolecular Biochemistry
+ Locations:
+  - School of Life Sciences, University of Warwick, Coventry, UK
+  - Center for Quantitative Medicine, UConn Health, Farmington, CT, USA
+ Funding:
+  - BBSRC
+  - NIH
+ Methods:
+  - steady state
+  - parameter scan
+-
  Reference: "Ghosh A, Radhakrishnan R (2019) Time-dependent antagonist-agonist switching in receptor tyrosine kinase-mediated signaling. BMC Bioinformatics 20:242"
  Year: 2019
  Type: 2
