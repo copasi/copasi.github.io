@@ -428,6 +428,36 @@
  Funding:
   - NSF
 -
+ Reference: "Hetmanski JHR, de Belly H, Busnelli I, Waring T, Nair RV, Sokleva V, Dobre O, Cameron A, Gauthier N, Lamaze C, Swift J, del Campo A, Starborg T, Zech T, Goetz JG, Paluch EK, Schwartz J-M, Caswell PT (2019) Membrane Tension Orchestrates Rear Retraction in Matrix-Directed Cell Migration. Developmental Cell 51:460-475.e10"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.devcel.2019.09.006
+ Keywords:
+  - Cell Biology
+  - Biophysics
+ Locations:
+  - School of Biological Sciences, University of Manchester, Manchester Manchester M13 9PT, UK
+  - University College London, London WC1E 6BT, UK
+  - INSERM UMR_S1109, Tumor Biomechanics, Strasbourg 67200, France
+  - Université de Strasbourg, Strasbourg 67000, France
+  - Fédération de Médecine Translationnelle de Strasbourg (FMTS), Strasbourg 67000, France
+  - Institute of Translational Medicine, Cellular and Molecular Physiology, University of Liverpool, Liverpool L69 3BX, UK
+  - Leibniz Institute for New Materials, Campus D226, 66123 Saarbruecken, Germany
+  - Barts Cancer Institute, Queen Mary University of London, London EC1M 6BQ, UK
+  - IFOM, the FIRC Institute for Molecular Oncology, Milan 20139, Italy
+  - Institut Curie - Centre de Recherche, PSL Research University, CNRS UMR 3666, INSERM U1143, 75248 Paris Cedex 05, France
+  - Department of Physiology, Development and Neuroscience, University of Cambridge, Cambridge CB2 3DY, UK
+ Funding:
+  - BBSRC
+  - Wellcome Trust
+  - MRC
+  - ARC
+  - INSERM
+ Methods:
+  - time course
+  - sensitivity analysis
+  - events
+-
  Reference: "Hochberg D, Ribó JM (2019) Entropic Analysis of Mirror Symmetry Breaking in Chiral Hypercycles. Life 9:28"
  Year: 2019
  Type: 2
