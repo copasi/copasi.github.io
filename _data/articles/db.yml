@@ -624,6 +624,20 @@
  Methods:
   - time course
 -
+ Reference: "Knight-Schrijver V (2019) Towards systems pharmacology models of druggable targets and disease mechanisms. Thesis, University of Cambridge"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.17863/CAM.36977
+ Keywords:
+  - Pharmacology
+  - Physiology
+  - Signaling
+ Locations:
+  - Babraham Institute, Cambridge, UK
+  - University of Cambridge, Cambridge, UK
+ Methods:
+  - time course
+-
  Reference: "Koeman M, Engel J, Jansen J, Buydens L (2019) Critical comparison of methods for fault diagnosis in metabolomics data. Scientific Reports 9:1123"
  Year: 2019
  Type: 3
