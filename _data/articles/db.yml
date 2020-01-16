@@ -349,6 +349,23 @@
   - time course
   - parameter estimation
 -
+ Reference: "Georgi V, Dubrovskiy A, Steigele S, Fernández‐Montalván AE ( (n.d.)) Considerations for improved performance of competition association assays analysed with the Motulsky–Mahan’s “kinetics of competitive binding” model. British Journal of Pharmacology doi:10.1111/bph.14841"
+ Year: 2019
+ URL: https://doi.org/10.1111/bph.14841
+ Type: 2
+ Keywords:
+  - Pharmacology
+ Locations:
+  - Bayer AG, Drug Discovery, Pharmaceuticals, Müllerstr. 178, Berlin 13353, Germany
+  - Research and Development, Genedata AG, Basel, Switzerland
+  - Software Engineering, Google Inc., Zürich, Switzerland
+  - Compound Screening, Institut de Recherches Servier, Croissy‐sur‐Seine, France
+ Funding:
+  - EU IMI
+  - EU FP7
+ Methods:
+  - time course
+-
  Reference: "Ghosh A, Radhakrishnan R (2019) Time-dependent antagonist-agonist switching in receptor tyrosine kinase-mediated signaling. BMC Bioinformatics 20:242"
  Year: 2019
  Type: 2
