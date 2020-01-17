@@ -776,6 +776,22 @@
  Keywords:
   - Computational Method
 -
+ Reference: "Malik-Sheriff RS, Glont M, Nguyen TVN, Tiwari K, Roberts MG, Xavier A, Vu MT, Men J, Maire M, Kananathan S, Fairbanks EL, Meyer JP, Arankalle C, Varusai TM, Knight-Schrijver V, Li L, Dueñas-Roca C, Dass G, Keating SM, Park YM, Buso N, Rodriguez N, Hucka M, Hermjakob H (2020) BioModels—15 years of sharing computational models in life science. Nucleic Acids Research 48:D407–D415"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1093/nar/gkz1055
+ Keywords:
+  - Software
+  - Computational Method
+ Locations:
+  - European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK
+  - Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK
+  - California Institute of Technology, Pasadena, 91125, CA, USA
+  - Beijing Proteome Research Center, Beijing Institute of Lifeomics, National Center for Protein Sciences, Beijing 102206, China
+ Funding:
+  - BBSRC
+  - EU IMI
+-
  Reference: "Mandal M, Luke AM, Dereli B, Elwell CE, Reineke TM, Tolman WB, Cramer CJ (2019) Computational Prediction and Experimental Verification of ε-Caprolactone Ring-Opening Polymerization Activity by an Aluminum Complex of an Indolide/Schiff-Base Ligand. ACS Catalysis 9:885–889"
  Year: 2019
  Type: 2
