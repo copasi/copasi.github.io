@@ -1235,6 +1235,21 @@
  Methods:
   - stochastic simulation
 -
+ Reference: "Rogers JA, Popp BV (2019) Operando Infrared Spectroscopy Study of Iron-Catalyzed Hydromagnesiation of Styrene: Explanation of Nonlinear Catalyst and Inhibitory Substrate Dependencies. Organometallics 38:4533–4538"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1021/acs.organomet.9b00492
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, West Virginia University, Morgantown, West Virginia 26506, United States
+ Funding:
+  - NSF
+  - American Chemical Society
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Ruggiero S, Versypt A (2019) SMBLtoODEpy: A software program for converting SBML models into ODE models in Python. Journal of Open Source Software 4:1643"
  Year: 2019
  Type: 3
