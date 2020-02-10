@@ -1221,6 +1221,19 @@
  Methods:
   - stochastic simulation
 -
+ Reference: "Ruggiero S, Versypt A (2019) SMBLtoODEpy: A software program for converting SBML models into ODE models in Python. Journal of Open Source Software 4:1643"
+ Year: 2019
+ Type: 3
+ URL: https://doi.org/10.21105/joss.01643
+ Keywords:
+  - Computational Method
+ Locations:
+  - School of Chemical Engineering, Oklahoma State University, 420 Engineering North, Stillwater, OK 74078, USA
+ Funding:
+  - Oklahoma Center for the Advancement of Science and Technology
+ Methods:
+  - time course
+-
  Reference: "Saavedra E, Encalada R, Vázquez C, Olivos-García A, Michels PAM, Moreno-Sánchez R (2019) Control and regulation of the pyrophosphate-dependent glucose metabolism in Entamoeba histolytica. Molecular and Biochemical Parasitology 229:75–87"
  Year: 2019
  Type: 2
