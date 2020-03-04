@@ -1416,6 +1416,19 @@
  Methods:
   - time course
 -
+ Reference: "Sinner EK, Lichstrahl MS, Li R, Marous DR, Townsend CA (2019) Methylations in complex carbapenem biosynthesis are catalyzed by a single cobalamin-dependent radical S-adenosylmethionine enzyme. Chemical Communications 55:14934–14937"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1039/C9CC07197K
+ Keywords:
+  - Enzymology
+ Locations:
+  - Department of Chemistry, Johns Hopkins University, 3400 N Charles St., Baltimore, MD 21218
+ Funding:
+  - NIH
+ Methods:
+  - parameter estimation
+-
  Reference: "Smith NE, Bernskoetter WH, Hazari N (2019) The Role of Proton Shuttles in the Reversible Activation of Hydrogen via Metal-Ligand Cooperation. Journal of the American Chemical Society 141:17350–17360"
  Year: 2019
  Type: 2
