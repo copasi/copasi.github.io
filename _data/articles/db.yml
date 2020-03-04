@@ -1550,6 +1550,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Virtanen O, Valev D, Kruse O, Wobbe L, TYYSTJÄRVI E (2019) Photoinhibition and continuous growth of the wild-type and a high-light tolerant strain of Chlamydomonas reinhardtii. Photosynthetica 57:617–626"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.32615/ps.2019.056
+ Keywords:
+  - Biochemistry
+  - Microbiology
+ Locations:
+  - Department of Biochemistry, University of Turku, 20014 Turku, Finland
+  - Faculty of Biology, Bielefeld University, Universitätsstrasse 27, 33615 Bielefeld, Germany
+ Funding:
+  - Academy of Finland
+  - NordForsk
+ Methods:
+  - parameter estimation
+-
  Reference: "Wade OK, Woehrstein JB, Nickels PC, Strauss S, Stehr F, Stein J, Schueder F, Strauss MT, Ganji M, Schnitzbauer J, Grabmayr H, Yin P, Schwille P, Jungmann R (2019) 124-Color Super-resolution Imaging by Engineering DNA-PAINT Blinking Kinetics. Nano Letters 19:2641–2646"
  Year: 2019
  Type: 3
