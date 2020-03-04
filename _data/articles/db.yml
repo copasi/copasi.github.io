@@ -1510,6 +1510,20 @@
  Methods:
   - sensitivity analysis
 -
+ Reference: "Tapia F, Laske T, Wasik MA, Rammhold M, Genzel Y, Reichl U (2019) Production of defective interfering particles of influenza A virus in parallel continuous cultures at two residence times–insights from qPCR measurements and viral dynamics modeling. Frontiers in bioengineering and biotechnology 7:275"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.3389/fbioe.2019.00275
+ Keywords:
+  - Biotechnology
+ Locations:
+  - Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
+  - Otto-von-Guericke-University Magdeburg, Magdeburg, Germany
+ Methods:
+  - parameter estimation
+ Funding:
+  - DARPA
+-
  Reference: "Taran O, Patel V, Lynn DG (2019) Small molecule reaction networks that model the ROS dynamics of the rhizosphere. Chemical Communications (Cambridge, England) 55:3602–3605"
  Year: 2019
  Type: 2
