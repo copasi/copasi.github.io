@@ -4431,7 +4431,10 @@ a.thumbnail.active {
 
 .media-float-left {
   float: left; }
-  
+
+.media-float-right {
+  float: right; }
+
 .list-group {
   margin-bottom: 20px;
   padding-left: 0; }
