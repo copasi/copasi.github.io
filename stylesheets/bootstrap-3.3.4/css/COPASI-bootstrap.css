@@ -1126,7 +1126,7 @@ img {
 
 .img-circle {
   border-radius: 50%; }
-
+ 
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -4429,6 +4429,9 @@ a.thumbnail.active {
   padding-left: 0;
   list-style: none; }
 
+.media-float-left {
+  float: left; }
+  
 .list-group {
   margin-bottom: 20px;
   padding-left: 0; }
