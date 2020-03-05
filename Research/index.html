@@ -66,7 +66,7 @@ section: Research
         {% for year in cps_article_years %}
         <div class="panel panel-default">
           {% assign count = 0 %}
-          <div class="panel-heading">{{ year }}</div>
+          <div class="panel-heading"><b>{{ year }}</b></div>
           {% for item in site.data.articles.db %}
           {% assign delta = item.Year | minus: year %}
           {% if delta == 0 %}
