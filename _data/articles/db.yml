@@ -1,4 +1,20 @@
 -
+ Reference: "Firczuk H, Teahan J, Mendes P, McCarthy JEG (2020) Multisite rate control analysis identifies ribosomal scanning as the sole high-capacity/low-flux-control step in mRNA translation. The FEBS Journal 287:925940"
+ Year: 2020
+ URL: https://doi.org/10.1111/febs.15059
+ Type: 2
+ Keywords: 
+  - Macromolecular Biochemistry
+ Locations:
+  - School of Life Sciences, University of Warwick, Coventry, UK
+  - Center for Quantitative Medicine, UConn Health, Farmington, CT, USA
+ Funding:
+  - BBSRC
+  - NIH
+ Methods:
+  - steady state
+  - parameter scan
+-
  Reference: "Adelson CN, Johnston EM, Hilmer KM, Watts H, Dey SG, Brown DE, Broderick JB, Shepard EM, Dooley DM, Solomon EI (2019) Characterization of the Preprocessed Copper Site Equilibrium in Amine Oxidase and Assignment of the Reactive Copper Site in Topaquinone Biogenesis. Journal of the American Chemical Society 141:8877–8890"
  Year: 2019
  Type: 2
@@ -319,22 +335,6 @@
  Methods:
   - parameter estimation
 -
- Reference: "Firczuk H, Teahan J, Mendes P, McCarthy JEG (2019) Multisite rate control analysis identifies ribosomal scanning as the sole high-capacity/low-flux-control step in mRNA translation. The FEBS Journal doi:10.1111/febs.15059"
- Year: 2019
- URL: https://doi.org/10.1111/febs.15059
- Type: 2
- Keywords: 
-  - Macromolecular Biochemistry
- Locations:
-  - School of Life Sciences, University of Warwick, Coventry, UK
-  - Center for Quantitative Medicine, UConn Health, Farmington, CT, USA
- Funding:
-  - BBSRC
-  - NIH
- Methods:
-  - steady state
-  - parameter scan
--
  Reference: "Fribourg M (2019) A case for the reuse and adaptation of mechanistic computational models to study transplant immunology. American Journal of Transplantation doi:10.1111/ajt.15623"
  Year: 2019
  URL: https://doi.org/10.1111/ajt.15623
@@ -349,7 +349,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Georgi V, Dubrovskiy A, Steigele S, Fernández‐Montalván AE ( (n.d.)) Considerations for improved performance of competition association assays analysed with the Motulsky–Mahan’s “kinetics of competitive binding” model. British Journal of Pharmacology doi:10.1111/bph.14841"
+ Reference: "Georgi V, Dubrovskiy A, Steigele S, Fernández‐Montalván AE (2019) Considerations for improved performance of competition association assays analysed with the Motulsky–Mahan’s “kinetics of competitive binding” model. British Journal of Pharmacology 176:4731-4744"
  Year: 2019
  URL: https://doi.org/10.1111/bph.14841
  Type: 2
