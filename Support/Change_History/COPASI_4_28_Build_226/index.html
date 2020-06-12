@@ -1,0 +1,147 @@
+---
+layout: structure
+title: "COPASI 4.28 Build 226"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.28.226</h3>
+    Release Date: June 12, 2020<br />
+    <h4>New Features since COPASI 4.27 (Build 217)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Performance improvements while switching to tables of species and reactions or the parameter overview
+            for large models through deferred loading.
+          </li>
+          <li>
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Added additional convergence criterion to the steady state calculation. The user can chose between
+            distance, rate, or both (default). 
+          </li>
+          <li>
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings
+        <ul>
+          <li>
+            The model analyzing tool is now available.
+          </li>
+          <li>
+          </li>
+        </ul>
+      </li>
+      <li> SBML
+        <ul>
+          <li>
+          </li>
+          <li>
+          </li>
+        </ul>
+      </li>
+      <li> SED-ML
+        <ul>
+          <li>
+          </li>
+          <li>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.27 (Build 217)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Fixed problem where changing species concentrations in the parameter overview was
+            not updated in the model.
+          </li>
+          <li>
+            The working directory is now correctly updated when saving a file to a different location.
+          </li>
+          <li>
+            Avoid race condition during model load or import through drag and drop which occasionally
+            caused a crash.
+          </li>
+          <li>
+            Added option to disable automatic resizing of table columns to decrease time to display.
+          </li>
+          <li>
+            Fixed header display in the parameter table of the optimization and parameter estimation tasks.
+          </li>
+          <li>
+            Fixed issue where the display of MIRIAM annotation could cause a crash after a new models is loaded.
+          </li>
+          <li>
+            Fixed undo of MIRIAM annotation for species. reactions, compartments, etc.
+          </li>
+          <li>
+            Fixed crash when switching a species, compartment, or global quantity with a noise term assigned
+            to no longer be of simulation type ODE.
+          </li>
+          <li>
+            Fixed crash caused by saving of existing plots after another model has been loaded into COPASI.
+          </li>
+          <li>
+            
+          </li>
+          <li>
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Avoid incorrect error messages about recursive dependencies.
+          </li>
+          <li>
+            Fixed issue where incorrect COPASI files could cause a crash due to missing attributes of type enum.
+          </li>
+          <li>
+            Fixed issue where occasionally the parameters of the time series sensitivities task where not
+            correctly read back from the COPASI file.
+          </li>
+          <li>
+            Fixed problem where an error during parameter scan would cause the subsequent scan parameter
+            to no be correctly updated and thus leading incorrect results.
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings
+        <ul>
+          <li>
+          </li>
+          <li>
+          </li>
+        </ul>
+      </li>
+      <li> SBML
+        <ul>
+          <li>
+            Fixed problem exporting the Avogadro constant.
+          </li>
+          <li>
+            Improved handling of malformed MIRIAM annotations which could COPASI to hang on import. 
+          </li>
+        </ul>
+      </li>
+      <li> SED-ML
+        <ul>
+          <li>
+            Fixed issue exporting plots of species without an SBML name.
+          </li>
+          <li>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
