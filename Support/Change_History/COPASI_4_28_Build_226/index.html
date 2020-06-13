@@ -17,6 +17,13 @@ structure: "Change_History"
             for large models through deferred loading.
           </li>
           <li>
+            Added line numbers to table of items in the report definition widget.
+          </li>
+          <li>
+            It is now possible to add/merge SBML models to the currently loaded model.
+          </li>
+          <li>
+            It is no possible to change the order of plot items and thus controlling the order in the legend.
           </li>
         </ul>
       </li>
@@ -27,6 +34,7 @@ structure: "Change_History"
             distance, rate, or both (default). 
           </li>
           <li>
+            Added advanced parameter to the Levenberg Marquardt method adjusting the step increase/decrease strategy. 
           </li>
         </ul>
       </li>
@@ -34,24 +42,6 @@ structure: "Change_History"
         <ul>
           <li>
             The model analyzing tool is now available.
-          </li>
-          <li>
-          </li>
-        </ul>
-      </li>
-      <li> SBML
-        <ul>
-          <li>
-          </li>
-          <li>
-          </li>
-        </ul>
-      </li>
-      <li> SED-ML
-        <ul>
-          <li>
-          </li>
-          <li>
           </li>
         </ul>
       </li>
@@ -91,9 +81,41 @@ structure: "Change_History"
             Fixed crash caused by saving of existing plots after another model has been loaded into COPASI.
           </li>
           <li>
-            
+            Fixed editing of multiple plot item simultaneously.
           </li>
           <li>
+            Fixed edition of the event flag persistent.
+          </li>
+          <li>
+            Changing the kinetic law unit type in the reaction widget was not recognized in
+            computational model until the next model compile.
+          </li>
+          <li>
+            Model volume changes were not correctly reflected in the compartment details widget.
+          </li>
+          <li>
+            Fixed uncaught error when editing the comment in a report definition.
+          </li>
+          <li>
+            Fixed occasional crash when deleting sliders which refer to no longer existing elements.
+          </li>
+          <li>
+            Fixed sorting of tables by numeric values including NaN.
+          </li>
+          <li>
+            Improved display of steady state results.
+          </li>
+          <li>
+            Fixed problem adjusting the initial time for non autonomous models.
+          </li>
+          <li>
+            Fixed occasional issue when applying a parameter set containing non local reaction parameters.
+          </li>
+          <li>
+            Fixed crash when deleting all events simultaneously.
+          </li>
+          <li>
+            Saving the sensitivity results contains now also the summary table.
           </li>
         </ul>
       </li>
@@ -113,13 +135,8 @@ structure: "Change_History"
             Fixed problem where an error during parameter scan would cause the subsequent scan parameter
             to no be correctly updated and thus leading incorrect results.
           </li>
-        </ul>
-      </li>
-      <li> Language Bindings
-        <ul>
           <li>
-          </li>
-          <li>
+            Added Root Mean Square (RMS) and Standard Deviation to the values selectable for plots and reports.
           </li>
         </ul>
       </li>
@@ -137,8 +154,6 @@ structure: "Change_History"
         <ul>
           <li>
             Fixed issue exporting plots of species without an SBML name.
-          </li>
-          <li>
           </li>
         </ul>
       </li>
