@@ -4,6 +4,17 @@ title: "Compartments"
 structure: "User_Manual"
 ---
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+MathJax = {
+  tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+};
+</script>
+<script type="text/javascript" id="MathJax-script" defer
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+
+
 <div class="row">
   <div class="col-xs-12">
 
@@ -166,17 +177,9 @@ structure: "User_Manual"
     <div class="alert alert-warning" role="alert"><span class="glyphicon glyphicon-exclamation-sign"
         aria-hidden="true"></span><span class="sr-only">Warning:</span> Please note, it is not possible in COPASI to
       calculate the volume of a compartment through an assignment based on the concentration of a species contained in
-      the compartment. The reason for this restriction is that COPASI preserves the amount <img class="latex-equation"
-        style="vertical-align: text-bottom; position: relative; bottom: +2px; height: 9; width: 9;"
-        src="cdb55e13c1386410543ebd3f34cf4a4c.png" alt="$S$"> of a species during calculation, which leads to the
-      following equation for the concentration <img class="latex-equation"
-        style="vertical-align: text-bottom; position: relative; bottom: -1px; height: 15; width: 60;"
-        src="5c85d773dbd2c2ebf90d0a31cf9d4b62.png" alt="$[S] = S/V$"> and therefore <img class="latex-equation"
-        style="vertical-align: text-bottom; position: relative; bottom: -1px; height: 15; width: 60;"
-        src="91712f4fb128ca863a7b7970721a8e13.png" alt="$V=S/[S]$">. Obviously, specifying any assignment for the
-      compartment volume like <img class="latex-equation"
-        style="vertical-align: text-bottom; position: relative; bottom: -1px; height: 15; width: 64;"
-        src="ba611369cb620a662e2e08275ca71fef.png" alt="$V = f([S])$"> would lead to conflicting values.</div><br />
+      the compartment. The reason for this restriction is that COPASI preserves the amount $S$ of a species during calculation, which leads to the
+      following equation for the concentration $[S] = S/V$ and therefore $V=S/[S]$. Obviously, specifying any assignment for the
+      compartment volume like $V = f([S])$ would lead to conflicting values.</div><br />
     <br />
     Likewise if you want the rate of change of the compartments volume to be determined by an ordinary differential
     equation (ode) you select the entry called ode from the drop down list.<br />
