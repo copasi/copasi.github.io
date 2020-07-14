@@ -36,11 +36,13 @@ MathJax = {
     simulation and the number of intervals that are being calculated in the time range. Alternatively to setting the
     number of intervals, you can also set the size of the interval. If you set either one, the other will be updated
     accordingly. Because if you change the duration, the number of intervals will stay the same, which means that the
-    interval size will be adjusted. The check box labeled Save Result in Memory tells COPASI to keep the result of the
-    time series calculation in memory in order to display it in a result dialog. Since this can be a large amount of
-    data depending on the size of your model and/or on the number of intervals you want COPASI to calculate, you should
-    disable this if you think the result might not fit into memory. The consequence of disabling this check box is that
-    you need to <a title="COPASI: Support/User Manual/Output/Manual Definition/Reports"
+    interval size will be adjusted. If you want to let the integrator choose what stepsize is needed, you can check
+    the <i>Automatic</i> box. Alternatively you can choose to manually specify the times at which you want to get output
+    from the integrator by entering space, or comma separated time values. The check box labeled Save Result in Memory 
+    tells COPASI to keep the result of the time series calculation in memory in order to display it in a result dialog. 
+    Since this can be a large amount of data depending on the size of your model and/or on the number of intervals you 
+    want COPASI to calculate, you should disable this if you think the result might not fit into memory. The 
+    consequence of disabling this check box is that you need to <a title="COPASI: Support/User Manual/Output/Manual Definition/Reports"
       href="{{ site.baseurl }}/Support/User_Manual/Output/Manual_Definition/Reports/">define a report</a> in order to
     store the results of the time course simulation.<br />
     <br />
