@@ -7,142 +7,164 @@ structure: "User_Manual"
 <div class="row">
   <div class="col-xs-12">
     <p>
-    COPASI has the possibility to read and display layout information from COPASI and SBML
-    files. An additional feature that comes with the diagram display is the possibility to display animations of time
-    course data from simulations. The layout information can either be obtained in the form of the SBML layout extension (see the
-    <a target="_blank" href="http://co.mbine.org/standards/sbml/level-3/version-1/layout" rel="external">SBML Layout Extension
-      Specification</a> for further information) or from a COPASI file that includes layout information. </p>
-      
+      COPASI has the possibility to read and display layout information from COPASI and SBML
+      files. An additional feature that comes with the diagram display is the possibility to display animations of time
+      course data from simulations. The layout information can either be obtained in the form of the SBML layout
+      extension (see the
+      <a target="_blank" href="http://co.mbine.org/standards/sbml/level-3/version-1/layout" rel="external">SBML Layout
+        Extension
+        Specification</a> for further information) or from a COPASI file that includes layout information. </p>
+
     <h3>Generating Layout in COPASI</h3>
+    <p>COPASI implements a force directed layout algorithm. To generate a new layout for the loaded model, you select
+      Model-&gt;Diagrams
+      from the tree, and click the <b>New</b> button in the list of layouts. </p>
+
+    <p><img class="img-responsive  center-block" border=0 alt="Empty list of Diagrams" title="Empty list of Diagrams"
+        src="Diagrams_empty.png"></p>
+
+    <p>This will open a wizard, that allows you to choose which metabolites
+      and reactions you want to create a layout for. By checking the checkbox <b>create compartment elements</b>, a
+      compartment representation
+      will also be created. The second page of the wizard is for specifying side-compounds. Selected metabolites will be
+      duplicated in the layout
+      for every reaction in which they occur, which can help to produce a cleaner layout. Upon confirmation, the auto
+      layout algorithm proceeds,
+      and you will be able to see the layout improving. Once the layout algorithm stops, you can move around elements
+      whose position you want to
+      improve. Hitting the <b>Play</b> button on the toolbar will start the layout algorithm from the current layout.
+      Optionally you can also
+      tweak the layout parameters, by choosing <b>Layout Parameters</b> from the <b>View</b> menu. Pressing the
+      <b>Dice</b> button, randomizes
+      the layout positions.</p>
+
+    <p><img class="img-responsive  center-block" border=0 alt="Generated Autolayout" title="Generated Autolayout"
+        src="Diagrams_autolayout.png"></p>
+
+    <p>The save button allows to export the displayed image as PDF, SVG or PNG. The <b>Layout</b> combo box, allows to
+      switch to another layout stored
+      in the file. For each layout the <b>Render Information</b> combo box has a selection of different styles for
+      rendering the layout.
+    </p>
 
     <h3>Obtaining Layout from other sources</h3>
 
     <p>There are several ways to create layout information for an SBML model. </p>
-    
-    <p><dl clas="row">
 
-      <dt class="col-sm-2" >CellDesigner</dt>
-      <dd class="col-sm-10"> <p>We implemented support for the graphical annotations used by <a href="http://celldesigner.org" target="_blank">CellDesigner</a> 
-       and so diagrams created with CellDesigner can be imported.</p></dd>
+    <p>
+    <dl clas="row">
 
-      <dt class="col-sm-2" >SABIO-RK</dt>
-      <dd class="col-sm-10"><p><a target="_blank" href="http://sabio.bioquant.uni-heidelberg.de/" rel="external">SABIO-RK</a> is a reaction
-        kinetics database that allows you to create SBML models from the entries in the database. The model can be saved as
-        an SBML file and it can also create layout information for the model.</p></dd>
+      <dt class="col-sm-2">CellDesigner</dt>
+      <dd class="col-sm-10">
+        <p>We implemented support for the graphical annotations used by <a href="http://celldesigner.org"
+            target="_blank">CellDesigner</a>
+          and so diagrams created with CellDesigner can be imported.</p>
+      </dd>
 
-      <dt class="col-sm-2" >SBML Layout Viewer</dt>
-      <dd class="col-sm-10"><p>Another web application that allows the user to add layout information to an SBML file is Frank Bergmanns <a
-        target="_blank" href="http://sysbioapps.spdns.org/Layout" rel="external">SBML Layout Viewer</a>. It allows the
-      user to influence the layout creation by setting some parameters.</p></dd>
+      <dt class="col-sm-2">SABIO-RK</dt>
+      <dd class="col-sm-10">
+        <p><a target="_blank" href="http://sabio.bioquant.uni-heidelberg.de/" rel="external">SABIO-RK</a> is a reaction
+          kinetics database that allows you to create SBML models from the entries in the database. The model can be
+          saved as
+          an SBML file and it can also create layout information for the model.</p>
+      </dd>
 
-      <dt class="col-sm-2" >SBW</dt>
-      <dd class="col-sm-10"><p>Franks Bergmanns layout creation tool is also part of <a target="_blank" href="http://sbw.sourceforge.net/"
-        rel="external">SBW</a> and since the latest Versions of COPASI do include SBW support, it is possible to send
-      a model from COPASI to the layout tool and get back a model with layout information. Networks can also be visually created using
-     JDesigner and then converted to SBML Layout.</p></dd>
+      <dt class="col-sm-2">SBML Layout Viewer</dt>
+      <dd class="col-sm-10">
+        <p>Another web application that allows the user to add layout information to an SBML file is Frank Bergmanns <a
+            target="_blank" href="http://sysbioapps.spdns.org/Layout" rel="external">SBML Layout Viewer</a>. It allows
+          the
+          user to influence the layout creation by setting some parameters.</p>
+      </dd>
 
-      <dt class="col-sm-2" >Sycamore</dt>
-      <dd class="col-sm-10">The <a target="_blank"
-        href="http://sycamore.h-its.org/sycamore/" rel="external">Sycamore web application</a> allows you to load SBML files, create
-      layout information for the model in the file and save the model with the layout information back to file. It
-      provides different methods for generating the layout and the layout can be modified manually as well.</dd>
+      <dt class="col-sm-2">SBW</dt>
+      <dd class="col-sm-10">
+        <p>Franks Bergmanns layout creation tool is also part of <a target="_blank" href="http://sbw.sourceforge.net/"
+            rel="external">SBW</a> and since the latest Versions of COPASI do include SBW support, it is possible to
+          send
+          a model from COPASI to the layout tool and get back a model with layout information. Networks can also be
+          visually created using
+          JDesigner and then converted to SBML Layout.</p>
+      </dd>
 
-    </dl></p><br/><br/>
+      <dt class="col-sm-2">Sycamore</dt>
+      <dd class="col-sm-10">The <a target="_blank" href="http://sycamore.h-its.org/sycamore/" rel="external">Sycamore
+          web application</a> allows you to load SBML files, create
+        layout information for the model in the file and save the model with the layout information back to file. It
+        provides different methods for generating the layout and the layout can be modified manually as well.</dd>
+
+    </dl>
+    </p><br /><br />
 
     <h3>Displaying the Diagrams</h3>
-    <p>If the model file you loaded contains layout information, the diagram table contains an entry for every layout that
-    is contained in the file. In order to display a specific layout, you have to either click on the show button beside
-    the layout or double click on the layout entry in the table.</p>
+    <p>If the model file you loaded contains layout information, the diagram table contains an entry for every layout
+      that
+      is contained in the file. In order to display a specific layout, you have to either click on the show button
+      beside
+      the layout or double click on the layout entry in the table.</p>
     <br />
-    <div class="img" align="center">
-      <table cellpadding="0" cellspacing="0">
-        <tr>
-          <td><img alt="" src="Diagrams_01.png" style="width:100%" border="0" /></td>
-        </tr>
-        <tr>
-          <td class="mini">Diagram&nbsp;Table&nbsp;with&nbsp;one&nbsp;Diagram&nbsp;Entry</td>
-        </tr>
-      </table>
-    </div><br />
+
+    <div class="row">
+      <br />
+      <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+        <p><img class="img-responsive  center-block" border=0
+            alt="Layout from SBML Layout / Render Extension, as exported by JDesigner and SBW"
+            title="Layout from SBML Layout / Render Extension, as exported by JDesigner and SBW" src="Diagrams_jd.png">
+        </p>
+      </div>
+
+      <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+        <p><img class="img-responsive  center-block" border=0 alt="Imported layout from CellDesigner Annotations"
+            title="Imported layout from CellDesigner Annotations" src="Diagrams_cd.png"></p>
+      </div>
+    </div>
     <br />
-    In the layout window that comes up, you can see some controls on the left side and on the right side you see the
-    actual layout. When the layout is first opened, all species are displayed as rectangles.<br />
-    <br />
-    <div class="img" align="center">
-      <table cellpadding="0" cellspacing="0">
-        <tr>
-          <td><img alt="" src="Diagrams_02.png" style="width:100%" border="0" /></td>
-        </tr>
-        <tr>
-          <td class="mini">
-            Diagram&nbsp;before&nbsp;loading&nbsp;Simulation&nbsp;Data.&nbsp;Some&nbsp;Controls&nbsp;are&nbsp;disabled.
-          </td>
-        </tr>
-      </table>
-    </div><br />
-    <br />
-    Currently the menu bar at the top contains two control elements. The first one is a button that allows you to read
-    time course data from COPASI if any has been calculated. If a time course has already been calculated when the
-    layout window is opened, this time course data is imported automatically. Each time you rerun the time course
-    simulation in COPASI, you have to reimport it to the layout if you want to display it.<br />
-    <br />
-    Since the time course data is copied when it is imported to the layout, you have to take care that you have enough
-    memory in your machine if you either have very large simulations or if you want to animate the data in many
-    different layout windows. In the future we will try to handle this more intelligently.<br />
-    <br />
-    The second control element in the toolbar is for zooming in and out of the layout view.<br />
-    <br />
-    If there is no time course data yet, many of the controls on the right side are disabled since they only make sense
-    in the context of animating simulation data. Once simulation data has been loaded via the button in the toolbar,
-    those controls are enabled.<br />
-    <br />
-    If you don't need the controls, but just want to look at the diagram, the individual controls can be hidden via the
-    View menu in the menu bar.<br />
-    <br />
-    In order to animate your simulation data, you can use the player controls at the bottom of the screen. The controls
-    look like the controls on a CD player and it should be easy to figure out what the individual buttons do. There are
-    buttons to start and stop the animation, as well as buttons to forward and rewind or single step through the
-    animation. You can also drag the slider beside the buttons to go to a certain time point within the animation.<br />
-    <br />
-    During the animation, the species are displayed as colored balls. The speed of the animation can be controlled by
-    the Frame rate element at the top of the controls.<br />
-    <br />
-    <div class="img" align="center">
-      <table cellpadding="0" cellspacing="0">
-        <tr>
-          <td><img alt="" src="Diagrams_03.png" style="width:100%" border="0" /></td>
-        </tr>
-        <tr>
-          <td class="mini">Diagram&nbsp;Window&nbsp;with&nbsp;paused&nbsp;Animation&nbsp;in&nbsp;Size&nbsp;mode.</td>
-        </tr>
-      </table>
-    </div><br />
-    <br />
-    Depending on the Mapping mode that is controlled by the radio button group with the same name, either the size of
-    the balls or the color changes to reflect the concentration of the species at a given time point.<br />
-    <br />
-    The radio button group above the Mapping group, called Scheduling Mode determines how the size or color of a species
-    is determined during an animation.<br />
-    <br />
-    If the control is set to <i>Individual Scaling</i>, the size (or color) of a species is determined by the minimum
-    and maximum value of that species. If the control is set to <i>Global Scaling</i>, the size or color is determined
-    by the minimum and maximum values of all species in the model.<br />
-    <br />
-    The last control element is the table with the names and concentrations of all species contained in the layout. The
-    concentration displayed is the concentration of the species at the given time point of the simulation. All species
-    that are checked vary their size or color during the animation, species tha are unchecked don't.<br />
-    <br />
-    There is also the possibility to export the current layout as a bitmap. In order to do this, you select the Create
-    Image menu item from the View menu. Currently, this only allows you the create a bitmap of the layout as it is
-    displayed. Parts that are not displayed because the window is to small are not written to the bitmap. So in order to
-    make a bitmap from large layouts, you might have to hide the controls as described above, make the layout window as
-    large as possible and change the zoom factor until the full layout is displayed in the layout window. We also hope
-    to make this more convenient in the future.<br />
-    <br />
-    Since this is an early version of the diagram display, there certainly are still many issues, but we hope that it
-    might be helpful nevertheless. If you have suggestions or complaints, please tell us, preferably via the <a
-      title="userforum" href="{{ site.baseurl }}/Support/User_Forum/">User Support Forum</a> or if you think it is a bug
-    via our <a href="http://tracker.copasi.org" rel="">Issue Tracker</a>.<br />
+
+    <h3>Displaying Task Results on the Layout</h3>
+    <p>It is possible to visualize the results of <i>Time Course Simulations</i>, <i>Elementary Modes</i> and <i>Mass
+        Conservation
+        Analysis</i> on the diagram. For Time courses, and elementary modes you will first have to run the corresponding
+      task. For
+      time courses, it is important that the option to keep results in memory is activated.</p>
+    <p>If no time course data, is available, a warning message will be displayed in the layouts status bar.</p>
+    <p>To load the data after running the corresponding task, you select the option from the file menu of the layout
+      window. Note: that
+      on operating systems, with a unified toolbar, you will first have to activate the layout window, as otherwise the
+      file menu COPASI
+      is active, not the one of the layout menu. Once this is done video player like controls will appear on the bottom
+      of the layout window.
+      Clicking the play button, will start the animation.</p>
+
+    <p><img class="img-responsive  center-block" border=0
+        alt="Time series result on top of an autogenerated layout, color mode"
+        title="Time series result on top of an autogenerated layout, color mode" src="Diagrams_auto_color.gif"></p>
+
+    <p>You can zoom around in the network, and move the elements around. In the preference menu you can change for each
+      individual element,
+      how it should be animated. You have the option of choosing between:
+    </p>
+    <ul>
+      <li><b>Scale mode</b>: the selected element will be scaled relative to the current size from start to end.</li>
+      <li><b>Color mode</b>: the selected elements coloring will be replaced with an interpolation from start to end
+        color in the specified range.</li>
+      <li><b>Shadow mode</b>: A shadow will be applied to the selected element, with the selected color, and the
+        strength of the shadow will be altered according to the specified range.</li>
+    </ul>
+    <p>For these modes, the scaling is either <b>Global</b> or <b>Individual</b>, global scaling will adjust the minimum
+      and maximum across all data, individual scaling only, for the corresponding element.
+      If the control is set to <i>Individual Scaling</i>, the size (or color) of a species is determined by the minimum
+      and maximum value of that species. If the control is set to <i>Global Scaling</i>, the size or color is determined
+      by the minimum and maximum values of all species in the model.<br /></p>
+
+      <p><img class="img-responsive  center-block" border=0
+        alt="Time series result on top of an imported layout, scale mode"
+        title="Time series result on top of an imported layout, scale mode" src="Diagrams_jd_size.gif"></p>
+
+
+    <p>We plan to enhance this visualization in the future, so if you have suggestions or complaints, please tell us,
+      preferably via the <a title="userforum" href="{{ site.baseurl }}/Support/User_Forum/">User Support Forum</a> or if
+      you think it is a bug
+      via our <a href="http://tracker.copasi.org" rel="">Issue Tracker</a>.</p>
     <br />
   </div>
 </div>
