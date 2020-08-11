@@ -1,0 +1,82 @@
+---
+layout: structure
+title: "COPASI 4.29 Build 228"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.29.229</h3>
+    Release Date: August 11, 2020<br />
+    <h4>New Features since COPASI 4.28 (Build 226)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Time course fluxes are now shown in the layout when playing back a time course.
+          </li>
+          <li>
+            The number of reactions a species is involved in is now shown in the species table.
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.28 (Build 226)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            The layout setting dialog is now using the display names in stead of the CN.
+          </li>
+          <li>
+            Updated introduction wizard images.
+          </li>
+          <li>
+            Added a tool bar menu to modify the layout effects for playing a time course.
+          </li>
+          <li>
+            Fixed coloring of scan task components which had been lost in the last release.
+          </li>
+          <li>
+            Fixed crash occurring when an object which is used in an expression is deleted by the user.
+          </li>
+          <li>
+            Fixed crash in the Qt Math-ML widget which occasionally caused a crash.
+          </li>
+          <li>
+            Fixed a crash which occasionally occurred after viewing the annotation tab. 
+          </li>
+          <li>
+            Fixed crash occasionally occurring when entering the time scale separation analysis result.
+          </li>
+          <li>
+            Improved advance editing of expressions by recognizing reaction fluxes based on the display name.
+          </li>
+          <li>
+            Fixed saving data of plots containing multiple curves.
+          </li>
+          <li>
+            Fixed parameter overview which did o show all entities when one of the groups was empty.
+          </li>
+          <li>
+            Fixed report of scan of steady-states which did not correctly show the current scan parameters.
+          </li>
+       </ul>
+      </li>
+      <li> Standards
+        <ul>
+          <li>
+            Improved SBML unit import to reproduce the exact same units as given on export.
+          </li>
+          <li>
+            Fixed SBML import of entities which had a name consisting of only white spaces by
+            using the SBML id instead.
+          </li>
+          <li>
+            Fixed crash when opening an invalid combine archive.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
