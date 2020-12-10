@@ -5,6 +5,7 @@
  URL: https://doi.org/10.3389/fimmu.2019.03091
  Keywords:
   - Immunology
+  - Signaling
  Locations:
   - Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, Netherlands
   - VU University Amsterdam, Amsterdam, Netherlands
@@ -1794,6 +1795,26 @@
   - MEXT, Japan
   - AMED, Japan
   - National Institutes of Natural Sciences, Japan
+ Methods:
+  - time course
+-
+ Reference: "Abudukelimu A, Barberis M, Redegeld FA, Sahin N, Westerhoff HV (2018) Predictable Irreversible Switching Between Acute and Chronic Inflammation. Frontiers in Immunology. Frontiers 9:1596" 
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.3389/fimmu.2018.01596
+ Keywords:
+  - Signaling
+  - Immunology
+ Locations:
+  - University of Amsterdam, Amsterdam, Netherlands
+  - Department of Molecular Cell Physiology, VU University Amsterdam, Amsterdam, Netherlands
+  - Department of Pharmaceutical Sciences, Utrecht University, Utrecht, Netherlands
+  - School for Chemical Engineering and Analytical Science, University of Manchester, Manchester, UK
+ Funding:
+  - University of Amsterdam 
+  - EU - FP7
+  - EU - Horizon 2020
+  - BBSRC
  Methods:
   - time course
 -
