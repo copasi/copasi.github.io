@@ -424,6 +424,22 @@
  Methods:
   - time course
 -
+ Reference: "Getz M, Swanson L, Sahoo D, Ghosh P, Rangamani P (2019) A predictive computational model reveals that GIV/girdin serves as a tunable valve for EGFR-stimulated cyclic AMP signals. Molecular Biology of the Cell 30:1621–1633"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1091/mbc.E18-10-0630
+ Keywords:
+  - Signaling
+  - Cell Biology
+ Funding:
+  - Army Research Office 
+  - Air Force Office of Scientific Research 
+  - NSF
+  - NIH
+ Methods:
+  - parameter estimation
+  - sensitivity analysis
+-
  Reference: "Ghorbani S, Szigetvari PD, Haavik J, Kleppe R (2020) Serine 19 phosphorylation and 14-3-3 binding regulate phosphorylation and dephosphorylation of tyrosine hydroxylase on serine 31 and serine 40. Journal of Neurochemistry 152:29–47"
  Year: 2019
  URL: https://doi.org/10.1111/jnc.14872
