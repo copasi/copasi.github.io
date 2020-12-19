@@ -157,6 +157,17 @@
   - time course
   - parameter estimation
 -
+ Reference: "Boba P (2019) Graphenrekonstruktion anhand abhängiger Zeitreihen in biologischen Netzwerken. Ph.D. Thesis, Technische Universität Darmstadt."
+ Year: 2019
+ URL: https://tuprints.ulb.tu-darmstadt.de/9128/
+ Type: 3
+ Keywords:
+  - Computational Method
+ Locations:
+  - Technical University of Darmstadt
+ Methods:
+  - C export
+-
  Reference: "Bockisch C, D. Lorance E, Shaver G, B. Williams L, E. Hartnett H, L. Shock E, R. Gould I (2019) Selective hydrothermal reductions using geomimicry. Green Chemistry 21:4159–4168"
  Year: 2019
  Type: 2
