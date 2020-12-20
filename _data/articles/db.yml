@@ -472,6 +472,19 @@
  Methods:
   - time course
 -
+ Reference: "Gianì F, Russo G, Pennisi M, Sciacca L, Frasca F, Pappalardo F (2019) Computational modeling reveals MAP3K8 as mediator of resistance to vemurafenib in thyroid cancer stem cells. Bioinformatics 35:2267–2275"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1093/bioinformatics/bty969
+ Keywords:
+  - Signaling
+  - Pharmacology
+ Locations:
+  - University of Catania, Catania, Italy
+ Methods:
+  - time course
+  - sensitivity analysis
+-
  Reference: "González-Chávez Z, Vázquez C, Mejia-Tlachi M, Márquez-Dueñas C, Manning-Cela R, Encalada R, Rodríguez-Enríquez S, Michels PAM, Moreno-Sánchez R, Saavedra E (2019) Gamma-glutamylcysteine synthetase and tryparedoxin 1 exert high control on the antioxidant system in Trypanosoma cruzi contributing to drug resistance and infectivity. Redox Biology 26:101231"
  Year: 2019
  Type: 2
