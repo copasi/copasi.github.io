@@ -926,6 +926,23 @@
  Methods:
   - time course
 -
+ Reference: "McKay AI, Bukvic AJ, Tegner BE, Burnage AL, Martı́nez-Martı́nez AJ, Rees NH, Macgregor SA, Weller AS (2019) Room Temperature Acceptorless Alkane Dehydrogenation from Molecular σ-Alkane Complexes. Journal of the American Chemical Society. American Chemical Society 141:11700–11712"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1021/jacs.9b05577
+ Keywords:
+  - Chemistry
+ Locations:
+  - Chemistry Research Laboratories, University of Oxford, Oxford OX1 3TA, UK
+  - Institute of Chemical Sciences, Heriot Watt University, Edinburgh EH14 4AS, UK
+ Funding:
+  - EPSRC
+  - Leverhulme Trust
+  - SCG Chemicals Co., Ltd, Thailand
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Meshram RJ, Goundge MB, Kolte BS, Gacche RN (2019) An in silico approach in identification of drug targets in Leishmania: A subtractive genomic and metabolic simulation analysis. Parasitology International 69:59–70"
  Year: 2019
  Type: 2
