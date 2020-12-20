@@ -1065,6 +1065,29 @@
  Methdos:
   - time course
 -
+ Reference: "Moreno DF, Jenkins K, Morlot S, Charvin G, Csikasz-Nagy A, Aldea M (2019) Proteostasis collapse, a hallmark of aging, hinders the chaperone-Start network and arrests cells in G1. eLife 8:e48240"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.7554/eLife.48240
+ Keywords:
+  - Signaling
+  - Cell Biology
+ Locations:
+  - CSIC, Spain
+  - King’s College London, UK;
+  - Institut de Génétique et de Biologie Moléculaire et Cellulaire, France
+  - Université de Strasbourg, France
+  - Pázmány Péter Catholic University, Hungary
+  - Universitat Internacional de Catalunya, Spain
+ Funding:
+  - Ministry of Economy and Competitiveness, Spain, 
+  - EU-FEDER
+  - EPSRC 
+  - Generalitat de Catalunya, Spain
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Moreno DF, Parisi E, Yahya G, Vaggi F, Csikász-Nagy A, Aldea M (2019) Competition in the chaperone-client network subordinates cell-cycle entry to growth and stress. Life Science Alliance 2:e201800277"
  Year: 2019
  Type: 2
