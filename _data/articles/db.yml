@@ -1561,6 +1561,26 @@
  Methods:
   - time course
 -
+ Reference: "Singh A, Marcoline FV, Veshaguri S, Kao AW, Bruchez M, Mindell JA, Stamou D, Grabe M (2019) Protons in small spaces: Discrete simulations of vesicle acidification. PLOS Computational Biology. Public Library of Science 15:e1007539"
+ Year: 2019
+ Type:2
+ URL: https://doi.org/10.1371/journal.pcbi.1007539
+ Keywords:
+  - Physiology
+ Locations:
+  - University of California Berkeley, Berkeley, California, USA
+  - University of California San Francisco, San Francisco, California, USA
+  - University of Copenhagen, Copenhagen, Denmark
+  - Carnegie Mellon University, Pittsburgh, Pennsylvania, USA
+  - National Institute of Neurological Disorders and Stroke, NIH, Bethesda, Maryland, USA
+ Funding:
+  - NIH
+  - University California Berkeley 
+  - Danish Council 
+  - Danish National Research Foundation
+ Methods:
+  - stochastic simulation
+-
  Reference: "Sinner EK, Lichstrahl MS, Li R, Marous DR, Townsend CA (2019) Methylations in complex carbapenem biosynthesis are catalyzed by a single cobalamin-dependent radical S-adenosylmethionine enzyme. Chemical Communications 55:14934–14937"
  Year: 2019
  Type: 2
