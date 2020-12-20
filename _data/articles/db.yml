@@ -854,6 +854,24 @@
   - time course
   - parameter estimation
 -
+ Reference: "Macikova L, Sinica V, Kadkova A, Villette S, Ciaccafava A, Faherty J, Lecomte S, Alves ID, Vlachova V (2019) Putative interaction site for membrane phospholipids controls activation of TRPA1 channel at physiological membrane potentials. The FEBS Journal 286:3664–3683"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1111/febs.14931
+ Keywords:
+  - Signaling
+  - Biochemistry
+ Locations:
+  - University of Bordeaux, Pessac, France
+  - Institute of Physiology, Academy of Sciences of the Czech Republic, Prague, Czech Republic
+  - Charles University in Prague, Czech Republic
+  - Fluidic Analytics, Chesterton Mill, Cambridge, UK
+ Funding:
+  - Czech Science Foundation 
+  - French Embassy in the Czech Republic.
+ Methods:
+  - parameter estimation
+-
  Reference: "Madec M (2019) Systemes heterogenes : outils CAO et applications. Habilitation à diriger la recherche, Strasbourg, Universite de Strasbourg."
  Year: 2019
  Type: 2
