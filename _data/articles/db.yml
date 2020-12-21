@@ -23,6 +23,30 @@
   - stability analysis
   - metabolic control analysis
 -
+ Reference: "Ajjolli Nagaraja A, Charton P, Cadet XF, Fontaine N, Delsaut M, Wiltschi B, Voit A, Offmann B, Damour C, Grondin-Perez B, Cadet F (2020) A Machine Learning Approach for Efficient Selection of Enzyme Concentrations and Its Application for Flux Optimization. Catalysts 10:291"
+ Year: 2020
+ Type: 3
+ URL: https://doi.org/10.3390/catal10030291
+ Keywords:
+  - Computational Method
+  - Metabolism
+ Locations:
+  - University of La Reunion, 97444 St Denis, France
+  - University of Paris, F-75015 Paris, France
+  - Laboratory of Excellence GR-Ex, Boulevard du Montparnasse, F-75015 Paris, France
+  - PEACCEL—Protein Engineering Accelerator, 6 Square Albin Cachot, 75013 Paris, France
+  - ACIB—Austrian Centre of Industrial Biotechnology, Petersgasse 14, 8010 Graz, Austria
+  - Université de Nantes, 2, Chemin de la Houssinière, 03 44322 Nantes, France
+ Funding:
+  - EU-FEDER
+  - Federal Ministry for Digital and Economic Affairs 
+  - Federal Ministry for Transport, Innovation and Technology 
+  - Styrian Business Promotion Agency SFG, Austria
+  - Standortagentur Tirol, Government of Lower Austria
+  - EU-FEDER
+ Methods:
+  - time course
+-
  Reference: "Firczuk H, Teahan J, Mendes P, McCarthy JEG (2020) Multisite rate control analysis identifies ribosomal scanning as the sole high-capacity/low-flux-control step in mRNA translation. The FEBS Journal 287:925940"
  Year: 2020
  URL: https://doi.org/10.1111/febs.15059
