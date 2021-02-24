@@ -1,0 +1,129 @@
+---
+layout: structure
+title: "COPASI 4.30 Build 240"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.30.240</h3>
+    Release Date: February 24, 20201<br />
+    <h4>New Features since COPASI 4.29 (Build 228)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Added intensive reaction flux to the steady-state results relevant for small compartments.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Added Just In Time compilation of all user defined mathematical expression to assembler code
+            significantly improving COPASI's <a href="{{ site.baseurl }}/News/2021/02/24/COPASI/">performance</a>.
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings
+        <ul>
+          <li>
+            It is now possible to capture data generated from tasks directly without using a temporary file.
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.29 (Build 228)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Loading a model parameter set with a name already in the model is no longer silently ignored.
+            Instead a new unique name is generated.
+          </li>
+          <li>
+            Fixed dragging an dropping of report items which may cause a crash in certain situations.
+          </li>
+          <li>
+            Improved layout of parameter estimation result widgets to better display Eigenvalues of the Fisher
+            Information Matrix.
+          </li>
+          <li>
+            Fixed problem where the deletion of a just created parameter set could cause a crash.
+          </li>
+          <li>
+            Fixed update of local reaction parameters in the parameter overview, which was not correctly refreshed.
+          </li>
+          <li>
+            Fixed problem updating the separator when editing a report definition.
+          </li>
+          <li>
+            Improved display of Elementary Flux Mode results where some table rows were not correctly adjusted. 
+          </li>
+          <li>
+            Improved object selection for Time Course Sensitivity task to include only and all relevant objects.
+          </li>
+          <li>
+            Fixed loading of XHTML comments including entities like &pi; (&amp;pi;).
+          </li>
+          <li>
+            Updated MIRIAM resources to correctly handle identifiers using https://.
+          </li>
+       </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Temporary Files for user with special characters in the name is now correctly handled.
+          </li>
+          <li>
+            Fixed issue with Hybrid LSODA integration method which was not correctly initialized on its initial use.
+          </li>
+          <li>
+            Fixed an issue where it was not possible to read extremely old COPASI files using user defined functions
+            with recent versions.
+          </li>
+          <li>
+            Fixed file permissions for COPASI files which in some situation under Linux did not respect umask settings.
+          </li>
+          <li>
+            Fixed report output of Elementary Flux Mode task.
+          </li>
+          <li>
+            Fixed tracking of  wall clock and CPU time in the Sensitivities Task.
+          </li>
+        </ul>
+      </li>
+       <li> Standards
+        <ul>
+          <li>
+            SED-ML export of plots may have used non-unique IDs for a variable if that variable occurred in multiple
+            curves.
+          </li>
+          <li>
+            SBML import no longer crashes if an event without a name and an id is encountered.
+          </li>
+          <li>
+            SBML unit import and export preserve the user specified volume unit instead of converting to liter.
+          </li>
+          <li>
+            SBML improved import of reactions with undefined stoichiometry which could crash COPASI.
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings
+        <ul>
+          <li>
+            Fixed problem where bindings terminated if the environment variable HOME was not set.
+          </li>
+          <li>
+            Language bindings no longer crash when calling getStringValue from a non existing variable.
+          </li>
+          <li>
+            It is now possible to create parameters of type Common Name (CN) in language bindings.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
