@@ -2019,6 +2019,19 @@
  Methods:
   - time course
 -
+ Reference: "Zimmer C, Leuba SI, Cohen T, Yaesoubi R (2019) Accurate quantification of uncertainty in epidemic parameter estimates and predictions using stochastic compartmental models. Statistical Methods in Medical Research 28:3591–3608"
+ Type: 2
+ Year:2019
+ URL: https://doi.org/10.1177/0962280218805780
+ Keywords: Epidemiology
+ Locations:
+  - Yale School of Public Health, New Haven, CT, USA
+  - Bosch Center for Artificial Intelligence, Robert Bosch GmbH, Renningen, Germany
+ Funding:
+  - DFG
+  - NIH Methods:
+  - stochastic simulation
+-
  Reference: "Abudukelimu A, Barberis M, Redegeld FA, Sahin N, Westerhoff HV (2018) Predictable Irreversible Switching Between Acute and Chronic Inflammation. Frontiers in Immunology. Frontiers 9:1596" 
  Year: 2018
  Type: 2
