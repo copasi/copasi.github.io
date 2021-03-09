@@ -47,7 +47,7 @@
  Methods:
   - time course
 -
- Reference: "Alexander JR, Packard MH, Hildebrandt AM, Ott AA, Topczewski JJ (2020) Divergent Mechanisms of the Banert Cascade with Propargyl Azides. The Journal of Organic Chemistry 85:3174–3181"
+ Reference: "Alexander JR, Packard MH, Hildebrandt AM, Ott AA, Topczewski JJ (2020) Divergent Mechanisms of the Banert Cascade with Propargyl Azides. Journal of Organic Chemistry 85:3174–3181"
  Year: 2020
  Type: 2
  URL: https://doi.org/10.1021/acs.joc.9b03061
@@ -2034,9 +2034,10 @@
 -
  Reference: "Zimmer C, Leuba SI, Cohen T, Yaesoubi R (2019) Accurate quantification of uncertainty in epidemic parameter estimates and predictions using stochastic compartmental models. Statistical Methods in Medical Research 28:3591–3608"
  Type: 2
- Year:2019
+ Year: 2019
  URL: https://doi.org/10.1177/0962280218805780
- Keywords: Epidemiology
+ Keywords: 
+  - Epidemiology
  Locations:
   - Yale School of Public Health, New Haven, CT, USA
   - Bosch Center for Artificial Intelligence, Robert Bosch GmbH, Renningen, Germany
