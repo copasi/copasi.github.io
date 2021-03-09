@@ -63,6 +63,25 @@
   - steady state
   - parameter scan
 -
+ Reference: "Garde R, Ewald J, Kovács ÁT, Schuster S (2020) Modelling population dynamics in a unicellular social organism community using a minimal model and evolutionary game theory. Open Biology 10:200206"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1098/rsob.200206
+ Keywords:
+  - Microbiology
+  - Metabolism
+  - Ecology
+ Locations:
+  - Department of Bioinformatics, Friedrich Schiller University Jena, Ernst-Abbe-Platz 2, 07743, Jena, Germany
+  - Max Planck Institute for Chemical Ecology, Hans-Knöll Str. 8, 07745, Jena, Germany
+  - Gulf University for Science and Technology, Hawally, 32093, Kuwait
+ Funding:
+  - Max Planck Society
+  - DFG
+ Methods:
+  - cross section
+  - time course
+-
  Reference: "Garde R, Ibrahim B, Schuster S (2020) Extending the minimal model of metabolic oscillations in Bacillus subtilis biofilms. Scientific Reports 10:5579"
  Year: 2020
  Type: 2
@@ -74,6 +93,25 @@
   - Department of Bioinformatics, Friedrich Schiller University Jena, Ernst-Abbe-Platz 2, 07743, Jena, Germany
   - Max Planck Institute for Chemical Ecology, Hans-Knöll Str. 8, 07745, Jena, Germany
   - Gulf University for Science and Technology, Hawally, 32093, Kuwait
+ Funding:
+  - Max Planck Society
+  - DFG
+ Methods:
+  - cross section
+  - time course
+-
+ Reference: "Garde R, Ibrahim B, Kovács ÁT, Schuster S (2020) Differential equation-based minimal model describing metabolic oscillations in Bacillus subtilis biofilms. Royal Society Open Science 7:190810"
+ Year: 2020 
+ URL: https://doi.org/10.1098/rsos.190810
+ Keywords:
+  - Microbiology
+  - Metabolism
+ Locations:
+  - Department of Bioinformatics, Friedrich Schiller University Jena, Ernst-Abbe-Platz 2, 07743, Jena, Germany
+  - Max Planck Institute for Chemical Ecology, Hans-Knöll Str. 8, 07745, Jena, Germany
+  - Gulf University for Science and Technology, Hawally, 32093, Kuwait
+  - DTU Bioengineering, Technical University of Denmark, Søltofts Plads Building 221, 2800 Kgs. Lyngby, Denmark
+ Funding:
  Funding:
   - Max Planck Society
   - DFG
