@@ -115,6 +115,26 @@
   - parameter estimation
   - time course
 -
+ Reference: "Bartoli V, Meaker GA, di Bernardo M, Gorochowski TE (2020) Tunable genetic devices through simultaneous control of transcription and translation. Nature Communications 11:2095"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1038/s41467-020-15653-7
+ Keywords:
+  - Synthetic Biology
+ Locations:
+  - School of Biological Sciences, University of Bristol, Life Sciences Building, Tyndall Avenue, Bristol, UK 
+  - Department of Engineering Mathematics, University of Bristol, Woodland Road, Bristol, UK
+  - School of Biosciences, Cardiff University, Museum Avenue, Cardiff, UK
+  - Department of Electrical Engineering and Information Technology, University of Naples Federico II, Via Claudio 21, Napoli, Italy
+ Funding:
+  - BBSRC
+  - EPSRC
+  - EU Horizon 2020
+  - Royal Society
+ Methods:
+  - steady state
+  - stochastic simulation
+-
  Reference: "Dhasmana A, Uniyal S, Anukriti  null, Kashyap VK, Somvanshi P, Gupta M, Bhardwaj U, Jaggi M, Yallapu MM, Haque S, Chauhan SC (2020) Topological and system-level protein interaction network (PIN) analyses to deduce molecular mechanism of curcumin. Scientific Reports 10:12045"
  Year: 2020
  Type: 2
