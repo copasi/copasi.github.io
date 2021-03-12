@@ -98,6 +98,23 @@
   - steady state
   - time course
 -
+ Reference: "Balzer CJ, James ML, Narvaez-Ortiz HY, Helgeson LA, Sirotkin V, Nolen BJ (2020) Synergy between Wsp1 and Dip1 may initiate assembly of endocytic actin networks. eLife 9:e60419"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.7554/eLife.60419
+ Keywords:
+  - Cell Biology
+  - Macromolecular Biochemistry
+ Locations:
+  - Department of Chemistry and Biochemistry, University of Oregon, Eugene, Oregon, USA
+  - Department of Cell and Developmental Biology, SUNY Upstate Medical University, Syracuse, New York, USA
+ Funding:
+  - NIH
+  - American Heart Association
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Dhasmana A, Uniyal S, Anukriti  null, Kashyap VK, Somvanshi P, Gupta M, Bhardwaj U, Jaggi M, Yallapu MM, Haque S, Chauhan SC (2020) Topological and system-level protein interaction network (PIN) analyses to deduce molecular mechanism of curcumin. Scientific Reports 10:12045"
  Year: 2020
  Type: 2
