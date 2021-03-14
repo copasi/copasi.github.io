@@ -135,6 +135,27 @@
   - steady state
   - stochastic simulation
 -
+ Reference: "Benchoam D, Semelak JA, Cuevasanta E, Mastrogiovanni M, Grassano JS, Ferrer-Sueta G, Zeida A, Trujillo M, Möller MN, Estrin DA, Alvarez B (2020) Acidity and nucleophilic reactivity of glutathione persulfide. The Journal of Biological Chemistry 295:15466–15481"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1074/jbc.RA120.014728
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Facultad de Ciencias, Universidad de la República, Montevideo, Uruguay
+  - Facultad de Medicina, Universidad de la República, Montevideo, Uruguay
+  - Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
+ Funding:
+  - Universidad de la República, Uruguay
+  - Agencia Nacional de Investigación e Innovación (ANII), Uruguay
+  - Ministerio de Educación y Cultura, Uruguay
+  - Universidad de Buenos Aires
+  - Agencia Nacional de Promoción Científica y Tecnológica, Argentina
+  - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
+  - PEDECIBA, Uruguay
+ Methods:
+  - parameter estimation
+-
  Reference: "Dhasmana A, Uniyal S, Anukriti  null, Kashyap VK, Somvanshi P, Gupta M, Bhardwaj U, Jaggi M, Yallapu MM, Haque S, Chauhan SC (2020) Topological and system-level protein interaction network (PIN) analyses to deduce molecular mechanism of curcumin. Scientific Reports 10:12045"
  Year: 2020
  Type: 2
