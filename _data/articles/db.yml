@@ -298,22 +298,6 @@
  Methods:
   - parameter estimation
 -
- Reference: "Dooley III CJ, Burtea A, Mitilian C, Dao WT, Qu B, Salzameda NT, Rychnovsky SD (2020) Using the Competing Enantioselective Conversion Method to Assign the Absolute Configuration of Cyclic Amines with Bode’s Acylation Reagents. The Journal of Organic Chemistry 85:10750–10759"
- Year: 2020
- Type: 2
- URL: https://doi.org/10.1021/acs.joc.0c01275
- Keywords:
-  - Chemistry
- Locations:
-  - Department of Chemistry, 1102 Natural Sciences II, University of California at Irvine, Irvine, California 92697, USA
-  - Department of Chemistry and Biochemistry, California State University Fullerton, Fullerton, California 92834, USA
-  - Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, Connecticut 06877, USA
- Funding:
-  - NSF
-  - Allergan Foundation
- Methods:
-  - time course
--
  Reference: "Dhasmana A, Uniyal S, Anukriti  null, Kashyap VK, Somvanshi P, Gupta M, Bhardwaj U, Jaggi M, Yallapu MM, Haque S, Chauhan SC (2020) Topological and system-level protein interaction network (PIN) analyses to deduce molecular mechanism of curcumin. Scientific Reports 10:12045"
  Year: 2020
  Type: 2
@@ -328,6 +312,22 @@
   - College of Nursing and Allied Health Sciences, Jazan University, Jazan, Saudi Arabia
  Funding:
   - NIH
+ Methods:
+  - time course
+-
+ Reference: "Dooley III CJ, Burtea A, Mitilian C, Dao WT, Qu B, Salzameda NT, Rychnovsky SD (2020) Using the Competing Enantioselective Conversion Method to Assign the Absolute Configuration of Cyclic Amines with Bode’s Acylation Reagents. The Journal of Organic Chemistry 85:10750–10759"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1021/acs.joc.0c01275
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, 1102 Natural Sciences II, University of California at Irvine, Irvine, California 92697, USA
+  - Department of Chemistry and Biochemistry, California State University Fullerton, Fullerton, California 92834, USA
+  - Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, Connecticut 06877, USA
+ Funding:
+  - NSF
+  - Allergan Foundation
  Methods:
   - time course
 -
