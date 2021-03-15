@@ -285,6 +285,19 @@
  Methods:
   - time course
 -
+ Reference: "Dalle Pezze P, Karanasios E, Kandia V, Manifava M, Walker SA, Gambardella Le Novère N, Ktistakis NT (2020) ATG13 dynamics in nonselective autophagy and mitophagy: insights from live imaging studies and mathematical modeling. Autophagy DOI:10.1080/15548627.2020.1749401"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1080/15548627.2020.1749401
+ Keywords:
+  - Cell Biology
+ Locations:
+  - The Babraham Institute, Babraham Research Campus, Cambridge, UK
+ Funding:
+  - BBSRC
+ Methods:
+  - parameter estimation
+-
  Reference: "Dhasmana A, Uniyal S, Anukriti  null, Kashyap VK, Somvanshi P, Gupta M, Bhardwaj U, Jaggi M, Yallapu MM, Haque S, Chauhan SC (2020) Topological and system-level protein interaction network (PIN) analyses to deduce molecular mechanism of curcumin. Scientific Reports 10:12045"
  Year: 2020
  Type: 2
