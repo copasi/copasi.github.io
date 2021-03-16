@@ -455,6 +455,22 @@
  Methods:
   - time course
 -
+ Reference: "Gallego AM, Peñas-Defrutos MN, Marcos-Ayuso G, Martin-Alvarez JM, Martínez-Ilarduya JM, Espinet P (2020) Experimental study of speciation and mechanistic implications when using chelating ligands in aryl-alkynyl Stille coupling. Dalton Transactions 49:11336–11345"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1039/D0DT02335C
+ Keywords:
+  - Chemistry
+ Locations:
+  - Facultad de Ciencias, Universidad de Valladolid, 47071 Valladolid, Spain
+ Funding:
+  - Spanish MINECO 
+  - Junta de Castilla y León
+  - Spanish MECD for an FPU scholarship.
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Garde R, Ewald J, Kovács ÁT, Schuster S (2020) Modelling population dynamics in a unicellular social organism community using a minimal model and evolutionary game theory. Open Biology 10:200206"
  Year: 2020
  Type: 2
@@ -473,22 +489,6 @@
  Methods:
   - cross section
   - time course
--
- Reference: "Gallego AM, Peñas-Defrutos MN, Marcos-Ayuso G, Martin-Alvarez JM, Martínez-Ilarduya JM, Espinet P (2020) Experimental study of speciation and mechanistic implications when using chelating ligands in aryl-alkynyl Stille coupling. Dalton Transactions 49:11336–11345"
- Year: 2020
- Type: 2
- URL: https://doi.org/10.1039/D0DT02335C
- Keywords:
-  - Chemistry
- Locations:
-  - Facultad de Ciencias, Universidad de Valladolid, 47071 Valladolid, Spain
- Funding:
-  - Spanish MINECO 
-  - Junta de Castilla y León
-  - Spanish MECD for an FPU scholarship.
- Methods:
-  - time course
-  - parameter estimation
 -
  Reference: "Garde R, Ibrahim B, Schuster S (2020) Extending the minimal model of metabolic oscillations in Bacillus subtilis biofilms. Scientific Reports 10:5579"
  Year: 2020
