@@ -385,13 +385,28 @@
   - Macromolecular Biochemistry
  Locations:
   - School of Life Sciences, University of Warwick, Coventry, UK
-  - Center for Quantitative Medicine, UConn Health, Farmington, CT, USA
+  - Center for Quantitative Medicine, University of Connecticut School of Medicine, Farmington, CT, USA
  Funding:
   - BBSRC
   - NIH
  Methods:
   - steady state
   - parameter scan
+-
+ Reference: "Foth PJ, Malig TC, Yu H, Bolduc TG, Hein JE, Sammis GM (2020) Halide-Accelerated Acyl Fluoride Formation Using Sulfuryl Fluoride. Organic Letters 22:6682–6686"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1021/acs.orglett.0c02566
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of British Columbia, 2036 Main Mall, Vancouver, BC V6T 1Z1, Canada
+ Funding:
+  - Canadian Foundation for Innovation
+  - NSERC Canada
+ Methods:
+  - parameter estimation
+  - time course
 -
  Reference: "Garde R, Ewald J, Kovács ÁT, Schuster S (2020) Modelling population dynamics in a unicellular social organism community using a minimal model and evolutionary game theory. Open Biology 10:200206"
  Year: 2020
