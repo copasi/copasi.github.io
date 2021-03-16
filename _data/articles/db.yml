@@ -426,6 +426,20 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Fribourg M (2020) A case for the reuse and adaptation of mechanistic computational models to study transplant immunology. American Journal of Transplantation 20:355–361"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1111/ajt.15623
+ Keywords:
+  - Immunology
+ Locations:
+  - Icahn School of Medicine at Mount Sinai, Translational Transplant Research Center, New York, New York, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Garde R, Ewald J, Kovács ÁT, Schuster S (2020) Modelling population dynamics in a unicellular social organism community using a minimal model and evolutionary game theory. Open Biology 10:200206"
  Year: 2020
  Type: 2
