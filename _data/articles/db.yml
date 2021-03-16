@@ -542,6 +542,25 @@
  Methods:
   - steady state
 -
+ Reference: "Glont M, Arankalle C, Tiwari K, Nguyen TVN, Hermjakob H, Malik-Sheriff RS (2020) BioModels Parameters: a treasure trove of parameter values from published systems biology models. Bioinformatics 36:4649–4654"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1093/bioinformatics/btaa560
+ Keywords:
+  - Computational Method
+ Locations:
+  - European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK
+  - Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK
+ Funding:
+  - Innovative Medicines Initiative 2
+  - EU Horizon 2020 
+  - European Federation of Pharmaceutical Industries and Associations
+  - BBSRC
+  - European Molecular Biology Laboratory (EMBL)
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
