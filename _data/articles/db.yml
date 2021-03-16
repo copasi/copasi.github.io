@@ -544,7 +544,7 @@
 -
  Reference: "Glont M, Arankalle C, Tiwari K, Nguyen TVN, Hermjakob H, Malik-Sheriff RS (2020) BioModels Parameters: a treasure trove of parameter values from published systems biology models. Bioinformatics 36:4649–4654"
  Year: 2020
- Type: 2
+ Type: 3
  URL: https://doi.org/10.1093/bioinformatics/btaa560
  Keywords:
   - Computational Method
@@ -560,6 +560,21 @@
  Methods:
   - time course
   - parameter scan
+-
+ Reference: "Gutterød ES, Pulumati SH, Kaur G, Lazzarini A, Solemsli BG, Gunnæs AE, Ahoba-Sam C, Kalyva ME, Sannes JA, Svelle S, Skúlason E, Nova A, Olsbye U (2020) Influence of Defects and H2O on the Hydrogenation of CO2 to Methanol over Pt Nanoparticles in UiO-67 Metal-Organic Framework. Journal of the American Chemical Society 142:17105–17118"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1021/jacs.0c07153
+ Keywords:
+  - Chemistry
+ Locations:
+  - University of Oslo, N-0315 Oslo, Norway
+  - University of Iceland, 107, Iceland
+ Funding:
+  - Research Council of Norway 
+  - “Nordic Consortium for CO2 Conversion” NordForsk
+ Methods:
+  - time course
 -
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
