@@ -481,6 +481,19 @@
   - cross section
   - time course
 -
+ Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1038/s41598-020-70215-7
+ Keywords:
+  - Signaling
+ Locations:
+  - The University of Reading, Whiteknights, Reading, RG6 6AS, UK
+ Funding:
+  - British Heart Foundation
+ Methods:
+  - parameter estimation
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
