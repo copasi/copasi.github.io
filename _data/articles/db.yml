@@ -689,6 +689,22 @@
   - MCA
   - parameter scan
 -
+ Reference: "Khaliq W, Großmann P, Neugebauer S, Kleyman A, Domizi R, Calcinaro S, Brealey D, Gräler M, Kiehntopf M, Schäuble S, Singer M, Panagiotou G, Bauer M (2020) Lipid metabolic signatures deviate in sepsis survivors compared to non-survivors. Computational and Structural Biotechnology Journal 18:3678–3691"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1016/j.csbj.2020.11.009
+ Keywords:
+  - Metabolism
+ Locations:
+  - Division of Medicine, University College London, Glower Street, London WC1E 6BT, UK
+  - Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Adolf-Reichwein-Straße 23, D-07745 Jena, Germany
+  - Jena University Hospital, Am Klinikum 1, D-07747 Jena, Germany
+ Funding:
+  - DFG
+ Methods:
+  - steady state
+  - parameter estimation
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
