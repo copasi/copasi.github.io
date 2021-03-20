@@ -593,6 +593,19 @@
  Methods:
   - time course
 -
+ Reference: "Hinze T (2020) Coping with dynamical reaction system topologies using deterministic P modules: a case study of photosynthesis. Journal of Membrane Computing 2:281–289"
+ Year: 2020
+ Type: 3
+ URL: https://doi.org/10.1007/s41965-020-00054-y
+ Keywords:
+  - Computational Method
+ Locations:
+  - Friedrich Schiller University Jena, Ernst-Abbe-Platz 2, 07743, Jena, Germany
+ Funding:
+  - Projekt DEAL
+ Methods:
+  - time course
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
