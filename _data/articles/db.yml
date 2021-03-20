@@ -669,6 +669,26 @@
  Methods:
   - time course
 -
+ Reference: "Karlstaedt A, Khanna R, Thangam M, Taegtmeyer H (2020) Glucose 6-Phosphate Accumulates via Phosphoglucose Isomerase Inhibition in Heart Muscle. Circulation Research 126:60–74"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1161/CIRCRESAHA.119.315180
+ Keywords:
+  - Metabolism
+ Locations:
+  - The University of Texas Health Science Center at Houston, 6431 Fannin St, MSB 1.404, Houston, TX 77030, USA
+  - Ross University School of Medicine, Miramar, Florida, USA
+  - Department of Cardiology, Washington University School of Medicine in St. Louis, Missouri, USA
+ Funding:
+  - Friede Springer Herz Stiftung, Germany
+  - Roderick MacDonald Research Fund
+  - American Heart Association
+  - NIH
+ Methods:
+  - steady state
+  - MCA
+  - parameter scan
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
