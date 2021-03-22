@@ -758,6 +758,25 @@
   - parameter estimation
   - steady state
 -
+ Reference: "Malig TC, Tan Y, Wisniewski SR, Higman CS, Carrasquillo-Flores R, Ortiz A, Purdum GE, Kolotuchin S, Hein JE (2020) Development of a telescoped synthesis of 4-(1H)-cyanoimidazole core accelerated by orthogonal reaction monitoring. Reaction Chemistry & Engineering 5:1421–1428"
+ Year: 2020
+ Type: 3
+ URL: https://doi.org/10.1039/D0RE00234H
+ Keywords:
+  - Chemistry
+  - Experimental Method
+ Locations:
+  - Department of Chemistry, University of British Columbia, 2036 Main Mall, Vancouver, British Columbia V6T 1Z1, Canada
+  - Chemical Process Development, Bristol Myers Squibb Company, One Squibb Drive, New Brunswick, New Jersey 08903, USA
+ Funding:
+  - Bristol Myers Squibb
+  - University of British Columbia
+  - Canadian Foundation for Innovation 
+  - Natural Sciences and Engineering Research Council of Canada
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
