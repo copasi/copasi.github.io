@@ -741,6 +741,23 @@
   - time course
   - parameter estimation
 -
+ Reference: "Lo-Thong O, Charton P, Cadet XF, Grondin-Perez B, Saavedra E, Damour C, Cadet F (2020) Identification of flux checkpoints in a metabolic pathway through white-box, grey-box and black-box modeling approaches. Scientific Reports 10:13446"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1038/s41598-020-70295-5
+ Keywords:
+  - Metabolism
+ Locations:
+  - University of Paris, 75015, Paris, France
+  - Faculty of Sciences and Technology, University of La Reunion, 97715, Saint-Denis, France
+  - PEACCEL, Artificial Intelligence Department, 6 square Albin Cachot, box 42, 75013, Paris, France
+  - Departamento de Bioquímica, Instituto Nacional de Cardiología Ignacio Chávez, 14080, Mexico City, Mexico
+ Funding:
+  - EU FEDER
+ Methods:
+  - parameter estimation
+  - steady state
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
