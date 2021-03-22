@@ -705,6 +705,22 @@
   - steady state
   - parameter estimation
 -
+ Reference: "Leuba SI, Yaesoubi R, Antillon M, Cohen T, Zimmer C (2020) Tracking and predicting U.S. influenza activity with a real-time surveillance network. PLoS Computational Biology 16:e1008180"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1008180
+ Keywords:
+  - Epidemiology
+ Locations:
+  - Yale School of Public Health, New Haven, CT, USA 
+  - Swiss Tropical and Public Health Institute, Basel, Switzerland
+  - University of Basel, Basel, Switzerland
+ Funding:
+  - NIH
+  - DFG
+ Methods:
+  - stochastic simulation
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
