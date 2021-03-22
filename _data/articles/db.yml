@@ -823,6 +823,22 @@
   - steady state
   - MCA
 -
+ Reference: "Martin DJ, Wise CF, Pegis ML, Mayer JM (2020) Developing Scaling Relationships for Molecular Electrocatalysis through Studies of Fe-Porphyrin-Catalyzed O2 Reduction. Accounts of Chemical Research 53:1056–1065"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1021/acs.accounts.0c00044
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Yale University, New Haven, Connecticut 06520, USA
+  - Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA
+ Funding:
+  - DOE
+  - NSF
+  - NIH
+ Methods:
+  - parameter estimation
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
