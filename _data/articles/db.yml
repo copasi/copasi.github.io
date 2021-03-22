@@ -379,6 +379,20 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Ferrall-Fairbanks MC, Kieslich CA, Platt MO (2020) Reassessing enzyme kinetics: Considering protease-as-substrate interactions in proteolytic networks. Proceedings of the National Academy of Sciences USA 117:3307–3318"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1073/pnas.1912207117
+ Keywords:
+  - Enzymology
+ Locations:
+  - Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, GA 30332, USA
+ Funding:
+  - NSF
+  - NIH
+ Methods:
+  - parameter estimation 
+-
  Reference: "Finke RG, Watzky MA, Whitehead CB (2020) Response to “Particle Size Is a Primary Determinant for Sigmoidal Kinetics of Nanoparticle Formation: A ‘Disproof’ of the Finke–Watzky (F-W) Nanoparticle Nucleation and Growth Mechanism.” Chemistry of Materials 32:3657–3672"
  Year: 2020
  Type: 2
