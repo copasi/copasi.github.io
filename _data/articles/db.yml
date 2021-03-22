@@ -886,6 +886,22 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Mochão H, Barahona P, Costa RS (2020) KiMoSys 2.0: an upgraded database for submitting, storing and accessing experimental data for kinetic modeling. Database 2020 DOI:10.1093/database/baaa093"
+ Year: 2020
+ Type: 3
+ URL: https://doi.org/10.1093/database/baaa093 https://doi.org/10.1093/database/baaa093
+ Keywords:
+  - Computational Method
+ Locations:
+  - Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa Campus de Caparica, 2829-516, Caparica, Portugal
+  - Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais 1, 1049-001, Lisboa, Portugal
+ Funding:
+  - Fundação para a Ciência e a Tecnologia, Portugal
+ Methods:
+  - time course
+  - steady state
+  - python bindings
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
