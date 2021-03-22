@@ -808,6 +808,21 @@
   - EU Innovative Medicines Initiative Joint Undertaking
   - EMBL
 -
+ Reference: "Marín-Hernández Á, Gallardo-Pérez JC, Reyes-García MA, Sosa-Garrocho M, Macías-Silva M, Rodríguez-Enríquez S, Moreno-Sánchez R, Saavedra E (2020) Kinetic modeling of glucose central metabolism in hepatocytes and hepatoma cells. Biochimica et Biophysica Acta 1864:129687"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1016/j.bbagen.2020.129687
+ Keywords:
+  - Metabolism
+ Locations:
+  - Departamento de Bioquímica, Instituto Nacional de Cardiología, Mexico City 14080, Mexico
+  - Instituto de Fisiología Celular, Universidad Nacional Autónoma de México, Mexico City 04510, Mexico
+ Funding:
+  - CONACyT-México
+ Methods:
+  - steady state
+  - MCA
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
