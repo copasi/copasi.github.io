@@ -777,6 +777,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Malik-Sheriff RS, Glont M, Nguyen TVN, Tiwari K, Roberts MG, Xavier A, Vu MT, Men J, Maire M, Kananathan S, Fairbanks EL, Meyer JP, Arankalle C, Varusai TM, Knight-Schrijver V, Li L, Dueñas-Roca C, Dass G, Keating SM, Park YM, Buso N, Rodriguez N, Hucka M, Hermjakob H (2020) BioModels—15 years of sharing computational models in life science. Nucleic acids research 48:D407–D415"
+ Year: 2020
+ Type: 3
+ URL: https://doi.org/10.1093/nar/gkz1055
+ Keywords:
+  - Computational Method
+ Locations:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK
+  - Babraham Institute, Babraham Research Campus, Cambridge CB22 3AT, UK
+  - California Institute of Technology, Pasadena, 91125, CA, USA
+  - Beijing Institute of Lifeomics, National Center for Protein Sciences, Beijing 102206, China
+ Funding:
+  - BBSRC
+  - EU Innovative Medicines Initiative Joint Undertaking
+  - EMBL
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
