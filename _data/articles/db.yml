@@ -721,6 +721,26 @@
  Methods:
   - stochastic simulation
 -
+ Reference: "Li L, Lai M, Cole S, Le Novère N, Edelstein SJ (2020) Neurogranin stimulates Ca2+/calmodulin-dependent kinase II by suppressing calcineurin activity at specific calcium spike frequencies. PLoS Computational Biology 16:e1006991"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1006991
+ Keywords:
+  - Signaling
+ Locations:
+  - Babraham Institute, Cambridge, UK
+  - Quantitative Systems Pharmacology, CERTARA, Canterbury, UK
+  - Cambridge Systems Biology Centre, University of Cambridge, Cambridge, UK
+  - aSciStance Ltd, Cambridge, UK
+  - Scipio bioscience, Paris, France 
+ Funding:
+  - EU FP7
+  - BBSRC
+  - Amgen Scholars Programme
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Mazet F, Tindall MJ, Gibbins JM, Fry MJ (2020) A model of the PI cycle reveals the regulating roles of lipid-binding proteins and pitfalls of using mosaic biological data. Scientific Reports 10:13244"
  Year: 2020
  Type: 2
