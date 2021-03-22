@@ -1,4 +1,21 @@
 -
+ Reference: "Huysmans GHM, Ciftci D, Wang X, Blanchard SC, Boudker O (2021) The high-energy transition state of the glutamate transporter homologue GltPh. The EMBO Journal 40:e105415"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.15252/embj.2020105415
+ Keywords:
+  - Enzymology
+ Locations:
+  - Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA
+  - Mass Spectrometry for Biology Unit, USR 2000, CNRS, Institut Pasteur, Paris, France
+  - St. Jude Children’s Research Hospital, Memphis, TN, USA
+ Funding:
+  - NIH
+  - American Heart Association
+  - EU Horizon 2020
+ Methods:
+  - time course
+-
  Reference: "Abudukelimu A, Barberis M, Redegeld F, Sahin N, Sharma RP, Westerhoff HV (2020) Complex Stability and an Irrevertible Transition Reverted by Peptide and Fibroblasts  in a Dynamic Model of Innate Immunity. Frontiers in Immunology 10:3091"
  Year: 2020
  Type: 2
@@ -582,6 +599,7 @@
  URL: https://doi.org/10.1021/acs.langmuir.9b03193
  Keywords:
   - Chemistry
+  - Materials Science
  Locations:
   - Colorado State University, Fort Collins, Colorado 80523-1874, USA 
   - Department of Chemistry, Middle East Technical University, 06800 Ankara, Turkey
@@ -635,23 +653,6 @@
   - Cancer Research UK 
   - MRC
   - Wellcome Trust
--
- Reference: "Huysmans GHM, Ciftci D, Wang X, Blanchard SC, Boudker O (2021) The high-energy transition state of the glutamate transporter homologue GltPh. The EMBO journal 40:e105415"
- Year: 2020
- Type: 2
- URL: https://doi.org/10.15252/embj.2020105415
- Keywords:
-  - Enzymology
- Locations:
-  - Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA
-  - Mass Spectrometry for Biology Unit, USR 2000, CNRS, Institut Pasteur, Paris, France
-  - St. Jude Children’s Research Hospital, Memphis, TN, USA
- Funding:
-  - NIH
-  - American Heart Association
-  - EU Horizon 2020
- Methods:
-  - time course
 -
  Reference: "Iwasaki T, Takiguchi R, Hiraiwa T, Yamada TG, Yamazaki K, Hiroi NF, Funahashi A (2020) Neural Differentiation Dynamics Controlled by Multiple Feedback Loops in a Comprehensive Molecular Interaction Network. Processes 8:166"
  Year: 2020
