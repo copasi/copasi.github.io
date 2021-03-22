@@ -866,6 +866,26 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Meyer K, Morales-Navarrete H, Seifert S, Wilsch-Braeuninger M, Dahmen U, Tanaka EM, Brusch L, Kalaidzidis Y, Zerial M (2020) Bile canaliculi remodeling activates YAP via the actin cytoskeleton during liver regeneration. Molecular Systems Biology 16:e8985"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.15252/msb.20198985
+ Keywords:
+  - Signaling
+  - Cell Biology
+ Locations:
+  - Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany
+  - Experimental Transplantation Surgery, Department of General, Visceral and Vascular Surgery, Jena University Hospital, Jena, Germany
+  - Research Institute of Molecular Pathology, Vienna BioCenter, Vienna, Austria
+  - Center for Information Services and High Performance Computing, Technische Universität Dresden, Dresden, Germany
+  - Faculty of Bioengineering and Bioinformatics, Moscow State University, Moscow, Russia
+ Funding:
+  - BMBF
+  - EU ERC
+  - Max Planck Society
+ Methods:
+  - parameter estimation
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
