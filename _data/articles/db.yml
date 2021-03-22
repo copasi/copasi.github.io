@@ -576,6 +576,20 @@
  Methods:
   - time course
 -
+ Reference: "Handwerk DR, Shipman PD, Özkar S, Finke RG (2020) Dust Effects on Ir(0)n Nanoparticle Formation Nucleation and Growth Kinetics and Particle Size-Distributions: Analysis by and Insights from Mechanism-Enabled Population Balance Modeling. Langmuir 36:1496–1506"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1021/acs.langmuir.9b03193
+ Keywords:
+  - Chemistry
+ Locations:
+  - Colorado State University, Fort Collins, Colorado 80523-1874, USA 
+  - Department of Chemistry, Middle East Technical University, 06800 Ankara, Turkey
+ Funding:
+  - DOE
+ Methods:
+  - parameter estimation
+-
  Reference: "Hellgren J, Godina A, Nielsen J, Siewers V (2020) Promiscuous phosphoketolase and metabolic rewiring enables novel non-oxidative glycolysis in yeast for high-yield production of acetyl-CoA derived products. Metabolic Engineering 62:150–160"
  Year: 2020
  URL: https://doi.org/10.1016/j.ymben.2020.09.003
