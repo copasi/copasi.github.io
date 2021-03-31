@@ -922,6 +922,23 @@
   - time course
   - sliders
 -
+ Reference: "Noga MJ, Büke F, van den Broek NJF, Imholz NCE, Scherer N, Yang F, Bokinsky G (2020) Posttranslational Control of PlsB Is Sufficient To Coordinate Membrane Synthesis with Growth in Escherichia coli. mBio 11:e02703-19"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1128/mBio.02703-19
+ Keywords:
+  - Microbiology
+  - Metabolism
+ Locations:
+  - Department of Bionanoscience, Kavli Institute of Nanoscience, Delft University of Technology, Delft, The Netherlands
+ Funding:
+  - Netherlands Organisation for Scientific Research
+  - Frontiers of Nanoscience program
+ Methods:
+  - steady state
+  - parameter scan
+  - sensitivity analysis
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
