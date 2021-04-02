@@ -2598,6 +2598,21 @@
  Methods:
   - time course
 -
+ Reference: "Sinica V, Zimova L, Barvikova K, Macikova L, Barvik I, Vlachova V (2019) Human and Mouse TRPA1 Are Heat and Cold Sensors Differentially Tuned by Voltage. Cells 9:57"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.3390/cells9010057
+ Keywords:
+  - Biophysics
+ Locations:
+  - Department of Cellular Neurophysiology, Institute of Physiology of the Czech Academy of Sciences, 142 20 Prague, Czech Republic
+  - Charles University, 128 00 Prague, Czech Republic
+ Funding:
+  - Czech Science Foundation
+  - Grant Agency of Charles University
+ Methods:
+  - parameter estimation
+-
  Reference: "Singh A, Marcoline FV, Veshaguri S, Kao AW, Bruchez M, Mindell JA, Stamou D, Grabe M (2019) Protons in small spaces: Discrete simulations of vesicle acidification. PLOS Computational Biology. 15:e1007539"
  Year: 2019
  Type: 2
