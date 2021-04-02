@@ -1044,6 +1044,24 @@
   - parameter estimation
   - parameter scan
 -
+ Reference: "Schmallegger M, Barbon A, Bortolus M, Chemelli A, Bilkis I, Gescheidt G, Weiner L (2020) Systematic Quantification of Electron Transfer in a Bare Phospholipid Membrane Using Nitroxide-Labeled Stearic Acids: Distance Dependence, Kinetics, and Activation Parameters. Langmuir 36:10429–10437"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1021/acs.langmuir.0c01585
+ Keywords:
+  - Biophysics
+  - Biochemistry
+ Locations:
+  - Graz University of Technology, Stremayrgasse 9, Graz 8010, Austria
+  - Università degli Studi di Padova, Via Marzolo 1, Padova 35131, Italy
+  - Department of Chemical Research Support, Weizmann Institute of Science, Rehovot 76100, Israel
+ Funding:
+  - Italian Ministry of University and Research (MIUR)
+  - NAWI Graz 
+  - EU COST
+ Methods:
+  - parameter estimation
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
