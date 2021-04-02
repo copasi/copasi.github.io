@@ -1017,6 +1017,19 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Rana P (2020) Mathematical models of cellular signaling and supramolecular self-assembly. PhD Thesis, Virginia Commonwealth University."
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.25772/11NP-6D48
+ Keywords:
+  - Signaling
+  - Macromolecular Biochemistry
+ Locations:
+  - Department of Computer Science, Virginia Commonwewalth University, Richmond, Virginia, USA
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
