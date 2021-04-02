@@ -1030,6 +1030,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Sanders JN, Jun H, Yu RA, Gleason JL, Houk KN (2020) Mechanism of an Organocatalytic Cope Rearrangement Involving Iminium Intermediates: Elucidating the Role of Catalyst Ring Size. Journal of the American Chemical Society 142:16877–16886"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1021/jacs.0c08427
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry and Biochemistry, University of California, Los Angeles, California 90095, USA
+  - Department of Chemistry, McGill University, 801 Sherbrooke Street West, Montreal, Quebec H3A 0B8, Canada
+ Methods:
+  - time course
+  - parameter estimation
+  - parameter scan
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
