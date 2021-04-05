@@ -1092,6 +1092,20 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Sotnikov DV, Zherdev AV, Dzantiev BB (2020) Lateral Flow Serodiagnosis in the Double-Antigen Sandwich Format: Theoretical Consideration and Confirmation of Advantages. Sensors 21:39"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.3390/s21010039
+ Keywords:
+  - Experimental Method
+ Locations:
+  - A.N. Bach Institute of Biochemistry, Research Center of Biotechnology of the Russian Academy of Sciences, Leninsky Prospect 33, 119071 Moscow, Russia
+ Funding:
+  - Ministry of Science and Higher Education of the Russian Federation
+  - Russian Science Foundation
+ Methods:
+  - time course
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
