@@ -1,0 +1,752 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Schema documentation for </title>
+      <link rel="stylesheet" href="docHtml.css" type="text/css" /><script type="text/javascript">
+         <!--
+        
+      
+        var button_prefix = 'button_';
+        
+        /**
+        * Returns an element in the current HTML document.
+        *
+        * @param elementID Identifier of HTML element
+        * @return               HTML element object
+        */
+        function getElementObject(elementID) {
+            var elemObj = null;
+            if (document.getElementById) {
+                elemObj = document.getElementById(elementID);
+            }
+            return elemObj;
+        }
+        
+        /**
+        * Switches the state of a collapseable box, e.g.
+        * if it's opened, it'll be closed, and vice versa.
+        *
+        * @param boxID Identifier of box
+        */
+        function switchState(boxID) {
+            var boxObj = getElementObject(boxID);
+            var buttonObj = getElementObject(button_prefix + boxID);
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else if (boxObj.style.display == "none") {
+                // Box is closed, so open it
+                openBox(boxObj, buttonObj);
+            } else if (boxObj.style.display == "block") {
+                // Box is opened, so close it
+                closeBox(boxObj, buttonObj);
+            }
+        }
+        
+        /**
+        * Opens a collapseable box.
+        *
+        * @param boxObj       Collapseable box
+        * @param buttonObj Button controlling box
+        */
+        function openBox(boxObj, buttonObj) {
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else {
+                // Change 'display' CSS property of box
+                boxObj.style.display = "block";
+                
+                // Change text of button
+                if (boxObj.style.display == "block") {
+                    buttonObj.src = "img/btM.gif";
+                }
+            }
+        }
+        
+        /**
+        * Closes a collapseable box.
+        *
+        * @param boxObj       Collapseable box
+        * @param buttonObj Button controlling box
+        */
+        function closeBox(boxObj, buttonObj) {
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else {
+                // Change 'display' CSS property of box
+                boxObj.style.display = "none";
+                
+                // Change text of button
+                if (boxObj.style.display == "none") {
+                    buttonObj.src = "img/btP.gif";
+                }
+            }
+        }
+    
+       function switchStateForAll(buttonObj, boxList) {
+            if (buttonObj == null) {
+                // button not found
+            } else if (buttonObj.value == "+") {
+                // Expand all
+                expandAll(boxList);
+                buttonObj.value = "-";
+            } else if (buttonObj.value == "-") {
+                // Collapse all
+                collapseAll(boxList);
+                buttonObj.value = "+";
+            }
+        }
+        
+        /**
+        * Closes all boxes in a given list.
+        *
+        * @param boxList Array of box IDs
+        */
+        function collapseAll(boxList) {
+            var idx;
+            for (idx = 0; idx < boxList.length; idx++) {
+                var boxObj = getElementObject(boxList[idx]);
+                var buttonObj = getElementObject(button_prefix + boxList[idx]);
+                closeBox(boxObj, buttonObj);
+            }
+        }
+            
+        /**
+        * Open all boxes in a given list.
+        *
+        * @param boxList Array of box IDs
+        */
+        function expandAll(boxList) {
+            var idx;
+            for (idx = 0; idx < boxList.length; idx++) {
+                var boxObj = getElementObject(boxList[idx]);
+                var buttonObj = getElementObject(button_prefix + boxList[idx]);
+                openBox(boxObj, buttonObj);
+            }
+        }
+        
+        /**
+         * Update the message presented in the title of the html page.
+         * - If the documentation was splited by namespace we present something like: "Documentation for namespace 'ns'"
+         * - If the documentation was splited by location we present somehing like: "Documentation for 'Schema.xsd'"
+         * - If no split we always present: "Documentation for 'MainSchema.xsd'"
+         */
+        function updatePageTitle(message) {
+            top.document.title = message;
+        }
+        
+          
+                    
+         /**
+          * Finds an HTML element by its ID and makes it floatable over the normal content.
+          *
+          * @param x_displacement The difference in pixels to the right side of the window from 
+          *           the left side of the element.
+          * @param y_displacement The difference in pixels to the right side of the window from 
+          *           the top of the element.          
+          */
+         function findAndFloat(id, x_displacement, y_displacement){
+
+            var element = getElementObject(id);            
+            
+            window[id + "_obj"] = element;
+            
+            if(document.layers) {
+               element.style = element;
+            }
+            
+            element.current_y = y_displacement;      
+            element.first_time = true;
+         
+            element.floatElement = function(){
+               // It may be closed by an user action.
+                
+               // Target X and Y coordinates.
+               var x, y;
+               
+               var myWidth = 0, myHeight = 0;
+               if( typeof( window.innerWidth ) == 'number' ) {
+                  //Non-IE
+                  myWidth = window.innerWidth;
+                  myHeight = window.innerHeight;
+               } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+                  //IE 6+ in 'standards compliant mode'
+                  myWidth = document.documentElement.clientWidth;
+                  myHeight = document.documentElement.clientHeight;
+               } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+                  //IE 4 compatible
+                  myWidth = document.body.clientWidth;
+                  myHeight = document.body.clientHeight;
+               }
+               
+               
+               x = myWidth - x_displacement;
+               
+               var ns = (navigator.appName.indexOf("Netscape") != -1);               
+               y = ns ? pageYOffset : document.documentElement && document.documentElement.scrollTop ? 
+                  document.documentElement.scrollTop : document.body.scrollTop;               
+               y = y + y_displacement;               
+               
+               // The current y is the current coordinate of the floating element.
+               // This should be at the limit the y target coordinate.
+               this.current_y += (y - this.current_y)/1.25;
+               
+               // Add the pixels constant after the values
+               // and move the element.
+               var px = document.layers ? "" : "px";
+               this.style.left =  x + px;
+               this.style.top =  this.current_y + px;
+                              
+               setTimeout(this.id + "_obj.floatElement()", 100);
+            }
+            
+            element.floatElement();
+            return element;
+          }
+
+         /**
+          * Finds an HTML element by its ID and makes it floatable over the normal content.
+          *
+          * @param x_displacement The difference in pixels to the right side of the window from 
+          *           the left side of the element.
+          * @param y_displacement The difference in pixels to the right side of the window from 
+          *           the top of the element.          
+          */
+         function selectTOCGroupBy(id, isChunked, indexFileLocation, indexFileNamespace, indexFileComponent){
+
+            if (!isChunked) {
+             var selectIds = new Array('toc_group_by_namespace', 'toc_group_by_location', 'toc_group_by_component_type');
+             // Make all the tabs invisible.
+               for (i = 0; i < 3; i++){
+                  var tab = getElementObject(selectIds[i]);
+                  tab.style.display = 'none';
+               }
+               var selTab = getElementObject(id);
+               selTab.style.display = 'block';
+            } else {
+             if (id == 'toc_group_by_namespace') {
+               parent.indexFrame.location = indexFileNamespace;
+             } else  if (id == 'toc_group_by_location') {
+               parent.indexFrame.location = indexFileLocation;
+             } else  if (id == 'toc_group_by_component_type') {
+              parent.indexFrame.location = indexFileComponent;
+             }
+            }
+         }
+          
+
+    
+                        //--></script></head>
+   <body>
+      <h2><a id="INDEX">Table of Contents</a></h2>
+      <div class="toc">
+         <form action="none">
+            <div><span> Group by: <select id="selectTOC" onchange="selectTOCGroupBy(this.options[this.selectedIndex].value, true, 'CopasiML.indexList.html', 'CopasiML.indexListns.html', 'CopasiML.indexListcomp.html');">
+                     <option value="toc_group_by_namespace">Namespace</option>
+                     <option value="toc_group_by_location">Location</option>
+                     <option value="toc_group_by_component_type" selected="selected">Component Type</option></select></span></div>
+         </form>
+         <div class="level1" id="toc_group_by_component_type" style="display:block">
+            <div>
+               <div class="horizontalLayout">
+                  <table class="rt">
+                     <tr>
+                        <td class="rt_cornerTopLeft"></td>
+                        <td class="rt_lineTop"></td>
+                        <td class="rt_cornerTopRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_lineLeft"></td>
+                        <td class="rt_content">
+                           <table class="componentGroup">
+                              <tbody>
+                                 <tr>
+                                    <td class="componentGroup"><input id="button_Main_schema" type="image" value="-" src="img/btM.gif" onclick="switchState('Main_schema');" class="control" /></td>
+                                    <td class="componentGroup">
+                                       <div class="componentGroupTitle">Main Schema</div>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td class="componentGroup"></td>
+                                    <td class="componentGroup">
+                                       <div id="Main_schema" class="componentGroup" style="display:block">
+                                          <div><b><a href="CopasiML_xsd.html#CopasiML.xsd" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">CopasiML.xsd</a></b></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                        <td class="rt_lineRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_cornerBottomLeft"></td>
+                        <td class="rt_lineBottom"></td>
+                        <td class="rt_cornerBottomRight"></td>
+                     </tr>
+                  </table>
+               </div>
+               <div class="horizontalLayout">
+                  <table class="rt">
+                     <tr>
+                        <td class="rt_cornerTopLeft"></td>
+                        <td class="rt_lineTop"></td>
+                        <td class="rt_cornerTopRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_lineLeft"></td>
+                        <td class="rt_content">
+                           <table class="componentGroup">
+                              <tbody>
+                                 <tr>
+                                    <td class="componentGroup"><input id="button_Imported_schema" type="image" value="-" src="img/btM.gif" onclick="switchState('Imported_schema');" class="control" /></td>
+                                    <td class="componentGroup">
+                                       <div class="componentGroupTitle">Imported Schemas</div>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td class="componentGroup"></td>
+                                    <td class="componentGroup">
+                                       <div id="Imported_schema" class="componentGroup" style="display:block">
+                                          <div><b><a href="x_xsd.html#x.xsd" target="mainFrame" title="http://www.w3.org/2001/XMLSchema-instance" onclick="updatePageTitle('Schema documentation for x.xsd')">x.xsd</a></b></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                        <td class="rt_lineRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_cornerBottomLeft"></td>
+                        <td class="rt_lineBottom"></td>
+                        <td class="rt_cornerBottomRight"></td>
+                     </tr>
+                  </table>
+               </div>
+               <div class="horizontalLayout">
+                  <table class="rt">
+                     <tr>
+                        <td class="rt_cornerTopLeft"></td>
+                        <td class="rt_lineTop"></td>
+                        <td class="rt_cornerTopRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_lineLeft"></td>
+                        <td class="rt_content">
+                           <table class="componentGroup">
+                              <tbody>
+                                 <tr>
+                                    <td class="componentGroup"><input id="button_Element" type="image" value="-" src="img/btM.gif" onclick="switchState('Element');" class="control" /></td>
+                                    <td class="componentGroup">
+                                       <div class="componentGroupTitle">Elements</div>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td class="componentGroup"></td>
+                                    <td class="componentGroup">
+                                       <div id="Element" class="componentGroup" style="display:block">
+                                          <div><b><a href="CopasiML_xsd.html#AdditionalGraphicalObject" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:AdditionalGraphicalObject</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Assignment" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Assignment</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#BasePoint1" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:BasePoint1</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#BasePoint2" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:BasePoint2</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Body" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Body</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#BoundingBox" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:BoundingBox</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#COPASI" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:COPASI</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#CallParameter" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:CallParameter</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ChannelSpec" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ChannelSpec</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ColorDefinition" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ColorDefinition</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Comment" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Comment</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Compartment" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Compartment</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#CompartmentGlyph" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:CompartmentGlyph</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Constant" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Constant</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#CubicBezier" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:CubicBezier</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#DelayExpression" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:DelayExpression</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Ellipse" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Ellipse</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#End" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:End</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Event" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Event</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Expression" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Expression</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Footer" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Footer</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Function" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Function</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#GUI" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:GUI</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Group" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Group</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Header" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Header</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Image" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Image</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#InitialExpression" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:InitialExpression</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#InitialState" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:InitialState</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#KineticLaw" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:KineticLaw</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Layout" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Layout</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#LineEnding" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:LineEnding</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#LineSegment" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:LineSegment</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#LinearGradient" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:LinearGradient</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfAdditionalGraphicalObjects" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfAdditionalGraphicalObjects</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfAssignments" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfAssignments</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfCallParameters" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfCallParameters</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfChannels" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfChannels</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfColorDefinitions" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfColorDefinitions</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfCompartmentGlyphs" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfCompartmentGlyphs</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfCompartments" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfCompartments</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfConstants" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfConstants</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfCurveSegments" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfCurveSegments</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfElements" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfElements</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfEvents" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfEvents</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfFunctions" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfFunctions</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfGlobalRenderInformation" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfGlobalRenderInformation</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfGradientDefinitions" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfGradientDefinitions</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfLayouts" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfLayouts</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfLineEndings" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfLineEndings</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfMetabGlyphs" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfMetabGlyphs</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfMetaboliteReferenceGlyphs" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfMetaboliteReferenceGlyphs</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfMetabolites" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfMetabolites</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfModelParameterSets" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfModelParameterSets</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfModelValues" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfModelValues</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfModifiers" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfModifiers</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfParameterDescriptions" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfParameterDescriptions</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfPlotItems" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfPlotItems</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfPlots" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfPlots</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfProducts" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfProducts</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfReactionGlyphs" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfReactionGlyphs</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfReactions" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfReactions</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfRenderInformation" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfRenderInformation</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfReports" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfReports</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfSliders" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfSliders</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfSubstrates" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfSubstrates</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfTasks" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfTasks</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfTextGlyphs" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfTextGlyphs</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfUnitDefinitions" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfUnitDefinitions</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ListOfUnsupportedAnnotations" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ListOfUnsupportedAnnotations</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Metabolite" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Metabolite</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#MetaboliteGlyph" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:MetaboliteGlyph</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#MetaboliteReferenceGlyph" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:MetaboliteReferenceGlyph</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Method" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Method</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#MiriamAnnotation" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:MiriamAnnotation</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Model" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Model</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ModelParameter" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ModelParameter</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ModelParameterGroup" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ModelParameterGroup</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ModelParameterSet" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ModelParameterSet</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ModelValue" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ModelValue</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Modifier" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Modifier</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#NoiseExpression" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:NoiseExpression</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Object" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Object</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Parameter" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Parameter</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ParameterDescription" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ParameterDescription</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ParameterGroup" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ParameterGroup</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ParameterText" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ParameterText</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#PlotItem" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:PlotItem</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#PlotSpecification" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:PlotSpecification</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Polygon" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Polygon</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Position" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Position</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#PriorityExpression" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:PriorityExpression</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Problem" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Problem</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Product" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Product</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#RadialGradient" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:RadialGradient</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Reaction" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Reaction</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ReactionGlyph" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ReactionGlyph</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Rectangle" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Rectangle</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#RenderCubicBezier" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:RenderCubicBezier</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#RenderPoint" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:RenderPoint</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#SBMLMap" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:SBMLMap</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#SBMLReference" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:SBMLReference</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Slider" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Slider</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#SourceParameter" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:SourceParameter</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Start" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Start</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#StateTemplate" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:StateTemplate</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#StateTemplateVariable" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:StateTemplateVariable</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Stop" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Stop</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Substrate" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Substrate</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Table" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Table</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Task" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Task</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Text" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Text</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#TextGlyph" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:TextGlyph</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#TriggerExpression" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:TriggerExpression</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#Unit" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:Unit</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#UnitDefinition" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:UnitDefinition</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#UnsupportedAnnotation" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:UnsupportedAnnotation</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#gradientGroup.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:gradientGroup.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#renderCurve.element" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:renderCurve.element</a></b></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                        <td class="rt_lineRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_cornerBottomLeft"></td>
+                        <td class="rt_lineBottom"></td>
+                        <td class="rt_cornerBottomRight"></td>
+                     </tr>
+                  </table>
+               </div>
+               <div class="horizontalLayout">
+                  <table class="rt">
+                     <tr>
+                        <td class="rt_cornerTopLeft"></td>
+                        <td class="rt_lineTop"></td>
+                        <td class="rt_cornerTopRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_lineLeft"></td>
+                        <td class="rt_content">
+                           <table class="componentGroup">
+                              <tbody>
+                                 <tr>
+                                    <td class="componentGroup"><input id="button_Complex_Type" type="image" value="-" src="img/btM.gif" onclick="switchState('Complex_Type');" class="control" /></td>
+                                    <td class="componentGroup">
+                                       <div class="componentGroupTitle">Complex Types</div>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td class="componentGroup"></td>
+                                    <td class="componentGroup">
+                                       <div id="Complex_Type" class="componentGroup" style="display:block">
+                                          <div><b><a href="CopasiML_xsd.html#UnsupportedAnnotation.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:UnsupportedAnnotation.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#boundingBox.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:boundingBox.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#callParameter.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:callParameter.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#compartment.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:compartment.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#cubicBezier.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:cubicBezier.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#event.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:event.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#globalRenderInformation.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:globalRenderInformation.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#globalStyle.dataType" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:globalStyle.dataType</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#glyph.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:glyph.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#gradientBase.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:gradientBase.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#group.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:group.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#gui.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:gui.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#kineticLaw.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:kineticLaw.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#layout.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:layout.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#layoutCurve.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:layoutCurve.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#lineEnding.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:lineEnding.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#lineSegment.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:lineSegment.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#linearGradient.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:linearGradient.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfAdditionalGraphicalObjects.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfAdditionalGraphicalObjects.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfCallParameters.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfCallParameters.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfChannels.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfChannels.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfCompartmentGlyphs.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfCompartmentGlyphs.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfCompartments.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfCompartments.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfConstants.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfConstants.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfEventAssignments.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfEventAssignments.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfEvents.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfEvents.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfFunctions.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfFunctions.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfGlobalRenderInformation.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfGlobalRenderInformation.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfLayouts.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfLayouts.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfLocalRenderInformation.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfLocalRenderInformation.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfMetabGlyphs.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfMetabGlyphs.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfMetabolites.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfMetabolites.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfModelParameterSets.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfModelParameterSets.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfModelValues.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfModelValues.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfParameterDescriptions.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfParameterDescriptions.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfPlotItems.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfPlotItems.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfPlotSpecifications.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfPlotSpecifications.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfReactionGlyphs.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfReactionGlyphs.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfReactions.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfReactions.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfReportSpecifications.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfReportSpecifications.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfSliders.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfSliders.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfTasks.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfTasks.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfTextGlyphs.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfTextGlyphs.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfUnitDefinitions.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfUnitDefinitions.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#listOfUnsupportedAnnotations.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:listOfUnsupportedAnnotations.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#localRenderInformation.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:localRenderInformation.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#localStyle.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:localStyle.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#metabolite.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:metabolite.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#metaboliteReferenceGlyp.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:metaboliteReferenceGlyp.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#model.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:model.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#modelParameter.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:modelParameter.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#modelParameterSet.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:modelParameterSet.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#modelValue.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:modelValue.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#parameterList.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:parameterList.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#plotItem.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:plotItem.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#plotSpecification.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:plotSpecification.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#polygon.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:polygon.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#radialGradient.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:radialGradient.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#rdf.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:rdf.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#reaction.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:reaction.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#renderCurve.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:renderCurve.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#renderCurveElements.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:renderCurveElements.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#renderInformationBase.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:renderInformationBase.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#reportSection.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:reportSection.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#reportSpecification.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:reportSpecification.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#style.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:style.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#task.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:task.datatype</a></b></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                        <td class="rt_lineRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_cornerBottomLeft"></td>
+                        <td class="rt_lineBottom"></td>
+                        <td class="rt_cornerBottomRight"></td>
+                     </tr>
+                  </table>
+               </div>
+               <div class="horizontalLayout">
+                  <table class="rt">
+                     <tr>
+                        <td class="rt_cornerTopLeft"></td>
+                        <td class="rt_lineTop"></td>
+                        <td class="rt_cornerTopRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_lineLeft"></td>
+                        <td class="rt_content">
+                           <table class="componentGroup">
+                              <tbody>
+                                 <tr>
+                                    <td class="componentGroup"><input id="button_Simple_Type" type="image" value="-" src="img/btM.gif" onclick="switchState('Simple_Type');" class="control" /></td>
+                                    <td class="componentGroup">
+                                       <div class="componentGroupTitle">Simple Types</div>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td class="componentGroup"></td>
+                                    <td class="componentGroup">
+                                       <div id="Simple_Type" class="componentGroup" style="display:block">
+                                          <div><b><a href="CopasiML_xsd.html#colorValue.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:colorValue.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#colorValueOrId.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:colorValueOrId.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#commaSeparatedStringList.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:commaSeparatedStringList.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#expression.simpletype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:expression.simpletype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#fontStyle.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:fontStyle.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#fontWeight.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:fontWeight.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#layoutId.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:layoutId.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#layoutIdRef.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:layoutIdRef.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#relAbsValue.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:relAbsValue.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#taskTypeEnumeration.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:taskTypeEnumeration.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#textAnchor.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:textAnchor.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#vtextAnchor.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:vtextAnchor.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#wsSeparatedStringList.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:wsSeparatedStringList.datatype</a></b></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                        <td class="rt_lineRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_cornerBottomLeft"></td>
+                        <td class="rt_lineBottom"></td>
+                        <td class="rt_cornerBottomRight"></td>
+                     </tr>
+                  </table>
+               </div>
+               <div class="horizontalLayout">
+                  <table class="rt">
+                     <tr>
+                        <td class="rt_cornerTopLeft"></td>
+                        <td class="rt_lineTop"></td>
+                        <td class="rt_cornerTopRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_lineLeft"></td>
+                        <td class="rt_content">
+                           <table class="componentGroup">
+                              <tbody>
+                                 <tr>
+                                    <td class="componentGroup"><input id="button_Element_Group" type="image" value="-" src="img/btM.gif" onclick="switchState('Element_Group');" class="control" /></td>
+                                    <td class="componentGroup">
+                                       <div class="componentGroupTitle">Element Groups</div>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td class="componentGroup"></td>
+                                    <td class="componentGroup">
+                                       <div id="Element_Group" class="componentGroup" style="display:block">
+                                          <div><b><a href="CopasiML_xsd.html#annotation.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:annotation.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#curveSegment.element" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:curveSegment.element</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#groupElements.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:groupElements.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#modelParameterGroup.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:modelParameterGroup.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#other.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:other.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#rdfContent.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:rdfContent.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#xhtml.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:xhtml.datatype</a></b></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                        <td class="rt_lineRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_cornerBottomLeft"></td>
+                        <td class="rt_lineBottom"></td>
+                        <td class="rt_cornerBottomRight"></td>
+                     </tr>
+                  </table>
+               </div>
+               <div class="horizontalLayout">
+                  <table class="rt">
+                     <tr>
+                        <td class="rt_cornerTopLeft"></td>
+                        <td class="rt_lineTop"></td>
+                        <td class="rt_cornerTopRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_lineLeft"></td>
+                        <td class="rt_content">
+                           <table class="componentGroup">
+                              <tbody>
+                                 <tr>
+                                    <td class="componentGroup"><input id="button_Attribute_Group" type="image" value="-" src="img/btM.gif" onclick="switchState('Attribute_Group');" class="control" /></td>
+                                    <td class="componentGroup">
+                                       <div class="componentGroupTitle">Attribute Groups</div>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td class="componentGroup"></td>
+                                    <td class="componentGroup">
+                                       <div id="Attribute_Group" class="componentGroup" style="display:block">
+                                          <div><b><a href="CopasiML_xsd.html#channelSpec.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:channelSpec.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#colorDefinition.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:colorDefinition.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#constant.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:constant.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#dimension.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:dimension.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#ellipse.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:ellipse.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#gradientStop.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:gradientStop.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#graphicalPrimitive1D.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:graphicalPrimitive1D.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#graphicalPrimitive2D.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:graphicalPrimitive2D.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#image.dataype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:image.dataype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#layoutPoint.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:layoutPoint.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#name.attribute" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:name.attribute</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#parameter.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:parameter.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#parameterDescription.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:parameterDescription.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#parameterText.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:parameterText.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#reactionParticipant.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:reactionParticipant.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#rectangle.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:rectangle.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#renderCubicBezier.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:renderCubicBezier.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#renderPoint.datatytpe" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:renderPoint.datatytpe</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#report.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:report.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#slider.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:slider.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#text.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:text.datatype</a></b></div>
+                                          <div><b><a href="CopasiML_xsd.html#transformation.datatype" target="mainFrame" title="http://www.copasi.org/static/schema" onclick="updatePageTitle('Schema documentation for CopasiML.xsd')">schema:transformation.datatype</a></b></div>
+                                          <div><b><a href="x_xsd.html#type" target="mainFrame" title="http://www.w3.org/2001/XMLSchema-instance" onclick="updatePageTitle('Schema documentation for x.xsd')">x:type</a></b></div>
+                                          <div><b><a href="x_xsd.html#type1" target="mainFrame" title="http://www.w3.org/2001/XMLSchema-instance" onclick="updatePageTitle('Schema documentation for x.xsd')">x:type1</a></b></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                        <td class="rt_lineRight"></td>
+                     </tr>
+                     <tr>
+                        <td class="rt_cornerBottomLeft"></td>
+                        <td class="rt_lineBottom"></td>
+                        <td class="rt_cornerBottomRight"></td>
+                     </tr>
+                  </table>
+               </div>
+               <div style="clear:left"></div>
+            </div>
+         </div>
+      </div>
+      <div class="footer">
+         <hr />
+         <div align="center">XML Schema documentation generated by <a href="http://www.oxygenxml.com" target="_parent"><span class="oXygenLogo"><span class="redX">&lt;</span>o<span class="redX">X</span>ygen<span class="redX">/&gt;</span></span></a><sup>®</sup> XML Editor.
+         </div>
+      </div>
+   </body>
+</html>

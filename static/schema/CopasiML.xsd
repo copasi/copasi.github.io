@@ -211,27 +211,10 @@
     </xs:sequence>
   </xs:group>
   <xs:complexType name="reportSection.datatype">
-    <xs:choice maxOccurs="unbounded">
-      <xs:element ref="schema:Object"/>
-      <xs:element ref="schema:html"/>
-      <xs:element name="Report">
-        <xs:complexType>
-          <xs:attribute name="reference" use="required">
-            <xs:simpleType>
-              <xs:restriction base="xs:IDREF">
-                <xs:pattern value="Report_\d+"/>
-              </xs:restriction>
-            </xs:simpleType>
-          </xs:attribute>
-        </xs:complexType>
-      </xs:element>
-    </xs:choice>
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" ref="schema:Object"/>
+    </xs:sequence>
   </xs:complexType>
-  <xs:element name="html">
-    <xs:complexType>
-      <xs:group ref="schema:xhtml.datatype"/>
-    </xs:complexType>
-  </xs:element>
   <xs:complexType name="listOfUnitDefinitions.datatype">
     <xs:sequence>
       <xs:element maxOccurs="unbounded" ref="schema:UnitDefinition"/>
@@ -422,6 +405,7 @@
       <xs:group ref="schema:annotation.datatype"/>
       <xs:element minOccurs="0" ref="schema:Expression"/>
       <xs:element minOccurs="0" ref="schema:InitialExpression"/>
+      <xs:element minOccurs="0" ref="schema:NoiseExpression"/>
     </xs:sequence>
     <xs:attribute name="key" use="required">
       <xs:simpleType>
@@ -448,6 +432,7 @@
         </xs:restriction>
       </xs:simpleType>
     </xs:attribute>
+    <xs:attribute name="addNoise" use="required" type="xs:boolean"/>
   </xs:complexType>
   <xs:complexType name="listOfMetabolites.datatype">
     <xs:sequence>
@@ -460,6 +445,7 @@
       <xs:group ref="schema:annotation.datatype"/>
       <xs:element minOccurs="0" ref="schema:Expression"/>
       <xs:element minOccurs="0" ref="schema:InitialExpression"/>
+      <xs:element minOccurs="0" ref="schema:NoiseExpression"/>
     </xs:sequence>
     <xs:attribute name="key" use="required">
       <xs:simpleType>
@@ -486,6 +472,7 @@
         </xs:restriction>
       </xs:simpleType>
     </xs:attribute>
+    <xs:attribute name="addNoise" use="required" type="xs:boolean"/>
   </xs:complexType>
   <xs:complexType name="listOfModelValues.datatype">
     <xs:sequence>
@@ -498,6 +485,7 @@
       <xs:group ref="schema:annotation.datatype"/>
       <xs:element minOccurs="0" ref="schema:Expression"/>
       <xs:element minOccurs="0" ref="schema:InitialExpression"/>
+      <xs:element minOccurs="0" ref="schema:NoiseExpression"/>
       <xs:element minOccurs="0" ref="schema:Unit"/>
     </xs:sequence>
     <xs:attribute name="key" use="required">
@@ -517,6 +505,7 @@
         </xs:restriction>
       </xs:simpleType>
     </xs:attribute>
+    <xs:attribute name="addNoise" use="required" type="xs:boolean"/>
   </xs:complexType>
   <xs:complexType name="listOfModelParameterSets.datatype">
     <xs:sequence>
@@ -611,6 +600,7 @@
       <xs:element minOccurs="0" ref="schema:ListOfModifiers"/>
       <xs:element minOccurs="0" ref="schema:ListOfConstants"/>
       <xs:element minOccurs="0" ref="schema:KineticLaw"/>
+      <xs:element minOccurs="0" ref="schema:NoiseExpression"/>
     </xs:sequence>
     <xs:attribute name="key" use="required">
       <xs:simpleType>
@@ -622,6 +612,7 @@
     <xs:attributeGroup ref="schema:name.attribute"/>
     <xs:attribute name="reversible" use="required" type="xs:boolean"/>
     <xs:attribute name="fast" use="required" type="xs:boolean"/>
+    <xs:attribute name="addNoise" use="required" type="xs:boolean"/>
   </xs:complexType>
   <xs:element name="ListOfSubstrates">
     <xs:complexType>
@@ -1023,6 +1014,7 @@
     </xs:attribute>
   </xs:attributeGroup>
   <xs:element name="InitialExpression" type="schema:expression.simpletype"/>
+  <xs:element name="NoiseExpression" type="schema:expression.simpletype"/>
   <xs:element name="Unit" type="schema:expression.simpletype"/>
   <xs:element name="Object">
     <xs:complexType>
@@ -1491,12 +1483,12 @@
   </xs:complexType>
   <xs:complexType name="listOfGlobalRenderInformation.datatype">
     <xs:sequence>
-      <xs:element name="RenderInformation" type="schema:globalRenderInformation.datatype"/>
+      <xs:element maxOccurs="unbounded" name="RenderInformation" type="schema:globalRenderInformation.datatype"/>
     </xs:sequence>
   </xs:complexType>
   <xs:complexType name="listOfLocalRenderInformation.datatype">
     <xs:sequence>
-      <xs:element name="RenderInformation" type="schema:localRenderInformation.datatype"/>
+      <xs:element maxOccurs="unbounded" name="RenderInformation" type="schema:localRenderInformation.datatype"/>
     </xs:sequence>
   </xs:complexType>
   <xs:attributeGroup name="renderPoint.datatytpe">
