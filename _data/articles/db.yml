@@ -1162,6 +1162,25 @@
  Methods:
   - time course
 -
+ Reference: "Tenner B, Getz M, Ross B, Ohadi D, Bohrer CH, Greenwald E, Mehta S, Xiao J, Rangamani P, Zhang J (2020) Spatially compartmentalized phase regulation of a Ca2+-cAMP-PKA oscillatory circuit. eLife 9:e55013"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.7554/eLife.55013
+ Keywords:
+  - Signaling
+ Locations:
+  - The Johns Hopkins University School of Medicine, Baltimore, USA
+  - University of California, San Diego, La Jolla, USA
+ Funding:
+  - NIH
+  - DOD
+  - ONR
+  - NSF 
+  - Johns Hopkins University
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
