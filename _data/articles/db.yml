@@ -1216,6 +1216,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Vasil’ev RF, Kancheva VD, Naumov VV, Slavova-Kazakova AK, Trofimov AV, Fedorova GF, Yablonskaya OI (2020) Extreme Kinetics of Chemiluminescence in the Initiated Oxidation of Vegetable Lipids. Russian Journal of Physical Chemistry B 14:479–482"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1134/S1990793120030264
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Emanuel Institute of Biochemical Physics, Russian Academy of Sciences, 119991, Moscow, Russia
+  - Phytochemistry Center, Institute of Organic Chemistry, Bulgarian Academy of Sciences, 1113, Sofia, Bulgaria
+  - Moscow Institute of Physics and Technology, 141701, Moscow, Russia
+ Funding:
+  - Russian Foundation for Basic Research
+  - Bulgarian National Science Fund
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Westerhoff HV, Kolodkin AN (2020) Advice from a systems-biology model of the corona epidemics. NPJ Systems Biology and Applications 6:18"
  Year: 2020
  Type: 2
