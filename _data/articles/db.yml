@@ -1266,6 +1266,21 @@
  Methods:
   - time course
 -
+ Reference: "Zhou Q, Liu Y, Yuan W (2020) Kinetic modeling of butyric acid effects on butanol fermentation by Clostridium saccharoperbutylacetonicum. New Biotechnology 55:118–126"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1016/j.nbt.2019.10.004
+ Keywords:
+  - Biotechnology
+  - Microbiology
+ Locations:
+  - Department of Biological and Agricultural Engineering, North Carolina State University, Raleigh, NC, 27695, USA
+  - College of Life Sciences and Oceanography, Shenzhen University, Shenzhen, 518060 China
+ Funding:
+  - USDA
+ Methods:
+  - parameter estimation
+-
  Reference: "Adelson CN, Johnston EM, Hilmer KM, Watts H, Dey SG, Brown DE, Broderick JB, Shepard EM, Dooley DM, Solomon EI (2019) Characterization of the Preprocessed Copper Site Equilibrium in Amine Oxidase and Assignment of the Reactive Copper Site in Topaquinone Biogenesis. Journal of the American Chemical Society 141:8877–8890"
  Year: 2019
  Type: 2
