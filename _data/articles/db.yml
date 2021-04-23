@@ -15,6 +15,25 @@
  Methods:
   - stochastic simulation
 -
+ Reference: "Castro M, Lythe G, Smit J, Molina-París C (2021) Fusion and fission events regulate endosome maturation and viral escape. Scientific reports. Sci Rep 11:7845"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1038/s41598-021-86877-w
+ Keywords:
+  - Cell Biology
+ Locations:
+  - Universidad Pontificia Comillas, Madrid, Spain
+  - School of Mathematics, University of Leeds, Leeds, UK
+  - University Medical Center Groningen, Groningen, The Netherlands
+  - Los Alamos National Laboratory, Los Alamos, NM, 87545, USA
+ Funding:
+  - Spanish Government
+  - EU Marie Curie Actions
+  - EU FP7
+  - EPSRC
+ Methods:
+  - parameter estimation
+-
  Reference: "Huysmans GHM, Ciftci D, Wang X, Blanchard SC, Boudker O (2021) The high-energy transition state of the glutamate transporter homologue GltPh. The EMBO Journal 40:e105415"
  Year: 2021
  Type: 2
