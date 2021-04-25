@@ -507,6 +507,26 @@
  Methods:
   - time course
 -
+ Reference: "Cho D-J, Függer M, Hopper C, Kushwaha M, Nowak T, Soubeyran Q (2020) Distributed Computation with Continual Population Growth. In: Attiya H (ed) 34th International Symposium on Distributed Computing (DISC 2020). Dagstuhl, Germany: Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 7:1-7:17."
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.4230/LIPIcs.DISC.2020.7
+ Keywords:
+  - Theory
+ Locations:
+  - University of Kassel, Germany
+  - Université Paris-Saclay, Inria, Gif-sur-Yvette, France
+  - Université Paris-Saclay, CNRS, Orsay, France
+  - AgroParisTech, Micalis Institute, Jouy-en-Josas, France
+  - École polytechnique, Institut Polytechnique de Paris, Route de Saclay, Palaiseau, France
+ Funding:
+  - Digicosme working group HicDiesMeus
+  - Ile-de-France region’s DIM-RFSI, France
+  - INRAE’s MICA department, France
+  - CNRS, France
+ Methods:
+  - stochastic simulation
+-
  Reference: "Clark TJ, Guo L, Morgan J, Schwender J (2020) Modeling Plant Metabolism: From Network Reconstruction to Mechanistic Models. Annual Review of Plant Biology 71:303–326"
  Year: 2020
  Type: 2
