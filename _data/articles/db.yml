@@ -145,6 +145,29 @@
  Methods:
   - time course
 -
+ Reference: "Ribeiro de Barros H, García I, Kuttner C, Zeballos N, Camargo PHC, de Torresi SIC, López-Gallego F, Liz-Marzán LM (2021) Mechanistic Insights into the Light-Driven Catalysis of an Immobilized Lipase on Plasmonic Nanomaterials. ACS Catalysis 11:414–423"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1021/acscatal.0c04919
+ Keywords:
+  - Enzymology
+  - Materials Science
+ Locations:
+  - CIC biomaGUNE, Basque Research and Technology Alliance (BRTA), Paseo de Miramón 182, 20014 Donostia − San Sebastián, Spain
+  - Centro de Investigación Biomédica en Red, Bioingeniería, Biomateriales y Nanomedicina (CIBER-BBN), Paseo de Miramón 182, 20014 Donostia − San Sebastián, Spain
+  - Ikerbasque, Basque Foundation for Science, 48013 Bilbao, Spain
+  - Department of Fundamental Chemistry, Institute of Chemistry, University of São Paulo, Av. Prof. Lineu Prestes, 748, Vila Universitária, 05508-000 São Paulo, Brazil
+  - Department of Chemistry, University of Helsinki, A.I. Virtasen aukio 1, Helsinki 00100, Finland
+ Funding:
+  - CNPq, Brazil
+  - São Paulo Research Foundation FAPESP, Brasil
+  - Jane and Aatos Erkko Foundation
+  - EU Horizon2020
+  - Spanish State Research Agency
+  - IKERBASQUE, Spain
+ Methods:
+  - parameter estimation
+-
  Reference: "Ritis D (2021) Dynamical modeling in biological networks. Masters Thesis, Democritus University of Thrace, Greece."
  Year: 2021
  Type: 2
