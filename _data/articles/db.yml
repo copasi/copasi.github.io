@@ -271,21 +271,6 @@
  Methods:
   - parameter estimation
 -
- Reference: "Arya S, Todman H, Baker M, Hooton S, Millard A, Kreft J-U, Hobman JL, Stekel DJ (2020) A generalised model for generalised transduction: the importance of co-evolution and stochasticity in phage mediated antimicrobial resistance transfer. FEMS Microbiology Ecology 96:fiaa100"
- Year: 2020
- Type: 2
- URL: https://doi.org/10.1093/femsec/fiaa100
- Keywords:
-  - Microbiology
-  - Genetics
- Locations:
-  - School of Biosciences, University of Nottingham, Sutton Bonington Campus, Loughborough, LE12 5RD, UK
-  - School of Mathematical Sciences, University of Nottingham, Nottingham, NG7 2RD, UK
-  - Department of Genetics and Genome Biology, University of Leicester, University Road, Leicester LE1 7RH, UK
-  - School of Biosciences, University of Birmingham, Edgbaston, Birmingham, B15 2TT, UK
- Methods:
-  - stochastic simulation
--
  Reference: "Artús Suàrez L, Jayarathne U, Balcells D, Bernskoetter WH, Hazari N, Jaraiz M, Nova A (2020) Rational selection of co-catalysts for the deaminative hydrogenation of amides. Chemical Science 11:2225–2230"
  Year: 2020
  Type: 2
@@ -303,6 +288,21 @@
   - Norwegian Metacenter for Computational Science
   - NordForsk, Norway
   - DOE
+-
+ Reference: "Arya S, Todman H, Baker M, Hooton S, Millard A, Kreft J-U, Hobman JL, Stekel DJ (2020) A generalised model for generalised transduction: the importance of co-evolution and stochasticity in phage mediated antimicrobial resistance transfer. FEMS Microbiology Ecology 96:fiaa100"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1093/femsec/fiaa100
+ Keywords:
+  - Microbiology
+  - Genetics
+ Locations:
+  - School of Biosciences, University of Nottingham, Sutton Bonington Campus, Loughborough, LE12 5RD, UK
+  - School of Mathematical Sciences, University of Nottingham, Nottingham, NG7 2RD, UK
+  - Department of Genetics and Genome Biology, University of Leicester, University Road, Leicester LE1 7RH, UK
+  - School of Biosciences, University of Birmingham, Edgbaston, Birmingham, B15 2TT, UK
+ Methods:
+  - stochastic simulation
 -
  Reference: "Balasubramanian S, Chandrasekran P, Yesudhas AJR, Ganapathyraman P, Eiteman MA, Subramanian R (2020) In vivo interpretation of model predicted inhibition in acrylate pathway engineered Lactococcus lactis. Biotechnology and Bioengineering 117:3785–3798"
  Year: 2020
