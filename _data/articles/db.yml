@@ -107,6 +107,22 @@
  Methods:
   - time course
 -
+ Reference: "Vasilev GA, Filkova AA, Sveshnikova AN (2021) Study of Reversible Platelet Aggregation Model by Nonlinear Dynamics. Mathematics 9:759"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.3390/math9070759
+ Keywords:
+  - Immunology
+ Locations:
+  - Faculty of Physics, Lomonosov Moscow State University, 1/2 Leninskie Gory, 119991 Moscow, Russia
+  - Center for Theoretical Problems of Physico-Chemical Pharmacology, Russian Academy of Sciences, 30 Srednyaya Kalitnikovskaya Str., 109029 Moscow, Russia
+  - Dmitry Rogachev National Research Center of Pediatric Hematology, Oncology and Immunology, 1 Samory Mashela St, 117198 Moscow, Russia
+ Funding:
+  - Russian Federation for Basic Research
+  - Royal Society of London
+ Methods:
+  - parameter estimation
+-
  Reference: "Abudukelimu A, Barberis M, Redegeld F, Sahin N, Sharma RP, Westerhoff HV (2020) Complex Stability and an Irrevertible Transition Reverted by Peptide and Fibroblasts  in a Dynamic Model of Innate Immunity. Frontiers in Immunology 10:3091"
  Year: 2020
  Type: 2
