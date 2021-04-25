@@ -599,6 +599,22 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Erlendsson S, Teilum K (2020) Binding Revisited-Avidity in Cellular Function and Signaling. Frontiers in Molecular Biosciences 7:615565"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.3389/fmolb.2020.615565
+ Keywords:
+  - Signaling
+  - Theory
+ Locations:
+  - Structural Studies Division, Medical Research Council Laboratory of Molecular Biology, Cambridge, UK
+  - University of Copenhagen, Copenhagen, Denmark
+ Funding:
+  - Novo Nordisk Foundation
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Ferrall-Fairbanks MC, Kieslich CA, Platt MO (2020) Reassessing enzyme kinetics: Considering protease-as-substrate interactions in proteolytic networks. Proceedings of the National Academy of Sciences USA 117:3307–3318"
  Year: 2020
  Type: 2
