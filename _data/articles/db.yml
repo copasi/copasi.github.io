@@ -285,6 +285,24 @@
  Methods:
   - time course
 -
+ Reference: "Millard P, Enjalbert B, Uttenweiler-Joseph S, Portais J-C, Letisse F (2021) Control and regulation of acetate overflow in Escherichia coli. eLife 10:e63661"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.7554/eLife.63661
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Locations:
+  - Université de Toulouse, Toulouse, France
+  - Université Toulouse III - Paul Sabatier, EFS, Toulouse, France
+ Funding:
+  - Institut National de Recherchepour l’Agriculture, l’Alimentation et l’Environnement, France
+ Methods:
+  - time course
+  - parameter estimation
+  - sensitivity analysis
+  - MCA
+-
  Reference: "Ribeiro de Barros H, García I, Kuttner C, Zeballos N, Camargo PHC, de Torresi SIC, López-Gallego F, Liz-Marzán LM (2021) Mechanistic Insights into the Light-Driven Catalysis of an Immobilized Lipase on Plasmonic Nanomaterials. ACS Catalysis 11:414–423"
  Year: 2021
  Type: 2
