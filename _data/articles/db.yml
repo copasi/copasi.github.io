@@ -190,6 +190,23 @@
  Methods:
   - time course
 -
+ Reference: "Hetmanski JHR, Jones MC, Chunara F, Schwartz J-M, Caswell PT (2021) Combinatorial mathematical modelling approaches to interrogate rear retraction dynamics in 3D cell migration. PLoS computational biology 17:e1008213"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1008213
+ Keywords:
+  - Cell Biology
+  - Signaling
+ Locations:
+  - School of Biological Sciences, Faculty of Biology Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, Manchester, UK
+ Funding:
+  - MRC
+  - Wellcome Trust
+ Methods:
+  - time course
+  - sensitivity analysis
+  - stochastic simulation
+-
  Reference: "Huysmans GHM, Ciftci D, Wang X, Blanchard SC, Boudker O (2021) The high-energy transition state of the glutamate transporter homologue GltPh. The EMBO Journal 40:e105415"
  Year: 2021
  Type: 2
