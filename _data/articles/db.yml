@@ -207,6 +207,23 @@
   - sensitivity analysis
   - stochastic simulation
 -
+ Reference: "Holzheu P, Großeholz R, Kummer U (2021) Impact of explicit area scaling on kinetic models involving multiple compartments. BMC bioinformatics 22:21"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1186/s12859-020-03913-8
+ Keywords:
+  - Theory
+ Locations:
+  - Department of Modeling of Biological Processes, COS Heidelberg/Bioquant, Im Neuenheimer Feld 267, 69120, Heidelberg, Germany
+ Funding:
+  - DFG
+  - Heidelberg Graduate School for Mathematical and Computational Methods for the Sciences
+  - Schmeil Stiftung 
+  - Joachim Herz Stiftung
+ Methods:
+  - time course
+  - steady state
+-
  Reference: "Huysmans GHM, Ciftci D, Wang X, Blanchard SC, Boudker O (2021) The high-energy transition state of the glutamate transporter homologue GltPh. The EMBO Journal 40:e105415"
  Year: 2021
  Type: 2
