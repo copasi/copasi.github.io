@@ -303,6 +303,23 @@
   - sensitivity analysis
   - MCA
 -
+ Reference: "Oliveira A, Rodrigues J, Ferreira EC, Rodrigues L, Dias O (2021) A kinetic model of the central carbon metabolism for acrylic acid production in Escherichia coli. PLoS computational biology 17:e1008704"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1008704
+ Keywords:
+  - Biotechnology
+  - Metabolism
+ Locations:
+  - Centre of Biological Engineering, University of Minho, Braga, Portugal
+ Funding:
+  - Portuguese Foundation for Science and Technology(FCT)
+  - EU ERDF
+ Methods:
+  - optimization
+  - steady state
+  - MCA
+-
  Reference: "Quiros DN, Nieto F, Mayorga LS (2021) From cartoons to quantitative models in Golgi transport. Biology of the Cell 113:146–164"
  Year: 2021
  Type: 2 
