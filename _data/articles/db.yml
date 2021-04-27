@@ -368,6 +368,24 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Zake DM, Kurlovics J, Zaharenko L, Komasilovs V, Klovins J, Stalidzans E (2021) Physiologically based metformin pharmacokinetics model of mice and scale-up to humans for the estimation of concentrations in various tissues. PloS One 16:e0249594"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pone.0249594
+ Keywords:
+  - Pharmacology
+  - Physiology
+ Locations:
+  - Latvian Biomedical Research and Study Centre, Riga, Latvia
+  - Institute of Microbiology and Biotechnology, University of Latvia, Riga, Latvia
+  - Division of Pharmaceutical Chemistry and Technology, University of Helsinki, Helsinki, Finland 
+ Funding:
+  - Latvian Council of Science
+ Methods:
+  - parameter estimation
+  - time course
+  - parameter scan
+-
  Reference: "Abudukelimu A, Barberis M, Redegeld F, Sahin N, Sharma RP, Westerhoff HV (2020) Complex Stability and an Irrevertible Transition Reverted by Peptide and Fibroblasts  in a Dynamic Model of Innate Immunity. Frontiers in Immunology 10:3091"
  Year: 2020
  Type: 2
