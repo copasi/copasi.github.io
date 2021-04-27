@@ -352,6 +352,26 @@
  Methods:
   - time course
 -
+ Reference: "Tiwari K, Kananathan S, Roberts MG, Meyer JP, Sharif Shohan MU, Xavier A, Maire M, Zyoud A, Men J, Ng S, Nguyen TVN, Glont M, Hermjakob H, Malik-Sheriff RS (2021) Reproducibility in systems biology modelling. Molecular Systems Biology 17:e9982"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.15252/msb.20209982
+ Keywords:
+  - Computational Method
+ Locations:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK
+  - Babraham Institute, Babraham Research Campus, Cambridge, UK
+  - Beijing Institute of Lifeomics, National Center for Protein Sciences, Beijing, China
+ Funding:
+  - EMBL
+  - EU EMI
+  - BBSRC
+ Methods:
+  - time course
+  - SBML
+  - steady state
+  - parameter scan
+-
  Reference: "Vasilev GA, Filkova AA, Sveshnikova AN (2021) Study of Reversible Platelet Aggregation Model by Nonlinear Dynamics. Mathematics 9:759"
  Year: 2021
  Type: 2
