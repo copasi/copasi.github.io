@@ -352,6 +352,23 @@
  Methods:
   - time course
 -
+ Reference: "Städter P, Schälte Y, Schmiester L, Hasenauer J, Stapor PL (2021) Benchmarking of numerical integration methods for ODE models of biological systems. Scientific Reports 11:2696"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.1038/s41598-021-82196-2
+ Keywords:
+  - Computational Methods
+ Locations:
+  - Institute of Computational Biology, Helmholtz Zentrum München - German Research Center for Environmental Health, 85764, Neuherberg, Germany
+  - Center for Mathematics, Technische Universität München, 85748, Garching, Germany
+  - Faculty of Mathematics and Natural Sciences, University of Bonn, 53113, Bonn, Germany
+ Funding:
+  - EU Horizon2020
+  - DFG
+  - BMBF
+ Methods:
+  - time course
+-
  Reference: "Tisi R, Spinelli M, Palmioli A, Airoldi C, Cazzaniga P, Besozzi D, Nobile MS, Mazzoleni E, Arnhold S, De Gioia L, Grandori R, Peri F, Vanoni M, Sacco E (2021) The Multi-Level Mechanism of Action of a Pan-Ras Inhibitor Explains its Antiproliferative Activity on Cetuximab-Resistant Cancer Cells. Frontiers in Molecular Biosciences 8:625979"
  Year: 2021
  Type: 2
