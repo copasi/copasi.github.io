@@ -352,9 +352,24 @@
  Methods:
   - time course
 -
- Reference: "Tiwari K, Kananathan S, Roberts MG, Meyer JP, Sharif Shohan MU, Xavier A, Maire M, Zyoud A, Men J, Ng S, Nguyen TVN, Glont M, Hermjakob H, Malik-Sheriff RS (2021) Reproducibility in systems biology modelling. Molecular Systems Biology 17:e9982"
+ Reference: "Tisi R, Spinelli M, Palmioli A, Airoldi C, Cazzaniga P, Besozzi D, Nobile MS, Mazzoleni E, Arnhold S, De Gioia L, Grandori R, Peri F, Vanoni M, Sacco E (2021) The Multi-Level Mechanism of Action of a Pan-Ras Inhibitor Explains its Antiproliferative Activity on Cetuximab-Resistant Cancer Cells. Frontiers in Molecular Biosciences 8:625979"
  Year: 2021
  Type: 2
+ URL: https://doi.org/10.3389/fmolb.2021.625979
+ Keywords:
+  - Signaling
+  - Cell Biology
+ Locations:
+  - Department of Biotechnology and Biosciences, University of Milan-Bicocca, Milan, Italy
+  - Bicocca Bioinformatics, Biostatistics and Bioimaging Centre - B4, Milano, Italy
+  - Department of Industrial Engineering and Innovation Sciences, Eindhoven University of Technology, Eindhoven, The Netherlands
+ Methods:
+  - time course
+  - parameter scan
+-
+ Reference: "Tiwari K, Kananathan S, Roberts MG, Meyer JP, Sharif Shohan MU, Xavier A, Maire M, Zyoud A, Men J, Ng S, Nguyen TVN, Glont M, Hermjakob H, Malik-Sheriff RS (2021) Reproducibility in systems biology modelling. Molecular Systems Biology 17:e9982"
+ Year: 2021
+ Type: 3
  URL: https://doi.org/10.15252/msb.20209982
  Keywords:
   - Computational Method
