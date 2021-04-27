@@ -303,6 +303,27 @@
   - sensitivity analysis
   - MCA
 -
+ Reference: "Mohapatra SR, Sadik A, Sharma S, Poschet G, Gegner HM, Lanz TV, Lucarelli P, Klingmüller U, Platten M, Heiland I, Opitz CA (2021) Hypoxia Routes Tryptophan Homeostasis Towards Increased Tryptamine Production. Frontiers in Immunology 12:590532"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.3389/fimmu.2021.590532
+ Keywords:
+  - Metabolism
+  - Physiology
+ Locations:
+  - German Cancer Research Center (DKFZ), Heidelberg, Germany
+  - Department of Arctic and Marine Biology, UiT The Arctic University of Norway, Tromsø, Norway
+  - Centre for Organismal Studies (COS), University of Heidelberg, Heidelberg, Germany
+  - Department of Neurology, Medical Faculty Mannheim, Mannheim Center for Translational Neurosciences (MCTN), Heidelberg University, Mannheim, Germany
+  - Division of Immunology and Rheumatology, Department of Medicine, Stanford University School of Medicine, Stanford, California, USA
+  - Neurology Clinic and National Center for Tumor Diseases, University Hospital of Heidelberg, Heidelberg, Germany
+ Funding:
+  - BMBF
+  - EU Horizon2020
+  - DFG
+ Methods: 
+  - steady state
+-
  Reference: "Oliveira A, Rodrigues J, Ferreira EC, Rodrigues L, Dias O (2021) A kinetic model of the central carbon metabolism for acrylic acid production in Escherichia coli. PLoS computational biology 17:e1008704"
  Year: 2021
  Type: 2
