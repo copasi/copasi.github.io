@@ -368,6 +368,19 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Yin Q, Xu Z, Lian T, Musaev DG, Hill CL, Geletii YV (2021) Tafel Slope Analyses for Homogeneous Catalytic Reactions. Catalysts 11:87"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.3390/catal11010087
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Emory University, Atlanta, Georgia 30322, USA
+ Funding:
+  - DOE
+ Methods:
+  - parameter estimation
+-
  Reference: "Zake DM, Kurlovics J, Zaharenko L, Komasilovs V, Klovins J, Stalidzans E (2021) Physiologically based metformin pharmacokinetics model of mice and scale-up to humans for the estimation of concentrations in various tissues. PloS One 16:e0249594"
  Year: 2021
  Type: 2
