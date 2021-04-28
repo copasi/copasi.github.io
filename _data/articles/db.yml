@@ -901,6 +901,19 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Desoeuvres A, Trombettoni G, Radulescu O (2020) Interval Constraint Satisfaction and Optimization for Biological Homeostasis and Multistationarity. In: Abate A, Petrov T and Wolf V (eds) Computational Methods in Systems Biology. Springer International Publishing, 79–101"
+ Year: 2020
+ Type: 3
+ URL: https://doi.org/10.1007/978-3-030-60327-4_5
+ Keywords:
+  - Computational Method
+ Locations:
+  - University of Montpellier, Montpellier, France
+ Funding:
+  - PRCI ANR/DFG
+ Methods:
+  - steady state
+-
  Reference: "Dhasmana A, Uniyal S, Anukriti  null, Kashyap VK, Somvanshi P, Gupta M, Bhardwaj U, Jaggi M, Yallapu MM, Haque S, Chauhan SC (2020) Topological and system-level protein interaction network (PIN) analyses to deduce molecular mechanism of curcumin. Scientific Reports 10:12045"
  Year: 2020
  Type: 2
