@@ -1361,6 +1361,22 @@
   - steady state
   - parameter estimation
 -
+ Reference: "Khurshid G, Abbassi AZ, Khalid MF, Gondal MN, Naqvi TA, Shah MM, Chaudhary SU, Ahmad R (2020) A cyanobacterial photorespiratory bypass model to enhance photosynthesis by rerouting photorespiratory pathway in C3 plants. Scientific Reports 10:20879"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1038/s41598-020-77894-2
+ Keywords:
+  - Metabolism
+ Locations:
+  - COMSATS University Islamabad, Abbottabad Campus, Abbottabad, Pakistan
+  - School of Science and Engineering, Lahore University of Management Sciences, Lahore, Pakistan
+ Funding:
+  - Higher Education Commission of Pakistan
+ Methods:
+  - time course
+  - steady state
+  - stability analysis
+-
  Reference: "Leuba SI, Yaesoubi R, Antillon M, Cohen T, Zimmer C (2020) Tracking and predicting U.S. influenza activity with a real-time surveillance network. PLoS Computational Biology 16:e1008180"
  Year: 2020
  Type: 2
