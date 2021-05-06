@@ -2861,7 +2861,7 @@
  Methods:
   - time course
 -
- Reference: "Li L, Lai M, Cole S, Novère NL, Edelstein SJ (2019) Neurogranin Stimulates Ca2+/calmodulin-dependent Kinase II by Inhibiting Calcineurin at Specific Calcium Spike Frequencies. bioRxiv:597278"
+ Reference: "Li L, Lai M, Cole S, Novère NL, Edelstein SJ (2019) Neurogranin Stimulates Ca2+/calmodulin-dependent Kinase II by Inhibiting Calcineurin at Specific Calcium Spike Frequencies. bioRxiv Preprint bioRxiv:597278"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1101/597278
@@ -3208,7 +3208,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Ohadi D, Schmitt DL, Calabrese B, Halpain S, Zhang J, Rangamani P (2019) Computational modeling reveals frequency modulation of calcium-cAMP/PKA pathway in dendritic spines. bioRxiv:521740"
+ Reference: "Ohadi D, Schmitt DL, Calabrese B, Halpain S, Zhang J, Rangamani P (2019) Computational modeling reveals frequency modulation of calcium-cAMP/PKA pathway in dendritic spines. bioRxiv Preprint bioRxiv:521740"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1101/521740
@@ -4283,7 +4283,7 @@
  Methods:
   - elementary flux modes
 -
- Reference: "Dalle Pezze P, Karanasios E, Kandia V, Walker SA, Ktistakis NT, Novère NL (2018) Dynamic modelling suggests differential mechanisms for initiation of non-selective autophagy and mitophagy. bioRxiv:370114"
+ Reference: "Dalle Pezze P, Karanasios E, Kandia V, Walker SA, Ktistakis NT, Novère NL (2018) Dynamic modelling suggests differential mechanisms for initiation of non-selective autophagy and mitophagy. bioRxiv Preprint bioRxiv:370114"
  Year: 2018
  Type: 2
  URL: https://doi.org/10.1101/370114
@@ -4403,7 +4403,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Getz M, Swanson L, Sahoo D, Ghosh P, Rangamani P (2018) Guanine-nucleotide Exchange Modulator, GIV/Girdin, Serves as a Tunable Valve for Growth Factor-Stimulated Cyclic AMP Signals. bioRxiv:149781"
+ Reference: "Getz M, Swanson L, Sahoo D, Ghosh P, Rangamani P (2018) Guanine-nucleotide Exchange Modulator, GIV/Girdin, Serves as a Tunable Valve for Growth Factor-Stimulated Cyclic AMP Signals. bioRxiv Preprint bioRxiv:149781"
  Type: 2
  Year: 2018
  URL: https://doi.org/10.1101/149781
@@ -4685,7 +4685,7 @@
   - steady state
   - parameter scan
 -
- Reference: "Kosey D, Soni B, Nimsarkar P, Singh S (2018) Infection dynamics in L. major autophagic machinery is regulated by ATG9-PI3P negative feedback loop. bioRxiv:398545"
+ Reference: "Kosey D, Soni B, Nimsarkar P, Singh S (2018) Infection dynamics in L. major autophagic machinery is regulated by ATG9-PI3P negative feedback loop. bioRxiv Preprint bioRxiv:398545"
  Year: 2018
  Type: 2
  URL: https://doi.org/10.1101/398545
