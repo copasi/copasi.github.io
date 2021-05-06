@@ -555,7 +555,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Zake DM, Kurlovics J, Zaharenko L, Komasilovs V, Klovins J, Stalidzans E (2021) Physiologically based metformin pharmacokinetics model of mice and scale-up to humans for the estimation of concentrations in various tissues. PloS One 16:e0249594"
+ Reference: "Zake DM, Kurlovics J, Zaharenko L, Komasilovs V, Klovins J, Stalidzans E (2021) Physiologically based metformin pharmacokinetics model of mice and scale-up to humans for the estimation of concentrations in various tissues. PLOS One 16:e0249594"
  Year: 2021
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0249594
@@ -2677,7 +2677,7 @@
   - time course
   - sensitivity analysis
 -
- Reference: "Kalra P, Brandl J, Gaub T, Niederalt C, Lippert J, Sahle S, Küpfer L, Kummer U (2019) Quantitative systems pharmacology of interferon alpha administration: A multi-scale approach. PloS One 14:e0209587"
+ Reference: "Kalra P, Brandl J, Gaub T, Niederalt C, Lippert J, Sahle S, Küpfer L, Kummer U (2019) Quantitative systems pharmacology of interferon alpha administration: A multi-scale approach. PLOS One 14:e0209587"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0209587
@@ -2814,7 +2814,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Lang SN, Germerodt S, Glock C, Skerka C, Zipfel PF, Schuster S (2019) Molecular crypsis by pathogenic fungi using human factor H. A numerical model. PloS One 14:e0212187"
+ Reference: "Lang SN, Germerodt S, Glock C, Skerka C, Zipfel PF, Schuster S (2019) Molecular crypsis by pathogenic fungi using human factor H. A numerical model. PLOS One 14:e0212187"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0212187
@@ -8102,7 +8102,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Zimmer C (2016) Experimental Design for Stochastic Models of Nonlinear Signaling Pathways Using an Interval-Wise Linear Noise Approximation and State Estimation. PloS one 11:e0159902"
+ Reference: "Zimmer C (2016) Experimental Design for Stochastic Models of Nonlinear Signaling Pathways Using an Interval-Wise Linear Noise Approximation and State Estimation. PLOS one 11:e0159902"
  Year: 2016
  Type: 3
  URL: https://doi.org/10.1371/journal.pone.0159902
