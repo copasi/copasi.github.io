@@ -207,7 +207,7 @@
  Methods:
   - time course
 -
- Reference: "Hetmanski JHR, Jones MC, Chunara F, Schwartz J-M, Caswell PT (2021) Combinatorial mathematical modelling approaches to interrogate rear retraction dynamics in 3D cell migration. PLoS Computational Biology 17:e1008213"
+ Reference: "Hetmanski JHR, Jones MC, Chunara F, Schwartz J-M, Caswell PT (2021) Combinatorial mathematical modelling approaches to interrogate rear retraction dynamics in 3D cell migration. PLOS Computational Biology 17:e1008213"
  Year: 2021
  Type: 2
  URL: https://doi.org/10.1371/journal.pcbi.1008213
@@ -341,7 +341,7 @@
  Methods: 
   - steady state
 -
- Reference: "Oliveira A, Rodrigues J, Ferreira EC, Rodrigues L, Dias O (2021) A kinetic model of the central carbon metabolism for acrylic acid production in Escherichia coli. PLoS Computational Biology 17:e1008704"
+ Reference: "Oliveira A, Rodrigues J, Ferreira EC, Rodrigues L, Dias O (2021) A kinetic model of the central carbon metabolism for acrylic acid production in Escherichia coli. PLOS Computational Biology 17:e1008704"
  Year: 2021
  Type: 2
  URL: https://doi.org/10.1371/journal.pcbi.1008704
@@ -1284,7 +1284,7 @@
  Methods:
   - time course
 -
- Reference: "Howell RSM, Klemm C, Thorpe PH, Csikász-Nagy A (2020) Unifying the mechanism of mitotic exit control in a spatiotemporal logical model. PLoS Biology 18:e3000917"
+ Reference: "Howell RSM, Klemm C, Thorpe PH, Csikász-Nagy A (2020) Unifying the mechanism of mitotic exit control in a spatiotemporal logical model. PLOS Biology 18:e3000917"
  Year: 2020
  Type: 2
  URL: https://doi.org/10.1371/journal.pbio.3000917
@@ -1394,7 +1394,7 @@
   - steady state
   - stability analysis
 -
- Reference: "Leuba SI, Yaesoubi R, Antillon M, Cohen T, Zimmer C (2020) Tracking and predicting U.S. influenza activity with a real-time surveillance network. PLoS Computational Biology 16:e1008180"
+ Reference: "Leuba SI, Yaesoubi R, Antillon M, Cohen T, Zimmer C (2020) Tracking and predicting U.S. influenza activity with a real-time surveillance network. PLOS Computational Biology 16:e1008180"
  Year: 2020
  Type: 2
  URL: https://doi.org/10.1371/journal.pcbi.1008180
@@ -1410,7 +1410,7 @@
  Methods:
   - stochastic simulation
 -
- Reference: "Li L, Lai M, Cole S, Le Novère N, Edelstein SJ (2020) Neurogranin stimulates Ca2+/calmodulin-dependent kinase II by suppressing calcineurin activity at specific calcium spike frequencies. PLoS Computational Biology 16:e1006991"
+ Reference: "Li L, Lai M, Cole S, Le Novère N, Edelstein SJ (2020) Neurogranin stimulates Ca2+/calmodulin-dependent kinase II by suppressing calcineurin activity at specific calcium spike frequencies. PLOS Computational Biology 16:e1006991"
  Year: 2020
  Type: 2
  URL: https://doi.org/10.1371/journal.pcbi.1006991
@@ -2582,7 +2582,7 @@
  Methods:
   - elementary flux modes
 -
- Reference: "Hodgson D, Rowan AD, Falciani F, Proctor CJ (2019) Systems biology reveals how altered TGFβ signalling with age reduces protection against pro-inflammatory stimuli. PLoS Computational Biology 15:e1006685"
+ Reference: "Hodgson D, Rowan AD, Falciani F, Proctor CJ (2019) Systems biology reveals how altered TGFβ signalling with age reduces protection against pro-inflammatory stimuli. PLOS Computational Biology 15:e1006685"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1371/journal.pcbi.1006685
@@ -3261,7 +3261,7 @@
  Locations:
   - Virginia Tech, Blacksburg, VA, USA
 -
- Reference: "Parmar JH, Mendes P (2019) A computational model to understand mouse iron physiology and disease. PLoS Computational Biology 15:e1006680"
+ Reference: "Parmar JH, Mendes P (2019) A computational model to understand mouse iron physiology and disease. PLOS Computational Biology 15:e1006680"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1371/journal.pcbi.1006680
@@ -8042,7 +8042,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Woods ML, Barnes CP (2016) Mechanistic Modelling and Bayesian Inference Elucidates the Variable Dynamics of Double-Strand Break Repair. PLoS Computational Biology 12:e1005131"
+ Reference: "Woods ML, Barnes CP (2016) Mechanistic Modelling and Bayesian Inference Elucidates the Variable Dynamics of Double-Strand Break Repair. PLOS Computational Biology 12:e1005131"
  Year: 2016
  Type: 3
  URL: https://doi.org/10.1371/journal.pcbi.1005131
