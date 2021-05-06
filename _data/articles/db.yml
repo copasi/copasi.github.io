@@ -525,7 +525,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Yahya G, Pérez AP, Mendoza MB, Parisi E, Moreno DF, Artés MH, Gallego C, Aldea M (2021) Stress granules display bistable dynamics modulated by Cdk. The Journal of Cell Biology 220 doi:10.1083/jcb.202005102"
+ Reference: "Yahya G, Pérez AP, Mendoza MB, Parisi E, Moreno DF, Artés MH, Gallego C, Aldea M (2021) Stress granules display bistable dynamics modulated by Cdk. Journal of Cell Biology 220 doi:10.1083/jcb.202005102"
  Year: 2021
  Type: 2
  URL: https://doi.org/10.1083/jcb.202005102
@@ -735,7 +735,7 @@
   - steady state
   - stochastic simulation
 -
- Reference: "Benchoam D, Semelak JA, Cuevasanta E, Mastrogiovanni M, Grassano JS, Ferrer-Sueta G, Zeida A, Trujillo M, Möller MN, Estrin DA, Alvarez B (2020) Acidity and nucleophilic reactivity of glutathione persulfide. The Journal of Biological Chemistry 295:15466–15481"
+ Reference: "Benchoam D, Semelak JA, Cuevasanta E, Mastrogiovanni M, Grassano JS, Ferrer-Sueta G, Zeida A, Trujillo M, Möller MN, Estrin DA, Alvarez B (2020) Acidity and nucleophilic reactivity of glutathione persulfide. Journal of Biological Chemistry 295:15466–15481"
  Year: 2020
  Type: 2
  URL: https://doi.org/10.1074/jbc.RA120.014728
@@ -804,7 +804,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Bragança CE, Kraut DA (2020) Mode of targeting to the proteasome determines GFP fate. The Journal of Biological Chemistry 295:15892–15901"
+ Reference: "Bragança CE, Kraut DA (2020) Mode of targeting to the proteasome determines GFP fate. Journal of Biological Chemistry 295:15892–15901"
  Year: 2020
  Type: 2
  URL: https://doi.org/10.1074/jbc.RA120.015235
@@ -948,7 +948,7 @@
  Methods:
   - time course
 -
- Reference: "Dooley III CJ, Burtea A, Mitilian C, Dao WT, Qu B, Salzameda NT, Rychnovsky SD (2020) Using the Competing Enantioselective Conversion Method to Assign the Absolute Configuration of Cyclic Amines with Bode’s Acylation Reagents. The Journal of Organic Chemistry 85:10750–10759"
+ Reference: "Dooley III CJ, Burtea A, Mitilian C, Dao WT, Qu B, Salzameda NT, Rychnovsky SD (2020) Using the Competing Enantioselective Conversion Method to Assign the Absolute Configuration of Cyclic Amines with Bode’s Acylation Reagents. Journal of Organic Chemistry 85:10750–10759"
  Year: 2020
  Type: 2
  URL: https://doi.org/10.1021/acs.joc.0c01275
@@ -1040,7 +1040,7 @@
  Methods:
   - time course
 -
- Reference: "Firczuk H, Teahan J, Mendes P, McCarthy JEG (2020) Multisite rate control analysis identifies ribosomal scanning as the sole high-capacity/low-flux-control step in mRNA translation. The FEBS Journal 287:925940"
+ Reference: "Firczuk H, Teahan J, Mendes P, McCarthy JEG (2020) Multisite rate control analysis identifies ribosomal scanning as the sole high-capacity/low-flux-control step in mRNA translation. FEBS Journal 287:925940"
  Year: 2020
  URL: https://doi.org/10.1111/febs.15059
  Type: 2
@@ -2877,7 +2877,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Macikova L, Sinica V, Kadkova A, Villette S, Ciaccafava A, Faherty J, Lecomte S, Alves ID, Vlachova V (2019) Putative interaction site for membrane phospholipids controls activation of TRPA1 channel at physiological membrane potentials. The FEBS Journal 286:3664–3683"
+ Reference: "Macikova L, Sinica V, Kadkova A, Villette S, Ciaccafava A, Faherty J, Lecomte S, Alves ID, Vlachova V (2019) Putative interaction site for membrane phospholipids controls activation of TRPA1 channel at physiological membrane potentials. FEBS Journal 286:3664–3683"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1111/febs.14931
@@ -3224,7 +3224,7 @@
   - parameter estimation
   - stochastic simulation
 -
- Reference: "Özkar S, Finke RG (2019) Nanoparticle Formation Kinetics and Mechanistic Studies Important to Mechanism-Based Particle-Size Control: Evidence for Ligand-Based Slowing of the Autocatalytic Surface Growth Step Plus Postulated Mechanisms. The Journal of Physical Chemistry C 123:14047–14057"
+ Reference: "Özkar S, Finke RG (2019) Nanoparticle Formation Kinetics and Mechanistic Studies Important to Mechanism-Based Particle-Size Control: Evidence for Ligand-Based Slowing of the Autocatalytic Surface Growth Step Plus Postulated Mechanisms. Journal of Physical Chemistry C 123:14047–14057"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1021/acs.jpcc.9b03220
@@ -3679,7 +3679,7 @@
  Methods:
   - optimization
 -
- Reference: "Stanbury DM, Harshman J (2019) Large-Scale Models of Radiation Chemistry and the Principle of Detailed Balancing. The Journal of Physical Chemistry A 123:10240–10245"
+ Reference: "Stanbury DM, Harshman J (2019) Large-Scale Models of Radiation Chemistry and the Principle of Detailed Balancing. Journal of Physical Chemistry A 123:10240–10245"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1021/acs.jpca.9b07470
@@ -5028,7 +5028,7 @@
   - optimization
   - stochastic simulation
 -
- Reference: "Rosas Lemus M, Roussarie E, Hammad N, Mougeolle A, Ransac S, Issa R, Mazat J-P, Uribe-Carvajal S, Rigoulet M, Devin A (2018) The role of glycolysis-derived hexose phosphates in the induction of the Crabtree effect. The Journal of Biological Chemistry 293:12843–12854"
+ Reference: "Rosas Lemus M, Roussarie E, Hammad N, Mougeolle A, Ransac S, Issa R, Mazat J-P, Uribe-Carvajal S, Rigoulet M, Devin A (2018) The role of glycolysis-derived hexose phosphates in the induction of the Crabtree effect. Journal of Biological Chemistry 293:12843–12854"
  Year: 2018
  Type: 2
  URL: https://doi.org/10.1074/jbc.RA118.003672
