@@ -1,0 +1,99 @@
+---
+layout: structure
+title: "COPASI 4.31 Build 243"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.31.243</h3>
+    Release Date: May 10, 20201<br />
+    <h4>New Features since COPASI 4.30 (Build 240)</h4>
+    <ul>
+      <li> Installation
+        <ul>
+          <li>
+            The Linux installation has been changed to a self extracting interactive archive which also creates a desktop file and registers file and URL associations.
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings 
+        <ul>
+          <li>
+            Exposed the MIRIAM annotation in the language bindings.
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.30 (Build 240)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Added error message opening a model by URL failed.
+          </li>
+          <li>
+            Fixed crash occurring when deleting on object while editing the MIRIAM annotation.
+          </li>
+          <li>
+            Improved detection of SED-ML files when dragging and dropping it in the application.
+          </li>
+          <li>
+            Added option to disable JIT compilation in the COPASI configuration file and preference dialog.
+          </li>
+          <li>
+            The current user credentials (if defined) are automatically added as the creator to new models.
+          </li>
+          <li>
+            Improve visualization of optimization methods.
+          </li>
+       </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Improved performance of detecting whether changing of initial concentration or initial particle number may be prohibited.
+          </li>
+          <li>
+            Fixed crash occurring in certain situation when a loaded with piece wise defined functions model cannot be compiled. 
+          </li>
+          <li>
+            Improved JIT compilation which could cause stack overflow when compiling very large expression caused by moieties or very large models (thousands of reactions).
+          </li>
+          <li>
+            Fixed loading COPASI files which contains invalid curve types for plots.
+          </li>
+          <li>
+            Fixed rarely occurring crash in the direct stochastic algorithm caused by floating point rounding errors.
+          </li>
+        </ul>
+      </li>
+       <li> Standards
+        <ul>
+          <li>
+            Improved exporting of time course duration to SED-ML avoiding rounding errors.
+          </li>
+          <li>
+            Fixed export and import of nested scan tasks.
+          </li>
+          <li>
+            Improved detection of COPASI files in Combine archives which are marked as xml.
+          </li>
+          <li>
+            Fixed export of events with assignments which contained a redundant unary plus.
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings
+        <ul>
+          <li>
+            Fixed catching an exception when export to SBML failed. 
+          </li>
+          <li>
+            Fixed catching an exception when creating a Combine archive failed. 
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
