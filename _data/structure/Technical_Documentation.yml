@@ -5,5 +5,7 @@ pages:
   title: "C++ API Documentation"
 - path: Support/Technical_Documentation/File_Format
   title: "COPASI File Format"
+- path: Support/Technical_Documentation/COPASI_Scheme
+  title: "COPASI URL Scheme"
 - path: Support/Technical_Documentation/MIRIAM_Annotation
   title: "MIRIAM Annotation"
