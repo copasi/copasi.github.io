@@ -1,0 +1,168 @@
+---
+layout: structure
+title: "COPASI URL Scheme"
+structure: "Technical_Documentation"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+        Starting with COPASI 4.26, COPASI does include a protocoll hanlder for the 
+        <code>copasi://</code> protocol. This allows to open COPASI directly from the 
+        Browser, by clicking an according link. The following verbs are supported:
+    </p>
+    <ul>
+        <li> <code>downloadUrl</code>: the URL to the COPASI / SBML / Combine Archive to open</li>
+        <li> <code>activate</code>: the name of model element or task to select after opening the file</li>
+        <li> <code>createPlot</code>: the name of the plot to create</li>
+        <li> <code>runTask</code>: the task to execute</li>
+    </ul>
+  </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3 name="example">Example</h3>
+        <ul>
+            <li>
+                <a href='copasi://process?downloadUrl=http%3A%2F%2Fwww.ebi.ac.uk%2Fbiomodels%2Fmodel%2Fdownload%2FBIOMD0000000001&activate=Time%20Course&createPlot=Concentrations%2C%20Volumes%2C%20and%20Global%20Quantity%20Values&runTask=Time-Course' target='_blank'>Download BM10 (in SBML format) and simulate it with a concentration timecourse plot</a>
+            </li>
+            <li>
+                <a href='copasi://?downloadUrl=https%3A%2F%2Fraw.githubusercontent.com/copasi/COPASI/develop/TestSuite/distribution/brusselator.cps&runTask=Time-Course' target='_blank'>Download a COPASI file and run a timecourse</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-xs-12">
+        <div class="card">
+            <div class="card-title">
+                <h2>COPASI Url Generator</h2>
+            </div>
+            <div class="card-body">
+                <form id="form" action="copasi://process" method="get">
+                    <div class="form-group">
+                        <label for="downloadUrl">Download Url</label>
+                        <input type="url" class="form-control" id="downloadUrl" name="downloadUrl"
+                            aria-describedby="urlHelp" placeholder="any url to a publicly accessible COPASI or SBML file">
+                        <small id="urlHelp" class="form-text text-muted">The full url to a COPASI or SBML file to be opened
+                            in
+                            COPASI. Like <b id="exampleUrl"
+                                onclick="document.forms['form'].elements['downloadUrl'].value='http://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000001'">http://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000001</b>. (click on the bold text to set the url)</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="activate">Activate</label>
+                        <input type="text" class="form-control ui-widget" id="activate" name="activate"
+                            aria-describedby="activateHelp" placeholder="name of model element or task">
+                        <small id="activateHelp" class="form-text text-muted">Any COAPSI task or element name that should be
+                            activated
+                            after the file is opened. Like <b id="exampleUrl"
+                                onclick="document.forms['form'].elements['activate'].value='Time Course'">Time
+                                Course</b>. (click on the bold text to set)</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="cmbPlot">Create Plot</label>
+                        <select class="form-control" aria-describedby="plotHelp"  id="cmbPlot" name="createPlot">
+                            <option>none</option>
+                            <option>Concentrations, Volumes, and Global Quantity Values</option>
+                            <option>Particle Numbers, Volumes, and Global Quantity Values</option>
+                            <option>Reaction Fluxes</option>
+                            <option>Complete Concentrations, Volumes, and Global Quantity Values</option>
+                            <option>Complete Particle Numbers, Volumes, and Global Quantity Values</option>
+                            <option>Concentration Rates, Volume Rates, and Global Quantity Rates</option>
+                            <option>Particle Number Rates, Volume Rates, and Global Quantity Rates</option>
+                            <option>Reaction Event Fluxes</option>
+                        </select>
+                        <small id="plotHelp" class="form-text text-muted">If wanted, a plot can be automatically generated for the time course data.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="cmbRun">Run Task</label>
+                        <select class="form-control"  aria-describedby="runHelp"   id="cmbRun" name="runTask">
+                            <option>none</option>
+                            <option>Time-Course</option>
+                            <option>Steady-State</option>
+                            <option>Elementary Flux Modes</option>
+                            <option>Metabolic Control Analysis</option>
+                            <option>Sensitivities</option>
+                        </select>
+                        <small id="runHelp" class="form-text text-muted">If wanted, any COPASI task could be launched automatically.</small>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Generate Link</button>
+                </form>
+            </div>
+        </div>
+    
+        <br />
+    
+        <div class="card">
+            <div class="card-title">
+                <h2>Generated parameters</h2>
+            </div>
+            <div class="card-body">
+                <div class="form-group">
+                    <p>The following url parameters were selected above: </p>
+                    <label for="info"></label>
+                    <div class="alert alert-info" role="info" id="info">
+                        copasi://process?<span id="query">none</span>
+                    </div>
+                    <button id="launch" type="button" onclick="launchCopasi(); return false;" class="btn btn-primary">Open
+                        in
+                        COPASI</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3 name="installation">Installation</h3>
+        <p>
+            Starting with release 4.31 of COPASI the protocoll handlers are automatically installed upon installation
+            of COPASI.
+        </p>
+    </div>
+</div>
+
+<script>
+    $("form").submit(function (event) {
+        showValues();
+        event.preventDefault();
+    });
+
+    function showValues() {
+        var str = $("form").serialize();
+        $("#query").text(str);
+    }
+
+    function launchCopasi() {
+        var str = $("form").serialize();
+        location.href = "copasi://process?" + str;
+    }
+
+    $("b").click(function (event) {
+        showValues();
+    });
+
+    $("select").click(function (event) {
+        showValues();
+    });
+
+    $(document).ready(function () {
+
+        var availableElements = [
+            "Time Course",
+            "Steady-State",
+            "ActiveACh2", // species name in BM1
+            "React1" // reaction name in BM1
+        ];
+
+        $('#activate').autocomplete({ source: availableElements });
+
+        showValues();
+    });
+
+</script>
