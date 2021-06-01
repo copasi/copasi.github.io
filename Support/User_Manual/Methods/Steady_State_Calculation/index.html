@@ -87,6 +87,18 @@ use_math: true
         extremely large nor extremely small numerically so that the default value for this parameter leads to useful
         results. However generally it is not save to just keep the default value without checking.</dd>
     </dl><br />
+    <dl>
+      <dt><b>Target Criterion</b></dt>
+      <dd> <div>This selection list, specifies under what circumstances to accept the steady state. Valid options are:</div>
+        <ul>
+          <li><b>Rate</b>:  the largest of all the right-hand side of the ODEs needs to be smaller than the Resolution 
+            specified (in concentration units)</li>
+          <li><b>Distance</b>: the Newton method increment needs to be smaller than the Resolution specified</li>
+          <li><b>Distance and Rate</b>: both of the above criteria have to be satisfied. This is the default method 
+            selected. So as to avoid false positives.</li>
+        </ul>
+      </dd>
+    </dl><br />
     <br />
   </div>
 </div>
