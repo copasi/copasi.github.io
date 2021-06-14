@@ -451,6 +451,21 @@
  Methods:
   - time course
 -
+ Reference: "Scott KE, Fraley SI, Rangamani P (2021) A spatial model of YAP/TAZ signaling reveals how stiffness, dimensionality, and shape contribute to emergent outcomes. Proceedings of the National Academy of Sciences USA 118 doi:10.1073/pnas.2021571118"
+ Year: 2021
+ URL: https://doi.org/10.1073/pnas.2021571118
+ Type: 2
+ Keywords:
+  - Signaling
+ Locations:
+  - Jacobs School of Engineering, University of California San Diego, La Jolla, CA 92093
+ Funding:
+  - NSF 
+  - NIH 
+  - Office of Naval Research
+ Methods:
+  - paramater estimation
+-
  Reference: "Städter P, Schälte Y, Schmiester L, Hasenauer J, Stapor PL (2021) Benchmarking of numerical integration methods for ODE models of biological systems. Scientific Reports 11:2696"
  Year: 2021
  Type: 3
