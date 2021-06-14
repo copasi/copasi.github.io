@@ -341,6 +341,23 @@
  Methods: 
   - steady state
 -
+ Reference: "Novichkov AI, Hanopolskyi AI, Miao X, Shimon LJW, Diskin-Posner Y, Semenov SN (2021) Autocatalytic and oscillatory reaction networks that form guanidines and products of their cyclization. Nature Communications 12:2994"
+ Year: 2021
+ URL: https://doi.org/10.1038/s41467-021-23206-9
+ Type: 2
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Weizmann Institute of Science, Rehovot, Israel
+ Funding:
+  - Israel Science Foundation
+  - Weizmann SABRA—Yeda-Sela—WRC Program
+  - the Estate of Emile Mimran
+  - The Maurice and Vivienne Wohl Biology Endowment. 
+  - Israel Ministry of Absorption
+ Methods:
+  - parameter estimation
+-
  Reference: "Oliveira A, Rodrigues J, Ferreira EC, Rodrigues L, Dias O (2021) A kinetic model of the central carbon metabolism for acrylic acid production in Escherichia coli. PLOS Computational Biology 17:e1008704"
  Year: 2021
  Type: 2
