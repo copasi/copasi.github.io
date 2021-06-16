@@ -1,0 +1,80 @@
+---
+layout: structure
+title: "COPASI 4.32 Build 245"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.32.245</h3>
+    Release Date: June 16, 2021<br />
+    <h4>New Features since COPASI 4.31 (Build 245)</h4>
+    <ul>
+      <li> Installation
+        <ul>
+          <li>
+            The Linux installation support parallel installation of COPASI versions.
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings 
+        <ul>
+          <li>
+            Exposed SED-ML exporter. 
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Bug Fixes since COPASI 4.31 (Build 243)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Improved capability to cancel running/stuck optimization and parameter estimation tasks.
+          </li>
+          <li>
+            Fixed crash occurring when accessing MIRIAM information right after export to SBML.
+          </li>
+          <li>
+            Fixed issue displaying model units in drop boxes.
+          </li>
+          <li>
+            Added divergence to the Lyapunov exponent tasks result appearing in the object browser. 
+          </li>
+          <li>
+            The display of log and log<sub>10</sub> is now consistent between editing and display of mathematical expressions.
+          </li>
+       </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Fixed rarely occurring when the model contained an invalid function or expression.
+          </li>
+          <li>
+            Fixed output (report and plot) of parameter estimation results, which was broken for time courses data including only one time point.             
+          </li>
+          <li>
+            Fixed optimization of Lyapunov results.
+          </li>
+          <li>
+            Fixed Lyapunov method which may get stuck in an infinite loop.
+          </li>
+        </ul>
+      </li>
+       <li> Standards
+        <ul>
+          <li>
+            Improved round tripping with SED-ML using KISAO terms to restore original settings.
+          </li>
+          <li>
+            Fixed round trip problem with units.
+          </li>
+          <li>
+            Fixed problem importing SBML files making use of calling functions within another function or expression.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
