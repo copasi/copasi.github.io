@@ -1649,6 +1649,30 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Mendes P, Girardi E, Superti-Furga G, Kell DB (2020) Why most transporter mutations that cause antibiotic resistance are to efflux pumps rather than to import transporters. bioRxiv. 2020.01.16.909507"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1101/2020.01.16.909507
+ Keywords:
+  - Microbiology
+ Locations:
+  - Center for Quantitative Medicine, University of Connecticut School of Medicine, 263 Farmington Avenue, Farmington, CT 06030-6033, USA
+  - CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences, A-1090 Vienna, Austria
+  - Center for Physiology and Pharmacology, Medical University of Vienna, 1090, Vienna, Austria
+  - Department of Biochemistry, Institute of Integrative Biology, University of Liverpool, Crown St, Liverpool L69 7ZB, UK
+  - The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Kemitorvet 200, 2800 Kgs Lyngby, Denmark
+ Funding:
+  - BBSRC
+  - Novo Nordisk Fonden
+  - NIH
+  - Austrian Academy of Sciences
+  - EU ERC
+ Methods:
+  - time course
+  - steady state
+  - MCA
+  - parameter scan
+-
  Reference: "Meyer K, Morales-Navarrete H, Seifert S, Wilsch-Braeuninger M, Dahmen U, Tanaka EM, Brusch L, Kalaidzidis Y, Zerial M (2020) Bile canaliculi remodeling activates YAP via the actin cytoskeleton during liver regeneration. Molecular Systems Biology 16:e8985"
  Year: 2020
  Type: 2
