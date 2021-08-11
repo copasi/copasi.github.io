@@ -577,6 +577,24 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Whitehead CB, Handwerk DR, Shipman PD, Li Y, Frenkel AI, Ingham B, Kirby NM, Finke RG (2021) Nanoparticle Formation Kinetics, Mechanisms, and Accurate Rate Constants: Examination of a Second-Generation Ir(0)n Particle Formation System by Five Monitoring Methods Plus Initial Mechanism-Enabled Population Balance Modeling. The Journal of Physical Chemistry C. American Chemical Society 125:13449–13476"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1021/acs.jpcc.1c03475
+ Keywords:
+  - Chemistry
+ Locations:
+  - Colorado State University, Fort Collins, Colorado 80523, USA
+  - Department of Materials Science and Chemical Engineering, Stony Brook University, Stony Brook, New York 11794, USA
+  - Division of Chemistry, Brookhaven National Laboratory, Upton, New York 11973, USA
+  - Callaghan Innovation, P.O. Box 31310, Lower Hutt 5040, New Zealand
+  - Australian Synchrotron, 800 Blackburn Road, Clayton 3168, Australia
+ Funding:
+  - DOE
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Yahya G, Pérez AP, Mendoza MB, Parisi E, Moreno DF, Artés MH, Gallego C, Aldea M (2021) Stress granules display bistable dynamics modulated by Cdk. Journal of Cell Biology 220:jcb202005102"
  Year: 2021
  Type: 2
