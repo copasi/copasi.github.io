@@ -271,6 +271,22 @@
  Methods:
   - steady state
 -
+ Reference: "Klimacek M, Zhong C, Nidetzky B (2021) Kinetic modeling of phosphorylase-catalyzed iterative β-1,4-glycosylation for degree of polymerization-controlled synthesis of soluble cello-oligosaccharides. Biotechnology for Biofuels 14:134"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1186/s13068-021-01982-2
+ Keywords:
+  - Biotechnology
+  - Enzymology
+ Locations:
+  - Institute of Biotechnology and Biochemical Engineering, Graz University of Technology, NAWI Graz, Graz, Austria
+  - Austrian Centre of Industrial Biotechnology (Acib), Graz, Austria
+ Funding:
+  - EU Horizon2020
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Matsuura R, Karunananda MK, Liu M, Nguyen N, Blackmond DG, Engle KM (2021) Mechanistic Studies of Pd(II)-Catalyzed E/Z Isomerization of Unactivated Alkenes: Evidence for a Monometallic Nucleopalladation Pathway. ACS Catalysis 11:4239–4246"
  Year: 2021
  Type: 2
