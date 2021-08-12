@@ -1,0 +1,67 @@
+---
+layout: structure
+title: "COPASI 4.34 Build 251"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.34.251</h3>
+    Release Date: August 12, 2021<br />
+    <h4>Bug Fixes since COPASI 4.33 (Build 246)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            In any file save dialog the base name of the currently loaded model is the default instead of untitled.
+          </li>
+          <li>
+            Improved the display of complex units.
+          </li>
+          <li>
+            Improved layout of the Lyapunov exponent results to provide more space for the exponent table. 
+          </li>
+          <li>
+            Prevent crash when entering a reaction with species whose name is a valid number. 
+          </li>
+          <li>
+            The statistics and the fitting plots are again correctly calculated and displayed for a stopped parameter tasks.
+          </li>
+       </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            The Avogadro constant has been updated to it's final value: 6.02214076 x 10^23
+          </li>
+        </ul>
+      </li>
+      <li> Standards
+        <ul>
+          <li>
+            SBML: Fixed problems importing and exporting mathematical expressions using Avogadro's number.
+          </li>
+          <li>
+            SBML: Fixed import of mathematical expression using functions without any arguments.
+          </li>
+          <li>
+            SBML: Fixed occasional crash when importing the same SBML file twice in a row.
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings
+        <ul>
+          <li>
+            Fixed crash occurring when deleting several species at once, i.e., without compiling the model after each delete.
+          </li>
+          <li>
+            Fixed crash when deleting a function which is still in use in the model.
+          </li>
+          <li>
+            Fixed crash when creating an expression with numbers in the German format like 1,2.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
