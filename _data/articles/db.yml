@@ -566,6 +566,20 @@
   - parameter estimation
   - time course
 -
+ Reference: "Sotnikov DV, Berlina AN, Zherdev AV, Dzantiev BB (2021) Theoretical limitations for aggregation methods of analysis based on affine interactions. AIP Conference Proceedings 2371:070001"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1063/5.0060806
+ Keywords:
+  - Biophysics
+ Locations:
+  - A.N. Bach Institute of Biochemistry, Research Centre of Biotechnology, Russian Academy of Sciences, Leninsky prospect 33, 119071 Moscow, Russia
+ Funding:
+  - Russian Science Foundation
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Städter P, Schälte Y, Schmiester L, Hasenauer J, Stapor PL (2021) Benchmarking of numerical integration methods for ODE models of biological systems. Scientific Reports 11:2696"
  Year: 2021
  Type: 3
