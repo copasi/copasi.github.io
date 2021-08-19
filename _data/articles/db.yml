@@ -299,6 +299,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Lakhova TN, Kazantsev FV, Lashin SA, Matushkin YG (2021) The finding and researching algorithm for potentially oscillating enzymatic systems. Vavilov Journal of Genetics and Breeding 25:318–330"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.18699/VJ21.035
+ Keywords:
+  - Computational Method
+  - Metabolism
+ Locations:
+  - Institute of Cytology and Genetics of the Siberian Branch of the Russian Academy of Sciences, Novosibirsk, Russia
+  - Novosibirsk State University, Novosibirsk, Russia
+ Funding:
+  - Russian Science Foundation
+ Methods:
+  - time course
+-
  Reference: "Leopold M, Siebert M, Siegle AF, Trapp O (2021) Reaction Network Analysis of the Ruthenium-Catalyzed Reduction of Carbon Dioxide to Dimethoxymethane. ChemCatChem 13:2807–2814"
  Year: 2021
  Type: 2
