@@ -5302,6 +5302,20 @@
  Methods:
   - time course
 -
+ Reference: "Šalagovič J (2018) Computational analysis and model integration of biorhythmic systems. Masters Thesis, Masaryk University, Faculty of Informatics, Czech Republic"
+ Year: 2018
+ Type: 2
+ URL: https://is.muni.cz/th/vwyx4/?lang=en
+ Keywords:
+  - Metabolism
+  - Microbiology
+  - Computational Method
+ Locations:
+  - Masaryk University, Faculty of Informatics, Brno, Czech Republic
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Scharm M (2018) Improving Reproducibility and Reuse of Modelling Results in the Life Sciences. PhD Thesis, University of Rostock"
  Year: 2018
  Type: 3
