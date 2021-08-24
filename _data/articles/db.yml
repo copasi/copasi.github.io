@@ -154,6 +154,20 @@
  Methods:
   - MCA
 -
+ Reference: "Fischer S, Dinh M, Henry V, Robert P, Goelzer A, Fromion V (2021) BiPSim: a flexible and generic stochastic simulator for polymerization processes. Scientific Reports 11:14112"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.1038/s41598-021-92833-5
+ Keywords:
+  - Computational Method
+ Locations:
+  - INRAE, MaIAGE, Université Paris-Saclay, Jouy-en-Josas, France
+  - INRIA Paris, Paris Cedex 12, France
+ Funding:
+  - French Lidex-IMSV of Université Paris-Saclay
+ Methods:
+  - stochastic simulation
+-
  Reference: "Frolova AYu, Pakhomov AA, Martynov VI (2021) Physicochemical Properties of Photoconvertible Fluorescent Protein from Montastraea cavernosa. Russian Journal of Bioorganic Chemistry 47:244–251"
  Year: 2021
  Type: 2
