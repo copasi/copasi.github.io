@@ -579,6 +579,20 @@
  Methods:
   - time course
 -
+ Reference: "Quiros-Fernandez I, Figueroa-Protti L, Arias-Arias JL, Brenes-Cordero N, Siles F, Mora J, Mora-Rodríguez RA (2021) Perturbation-Based Modeling Unveils the Autophagic Modulation of Chemosensitivity and Immunogenicity in Breast Cancer Cells. Metabolites 11:637"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.3390/metabo11090637
+ Keywords:
+  - Signaling
+ Locations:
+  - University of Costa Rica, San José 11501-2060, Costa Rica
+  - Dulbecco Laboratory Studio, Residencial Lisboa 2G, Alajuela 20102, Costa Rica
+ Funding:
+  - University of Costa Rica
+ Methods:
+  - parameter estimation
+-
  Reference: "Ramesh V, Krishnan J (2021) Symmetry breaking meets multisite modification. eLife 10:e65358"
  Year: 2021
  URL: https://doi.org/10.7554/eLife.65358
