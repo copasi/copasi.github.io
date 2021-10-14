@@ -194,6 +194,19 @@
  Methods:
   - stochastic simulation
 -
+ Reference: "Förster J, Bergmann FT, Pahle J (2021) CoRC - the COPASI R Connector. Bioinformatics 37:2778–2779"
+ Year: 2021
+ Type: 1
+ URL: https://doi.org/10.1093/bioinformatics/btab033
+ Keywords:
+  - Software
+ Locations:
+  - German Cancer Research Center (DKFZ), INF280, 69120 Heidelberg, Germany
+  - BioQuant/COS, Heidelberg University, INF267, 69120 Heidelberg, Germany
+ Funding:
+  - Klaus Tschira Foundation
+  - BIOMS
+-
  Reference: "Frolova AYu, Pakhomov AA, Martynov VI (2021) Physicochemical Properties of Photoconvertible Fluorescent Protein from Montastraea cavernosa. Russian Journal of Bioorganic Chemistry 47:244–251"
  Year: 2021
  Type: 2
