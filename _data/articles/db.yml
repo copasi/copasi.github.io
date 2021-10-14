@@ -499,6 +499,27 @@
  Methods:
   - time course
 -
+ Reference: "Lorenzo R, Defelipe LA, Aliperti L, Niebling S, Custódio TF, Löw C, Schwarz JJ, Remans K, Craig PO, Otero LH, Klinke S, García-Alai M, Sánchez IE, Alonso LG (2021) Deamidation drives molecular aging of the SARS-CoV-2 spike protein receptor-binding motif. The Journal of Biological Chemistry 297:101175"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1016/j.jbc.2021.101175
+ Keywords:
+  - Macromolecular Biochemistry
+  - Microbiology
+ Locations:
+  - Facultad de Ciencias Veterinarias, Universidad Nacional del Centro, Tandil, Argentina
+  - European Molecular Biology Laboratory, Hamburg Unit, Hamburg, Germany
+  - Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
+  - European Molecular Biology Laboratory, Heidelberg, Germany
+  - Fundación Instituto Leloir, Buenos Aires, Argentina
+  - Instituto de Nanobiotecnologıa, Universidad de Buenos Aires, Buenos Aires, Argentina
+ Funding:
+  - Agencia Nacional de Promocion Cientifica y Tecnologica, Argentina
+  - Consejo Nacional de Investigaciones Cientificas y Tecnicas, Argentina
+  - EMBL
+ Methods:
+  - stchastic simulation
+-
  Reference: "Marchisio MA (2021) Modular Modeling of Genetic Circuits in SBML Level 3. Methods in Molecular Biology 2189:45–63"
  Year: 2021
  Type: 3
