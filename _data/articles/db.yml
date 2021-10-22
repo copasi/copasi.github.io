@@ -664,6 +664,32 @@
   - steady state
   - MCA
 -
+ Reference: "Panitz V, Končarević S, Sadik A, Friedel D, Bausbacher T, Trump S, Farztdinov V, Schulz S, Sievers P, Schmidt S, Jürgenson I, Jung S, Kuhn K, Pflüger I, Sharma S, Wick A, Pfänder P, Selzer S, Vollmuth P, Sahm F, von Deimling A, Heiland I, Hopf C, Schulz-Knappe P, Pike I, Platten M, Wick W, Opitz CA (2021) Tryptophan metabolism is inversely regulated in the tumor and blood of patients with glioblastoma. Theranostics 11:9217–9233"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.7150/thno.60679
+ Keywords:
+  - Metabolism
+ Locations:
+  - German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany
+  - Heidelberg University Hospital, 69120 Heidelberg, Germany
+  - Proteome Sciences R&D GmbH & Co. KG, Altenhöferallee 3, 60438 Frankfurt/Main, Germany
+  - Heidelberg University, 69120 Heidelberg, Germany.
+  - Mannheim University of Applied Sciences, 68163 Mannheim, Germany
+  - Berlin Institute of Health at Charité - Universitätsmedizin Berlin, 10117 Berlin, Germany
+  - The Arctic University of Norway, 9037 Tromsø, Norway.
+  - Proteome Sciences plc, 5 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2HJ, UK
+  - Medical Faculty Mannheim, University of Heidelberg, 68167 Mannheim, Germany
+ Funding
+  - BMBF
+  - DFG
+  - EU Horizon2020
+  - DKFZ
+  - Dieter Morszeck Foundation
+  - DAAD
+ Methods:
+  - steady state
+-
  Reference: "Quiros DN, Nieto F, Mayorga LS (2021) From cartoons to quantitative models in Golgi transport. Biology of the Cell 113:146–164"
  Year: 2021
  Type: 2 
