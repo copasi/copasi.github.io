@@ -24415,7 +24415,9 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
     <namespace>ocid</namespace>
     <uris>
       <uri type="URN">urn:miriam:ocid</uri>
-      <uri type="URL">https://www.sciwalker.com/sciwalker/faces/ociddata.xhtml?ocid=</uri>
+      <uri type="URL">https://ocid.ontochem.com/prefname?ocid=</uri>
+      <uri type="URN">urn:miriam:ocid</uri>
+      <uri type="URL">https://registry.identifiers.org/deprecation/resources/MIR:00000706/</uri>
     </uris>
   </datatype>
   <datatype id="MIR:00000739" pattern="^PRO_[0-9]{10}$">
@@ -24517,6 +24519,15 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
       <uri type="URL">https://nanocommons.github.io/identifiers/registry#</uri>
     </uris>
   </datatype>
+  <datatype id="MIR:00000764" pattern="^[0-9][A-Za-z0-9]{3}[A-Za-z0-9][A-Za-z0-9]?[0-9]?[0-9]?$">
+    <name>RepeatsDB Structure</name>
+    <definition>RepeatsDB is a database of annotated tandem repeat protein structures. This collection references structural entries in the database.</definition>
+    <namespace>repeatsdb.structure</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:repeatsdb.structure</uri>
+      <uri type="URL">https://repeatsdb.org/structure/</uri>
+    </uris>
+  </datatype>
   <datatype id="MIR:00000765" pattern="^((VGNC|vgnc):)?\d{1,9}$">
     <name>VGNC</name>
     <definition>The Vertebrate Gene Nomenclature Committee (VGNC) is an extension of the established HGNC (HUGO Gene Nomenclature Committee) project that names human genes. VGNC is responsible for assigning standardized names to genes in vertebrate species that currently lack a nomenclature committee.</definition>
@@ -24553,6 +24564,15 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
       <uri type="URL">https://molmedb.upol.cz/mol/</uri>
     </uris>
   </datatype>
+  <datatype id="MIR:00000769" pattern="^\d+$">
+    <name>ClinVar Submitter</name>
+    <definition>ClinVar archives reports of relationships among medically important variants and phenotypes. It records human variation, interpretations of the relationship specific variations to human health, and supporting evidence for each interpretation. Each ClinVar record (RCV identifier) represents an aggregated view of interpretations of the same variation and condition from one or more submitters (Submitter IDs). Submissions for individual variation/phenotype combinations (SCV identifier) are also collected and made available separately. This collection references submitters (submitter ids) that submit the submissions (SCVs).</definition>
+    <namespace>clinvar.submitter</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:clinvar.submitter</uri>
+      <uri type="URL">https://www.ncbi.nlm.nih.gov/clinvar/submitters/</uri>
+    </uris>
+  </datatype>
   <datatype id="MIR:00000770" pattern="^C[0-9]{7}$">
     <name>ClassyFire</name>
     <definition>ClassyFire is a web-based application for automated structural classification of chemical entities. This application uses a rule-based approach that relies on a comprehensible, comprehensive, and computable chemical taxonomy. ClassyFire provides a hierarchical chemical classification of chemical entities (mostly small molecules and short peptide sequences), as well as a structure-based textual description, based on a chemical taxonomy named ChemOnt, which covers 4825 chemical classes of organic and inorganic compounds. Moreover, ClassyFire allows for text-based search via its web interface. It can be accessed via the web interface or via the ClassyFire API.</definition>
@@ -24560,6 +24580,24 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
     <uris>
       <uri type="URN">urn:miriam:classyfire</uri>
       <uri type="URL">http://classyfire.wishartlab.com/tax_nodes/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000774" pattern="^[0-9]+\.[0-9]+">
+    <name>VMH Gene</name>
+    <definition>The Virtual Metabolic Human (VMH) is a resource that combines human and gut microbiota metabolism with nutrition and disease.</definition>
+    <namespace>vmhgene</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:vmhgene</uri>
+      <uri type="URL">https://www.vmh.life/#gene/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000777" pattern="^PED\d{5}$">
+    <name>Protein Ensemble Database</name>
+    <definition>The Protein Ensemble Database is an open access database for the deposition of structural ensembles, including intrinsically disordered proteins.</definition>
+    <namespace>ped</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:ped</uri>
+      <uri type="URL">https://proteinensemble.org/</uri>
     </uris>
   </datatype>
   <datatype id="MIR:00000782" pattern="^\S+$">
@@ -24580,7 +24618,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
       <uri type="URL">https://omabrowser.org/oma/hog/resolve/HOG:</uri>
     </uris>
   </datatype>
-  <datatype id="MIR:00000786" pattern="^\d{6}(/\d+\.\d+\.\d+)?$">
+  <datatype id="MIR:00000786" pattern="^\d{6}(\/\d+\.\d+\.\d+)?$">
     <name>DANDI: Distributed Archives for Neurophysiology Data Integration</name>
     <definition>DANDI works with BICCN and other BRAIN Initiative awardees to curate data using community data standards such as NWB and BIDS, and to make data and software for cellular neurophysiology FAIR (Findable, Accessible, Interoperable, and Reusable).
 DANDI references electrical and optical cellular neurophysiology recordings and associated MRI and/or optical imaging data.
@@ -24598,6 +24636,411 @@ These data will help scientists uncover and understand cellular level mechanisms
     <uris>
       <uri type="URN">urn:miriam:covid19</uri>
       <uri type="URL">https://covid19.sfb.uit.no/api/records/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000792" pattern="^[OPQopq][0-9][A-Za-z0-9]{3}[0-9]|[A-Na-nR-Zr-z][0-9]([A-Za-z][A-Za-z0-9]{2}[0-9]){1,2}$">
+    <name>RepeatsDB Protein</name>
+    <definition>RepeatsDB is a database of annotated tandem repeat protein structures. This collection references protein entries in the database.</definition>
+    <namespace>repeatsdb.protein</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:repeatsdb.protein</uri>
+      <uri type="URL">https://repeatsdb.org/protein/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000795" pattern="^PED\d{5}e\d{3}$">
+    <name>Protein Ensemble Database ensemble</name>
+    <definition>The Protein Ensemble Database is an open access database for the deposition of structural ensembles, including intrinsically disordered proteins.</definition>
+    <namespace>ped.ensemble</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:ped.ensemble</uri>
+      <uri type="URL">https://proteinensemble.org/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000796" pattern="^[a-fA-F0-9]{8}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{12}$">
+    <name>gateway</name>
+    <definition>The Health Data Research Innovation Gateway (the 'Gateway') provides a common entry point to discover and enquire about access to UK health datasets for research and innovation. It provides detailed information about the datasets, which are held by members of the UK Health Data Research Alliance, such as a description, size of the population, and the legal basis for access.</definition>
+    <namespace>gateway</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:gateway</uri>
+      <uri type="URL">https://web.www.healthdatagateway.org/dataset/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000798" pattern="^\d+$">
+    <name>Animal Genome QTL</name>
+    <definition>The Animal Quantitative Trait Loci (QTL) database (Animal QTLdb) is designed to house publicly all available QTL and single-nucleotide polymorphism/gene association data on livestock animal species. This collection is species-independent.</definition>
+    <namespace>qtldb</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:qtldb</uri>
+      <uri type="URL">https://www.animalgenome.org/QTLdb/q?id=QTL_ID:</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000799" pattern="^CHEMBL\d+$">
+    <name>ChEMBL</name>
+    <definition>ChEMBL is a database of bioactive compounds, their quantitative properties and bioactivities (binding constants, pharmacology and ADMET, etc). The data is abstracted and curated from the primary scientific literature.</definition>
+    <namespace>chembl</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:chembl</uri>
+      <uri type="URL">https://www.ebi.ac.uk/chembl/entity/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000802" pattern="^.+$">
+    <name>Intelligence Task Ontology</name>
+    <definition>The Intelligence Task Ontology (ITO) provides a comprehensive map of machine intelligence tasks, as well as broader human intelligence or hybrid human/machine intelligence tasks.</definition>
+    <namespace>ito</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:ito</uri>
+      <uri type="URL">https://bioportal.bioontology.org/ontologies/ITO/?p=classes&amp;conceptid=https%3A%2F%2Fai-strategies.org%2Fontology%2F</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000804" pattern="^[0-9]*$">
+    <name>Open Data Commons for Spinal Cord Injury</name>
+    <definition>The Open Data Commons for Spinal Cord Injury is a cloud-based community-driven repository to store, share, and publish spinal cord injury research data.</definition>
+    <namespace>odc.sci</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:odc.sci</uri>
+      <uri type="URL">https://odc-sci.org/data/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000806" pattern="^[A-Za-z]{2,4}[A-Za-z0-9.-]{1,71}$">
+    <name>International Geo Sample Number</name>
+    <definition>IGSN is a globally unique and persistent identifier for material samples and specimens.  IGSNs are obtained from IGSN e.V. Agents.</definition>
+    <namespace>igsn</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:igsn</uri>
+      <uri type="URL">http://igsn.org/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000808" pattern="^SIGNOR\-[A-Z]+\d+$">
+    <name>SIGNOR</name>
+    <definition>SIGNOR, the SIGnaling Network Open Resource, organizes and stores in a structured format signaling information published in the scientific literature.</definition>
+    <namespace>signor</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:signor</uri>
+      <uri type="URL">https://signor.uniroma2.it/relation_result.php?id=</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000812" pattern="^ICDC[0-9][0-9][0-9][0-9][0-9][0-9]$">
+    <name>Integrated Canine Data Commons</name>
+    <definition>The Integrated Canine Data Commons is one of several repositories within the NCI Cancer Research Data Commons (CRDC), a cloud-based data science infrastructure that provides secure access to a large, comprehensive, and expanding collection of cancer research data. The ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer.</definition>
+    <namespace>icdc</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:icdc</uri>
+      <uri type="URL">https://caninecommons.cancer.gov/#/study/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000814" pattern="^[0-9]+$">
+    <name>InterLex</name>
+    <definition>InterLex is a dynamic lexicon, initially built on the foundation of NeuroLex (PMID: 24009581), of biomedical terms and common data elements designed to help improve the way that biomedical scientists communicate about their data, so that information systems can find data more easily and provide more powerful means of integrating data across distributed resources and datasets. InterLex allows for the association of data fields and data values to common data elements and terminologies enabling the crowdsourcing of data-terminology mappings within and across communities. InterLex provides a stable layer on top of the many other existing terminologies, lexicons, ontologies, and common data element collections and provides a set of inter-lexical and inter-data-lexical mappings. </definition>
+    <namespace>ilx</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:ilx</uri>
+      <uri type="URL">https://scicrunch.org/scicrunch/interlex/view/ilx_</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000816" pattern="^[0-9]*$">
+    <name>Open Data Commons for Traumatic Brain Injury</name>
+    <definition>The Open Data Commons for Traumatic Brain Injury is a cloud-based community-driven repository to store, share, and publish traumatic brain injury research data.</definition>
+    <namespace>odc.tbi</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:odc.tbi</uri>
+      <uri type="URL">https://odc-tbi.org/data/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000818" pattern="^\d{6,7}$">
+    <name>CCDC Number</name>
+    <definition>The Cambridge Crystallographic Data Centre (CCDC) develops and maintains the Cambridge Stuctural Database, the world's most comprehensive archive of small-molecule crystal structure data. A CCDC Number is a unique identifier assigned to a dataset deposited with the CCDC.</definition>
+    <namespace>ccdc</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:ccdc</uri>
+      <uri type="URL">https://www.ccdc.cam.ac.uk/services/structures?pid=ccdc:</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000820" pattern="^[A-Z]{6}(\d{2})?$">
+    <name>Cambridge Structural Database</name>
+    <definition>The Cambridge Stuctural Database (CSD) is the world's most comprehensive collection of small-molecule crystal structures. Entries curated into the CSD are identified by a CSD Refcode.</definition>
+    <namespace>csd</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:csd</uri>
+      <uri type="URL">https://www.ccdc.cam.ac.uk/services/structures?pid=csd:</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000824" pattern="^GEO_[0-9]{9}$">
+    <name>Geographical Entity Ontology</name>
+    <definition>An ontology and inventory of geopolitical entities such as nations and their components (states, provinces, districts, counties) and the actual physical territories over which they have jurisdiction.  We thus distinguish and assign different identifiers to the US in "The US declared war on Germany" vs. the US in "The plane entered US airspace".</definition>
+    <namespace>geogeo</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:geogeo</uri>
+      <uri type="URL">http://purl.obolibrary.org/obo/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000828" pattern="^[0-9a-zA-Z\.\-\_]+$">
+    <name>MLCommons Association</name>
+    <definition>MLCommons Association artifacts, including benchmark results, datasets, and saved models.</definition>
+    <namespace>mlc</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:mlc</uri>
+      <uri type="URL">https://www.mlcommons.org/mlc-id/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000829" pattern="^[0-9]+$">
+    <name>Cell Version Control Repository</name>
+    <definition>The Cell Version Control Repository is the single worldwide version control repository for engineered and natural cell lines</definition>
+    <namespace>cellrepo</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:cellrepo</uri>
+      <uri type="URL">https://cellrepo.ico2s.org/repositories/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000830" pattern="^GN_[A-Za-z0-9]+$">
+    <name>GlycoNAVI</name>
+    <definition>GlycoNAVI is a website for carbohydrate research. It consists of the "GlycoNAVI Database" that provides information such as existence ratios and names of glycans, 3D structures of glycans and complex glycoconjugates, and the "GlycoNAVI tools" such as editing of 2D structures of glycans, glycan structure viewers, and conversion tools.</definition>
+    <namespace>glyconavi</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:glyconavi</uri>
+      <uri type="URL">https://glyconavi.org/hub/?id=</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000831" pattern="^[0-9]+$">
+    <name>CorrDB</name>
+    <definition>A genetic correlation is the proportion of shared variance between two traits that is due to genetic causes; a phenotypic correlation is the degree to which two traits co-vary among individuals in a population. In the genomics era, while gene expression, genetic association, and network analysis provide unprecedented means to decode the genetic basis of complex phenotypes, it is important to recognize the possible effects genetic progress in one trait can have on other traits. This database is designed to collect all published livestock genetic/phenotypic trait correlation data, aimed at facilitating genetic network analysis or systems biology studies.</definition>
+    <namespace>corrdb</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:corrdb</uri>
+      <uri type="URL">https://www.animalgenome.org/CorrDB/q/?id=CorrID:</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000833" pattern="^4DN[A-Z]{2}[A-Z0-9]{7}$">
+    <name>4D Nucleome</name>
+    <definition>The 4D Nucleome Data Portal hosts data generated by the 4DN Network and other reference nucleomics data sets. The 4D Nucleome Network aims to understand the principles underlying nuclear organization in space and time, the role nuclear organization plays in gene expression and cellular function, and how changes in nuclear organization affect normal development as well as various diseases.</definition>
+    <namespace>4dn</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:4dn</uri>
+      <uri type="URL">https://data.4dnucleome.org/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000835" pattern="^[0-9]+$">
+    <name>CIViC Assertion</name>
+    <definition>A CIViC assertion classifies the clinical significance of a variant-disease relationship under recognized guidelines. The CIViC Assertion (AID) summarizes a collection of Evidence Items (EIDs) that covers predictive/therapeutic, diagnostic, prognostic or predisposing clinical information for a variant in a specific cancer context. CIViC currently has two main types of Assertions: those based on variants of primarily somatic origin (predictive/therapeutic, prognostic, and diagnostic) and those based on variants of primarily germline origin (predisposing). When the number and quality of Predictive, Prognostic, Diagnostic or Predisposing Evidence Items (EIDs) in CIViC sufficiently cover what is known for a particular variant and cancer type, then a corresponding assertion be created in CIViC.</definition>
+    <namespace>civic.aid</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:civic.aid</uri>
+      <uri type="URL">https://civicdb.org/links/assertions/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000837" pattern="^[A-Za-z0-9._~\-\:]+$">
+    <name>National Microbiome Data Collaborative</name>
+    <definition>The National Microbiome Data Collaborative (NMDC) is an initiative to empower the research community to harness microbiome data exploration and discovery through a collaborative integrative data science ecosystem.</definition>
+    <namespace>nmdc</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:nmdc</uri>
+      <uri type="URL">https://drs.microbiomedata.org/objects/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000839" pattern="^[0-9]+$">
+    <name>CIViC Evidence</name>
+    <definition>Evidence Items are the central building block of the Clinical Interpretation of Variants in Cancer (CIViC) knowledgebase. The clinical Evidence Item is a piece of information that has been manually curated from trustable medical literature about a Variant or genomic ‘event’ that has implications in cancer Predisposition, Diagnosis (aka molecular classification), Prognosis, Predictive response to therapy, Oncogenicity or protein Function. For example, an Evidence Item might describe a line of evidence supporting the notion that tumors with a somatic BRAF V600 mutation generally respond well to the drug dabrafenib. A Variant may be a single nucleotide substitution, a small insertion or deletion, an RNA gene fusion, a chromosomal rearrangement, an RNA expression pattern (e.g. over-expression), etc. Each clinical Evidence statement corresponds to a single citable Source (a publication or conference abstract).</definition>
+    <namespace>civic.eid</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:civic.eid</uri>
+      <uri type="URL">https://civicdb.org/links/evidence/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000841" pattern="^[a-z]+(\..*?)?$">
+    <name>SED-ML data format</name>
+    <definition>Data format that can be used in conjunction with the Simulation Experimental Description Markup Language (SED-ML).</definition>
+    <namespace>sedml.format</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:sedml.format</uri>
+      <uri type="URL">https://sed-ml.org/urns.html#format:</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000843" pattern="^[a-z]+(\..*?)?$">
+    <name>SED-ML model format</name>
+    <definition>Model format that can be used in conjunction with the Simulation Experimental Description Markup Language (SED-ML).</definition>
+    <namespace>sedml.language</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:sedml.language</uri>
+      <uri type="URL">https://sed-ml.org/urns.html#language:</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000845" pattern="^[a-z0-9]{32,32}$">
+    <name>Physiome Model Repository</name>
+    <definition>Resource for the community to store, retrieve, search, reference, and reuse CellML models.</definition>
+    <namespace>pmr</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:pmr</uri>
+      <uri type="URL">https://models.physiomeproject.org/exposure/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000847" pattern="^\d{9,9}$">
+    <name>FunderRegistry</name>
+    <definition>The Funder Registry is an open registry of persistent identifiers for grant-giving organizations around the world.</definition>
+    <namespace>funderregistry</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:funderregistry</uri>
+      <uri type="URL">http://data.crossref.org/fundingdata/funder/10.13039/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000849" pattern="^[a-zA-Z0-9 +#'*]+$">
+    <name>Linguist</name>
+    <definition>Registry of programming languages for the Linguist program for detecting and highlighting programming languages.</definition>
+    <namespace>linguist</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:linguist</uri>
+      <uri type="URL">https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml#</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000851" pattern="^SIO_\d{6,6}$">
+    <name>Semanticscience Integrated Ontology</name>
+    <definition>The semanticscience integrated ontology (SIO) provides a simple, integrated upper level ontology (types, relations) for consistent knowledge representation across physical, processual and informational entities.</definition>
+    <namespace>sio</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:sio</uri>
+      <uri type="URL">https://www.ebi.ac.uk/ols/ontologies/sio/terms?short_form=</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000853" pattern="^[a-zA-Z0-9-_]+/[a-zA-Z0-9-_]+$">
+    <name>github</name>
+    <definition>GitHub is an online host of Git source code repositories.</definition>
+    <namespace>github</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:github</uri>
+      <uri type="URL">https://github.com/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000855" pattern="^.*?--%3E.*?$">
+    <name>Datanator Reaction</name>
+    <definition>	Datanator is an integrated database of genomic and biochemical data designed to help investigators find data about specific molecules and reactions in specific organisms and specific environments for meta-analyses and mechanistic models. Datanator currently includes metabolite concentrations, RNA modifications and half-lives, protein abundances and modifications, and reaction kinetics integrated from several databases and numerous publications. The Datanator website and REST API provide tools for extracting clouds of data about specific molecules and reactions in specific organisms and specific environments, as well as data about similar molecules and reactions in taxonomically similar organisms.</definition>
+    <namespace>datanator.reaction</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:datanator.reaction</uri>
+      <uri type="URL">https://datanator.info/reaction/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000857" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>NCI Data Commons Framework Services</name>
+    <definition>DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org</definition>
+    <namespace>dg.4dfc</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.4dfc</uri>
+      <uri type="URL">https://nci-crdc.datacommons.io/ga4gh/drs/v1/objects/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000859" pattern="^[a-z_\.]+$">
+    <name>Identifiers.org namespace</name>
+    <definition>Identifiers.org is an established resolving system that enables the referencing of data for the scientific community, with a current focus on the Life Sciences domain.</definition>
+    <namespace>identifiers.namespace</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:identifiers.namespace</uri>
+      <uri type="URL">https://registry.identifiers.org/registry/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000861" pattern="^r3d\d{9,9}$">
+    <name>re3data</name>
+    <definition>Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines.</definition>
+    <namespace>re3data</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:re3data</uri>
+      <uri type="URL">https://www.re3data.org/repository/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000863" pattern="^[a-zA-Z_][a-zA-Z0-9\-_]+$">
+    <name>PyPI</name>
+    <definition>The Python Package Index (PyPI) is a repository for Python packages.</definition>
+    <namespace>pypi</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:pypi</uri>
+      <uri type="URL">https://pypi.org/project/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000865" pattern="^[0-9]+$">
+    <name>Immune Epitope Database (IEDB)</name>
+    <definition>The Immune Epitope Database (IEDB) is a freely available resource funded by NIAID. It catalogs experimental data on antibody and T cell epitopes studied in humans, non-human primates, and other animal species in the context of infectious disease, allergy, autoimmunity and transplantation. The IEDB also hosts tools to assist in the prediction and analysis of epitopes.</definition>
+    <namespace>iedb</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:iedb</uri>
+      <uri type="URL">https://www.iedb.org/reference/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000867" pattern="^LGCEDe-S-\d{9}$">
+    <name>LG Chemical Entity Detection Dataset (LGCEDe)</name>
+    <definition>LG Chemical Entity Detection Dataset (LGCEDe) is only available open-dataset with molecular instance level annotations (i.e. atom-bond level position annotations within an image) for molecular structure images. This dataset was designed to encourage research on detection-based pipelines for Optical Chemical Structure Recognition (OCSR).</definition>
+    <namespace>lgai.cede</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:lgai.cede</uri>
+      <uri type="URL">https://s3.us-east-2.amazonaws.com/lg.cede/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000869" pattern="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>BioData Catalyst</name>
+    <definition>Full implementation of the DRS 1.1 standard with support for persistent identifiers. Open source DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org</definition>
+    <namespace>dg.4503</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.4503</uri>
+      <uri type="URL">https://gen3.biodatacatalyst.nhlbi.nih.gov/ga4gh/drs/v1/objects/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000871" pattern="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}">
+    <name>Anvil</name>
+    <definition>DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org</definition>
+    <namespace>dg.anv0</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.anv0</uri>
+      <uri type="URL">https://gen3.theanvil.io/ga4gh/drs/v1/objects/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000876" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>JCOIN</name>
+    <definition>Full implementation of the DRS 1.1 standard with support for persistent identifiers. Open source DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org</definition>
+    <namespace>dg.6vts</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.6vts</uri>
+      <uri type="URL">https://jcoin.datacommons.io/ga4gh/drs/v1/objects/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000878" pattern="^UniRef(100|90|50)_([OPQ][0-9][A-Z0-9]{3}[0-9]|[A-NR-Z][0-9]([A-Z][A-Z0-9]{2}[0-9]){1,2}|UPI[A-F0-9]{10})$">
+    <name>UniRef</name>
+    <definition>The UniProt Reference Clusters (UniRef) provide clustered sets of sequences from the UniProt Knowledgebase (including isoforms) and selected UniParc records in order to obtain complete coverage of the sequence space at several resolutions while hiding redundant sequences (but not their descriptions) from view.</definition>
+    <namespace>uniref</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:uniref</uri>
+      <uri type="URL">https://www.uniprot.org/uniref/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000880" pattern="^[a-zA-Z0-9_-]{3,}$">
+    <name>biosimulations</name>
+    <definition>BioSimulations is an open repository of simulation projects, including simulation experiments, their results, and data visualizations of their results. BioSimulations supports a broad range of model languages, modeling frameworks, simulation algorithms, and simulation software tools.</definition>
+    <namespace>biosimulations</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:biosimulations</uri>
+      <uri type="URL">https://biosimulations.org/projects/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000882" pattern="^[a-zA-Z0-9_\.]+$">
+    <name>Nucleotide</name>
+    <definition>The Nucleotide database is a collection of sequences from several sources, including GenBank, RefSeq, TPA and PDB. Genome, gene and transcript sequence data provide the foundation for biomedical research and discovery.</definition>
+    <namespace>nucleotide</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:nucleotide</uri>
+      <uri type="URL">https://www.ncbi.nlm.nih.gov/nuccore/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000884" pattern="^[a-zA-Z0-9_\.]+$">
+    <name>Assembly</name>
+    <definition>A database providing information on the structure of assembled genomes, assembly names and other meta-data, statistical reports, and links to genomic sequence data.</definition>
+    <namespace>assembly</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:assembly</uri>
+      <uri type="URL">https://www.ncbi.nlm.nih.gov/assembly/</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000897" pattern="[0-9a-z]{24,24}">
+    <name>runBioSimulations</name>
+    <definition>runBioSimulations is a platform for sharing simulation experiments and their results. runBioSimulations enables investigators to use a wide range of simulation tools to execute a wide range of simulations. runBioSimulations permanently saves the results of these simulations, and investigators can share results by sharing URLs similar to sharing URLs for files with DropBox and Google Drive.</definition>
+    <namespace>runbiosimulations</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:runbiosimulations</uri>
+      <uri type="URL">https://run.biosimulations.org/simulations/</uri>
     </uris>
   </datatype>
 </miriam>
