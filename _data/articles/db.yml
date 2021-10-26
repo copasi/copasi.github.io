@@ -871,6 +871,23 @@
  Methods:
   - paramater estimation
 -
+ Reference: "Sigg A, Klimacek M, Nidetzky B (2021) Three-level hybrid modeling for systematic optimization of biocatalytic synthesis: α-glucosyl glycerol production by enzymatic trans-glycosylation from sucrose. Biotechnology and Bioengineering 118:4028–4040"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1002/bit.27878
+ Keywords:
+  - Biotechnology
+  - Metabolism
+ Locations:
+  - Institute of Biotechnology and Biochemical Engineering, Graz University of Technology, NAWI Graz, Graz, Austria
+  - Austrian Centre of Industrial Biotechnology (ACIB), Graz, Austria
+ Funding:
+  - EU Horizon2020
+ Methods:
+  - paramter estimation
+  - time course
+  - parameter scan
+-
  Reference: "Sollin M (2021) Analyse quantitative de l’oxydation radicalaire de matériaux organiques : étude cinétique et théorique de l’oxydation des hydroperoxydes. Masters Thesis, Université Du Québec À Montréal, Canada."
  Year: 2021
  Type: 2
