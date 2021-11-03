@@ -6,7 +6,28 @@ structure: "Installation"
 
 <div class="row">
   <div class="col-xs-12">
-<h3 name="Linux_Installation">Linux Installation</h3>
+
+
+    <h3 name="Linux_Installation">Linux Installation for COPASI 4.31 and newer</h3>
+    <p>
+      As of version 4.31 we do provide a self extracting script for installations of COPASI.
+      This script either automatically extracts the COPASI files (if the <code>-e</code> option is given). 
+      Or COPASI will be installed into the given directory, and a .desktop file will be created 
+      and registered (so that you can directly start the COPASI GUI from your window 
+      manager). 
+    </p>
+
+    <ol>
+      <li>
+        Download the installer from the <a href="http://copasi.org/Download/" target="_blank">Download page</a> (it will be named something like <code>COPASI-*-Linux-64bit.sh</code>). 
+      </li>
+      <li>Make the file executable: <span style="color:#000088;"><b><code>chmod +x COPASI-*-Linux-64bit.sh</code></b></span> </li>
+      <li>Run the installer: <span style="color:#000088;"><b><code>./COPASI-*-Linux-64bit.sh</code></b></span>. At this point the 
+      the installation script will ask where to extract files temporarily to (defaults to <code>/tmp</code>), where the files should be installed to 
+      (defaults to <code>/opt/COPASI/{version}</code>), and where or whetehr to install a .desktop file. </li>
+    </ol>
+
+<h3 name="Linux_Installation_old">Linux Installation for older COPASI versions</h3>
 <ol><li>Download the Linux (recommended) installation package.
 </li><li>Expand the contents of the tarball into a directory of choice with <span style="color:#000088;"><b><code>tar -xzvf COPASI-*-Linux-*bit.tar.gz</code></b></span>.
 </li><li>CopasiUI is a dynamically linked executables, and has no library dependencies except the glibc shared library, CopasiSE has no library dependencies.
