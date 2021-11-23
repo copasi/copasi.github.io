@@ -13,6 +13,31 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Acón M, Geiß C, Torres-Calvo J, Bravo-Estupiñan D, Oviedo G, Arias-Arias JL, Rojas-Matey LA, Baez E, Vásquez-Vargas G, Oses-Vargas Y, Guevara-Coto J, Segura-Castillo A, Siles-Canales F, Quirós-Barrantes S, Régnier-Vigouroux A, Mendes P, Mora-Rodríguez R (2021) MYC dosage compensation is mediated by miRNA-transcription factor interactions in aneuploid cancer. iScience. 24:103407"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1016/j.isci.2021.103407
+ Keywords:
+  - Genetics
+  - Biochemistry
+  - Computational Method
+ Locations:
+  - University of Costa Rica, 11501-2060 San José, Costa Rica
+  - Universidad Estatal a Distancia (UNED), 474-2050 San José, Costa Rica
+  - Institute  for Developmental Biology and Neurobiology, Johannes Gutenberg University, 55128 Mainz, Germany
+  - Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, Farmington, 06030 CT, USA
+ Funding:
+  - FEES-CONARE, Costa Rica
+  - University of Costa Rica
+  - Universidad Estatal a Distancia, Costa Rica
+  - Alexander von Humboldt foundation, Germany
+  - FAZIT-STIFTUNG, Germany
+  - NIH
+ Methods:
+  - parameter estimation
+  - steady state
+  - sensitivity analysis
+-
  Reference: "Arya S, Williams A, Reina SV, Knapp CW, Kreft J-U, Hobman JL, Stekel DJ (2021) Towards a general model for predicting minimal metal concentrations co-selecting for antibiotic resistance plasmids. Environmental Pollution 275:116602"
  Year: 2021
  Type: 2
