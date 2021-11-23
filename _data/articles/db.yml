@@ -54,6 +54,21 @@
  Methods:
   - stochastic simulation
 -
+ Reference: "Berezovets V, Kytsya A, Zavaliy I, Yartys VA (2021) Kinetics and mechanism of MgH2 hydrolysis in MgCl2 solutions. International Journal of Hydrogen Energy 46:40278–40293"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1016/j.ijhydene.2021.09.249
+ Keywords:
+  - Chemistry
+ Locations:
+  - Karpenko Physico-Mechanical Institute NAS of Ukraine, 5 Naukova Str., Lviv, 79060, Ukraine
+  - Institute for Energy Technology, P.O. Box 40, N-2027, Kjeller, Norway
+ Funding:
+  - NATO
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Berlina AN, Sotnikov DV, Komova NS, Zherdev AV, Dzantiev BB (2021) Limitations for colorimetric aggregation assay of metal ions and ways of their overcoming. Analytical Methods 13:250–257"
  Year: 2021
  Type: 3
