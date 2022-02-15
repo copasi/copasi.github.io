@@ -137,6 +137,12 @@ pages:
   title: "Theory"
 - path: Hidden/Intranet/Stochastic_Differential_Equations/Implementation
   title: "Implementation"
+- path: Hidden/Intranet/Steady_State
+  title: "Steady State"
+- path: Hidden/Intranet/Steady_State/Distance
+  title: "Distance Criterion"
+- path: Hidden/Intranet/Steady_State/Rate
+  title: "Rate Criterion"
 - path: Hidden/Intranet/Code_Profiling
   title: "Code Profiling"
 - path: Hidden/Intranet/Code_Profiling/Introduction

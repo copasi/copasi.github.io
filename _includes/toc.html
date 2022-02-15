@@ -1,16 +1,12 @@
 {% include init.html %}
-
 {% assign cps_parent_url = cps_url | append: '/' %}
 {% assign cps_parent_url_size = cps_parent_url | size %}
 {% assign cps_indent_count = cps_url | split: '/' | size %}
-
 {% for item in cps_structure.pages %}
   {% assign path_begin = item.path | truncate: cps_parent_url_size, '' %}
-
   {% if cps_parent_url == path_begin %}
     {% assign indent_count = item.path | split: '/' | size %}
     {% assign delta = indent_count | minus: cps_indent_count %}
-
     {% case delta %}
     {% when 1 %}
       {% assign  cps_indent_count = cps_indent_count | plus: 1 %}
@@ -31,5 +27,16 @@
       </ul></ul></ul></ul><li><a href="{{ site.baseurl }}/{{ item.path }}/">{{ item.title }}</a</li>
     {% endcase %}
   {% endif %}
-
 {% endfor %}
+{% assign cps_indent_count = cps_url | split: '/' | size %}
+{% assign delta = indent_count | minus: cps_indent_count %}
+{% case delta %}
+{% when 1 %}
+  </ul>
+{% when 2 %}
+  </ul></ul>
+{% when 3 %}
+  </ul></ul></ul>
+{% when 4 %}
+  </ul></ul></ul></ul>
+{% endcase %}

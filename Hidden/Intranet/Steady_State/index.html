@@ -1,0 +1,37 @@
+---
+layout: structure
+title: "Steady State"
+structure: "Intranet"
+sitemap: false
+use_math: true
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      A Steady State is defined as a state for which a all time derivatives of the state variables $x_i$ are zero, i.e.,
+      \begin{equation}
+        \frac{dx_i}{dt} = 0
+      \end{equation}
+
+      Thus in the case that the variables $x_i$ are defined through a system of ordinary differential equations (ODEs) 
+      $dx_i/dt = f_i(t, x_1, ... x_l)$ the functions $f_i$ must all be zero in other words finding a Steady State is a 
+      root finding problem. The method used in COPASI to find a root is described in 
+      <a href="{{ site.baseurl }}/Support/User_Manual/Methods/Steady_State_Calculation">Steady State Calculation</a>
+    </p>
+    <p>
+      Please note that for an explicitly time dependent (non autonomous) problem a Steady-State does not exist since $dt/dt = 1$. 
+      Therefore we will restrict us to functions of the form $f(x_1, ... x_l)$, i.e., an autonomous system.
+    </p>
+    <p>
+      Furthermore the vector version $X = \{x_i | i \in [1, n] \}$ of a Newton iteration is given by:
+      \begin{equation}
+        X_{n+1} = X_{n} - \left(J(f)(X_{n})\right)^{-1} \; f(X_{n}) 
+      \end{equation}
+    </p>
+    
+    To judge whether a found root is sufficiently close COPASI estimates the error using the following criterions:
+
+    {% include toc.html %}
+  </div>
+</div>
