@@ -12,27 +12,51 @@ use_math: true
     In order to judge how close we are from a Steady State $X = \{x_i | i \in [1, n] \}$ we estimate the distance from 
     it by calculating the next Newton step $H = X_{n+1} - X_{n}$ where  
     \begin{equation} 
-      X_{n+1} = X_{n} - \left(J(f)(X_{n})\right)^{-1} \; f(X_{n}) 
+      X_{n+1} = X_{n} - \left(J(f)(X_{n})\right)^{-1} \; f(X_{n}), 
     \end{equation}
-    and $X_n$ is the current solution of the of the root finding problem and $J(f)(X_{n}))$ is the Jacobian 
-    $\delta f_i/\delta x_j$. Note that Equation (1) involves the inverse of the Jacobian which is not defined for a 
+    $X_n$ is the current solution of the root finding problem and $J(f)(X_{n}))$ is the Jacobian 
+    $\delta f_i/\delta x_j |_{X_n}$. Note that Equation (1) involves the inverse of the Jacobian which is not defined for a 
     singular matrix. In order to avoid calculating the matrix inverse we rewrite Equation (1):
     \begin{equation} 
       J(f)(X_{n}) \; (X_{n+1} - X_{n}) + f(X_{n}) = J(f)(X_{n}) \; H + f(X_{n}) = 0
     \end{equation}
-    We do not calculate the exact solution of Equation (2) but are interest in the minimum norm solution:
+    We do not calculate the exact solution of Equation (2). Instead we are looking for the minimum norm solution:
     \begin{equation} 
-      min_{H} \; \left\lVert J(f)(X_{n}) \; H + f(X_{n}) \right\rVert = 0
+      \mbox{min}_{H} \; \left\lVert J(f)(X_{n}) \; H + f(X_{n}) \right\rVert = 0
     \end{equation}
     We solve this by using the LAPACK routine 
     <a href="https://www.netlib.org/lapack/explore-html/d7/d3b/group__double_g_esolve_ga385713b8bcdf85663ff9a45926fac423.html" target="_blank">dgelsy</a>.
     In case that the Jacobian is rank deficient we compute the $L_2$ norm of the absolute and relative errors. Now that 
-    we have computed $H$ minimizing Equation (3) we can compute its relative and absolute $L_2$ norm adding the corresponding 
+    we have computed $H$ minimizing Equation (3) we can compute its relative and absolute $L_2$ norms adding the corresponding 
     errors of the solution in case of rank deficiency. Please note that the resulting $L_2$ norms are in variable space and do not
-    include time which means they are independent from speed of the process which is not the case for the 
+    include time which means they are independent from the speed of the process which is not the case for the 
     <a href="{{ site.baseurl }}/Hidden/Intranet/Steady_State/Rate">rate criterion</a>. Finally in order to determine whether 
     the solution $X_n$ is sufficiently close to the Steady State $X$ we compare the maximum of the absolute and relative $L_2$ norms
     against the desired tolerance.
   </p>  
+  <h4>Problem</h4>
+  <p>
+    For the simple non-autonomous ODE $dx/dt = 1/t^2$ the above described criterion will fail since the Jacobian has rank 0. Nevertheless
+    an asymptotic Steady State exists. In general the issue will arise whenever we have a non-autonomous system, i.e., ODEs are explicitly 
+    time dependent. 
+  </p>
+  <p>
+    In order to address the above problem we introduce an additional variable $T$ to the ODE $dT/dt = 1$ system. Thus, $T = t + \mbox{const}$. 
+    After choosing the constant to be 0 we can replace $t$ in the ODEs with $T$ and have now an autonomous ODE system equivalent to the original. 
+    The Jacobian of this system is given by:
+    \begin{equation}
+      \hat{J} =
+      \begin{pmatrix}
+        0 && 0 \\
+        \frac{\delta x_i}{\delta T} && \frac{\delta x_i}{\delta x_j} 
+      \end{pmatrix}
+    \end{equation}
+    With $\hat{X} = (T, X)$ we solve 
+    \begin{equation} 
+      \mbox{min}_{\hat{H}} \; \left\lVert \hat{J}(f)(\hat{X}_{n}) \; \hat{H} + f(\hat{X}_{n}) \right\rVert = 0
+    \end{equation}
+    The resulting $\hat{H}$ is no longer in variable space. In fact the first component explicitly measures time. We can convert
+    time distance by multiplying with the maximum rate $\mbox{max}_i \; f_i(\hat{H})$  to estimate the distance from the Steady State in variable space.
+  </p>
   </div>
 </div>
