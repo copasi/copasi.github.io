@@ -64,6 +64,21 @@
   - EU ERC
   - Associazione Italiana per la Ricerca sul Cancro, AIRC
 -
+ Reference: "Tamosiunaite N, Logie LC, Neale SE, Singh K, Davies DL, Macgregor SA (2022) Experimental and Computational Studies on the Acetate-Assisted C–H Activation of N-Aryl Imidazolium Salts at Rhodium and Iridium: A Chloride Additive Changes the Selectivity of C–H Activation. The Journal of Organic Chemistry 87:1445–1456"
+ Year: 2022
+ Type: 2
+ #URL: https://doi.org/10.1021/acs.joc.1c02756
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of Leicester, Leicester, LE1 7RH, UK
+  - Institute of Chemical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK
+ Funding:
+  - Heriot-Watt University
+ Methods:
+  - time course
+
+-
  Reference: "Yuan L, Wu C, Guo X, Yang C (2022) ParaCopasi: A package for parallel biochemical simulation and analysis. Journal of Computational Chemistry 43:144–154"
  Year: 2022
  Type: 3
