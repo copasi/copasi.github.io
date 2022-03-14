@@ -34,6 +34,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Kouka T, Akase S, Sogabe I, Jin C, Karlsson NG, Aoki-Kinoshita KF (2022) Computational Modeling of O-Linked Glycan Biosynthesis in CHO Cells. Molecules 27:1766"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.3390/molecules27061766
+ Keywords:
+  - Metabolism
+ Locations:
+  - Department of Bioinformatics, Graduate School of Engineering, Soka University, Tokyo 192-8577, Japan
+  - Department of Cardiology, Keio University School of Medicine, Tokyo 160-8582, Japan
+  - Proteomics Core Facility at Sahlgrenska Academy, University of Gothenburg, 405 30 Gothenburg, Sweden
+  - Department of Life Sciences and Health, Faculty of Health Sciences, Oslo Metropolitan University, 0167 Oslo, Norway
+  - "Glycan & Life Systems Integration Center (GaLSIC), Soka University, Tokyo 192-8577, Japan"
+ Funding:
+  - Japan Science and Technology Agency (JST)
+ Methods:
+  - parameter estimation
+-
  Reference: "Maestri S, Merelli E, Pettini M (2022) Agent-based models for detecting the driving forces of biomolecular interactions. Scientific Reports 12:1878"
  Year: 2022
  Type: 2
