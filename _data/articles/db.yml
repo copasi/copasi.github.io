@@ -776,6 +776,23 @@
   - sensitivity analysis
   - MCA
 -
+ Reference: "Mısırlı G, Yang B, James K, Wipat A (2021) Virtual Parts Repository 2: Model-Driven Design of Genetic Regulatory Circuits. ACS synthetic biology 10:3304–3315"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.1021/acssynbio.1c00157
+ Keywords:
+  - Computational Method
+  - Synthetic Biology
+ Locations:
+  - School of Computing and Mathematics, Keele University, Keele, ST5 5BG, UK
+  - School of Computing, Newcastle University, Newcastle upon Tyne, NE4 5TG, UK
+  - Department of Applied Sciences, Northumbria University, Newcastle upon Tyne, NE1 8ST, UK
+ Funding:
+  - EPSRC
+ Methods:
+  - time course
+  - steady state
+-
  Reference: "Mohapatra SR, Sadik A, Sharma S, Poschet G, Gegner HM, Lanz TV, Lucarelli P, Klingmüller U, Platten M, Heiland I, Opitz CA (2021) Hypoxia Routes Tryptophan Homeostasis Towards Increased Tryptamine Production. Frontiers in Immunology 12:590532"
  Year: 2021
  Type: 2
