@@ -170,6 +170,24 @@
  Methods:
   - time course
 -
+ Reference: "Trošanová Z, Louša P, Kozeleková A, Brom T, Gašparik N, Tungli J, Weisová V, Župa E, Žoldák G, Hritz J (2022) Quantitation of Human 14-3-3ζ Dimerization and the Effect of Phosphorylation on Dimer-monomer Equilibria. Journal of Molecular Biology 434:167479"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1016/j.jmb.2022.167479
+ Keywords:
+  - Signaling
+  - Macromolecular Biochemistry
+ Locations:
+  - CEITEC MU, Kamenice 5, 62500 Brno, Czech Republic
+  - National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Kamenice 5, 625 00 Brno, Czech Republic
+  - Center for Interdisciplinary Biosciences, Technology and Innovation Park P.J. Šafárik University, Jesenná 5, 041 54 Košice, Slovakia
+ Funding:
+  - Ministry of Education, Youth and Sports of the Czech Republic
+  - Czech Science Foundation
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "White C, Rottschäfer V, Bridge LJ (2022) Insights into the dynamics of ligand-induced dimerisation via mathematical modelling and analysis. Journal of Theoretical Biology 538:110996"
  Year: 2022
  Type: 2
