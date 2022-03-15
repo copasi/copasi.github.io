@@ -1578,6 +1578,26 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Yamada TG, Ii K, König M, Feierabend M, Dräger A, Funahashi A (2021) SBMLWebApp: Web-Based Simulation, Steady-State Analysis, and Parameter Estimation of Systems Biology Models. Processes 9:1830"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.3390/pr9101830
+ Keywords:
+  - Software
+ Locations:
+  - Department of Biosciences and Informatics, Keio University, 3-14-1 Hiyoshi Kouhoku-ku, Yokohama 223-8522, Japan
+  - Hewlett Packard Japan, G.K. 2-2-1 Ohjima Koto-ku, Tokyo 136-0072, Japan
+  - Institute for Theoretical Biology, Institute of Biology, Humboldt University, 10115 Berlin, Germany
+  - University of Tübingen, 72076 Tübingen, Germany
+ Funding:
+  - Google Inc.
+  - BMBF
+  - DFG
+ Methods:
+  - steady state
+  - time course
+  - parameter estimation
+-
  Reference: "Yang Y, Filipovic D, Bhattacharya S (2021) A Negative Feedback Loop and Transcription Factor Cooperation Regulate Zonal Gene Induction by 2, 3, 7, 8-Tetrachlorodibenzo-p-Dioxin in the Mouse Liver. Hepatology Communications doi:10.1002/hep4.1848"
  Year: 2021
  Type: 2
