@@ -1304,6 +1304,22 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Shaikh B, Marupilla G, Wilson M, Blinov ML, Moraru II, Karr JR (2021) RunBioSimulations: an extensible web application that simulates a wide range of computational modeling frameworks, algorithms, and formats. Nucleic Acids Research 49:W597–W602"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.1093/nar/gkab411
+ Keywords:
+  - Software
+ Locations:
+  - Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, 1425 Madison Avenue, New York, NY 10029, USA
+  - Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, 263 Farmington Avenue, Farmington, CT 06030, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - stochastic simulation
+  - steady state
+-
  Reference: "Scott KE, Fraley SI, Rangamani P (2021) A spatial model of YAP/TAZ signaling reveals how stiffness, dimensionality, and shape contribute to emergent outcomes. Proceedings of the National Academy of Sciences USA 118 doi:10.1073/pnas.2021571118"
  Year: 2021
  URL: https://doi.org/10.1073/pnas.2021571118
