@@ -1,0 +1,83 @@
+---
+layout: structure
+title: "COPASI 4.35 Build 258"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.35.258</h3>
+    Release Date: March 15, 2022<br />
+    <h4>Bug Fixes since COPASI 4.34 (Build 251)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Fixed problem merging models using global quantities in mathematical expressions.
+          </li>
+          <li>
+            Fixed problem changing a reaction parameter pointing to a global quantity back to a fixed value. 
+          </li>
+          <li>
+            Fixed problem when plotting multiple experimental data when the numbers of data points differed in the data sets.   
+          </li>
+          <li>
+            Fixed crash when entering an invalid math expression of the form: <code>a = b</code>
+          </li>
+          <li>
+            Improved support of dark themes.
+          </li>
+       </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Fixed encoding of expression using a function which name includes a backslash <code>\</code>.
+          </li>
+          <li>
+            Fixed problem running running optimization using a scan, sensitivities, or cross section task to calculate the objective function. 
+          </li>
+          <li>
+            Fixed calculation event delays which uses an expression only containing fixed objects.
+          </li>
+          <li>
+            Improved steady state rate criterion to correctly handle constant rates for variables with large values.
+          </li>
+          <li>
+            Fixed restoring the model state after a failed steady state calculation 
+          </li>
+        </ul>
+      </li>
+      <li> Standards
+        <ul>
+          <li>
+            SEDML: Fixed export of time course of non autonomous models with an initial time different from 0. 
+          </li>
+          <li>
+            SBML: Fixed crash occurring when consecutively importing models using functions with the same name and expression but different parameter type.
+          </li>
+          <li>
+            SBML: Fixed import of models including species with an invalid SBML id (e.g. <code>2.8.1.8</code>).
+          </li>
+        </ul>
+      </li>
+      <li> Language Bindings
+        <ul>
+          <li>
+            Fixed crash occurring when converting compiling an initial expression which is derived from an invalid expression.  
+          </li>
+        </ul>
+      </li>
+      <li> Installation
+        <ul>
+          <li>
+            Linux: Improved installation to correctly handle file association (mime types) and URL handlers.
+          </li>
+          <li>
+            Mac OS X: Provide packages (arm and Intel) for Monterey to resolve UI issues.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
