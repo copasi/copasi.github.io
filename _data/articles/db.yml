@@ -1592,6 +1592,19 @@
   - NIH
   - USDA
 -
+ Reference: "Yeom J-S, Georgouli K, Blake R, Navid A (2021) Towards dynamic simulation of a whole cell model. In: Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, August 1–4, 2021, Gainesville, FL, USA, pp. 1–10. DOI:10.1145/3459930.3471161"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.1145/3459930.3471161
+ Keywords:
+  - Computational Method
+ Locations:
+  - Lawrence Livermore National Laboratory, Livermore, California, USA
+ Funding:
+  - DOE
+ Methods:
+  - time course
+-
  Reference: "Yin Q, Xu Z, Lian T, Musaev DG, Hill CL, Geletii YV (2021) Tafel Slope Analyses for Homogeneous Catalytic Reactions. Catalysts 11:87"
  Year: 2021
  Type: 2
