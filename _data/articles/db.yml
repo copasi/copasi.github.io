@@ -126,7 +126,24 @@
   - Heriot-Watt University
  Methods:
   - time course
-
+-
+ Reference: "White C, Rottschäfer V, Bridge LJ (2022) Insights into the dynamics of ligand-induced dimerisation via mathematical modelling and analysis. Journal of Theoretical Biology 538:110996"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1016/j.jtbi.2021.110996
+ Keywords:
+  - Signaling
+  - Biochemistry
+ Locations:
+  - Swansea University, Swansea, UK
+  - Leiden University, Leiden, The Netherlands
+  - University of Amsterdam, Amsterdam, The Netherlands
+  - University of the West of England, Bristol, UK
+ Funding:
+  - Swansea University, UK
+  - University of the West of England, UK
+ Methods:
+   - parameter estimation
 -
  Reference: "Yuan L, Wu C, Guo X, Yang C (2022) ParaCopasi: A package for parallel biochemical simulation and analysis. Journal of Computational Chemistry 43:144–154"
  Year: 2022
