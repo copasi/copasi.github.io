@@ -48,6 +48,22 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Jin Q, Wu Q, Shapiro BM, McKernan SE (2022) Limited Mechanistic Link Between the Monod Equation and Methanogen Growth: a Perspective from Metabolic Modeling. Microbiology Spectrum e0225921"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1128/spectrum.02259-21
+ Keywords:
+  - Microbiology
+  - Metabolism
+ Locations:
+  - Geobiology Group, University of Oregongrid.170202.6, Eugene, Oregon, USA
+ Funding:
+  - NSF
+  - NASA
+ Methods:
+  - parameter estimation
+  - metabolic control analysis
+-
  Reference: "Kathan M, Crespi S, Thiel NO, Stares DL, Morsa D, de Boer J, Pacella G, van den Enk T, Kobauri P, Portale G, Schalley CA, Feringa BL (2022) A light-fuelled nanoratchet shifts a coupled chemical equilibrium. Nature Nanotechnology 17:159–165"
  Year: 2022
  Type: 2
