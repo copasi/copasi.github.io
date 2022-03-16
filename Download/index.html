@@ -37,6 +37,8 @@ function suggest_package(release_idx) {
             } else {
                 plt_match = 'Mac OS X';
             }
+
+            bit_match = '64';
             icon_filename = 'osx_icon.png';
         } else if (os.name.match('Win') && !os.name.match('Win16')) {
             plt_match = 'Windows';
