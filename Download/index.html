@@ -18,38 +18,29 @@ function suggest_package(release_idx) {
     var icon_filename = 'none';
 
     var parser = new UAParser();
-    var os = parser.getOS();
-    var cpu =  parser.getCPU().architecture;
+    var pltfrm = parser.getOS().name;
     var linuxDistros = [ "Arch", "CentOS", "Fedora", "Debian", "Gentoo", "Hurd", "Linpus", "Linux", "Mageia", "Mandriva", "MeeGo", "Minix", "Mint", "PCLinuxOS", "QNX", "RedHat", "Slackware", "SUSE", "Ubuntu", "VectorLinux", "Zenwalk"];
     
-    if (typeof os.name !== "undefined")
+    if (typeof pltfrm !== "undefined")
     {
-        if ((os.name.match('Linux') || linuxDistros.indexOf(os.name) != -1) && ! os.name.match('arm')) {
+        if ((pltfrm.match('Linux') || linuxDistros.indexOf(pltfrm) != -1) && ! pltfrm.match('arm')) {
             plt_match = 'Linux';
             icon_filename = 'linux_icon.png';
-        } else if (os.name.match('Mac OS')) {
-            if (os.version.match(/^12/)) {
-                if (cpu.match('amd64')) {
-                    plt_match = 'Mac OS X (Intel)';
-                } else {
-                    plt_match = 'Mac OS X (arm)';
-                }
-            } else {
-                plt_match = 'Mac OS X';
-            }
-
-            bit_match = '64';
+        } else if (pltfrm.match('Mac OS')) {
+            plt_match = 'Mac OS X';
             icon_filename = 'osx_icon.png';
-        } else if (os.name.match('Win') && !os.name.match('Win16')) {
+        } else if (pltfrm.match('Win') && !pltfrm.match('Win16')) {
             plt_match = 'Windows';
             icon_filename = 'windows_icon.png';
         }
     }
 
-    if (typeof cpu !== "undefined") {
-        if (cpu.match('64')) {
+    var architecture =  parser.getCPU().architecture;
+
+    if (typeof architecture !== "undefined") {
+        if (architecture.match('64')) {
             bit_match = '64';
-        } else if (cpu.match('32')) {
+        } else if (architecture.match('32')) {
             bit_match = '32';
         }
     }
@@ -95,10 +86,10 @@ function suggest_package(release_idx) {
         pltfrm_icon_code = '<img src="{{ site.baseurl }}/images/' + icon_filename + '">&nbsp';
     }
 
-    if (typeof cpu !== "undefined") {
-        sug_div.innerHTML = "<h3>It seems you are running on " + os.name + " (" + bit_match + "-bit). You may want to download . . . </h3>";
+    if (typeof architecture !== "undefined") {
+        sug_div.innerHTML = "<h3>It seems you are running on " + pltfrm + " (" + bit_match + "-bit). You may want to download . . . </h3>";
     } else {
-        sug_div.innerHTML = "<h3>It seems you are running on " + os.name + " (" + bit_match + "). You may want to download . . . </h3>";
+        sug_div.innerHTML = "<h3>It seems you are running on " + pltfrm + " (" + bit_match + "). You may want to download . . . </h3>";
     }
     
     dnld_name.innerHTML = "<h3>" + pltfrm_icon_code + candidate_fn + "</h3>"
