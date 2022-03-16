@@ -177,3 +177,5 @@ pages:
   title: "Utilities"
 - path: Hidden/Intranet/Utilities/Encode_Email
   title: "Encode Email"
+- path: Hidden/Intranet/Utilities/Detect
+  title: "Detect OS"

@@ -1,0 +1,56 @@
+---
+layout: structure
+title: "Detect OS"
+structure: "Intranet"
+sitemap: false
+---
+
+
+<div class="row">
+    <div class="col-xs-12">
+      <h4>Results</h4>
+    <div id="detect_os"></div>
+  </div>
+</div>
+  
+<script src="{{ site.baseurl }}/javascripts/ua-parser-0.7.31.js"></script>
+
+<script>
+var github_json_url = 'https://api.github.com/repos/copasi/COPASI/releases?per_page=100';
+
+// global variable to be reused for updating on selector changes
+var github_json;
+
+function detect_os() {
+    var parser = new UAParser();
+
+    var detect_os = document.getElementById('detect_os');
+    detect_os.innerHTML="UAParser:<br/>" + JSON.stringify(parser.getResult()) + "<br/><br/>"; 
+
+    detect_os.innerHTML+="userAgentData:<br/>";
+
+    try {
+        const uaData = navigator.userAgentData;
+        detect_os.innerHTML += "Brands: " + JSON.stringify(uaData.brands) + "<br/>";     // [ {brand: "Google Chrome", version: "84"}, {brand: "Chromium", version: "84"} ]
+        detect_os.innerHTML += "Mobile: " + uaData.mobile + "<br/>"; // false
+        detect_os.innerHTML += "Platform: " + uaData.platform + "<br/><br/>"; // “macOS”
+
+
+        uaData.getHighEntropyValues(["architecture", "bitness", "model", "platformVersion", "uaFullVersion", "fullVersionList"]).then(highEntropyValues => {
+            detect_os.innerHTML += "Version: " + highEntropyValues.platformVersion + "<br/>"; //"10_15_4"
+            detect_os.innerHTML += "Architecture: " + highEntropyValues.architecture + "<br/>";       // "x86"
+            detect_os.innerHTML += "Bitness: " + highEntropyValues.bitness + "<br/>";                 // "64"
+            detect_os.innerHTML += "Model: " + highEntropyValues.model + "<br/>";                     // ""
+            detect_os.innerHTML += "Full Version: " + highEntropyValues.uaFullVersion + "<br/>";     // "84.0.4113.0"
+            detect_os.innerHTML += "Full Version List: " + highEntropyValues.fullVersionList + "<br/>";     // "84.0.4113.0"
+        });
+    }
+    
+    catch(err) {
+        detect_os.innerHTML += err.message;
+    }; 
+}
+
+detect_os(); 
+</script>
+
