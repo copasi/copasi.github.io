@@ -9,6 +9,7 @@ sitemap: false
 <div class='row'>
     <div class='col-xs-12'>
       <h4>Results</h4>
+    
     <div id='detect_os'></div>
   </div>
 </div>
@@ -16,32 +17,71 @@ sitemap: false
 <script src='{{ site.baseurl }}/javascripts/ua-parser-0.7.31.js'></script>
 
 <script>
-function detect_os() {
-    var parser = new UAParser();
-
+async function detect_os() {
+    var result = {platform: undefined, version: undefined, architecture: undefined, bitness: undefined};
     var detect_os = document.getElementById('detect_os');
-    detect_os.innerHTML = 'UAParser:<br/>' + JSON.stringify(parser.getResult()) + '<br/><br/>'; 
 
     detect_os.innerHTML += 'userAgentData:<br/>';
     const uaData = navigator.userAgentData;
 
-    if (typeof uaData === 'undefined') {
-        detect_os.innerHTML+='undefined<br/>';
-        return;
+    if (typeof uaData !== 'undefined') {
+        detect_os.innerHTML += JSON.stringify(uaData) + '<br/><br/>';
+
+        try {
+            result.platform = uaData.platform;
+        }
+        catch (err) {}
+
+        detect_os.innerHTML += 'highEntropyValues:<br/>';
+
+        try {
+            highEntropyValues = await uaData.getHighEntropyValues(['architecture', 'bitness', 'model', 'platformVersion', 'uaFullVersion', 'fullVersionList', 'wow64'])
+
+            if ('architecture' in highEntropyValues) {
+                result.architecture = highEntropyValues.architecture;
+            }
+            if ('bitness' in highEntropyValues) {
+                result.bitness = highEntropyValues.bitness;
+            }
+            if ('platformVersion' in highEntropyValues) {
+                result.platformVersion = highEntropyValues.platformVersion;
+            }
+            detect_os.innerHTML += JSON.stringify(highEntropyValues) + '<br/><br/>';
+        }
+        catch (err) {
+            detect_os.innerHTML += err.message + '<br/><br/>';
+            return;
+        }; 
+    } else {
+        detect_os.innerHTML+='undefined<br/><br/>';
     }
 
-    detect_os.innerHTML += JSON.stringify(uaData) + '<br/><br/>';
-    detect_os.innerHTML += 'highEntropyValues:<br/>';
-    try {
-        uaData.getHighEntropyValues(['architecture', 'bitness', 'model', 'platformVersion', 'uaFullVersion', 'fullVersionList']).then(highEntropyValues => {
-            detect_os.innerHTML += JSON.stringify(highEntropyValues) + '<br/>'; //'10_15_4'
-        });
+    var parser = new UAParser();
+    detect_os.innerHTML += 'UAParser:<br/>' + JSON.stringify(parser.getResult()) + '<br/><br/>'; 
+
+    if (typeof result.platform === 'undefined') {
+        result.platform = parser.getOS().name;
     }
+
+    if (typeof result.platformVersion === 'undefined') {
+        result.platformVersion = parser.getOS().version;
+    }
+
+    if (typeof result.architecture === 'undefined') {
+        result.architecture = parser.getCPU().architecture;
+    }
+
+    if (typeof result.bitness === 'undefined' && typeof result.architecture !== 'undefined') {
+        if (result.architecture.match('64')) {
+            result.bitness = '64';
+        } else if (result.architecture.match('32')) {
+            result.bitness = '32';
+        }
+    }
+
+    detect_os.innerHTML += 'OS:<br/>' + JSON.stringify(result) + '<br/><br/>'; 
     
-    catch(err) {
-        detect_os.innerHTML += err.message;
-        return;
-    }; 
+    return result;
 }
 
 detect_os(); 
