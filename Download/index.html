@@ -79,9 +79,9 @@ async function suggest_package(release_idx) {
                 && os.platformVersion.match(/^12/)) {
                 if (os.architecture !== undefined
                     && os.architecture.match('arm')) {
-                    plt_match = 'Mac OS X Monterey (arm)';
+                    plt_match = 'macOS X Monterey (arm)';
                 } else {
-                    plt_match = 'Mac OS X Monterey (Intel)';
+                    plt_match = 'macOS X Monterey (Intel)';
                 }
             } else {
                 plt_match = 'Mac OS X';
@@ -200,9 +200,9 @@ function cps_getPlatform(filename) {
     var Platform = 'Any OS';
 
     if (regex_darwin_monterey_arm.test(filename)) {
-        Platform = 'Mac OS X Monterey (arm)';
+        Platform = 'macOS X Monterey (arm)';
     } else if (regex_darwin_monterey_intel.test(filename)) {
-        Platform = 'Mac OS X Monterey (Intel)';
+        Platform = 'macOS X Monterey (Intel)';
     } else if (regex_darwin_64.test(filename)) {
         Platform = 'Mac OS X 64-bit';
     } else if (regex_darwin.test(filename)) {
