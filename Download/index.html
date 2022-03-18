@@ -75,9 +75,9 @@ async function suggest_package(release_idx) {
             plt_match = 'Linux';
             icon_filename = 'linux_icon.png';
         } else if (os.platform.match('Mac OS') || os.platform.match('macOS')) {
-            if (os.version !== undefined
-                && os.version.match(/^12/)) {
-                if (os.architecture !== 'undefined'
+            if (os.platformVersion !== undefined
+                && os.platformVersion.match(/^12/)) {
+                if (os.architecture !== undefined
                     && os.architecture.match('arm')) {
                     plt_match = 'Mac OS X Monterey (arm)';
                 } else {
