@@ -7,336 +7,390 @@ section: Download
 <script src='{{ site.baseurl }}/javascripts/ua-parser-0.7.31.js'></script>
 
 <script>
-var github_json_url = 'https://api.github.com/repos/copasi/COPASI/releases?per_page=100';
-
-// global variable to be reused for updating on selector changes
-var github_json;
-
-async function detect_os() {
-    var result = {platform: undefined, version: undefined, architecture: undefined, bitness: undefined};
-    const uaData = navigator.userAgentData;
-
-    if (typeof uaData !== 'undefined') {
-        try {
-            result.platform = uaData.platform;
-        }
-        catch (err) {}
-
-        try {
-            highEntropyValues = await uaData.getHighEntropyValues(['architecture', 'bitness', 'model', 'platformVersion', 'uaFullVersion', 'fullVersionList', 'wow64'])
-
-            if ('architecture' in highEntropyValues) {
-                result.architecture = highEntropyValues.architecture;
-            }
-            if ('bitness' in highEntropyValues) {
-                result.bitness = highEntropyValues.bitness;
-            }
-            if ('platformVersion' in highEntropyValues) {
-                result.platformVersion = highEntropyValues.platformVersion;
-            }
-        }
-        catch (err) {}; 
-    }
-
-    var parser = new UAParser();
-
-    if (typeof result.platform === 'undefined') {
-        result.platform = parser.getOS().name;
-    }
-
-    if (typeof result.platformVersion === 'undefined') {
-        result.platformVersion = parser.getOS().version;
-    }
-
-    if (typeof result.architecture === 'undefined') {
-        result.architecture = parser.getCPU().architecture;
-    }
-
-    if (typeof result.bitness === 'undefined' && typeof result.architecture !== 'undefined') {
-        if (result.architecture.match('64')) {
-            result.bitness = '64';
-        } else if (result.architecture.match('32')) {
-            result.bitness = '32';
-        }
-    }
-
-    return result;
-}
-
-async function suggest_package(release_idx) {
-    var plt_match = 'source';
-    var icon_filename = 'none';
-    var linuxDistros = [ 'Arch', 'CentOS', 'Fedora', 'Debian', 'Gentoo', 'Hurd', 'Linpus', 'Linux', 'Mageia', 'Mandriva', 'MeeGo', 'Minix', 'Mint', 'PCLinuxOS', 'QNX', 'RedHat', 'Slackware', 'SUSE', 'Ubuntu', 'VectorLinux', 'Zenwalk'];
-
-    var os = await detect_os(); 
+    var github_json_url = 'https://api.github.com/repos/copasi/COPASI/releases?per_page=100';
     
-    if (typeof os.platform !== 'undefined') {
-        if ((os.platform.match('Linux') || linuxDistros.indexOf(os.platform) != -1) && ! os.platform.match('arm')) {
-            plt_match = 'Linux';
-            icon_filename = 'linux_icon.png';
-        } else if (os.platform.match('Mac OS') || os.platform.match('macOS')) {
-            if (os.platformVersion !== undefined
-                && os.platformVersion.match(/^12/)) {
-                if (os.architecture !== undefined
-                    && os.architecture.match('arm')) {
-                    plt_match = 'macOS X Monterey (arm)';
-                } else {
-                    plt_match = 'macOS X Monterey (Intel)';
-                }
-            } else {
-                plt_match = 'Mac OS X';
+    // global variable to be reused for updating on selector changes
+    var github_json;
+    
+    async function detect_os() {
+        var result = {platform: undefined, platformVersion: undefined, architecture: undefined, bitness: undefined};
+        const uaData = navigator.userAgentData;
+    
+        if (typeof uaData !== 'undefined') {
+            try {
+                result.platform = uaData.platform;
             }
-            icon_filename = 'osx_icon.png';
-        } else if (os.platform.match('Win') && !os.platform.match('Win16')) {
-            plt_match = 'Windows';
-            icon_filename = 'windows_icon.png';
+            catch (err) {}
+    
+            try {
+                highEntropyValues = await uaData.getHighEntropyValues(['architecture', 'bitness', 'model', 'platformVersion', 'uaFullVersion', 'fullVersionList', 'wow64'])
+    
+                if ('architecture' in highEntropyValues) {
+                    result.architecture = highEntropyValues.architecture;
+                }
+                if ('bitness' in highEntropyValues) {
+                    result.bitness = highEntropyValues.bitness;
+                }
+                if ('platformVersion' in highEntropyValues) {
+                    result.platformVersion = highEntropyValues.platformVersion;
+                }
+            }
+            catch (err) {}; 
         }
+    
+        var parser = new UAParser();
+    
+        if (typeof result.platform === 'undefined') {
+            result.platform = parser.getOS().name;
+        }
+    
+        if (typeof result.platformVersion === 'undefined') {
+            result.platformVersion = parser.getOS().version;
+        }
+    
+        if (typeof result.architecture === 'undefined') {
+            result.architecture = parser.getCPU().architecture;
+        }
+    
+        if (typeof result.bitness === 'undefined' && typeof result.architecture !== 'undefined') {
+            if (result.architecture.match('64')) {
+                result.bitness = '64';
+            } else if (result.architecture.match('32')) {
+                result.bitness = '32';
+            }
+        }
+    
+        var linuxDistros = [ 'Arch', 'CentOS', 'Fedora', 'Debian', 'Gentoo', 'Hurd', 'Linpus', 'Linux', 'Mageia', 'Mandriva', 'MeeGo', 'Minix', 'Mint', 'PCLinuxOS', 'QNX', 'RedHat', 'Slackware', 'SUSE', 'Ubuntu', 'VectorLinux', 'Zenwalk'];
+    
+        // map macOS to Mac OS
+        if (typeof result.platform !== 'undefined') {
+            if (result.platform == 'macOS') {
+                result.platform = 'Mac OS';
+            } else if (linuxDistros.indexOf(result.platform) != -1) {
+                result.platform = 'Linux';
+            }
+        } 
+    
+        // x86 is ambiguous
+        if (typeof result.architecture !== 'undefined'
+            && result.architecture == 'x86') {
+            if (typeof result.bitness !== 'undefined'
+                && result.bitness == '64') {
+                result.architecture = 'amd64';
+            } else {
+                result.architecture = 'ia32';
+            }        
+        }
+    
+        return result;
     }
-
-    var Build = cps_getBuildNumber(github_json[release_idx]['name']);
- 
-    var candidate = {fn: undefined, url: undefined, platform: undefined};
-    var source = {fn: undefined, url: undefined, platform: undefined};
-    var assets = github_json[release_idx]['assets'];
-
-    for (asset_idx in assets) {
-        var filename = github_json[release_idx]['assets'][asset_idx]['name'];
-        var dnld_url = github_json[release_idx]['assets'][asset_idx]['browser_download_url'];
-
-        var Use = cps_getUse(filename);
-
-        if (Use != 'COPASI') continue;
-
-        Platform = cps_getPlatform(filename);
-
-        if (Platform == 'Mac OS X' && Build < 258 ) {
-            Platform = 'Mac OS X 32-bit';
-        }
-
-        if (Platform == 'Source Code') {
-            source.fn = filename;
-            source.url = dnld_url;
-            source.platform = Platform;
-        } else if (Platform.match(plt_match) || plt_match == Platform) {
-            if ((plt_match != 'Linux'
-                 && (Platform.match(os.bitness) 
-                     || Build > 65 ))
-                || (plt_match == 'Linux' 
-                    && Platform.match(os.bitness) 
-                    && (Build > 65 
-                        || filename.match('Dynamic')))) {
+    
+    async function suggest_package(release_idx) {
+        var plt_match = 'source';
+        var icon_filename = 'none';
+    
+        var os = await detect_os(); 
+        var Build = cps_getBuildNumber(github_json[release_idx]['name']);
+     
+        var candidate = {fn: undefined, url: undefined, platform: undefined};
+        var assets = github_json[release_idx]['assets'];
+        var score = 7; 
+    
+        for (asset_idx in assets) {
+            var filename = github_json[release_idx]['assets'][asset_idx]['name'];
+            var dnld_url = github_json[release_idx]['assets'][asset_idx]['browser_download_url'];
+    
+            const result = cps_scoreFile(filename, os);
+    
+            if (result.score > score) {
                 candidate.fn = filename;
                 candidate.url = dnld_url;
-                candidate.platform = Platform;
-                break;
+                candidate.platform = result.title;
+                score = result.score;
+                icon_filename = result.icon;
             }
-        }  
+        }
+        
+        var sug_div = document.getElementById('suggest_div');
+        var dnld_name = document.getElementById('download_name');
+        var dnld_lnk = document.getElementById('download_link');
+        var dnld_btn = document.getElementById('download_button');
+        var pltfrm_icon_code = '';
+    
+        if (icon_filename != 'none') {
+            pltfrm_icon_code = '<img src="/images/' + icon_filename + '">&nbsp';
+        }
+    
+        if (typeof candidate.platform !== 'undefined'
+            && candidate.platform != 'Source Code') {
+            sug_div.innerHTML = '<h3>It seems you are running on ' + candidate.platform  + '. You may want to download . . . </h3>';
+        } else {
+            sug_div.innerHTML = '<h3>No matching platform found. You may want to download . . . </h3>';
+        }
+        
+        dnld_name.innerHTML = '<h3>' + pltfrm_icon_code + candidate.fn + '</h3>'
+        dnld_btn.title = 'Download ' + candidate.fn;
+        dnld_btn.src = '/images/download-button.png';
+        dnld_lnk.href = candidate.url;
     }
     
-    var sug_div = document.getElementById('suggest_div');
-    var dnld_name = document.getElementById('download_name');
-    var dnld_lnk = document.getElementById('download_link');
-    var dnld_btn = document.getElementById('download_button');
-    var pltfrm_icon_code = '';
-
-    if (icon_filename != 'none') {
-        pltfrm_icon_code = '<img src="{{ site.baseurl }}/images/' + icon_filename + '">&nbsp';
-    }
-
-    if (typeof candidate.platform !== 'undefined') {
-        sug_div.innerHTML = '<h3>It seems you are running on ' + candidate.platform  + '. You may want to download . . . </h3>';
-    } else {
-        candidate = source;
-        sug_div.innerHTML = '<h3>No matching platform found. You may want to download . . . </h3>';
+    function load_releases(json_obj){
+        var vslct = document.getElementById('version_selector');
+        var name, txt = '';
+    
+        for (rel_idx in json_obj) {
+            if (cps_getBuildNumber(json_obj[rel_idx]['name']) < 33) break;
+    
+            name = json_obj[rel_idx]['name'].replace('Released', ''); //Remove 'Released'
+            txt += '<option value="' + name + '">' + name + '</option>';
+        }
+    
+        vslct.innerHTML = txt;
     }
     
-    dnld_name.innerHTML = '<h3>' + pltfrm_icon_code + candidate.fn + '</h3>'
-    dnld_btn.title = 'Download ' + candidate.fn;
-    dnld_btn.src = '{{ site.baseurl }}/images/download-button.png';
-    dnld_lnk.href = candidate.url;
-}
+    function cps_getBuildNumber(name) {
+        var regex_build = /\(Build ([0-9]+)\)/;
+        var match = regex_build.exec(name);
+    
+        return parseInt(match[1], 10);
+    }
+    
+    function cps_getVersion(name) {
+        var regex_build = /COPASI ([0-9]+)\.([0-9]+) \(Build ([0-9]+)\)/;
+        var match = regex_build.exec(name);
+                                                                
+        return  match[1] + '.' + match[2] + '.' + match[3];                                                      
+    }
+    
+    function cps_getFileInfo(filename) {
+        var info = {
+            platform: undefined, 
+            platformVersion: undefined, 
+            architecture: undefined, 
+            bitness: undefined,
+            icon: 'none',
+            title: 'Any OS'
+        };
 
-function load_releases(json_obj){
-    var vslct = document.getElementById('version_selector');
-    var name, txt = '';
+        if (cps_getUse(filename) != 'COPASI') {
+            return info;
+        }
 
-    for (rel_idx in json_obj) {
-        if (cps_getBuildNumber(json_obj[rel_idx]['name']) < 33) break;
+        var regex_darwin_monterey_arm = /darwin-arm/i;
+        var regex_darwin_monterey_intel = /darwin-intel/i;
+        var regex_darwin_64 = /(darwin|macosx).*64/i;
+        var regex_darwin = /(darwin|macosx|tiger|leopard)/i;
+        var regex_linux_64 = /linux.*64/i;
+        var regex_linux_32  = /linux/i;
+        var regex_SunOS = /sunos/i;
+        var regex_source = /(src|source)/i;
+        var regex_Windows_64 = /win.*64/i;
+        var regex_Windows_32 = /win.*32/i;
+        var regex_Windows = /win/i;
+    
+        if (regex_darwin_monterey_arm.test(filename)) {
+            info.platform = 'Mac OS';
+            info.platformVersion = /^1[2-9]/;
+            info.architecture = 'arm';
+            info.bitness = '64';
+            info.icon = 'osx_icon.png';
+            info.title = 'Mac OS X Monterey (arm)';
+        } else if (regex_darwin_monterey_intel.test(filename)) {
+            info.platform = 'Mac OS';
+            info.platformVersion = /^1[2-9]/;
+            info.architecture = 'amd64';
+            info.bitness = '64';
+            info.icon = 'osx_icon.png';
+            info.title = 'Mac OS X Monterey (Intel)';
+        } else if (regex_darwin_64.test(filename)) {
+            info.platform = 'Mac OS';
+            info.architecture = 'amd64';
+            info.bitness = '64';
+            info.icon = 'osx_icon.png';
+            info.title = 'Mac OS X (64 bit)';
+        } else if (regex_darwin.test(filename)) {
+            info.platform = 'Mac OS';
+            info.icon = 'osx_icon.png';
+            info.title = 'Mac OS X';
+        } else if (regex_linux_64.test(filename)) {
+            info.platform = 'Linux';
+            info.architecture = 'amd64';
+            info.bitness = '64';
+            info.icon = 'linux_icon.png';
+            info.title = 'Linux (64 bit)';
+        } else if (regex_linux_32.test(filename)) {
+            info.platform = 'Linux';
+            info.architecture = 'ia32';
+            info.bitness = '32';
+            info.icon = 'linux_icon.png';
+            info.title = 'Linux (32 bit)';
+        } else if (regex_SunOS.test(filename)) {
+            info.platform = /Solaris/i;
+            info.icon = 'none';
+            info.title = 'Sun OS';
+        } else if (regex_source.test(filename)) {
+            info.platform = /.*/;
+            info.icon = 'none';
+            info.title = 'Source Code';
+        } else if (regex_Windows_64.test(filename)) {
+            info.platform = 'Windows';
+            info.architecture = 'amd64';
+            info.bitness = '64';
+            info.icon = 'windows_icon.png';
+            info.title = 'Windows (64 bit)';
+        } else if (regex_Windows_32.test(filename)) {
+            info.platform = 'Windows';
+            info.architecture = 'ia32';
+            info.bitness = '32';
+            info.icon = 'windows_icon.png';
+            info.title = 'Windows (32 bit)';
+        } else if (regex_Windows.test(filename)) {
+            info.platform = 'Windows';
+            info.bitness = /32|64/;
+            info.icon = 'windows_icon.png';
+            info.title = 'Windows';
+        } 
 
-        name = json_obj[rel_idx]['name'].replace('Released', ''); //Remove 'Released'
-        txt += '<option value="' + name + '">' + name + '</option>';
+        return info;
     }
 
-    vslct.innerHTML = txt;
-}
+    function cps_scoreFile(filename, os) {
+        var info = cps_getFileInfo(filename);
 
-function cps_getBuildNumber(name) {
-    var regex_build = /\(Build ([0-9]+)\)/;
-    var match = regex_build.exec(name);
-
-    return parseInt(match[1], 10);
-}
-
-function cps_getVersion(name) {
-    var regex_build = /COPASI ([0-9]+)\.([0-9]+) \(Build ([0-9]+)\)/;
-    var match = regex_build.exec(name);
-                                                            
-    return  match[1] + '.' + match[2] + '.' + match[3];                                                      
-}
-                                                            
-function cps_getPlatform(filename) {
-    var regex_darwin_monterey_arm = /darwin-arm/i;
-    var regex_darwin_monterey_intel = /darwin-intel/i;
-    var regex_darwin_64 = /(darwin|macosx).*64/i;
-    var regex_darwin = /(darwin|macosx|tiger|leopard)/i;
-    var regex_linux_64 = /linux.*64/i;
-    var regex_linux_32  = /linux/i;
-    var regex_SunOS = /sunos/i;
-    var regex_source = /(src|source)/i;
-    var regex_Windows_64 = /win.*64/i;
-    var regex_Windows_32 = /win.*32/i;
-    var regex_Windows = /win/i;
-
-    var Platform = 'Any OS';
-
-    if (regex_darwin_monterey_arm.test(filename)) {
-        Platform = 'macOS X Monterey (arm)';
-    } else if (regex_darwin_monterey_intel.test(filename)) {
-        Platform = 'macOS X Monterey (Intel)';
-    } else if (regex_darwin_64.test(filename)) {
-        Platform = 'Mac OS X 64-bit';
-    } else if (regex_darwin.test(filename)) {
-        Platform = 'Mac OS X';
-    } else if (regex_linux_64.test(filename)) {
-        Platform = 'Linux 64-bit';
-    } else if (regex_linux_32.test(filename)) {
-        Platform = 'Linux 32-bit';
-    } else if (regex_SunOS.test(filename)) {
-        Platform = 'Sun OX';
-    } else if (regex_source.test(filename)) {
-        Platform = 'Source Code';
-    } else if (regex_Windows_64.test(filename)) {
-        Platform = 'Windows 64-bit';
-    } else if (regex_Windows_32.test(filename)) {
-        Platform = 'Windows 32-bit';
-    } else if (regex_Windows.test(filename)) {
-        Platform = 'Windows';
-    } 
+        var result = {score: 0, icon: info.icon, title: info.title}
     
-    return Platform;
-}
-
-function cps_getUse(filename) {
-    var regex_AllSE = /AllSE/;
-    var regex_java = /java/i;
-    var regex_python = /python/i;
-    var regex_perl = /perl/i;
-    var regex_csharp = /(mono|C.-Bindings)/;
-    var regex_documentation = /\.pdf$/i;
-
-    var Use = 'COPASI';
-
-    if (regex_AllSE.test(filename)) {
-       Use = 'Simulation Engines for all platforms<br />(for use in heterogenous clusters)';
-    } else if (regex_documentation.test(filename)) {
-       Use = 'Documentation';
-    } else if (regex_java.test(filename)) {
-       Use = 'Language Bindings: Java';
-    } else if (regex_python.test(filename)) {
-       Use = 'Language Bindings: Python';
-    } else if (regex_perl.test(filename)) {
-       Use = 'Language Bindings: Perl';
-    } else if (regex_csharp.test(filename)) {
-       Use = 'Language Bindings: C#';
-    } 
-
-    return Use;
-}
-
-function update_packages() {
-    var vsltr = document.getElementById('version_selector');
-    var release_idx = vsltr.selectedIndex;
+        result.score += 8 * cps_scoreComponent(os.platform, info.platform);
+        result.score += 4 * cps_scoreComponent(os.platformVersion, info.platformVersion);
+        result.score += 2 * cps_scoreComponent(os.architecture, info.architecture);
+        result.score += 1 * cps_scoreComponent(os.bitness, info.bitness);
     
-    suggest_package(release_idx);
-    
-    var man_dnld_div = document.getElementById('manual_dnld_div');
-
-    // assets are the files available under a release
-    var assets = github_json[release_idx]['assets'];
-    var div_txt = '<table class="table display table-striped" id="download_table"><thead><tr><th>Content</th><th>Platform</th><th>File</th></thead></tr>';
-    var clean_fn, notes;
-    var Build = cps_getBuildNumber(github_json[release_idx]['name']);
-
-    for (asset_idx in assets) {
-        filename = assets[asset_idx]['name'];
-        dnld_url = assets[asset_idx]['browser_download_url'];
-        clean_fn = filename.replace('opasi-64', 'opasi').replace('opasi-32', 'opasi').toLowerCase();
-
-        var Platform =  cps_getPlatform(filename);
-        var Use = cps_getUse(filename);
- 
-        div_txt += '<tr>';
-        div_txt += '<td>' + Use + '</td>';
-        div_txt += '<td>' + Platform + '</td>';
-        div_txt += '<td>' + '<a href=' + dnld_url + '> ' + filename + '</a> </td>';
-        div_txt += '</tr>';
+        return result; 
     }
-
-    if (Build > 170) {
-        var version = cps_getVersion(github_json[release_idx]['name']);   
-        div_txt += '<tr>';
-        div_txt += '<td>Language Bindings: Python</td>';
-        div_txt += '<td>Linux</td>';
-        div_txt += '<td><a target="_blank" href="https://pypi.python.org/pypi/python-copasi/" >All available Combinations of COPASI and Python Versions</a></td>';
-        div_txt += '</tr>';
-        div_txt += '<tr>';
-        div_txt += '<td>Language Bindings: Python</td>';
-        div_txt += '<td>Mac OS X</td>';
-        div_txt += '<td><a target="_blank" href="https://pypi.python.org/pypi/python-copasi/" >All available Combinations of COPASI and Python Versions</a></td>';
-        div_txt += '</tr>';
-        div_txt += '<tr>';
-        div_txt += '<td>Language Bindings: Python</td>';
-        div_txt += '<td>Windows</td>';
-        div_txt += '<td><a target="_blank" href="https://pypi.python.org/pypi/python-copasi/" >All available Combinations of COPASI and Python Versions</a></td>';
-        div_txt += '</tr>';
-    } else if (Build > 89) {
-        div_txt += '<tr>';
-        div_txt += '<td>Language Bindings: Python</td>';
-        div_txt += '<td>Linux</td>';
-        div_txt += '<td><a target="_blank" href="http://software.opensuse.org/download.html?project=home%3Afbergman%3ACOPASI&package=python-copasi" >Linux Distribution specific Packages</a></td>';
-        div_txt += '</tr>';
-    }
-
-    div_txt += '</table>';
-    man_dnld_div.innerHTML = div_txt;
-
-    $('#download_table').dataTable( {
-        'searching': false,
-        'paging': false,
-        'orderFixed': [[ 0, 'asc' ], [ 1, 'asc' ]]
-    });
-}
-
-// This will run when the page is loaded, to get the github info.
-// Then the update functions are called back, after the info is ready.
-var AJAX_req = new XMLHttpRequest();
-AJAX_req.open( 'GET', github_json_url, true );
-AJAX_req.setRequestHeader('Content-type', 'application/json');
     
-AJAX_req.onreadystatechange = function() {
-    if( AJAX_req.readyState == 4 && AJAX_req.status == 200 )  {
-        // store in global variable, for subsequent selector changes
-        // github_json = JSON.parse( AJAX_req.responseText ).reverse();
-        github_json = JSON.parse( AJAX_req.responseText ).sort(function(a,b) {
-            return cps_getBuildNumber(b['name']) - cps_getBuildNumber(a['name'])});
-
-        load_releases(github_json); // seems to need to be passed in, rather than accessed in function; perhaps related to asynchronous nature
-        update_packages();
+    function cps_scoreComponent(c1, c2) {
+        if (typeof c1 !== 'undefined'
+            && typeof c2 !== 'undefined') {
+            if (c1.match(c2)) {
+                return 1;
+            } else {
+                return -1
+            }
+        }
+    
+        return 0;
     }
-}
-AJAX_req.send();
+    
+    function cps_getUse(filename) {
+        var regex_AllSE = /AllSE/;
+        var regex_java = /java/i;
+        var regex_python = /python/i;
+        var regex_perl = /perl/i;
+        var regex_csharp = /(mono|C.-Bindings)/;
+        var regex_documentation = /\.pdf$/i;
+
+        var Use = 'COPASI';
+    
+        if (regex_AllSE.test(filename)) {
+           Use = 'Simulation Engines for all platforms<br />(for use in heterogenous clusters)';
+        } else if (regex_documentation.test(filename)) {
+           Use = 'Documentation';
+        } else if (regex_java.test(filename)) {
+           Use = 'Language Bindings: Java';
+        } else if (regex_python.test(filename)) {
+           Use = 'Language Bindings: Python';
+        } else if (regex_perl.test(filename)) {
+           Use = 'Language Bindings: Perl';
+        } else if (regex_csharp.test(filename)) {
+           Use = 'Language Bindings: C#';
+        } 
+    
+        return Use;
+    }
+    
+    function update_packages() {
+        var vsltr = document.getElementById('version_selector');
+        var release_idx = vsltr.selectedIndex;
+        
+        suggest_package(release_idx);
+        
+        var man_dnld_div = document.getElementById('manual_dnld_div');
+    
+        // assets are the files available under a release
+        var assets = github_json[release_idx]['assets'];
+        var div_txt = '<table class="table display table-striped" id="download_table"><thead><tr><th>Content</th><th>Platform</th><th>File</th></thead></tr>';
+        var clean_fn, notes;
+        var Build = cps_getBuildNumber(github_json[release_idx]['name']);
+    
+        for (asset_idx in assets) {
+            filename = assets[asset_idx]['name'];
+            dnld_url = assets[asset_idx]['browser_download_url'];
+            clean_fn = filename.replace('opasi-64', 'opasi').replace('opasi-32', 'opasi').toLowerCase();
+    
+            var Platform =  cps_getFileInfo(filename).title;
+            var Use = cps_getUse(filename);
+     
+            div_txt += '<tr>';
+            div_txt += '<td>' + Use + '</td>';
+            div_txt += '<td>' + Platform + '</td>';
+            div_txt += '<td>' + '<a href=' + dnld_url + '> ' + filename + '</a> </td>';
+            div_txt += '</tr>';
+        }
+    
+        if (Build > 170) {
+            var version = cps_getVersion(github_json[release_idx]['name']);   
+            div_txt += '<tr>';
+            div_txt += '<td>Language Bindings: Python</td>';
+            div_txt += '<td>Linux</td>';
+            div_txt += '<td><a target="_blank" href="https://pypi.python.org/pypi/python-copasi/" >All available Combinations of COPASI and Python Versions</a></td>';
+            div_txt += '</tr>';
+            div_txt += '<tr>';
+            div_txt += '<td>Language Bindings: Python</td>';
+            div_txt += '<td>Mac OS X</td>';
+            div_txt += '<td><a target="_blank" href="https://pypi.python.org/pypi/python-copasi/" >All available Combinations of COPASI and Python Versions</a></td>';
+            div_txt += '</tr>';
+            div_txt += '<tr>';
+            div_txt += '<td>Language Bindings: Python</td>';
+            div_txt += '<td>Windows</td>';
+            div_txt += '<td><a target="_blank" href="https://pypi.python.org/pypi/python-copasi/" >All available Combinations of COPASI and Python Versions</a></td>';
+            div_txt += '</tr>';
+        } else if (Build > 89) {
+            div_txt += '<tr>';
+            div_txt += '<td>Language Bindings: Python</td>';
+            div_txt += '<td>Linux</td>';
+            div_txt += '<td><a target="_blank" href="http://software.opensuse.org/download.html?project=home%3Afbergman%3ACOPASI&package=python-copasi" >Linux Distribution specific Packages</a></td>';
+            div_txt += '</tr>';
+        }
+    
+        div_txt += '</table>';
+        man_dnld_div.innerHTML = div_txt;
+    
+        $('#download_table').dataTable( {
+            'searching': false,
+            'paging': false,
+            'orderFixed': [[ 0, 'asc' ], [ 1, 'asc' ]]
+        });
+    }
+    
+    // This will run when the page is loaded, to get the github info.
+    // Then the update functions are called back, after the info is ready.
+    var AJAX_req = new XMLHttpRequest();
+    AJAX_req.open( 'GET', github_json_url, true );
+    AJAX_req.setRequestHeader('Content-type', 'application/json');
+        
+    AJAX_req.onreadystatechange = function() {
+        if( AJAX_req.readyState == 4 && AJAX_req.status == 200 )  {
+            // store in global variable, for subsequent selector changes
+            // github_json = JSON.parse( AJAX_req.responseText ).reverse();
+            github_json = JSON.parse( AJAX_req.responseText ).sort(function(a,b) {
+                return cps_getBuildNumber(b['name']) - cps_getBuildNumber(a['name'])});
+    
+            load_releases(github_json); // seems to need to be passed in, rather than accessed in function; perhaps related to asynchronous nature
+            update_packages();
+        }
+    }
+    AJAX_req.send();
 </script>
-
+    
 <div class='row'>
   <div class='col-xs-12'>
     <h1>Download</h1>
