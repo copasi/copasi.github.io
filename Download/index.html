@@ -109,7 +109,7 @@ async function suggest_package(release_idx) {
 
         Platform = cps_getPlatform(filename);
 
-        if (Platform == 'Mac OS X') {
+        if (Platform == 'Mac OS X' && Build < 258 ) {
             Platform = 'Mac OS X 32-bit';
         }
 
@@ -117,7 +117,7 @@ async function suggest_package(release_idx) {
             source.fn = filename;
             source.url = dnld_url;
             source.platform = Platform;
-        } else if (Platform.match(plt_match)) {
+        } else if (Platform.match(plt_match) || plt_match == Platform) {
             if ((plt_match != 'Linux'
                  && (Platform.match(os.bitness) 
                      || Build > 65 ))
