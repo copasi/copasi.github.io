@@ -1582,6 +1582,17 @@
   - steady state
   - parameter scan
 -
+ Reference: "Vaginay A, Boukhobza T, Smaïl-Tabbone M (2021) From quantitative SBML models to boolean networks. CNA 2021 - 10th International Conference on Complex Networks and their Applications, Nov 2021, Madrid, Spain."
+ Year: 2021
+ Typee: 3
+ URL: https://hal.archives-ouvertes.fr/hal-03481396
+ Keywords:
+  - Computational Method
+ Locations:
+  - Université de Lorraine, CNRS, Inria, LORIA, F-54000 Nancy, France
+ Methods:
+  - time course
+-
  Reference: "Valletti N, Budroni MA, Lagzi I, Marchettini N, Sanchez-Dominguez M, Rossi F (2021) Interfacial Mass Transfer in Trichloroethylene/Surfactants/ Water Systems: Implications for Remediation Strategies. Reactions 2:312–322"
  Year: 2021
  Type: 2
@@ -1596,17 +1607,6 @@
   - Centro de Investigación en Materiales Avanzados, S.C. (CIMAV), Unidad Monterrey, Alianza Norte 202, Parque de Investigación e Innovación Tecnológica, Apodaca 66628, Mexico
  Methods:
   - parameter estimation
--
- Reference: "Vaginay A, Boukhobza T, Smaïl-Tabbone M (2021) From quantitative SBML models to boolean networks. CNA 2021 - 10th International Conference on Complex Networks and their Applications, Nov 2021, Madrid, Spain."
- Year: 2021
- Typee: 3
- URL: https://hal.archives-ouvertes.fr/hal-03481396
- Keywords:
-  - Computational Method
- Locations:
-  - Université de Lorraine, CNRS, Inria, LORIA, F-54000 Nancy, France
- Methods:
-  - time course
 -
  Reference: "Vasilev GA, Filkova AA, Sveshnikova AN (2021) Study of Reversible Platelet Aggregation Model by Nonlinear Dynamics. Mathematics 9:759"
  Year: 2021
