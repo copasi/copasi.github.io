@@ -5166,6 +5166,23 @@
  Funding:
   - BMBF
 -
+ Reference: "Xie Y, Kazmierczyk M, Graham BP, Dutia MB, Stefan MI, Dutia MB (2019) A multi-scale model reveals cellular and physiological mechanisms underlying hyperpolarisation-gated synaptic plasticity. bioRxiv doi:10.1101/418228"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1101/418228
+ Keywords:
+  - Macromolecular Biochemistry
+  - Biophysics
+ Locations:
+  - Edinburgh Medical School, University of Edinburgh, UK
+  - Tri-Institutional Training Program in Computational Biology and Medicine, New York, USA
+  - School of Basic Medical Science, Zhejiang University School of Medicine, Hangzhou, China
+  - Division of Computing Science and Mathematics, University of Stirling, UK
+  - 5ZJU-UoE Institute, Zhejiang University School of Medicine, Haining, China
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Yeoh JW, Ng KBI, Teh AY, Zhang J, Chee WKD, Poh CL (2019) An Automated Biomodel Selection System (BMSS) for Gene Circuit Designs. ACS Synthetic Biology 8:1484–1497"
  Year: 2019
  Type: 3
