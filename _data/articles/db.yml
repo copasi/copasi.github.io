@@ -1251,6 +1251,20 @@
  Methods:
   - steady state
 -
+ Reference: "Patsatzis DG (2021) On the relation of the COVID-19 reproduction number to the explosive timescales: the case of Italy. arXiv:2101.06101 [physics, q-bio]."
+ Year: 2021
+ Type: 2
+ URL: http://arxiv.org/abs/2101.06101
+ Keywords:
+  - Epidemiology
+ Locations:
+  - School of Chemical Engineering, National Technical University of Athens, 15780 Athens, Greece
+ Funding:
+  - Khalifa University of Science and Technology
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Quiros DN, Nieto F, Mayorga LS (2021) From cartoons to quantitative models in Golgi transport. Biology of the Cell 113:146–164"
  Year: 2021
  Type: 2 
