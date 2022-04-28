@@ -179,6 +179,22 @@
  Methods:
   - time course
 -
+ Reference: "MacKeown H, von Gunten U, Criquet J (2022) Iodide sources in the aquatic environment and its fate during oxidative water treatment - A critical review. Water Research 217:118417"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1016/j.watres.2022.118417
+ Keywords:
+  - Chemistry
+  - Environmental Science
+ Locations:
+  - University of Lille, Lille F-59000, France
+  - Swiss Federal Institute of Aquatic Science and Technology, Ueberlandstrasse 133, Duebendorf 8600, Switzerland
+  - Institute of Biogeochemistry and Pollutant Dynamics, ETH Zurich, Zurich 8092, Switzerland
+  - School of Architecture, Civil and Environmental Engineering, École Polytechnique Fédérale de Lausanne, Lausanne 1015, Switzerland
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Német N, Miele Y, Shuszter G, Tóth EL, Maróti JE, Szabó PJ, Rossi F, Lagzi I (2022) Inhibition of the urea-urease reaction by the components of the zeolite imidazole frameworks-8 and the formation of urease-zinc-imidazole hybrid compound. Reaction Kinetics, Mechanisms and Catalysis 135:15–28"
  Year: 2022
  Type: 2
@@ -1073,6 +1089,23 @@
   - Hearst Foundation
  Methods:
   - parameter estimation
+-
+ Reference: "Mazat J-P, Devin A, Yoboue E, Ransac S (2021) A Theoretical Model of Mitochondrial ATP Synthase Deficiencies. The Role of Mitochondrial Carriers. Processes 9:1424"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.3390/pr9081424
+ Keywords:
+  - Metabolism
+ Locations:
+  - IBGC CNRS UMR 5095, 1 Rue Camille Saint-Saens, CEDEX, 33077 Bordeaux, France
+  - Université de Bordeaux, 146 Rue Leo-Saignat, CEDEX, 33076 Bordeaux, France
+ Funding:
+  - AFM
+  - EMERGENCE GSO
+ Methods:
+  - EFM
+  - steady state
+  - parameter scan
 -
  Reference: "McBane GC (2021) SIR (Susceptible–Infectious–Removed) Model of Epidemiology as an Extended Example for Chemical Kinetics Students. Journal of Chemical Education 98:2906–2911"
  Year: 2021
