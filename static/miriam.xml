@@ -1,7 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Export of Identifiers.org's Registry (full) -->
-<!-- Generated: Tue, 25 Sep 2018 12:16:32 GMT     -->
-<!-- http://identifiers.org/registry/            -->
+<?xml version="1.0" encoding="utf-8"?>
 <miriam xmlns="http://www.biomodels.net/MIRIAM/" date="Tue, 25 Sep 2018 12:16:32 GMT" data-version="Fri, 21 Sep 2018 10:26:19 GMT">
   <datatype id="MIR:00000001" pattern="^\d+$" restricted="true" obsolete="true" replacement="MIR:00000010">
     <comment>BIND doesn't exist any more and its successor (BOND) is not open-access. Bulk downloads of BIND data (http://bond.unleashedinformatics.com/downloads/data/BIND/data/datasets/taxon/xml/) and a PSI-MI 2.5 translation (http://download.baderlab.org/BINDTranslation/) are available.</comment>
@@ -47,7 +44,7 @@
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000002" pattern="^CHEBI:\d+$">
+  <datatype id="MIR:00000002" pattern="^CHEBI:\d+$" namespaceEmbeddedInPattern="True">
     <name>ChEBI</name>
     <definition>Chemical Entities of Biological Interest (ChEBI) is a freely available dictionary of molecular entities focused on 'small' chemical compounds.</definition>
     <uris>
@@ -1188,7 +1185,7 @@
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000022" pattern="^GO:\d{7}$">
+  <datatype id="MIR:00000022" pattern="^GO:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Gene Ontology</name>
     <synonyms>
       <synonym>GO</synonym>
@@ -1361,7 +1358,7 @@
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000024" pattern="^SBO:\d{7}$">
+  <datatype id="MIR:00000024" pattern="^SBO:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Systems Biology Ontology</name>
     <synonyms>
       <synonym>SBO</synonym>
@@ -2073,7 +2070,7 @@
       <tag>nucleotide</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000037" pattern="^MGI:\d+$">
+  <datatype id="MIR:00000037" pattern="^MGI:\d+$" namespaceEmbeddedInPattern="True">
     <name>Mouse Genome Database</name>
     <synonyms>
       <synonym>MGD</synonym>
@@ -2654,7 +2651,7 @@
         <dataEntry>http://www.hmdb.ca/metabolites/$id</dataEntry>
         <dataInfo>The Human Metabolome Database</dataInfo>
         <dataInstitution>University of Alberta, Edmonton, AB</dataInstitution>
-        <dataLocation>Canada </dataLocation>
+        <dataLocation>Canada</dataLocation>
       </resource>
     </resources>
     <tags>
@@ -2772,7 +2769,7 @@
       <tag>nucleotide</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000055" pattern="ECO:\d{7}$">
+  <datatype id="MIR:00000055" pattern="ECO:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Evidence Code Ontology</name>
     <synonyms>
       <synonym>ECO</synonym>
@@ -2810,7 +2807,7 @@
       <tag>classification</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000056" pattern="^MOD:\d{5}">
+  <datatype id="MIR:00000056" pattern="^MOD:\d{5}" namespaceEmbeddedInPattern="True">
     <name>Protein Modification Ontology</name>
     <synonyms>
       <synonym>PSI-MOD</synonym>
@@ -3075,7 +3072,7 @@
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000063" pattern="^mge:\d+$">
+  <datatype id="MIR:00000063" pattern="^mge:\d+$" namespaceEmbeddedInPattern="True">
     <name>Aclame</name>
     <definition>ACLAME is a database dedicated to the collection and classification of mobile genetic elements (MGEs) from various sources, comprising all known phage genomes, plasmids and transposons.</definition>
     <uris>
@@ -3221,7 +3218,7 @@
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000067" pattern="^FMA:\d+$">
+  <datatype id="MIR:00000067" pattern="^FMA:\d+$" namespaceEmbeddedInPattern="True">
     <name>FMA</name>
     <synonyms>
       <synonym>Foundational Model of Anatomy Ontology</synonym>
@@ -3433,7 +3430,7 @@
     </documentations>
     <resources>
       <resource id="MIR:00100102" state="up" reliability="99">
-        <dataResource>https://www.ncbi.nlm.nih.gov/sites/entrez?db=pcassay </dataResource>
+        <dataResource>https://www.ncbi.nlm.nih.gov/sites/entrez?db=pcassay</dataResource>
         <dataEntityExample>1018</dataEntityExample>
         <dataEntry>https://pubchem.ncbi.nlm.nih.gov/assay/assay.cgi?aid=$id</dataEntry>
         <dataInfo>PubChem Bioassay at NCBI</dataInfo>
@@ -3645,7 +3642,7 @@ All content is under the Creative Commons Attribution 3.0 Unported license.</def
         <dataEntityExample>MI0000001</dataEntityExample>
         <dataEntry>http://www.mirbase.org/cgi-bin/mirna_entry.pl?acc=$id</dataEntry>
         <dataInfo>miRBase Sequence Database</dataInfo>
-        <dataInstitution>Faculty of Life Sciences, University of Manchester </dataInstitution>
+        <dataInstitution>Faculty of Life Sciences, University of Manchester</dataInstitution>
         <dataLocation>UK</dataLocation>
       </resource>
       <resource id="MIR:00100109" obsolete="true">
@@ -3765,7 +3762,7 @@ All content is under the Creative Commons Attribution 3.0 Unported license.</def
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000081" pattern="^SO:\d{7}$">
+  <datatype id="MIR:00000081" pattern="^SO:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Sequence Ontology</name>
     <synonyms>
       <synonym>SO</synonym>
@@ -4490,8 +4487,7 @@ PharmGKB Pathways are drug centric, gene based, interactive pathways which focus
   </datatype>
   <datatype id="MIR:00000101" pattern="^\d+$">
     <name>BioNumbers</name>
-    <definition>BioNumbers is a database of key numberical information that may be used in molecular biology. Along with the numbers, it contains references to the original literature, useful comments, and related numeric data. 
-</definition>
+    <definition>BioNumbers is a database of key numberical information that may be used in molecular biology. Along with the numbers, it contains references to the original literature, useful comments, and related numeric data.</definition>
     <uris>
       <uri type="URN">urn:miriam:bionumbers</uri>
       <uri type="URL">http://identifiers.org/bionumbers/</uri>
@@ -4777,7 +4773,7 @@ PharmGKB Pathways are drug centric, gene based, interactive pathways which focus
       </resource>
     </resources>
   </datatype>
-  <datatype id="MIR:00000109" pattern="^MI:\d{4}$" restricted="true">
+  <datatype id="MIR:00000109" pattern="^MI:\d{4}$" restricted="true" namespaceEmbeddedInPattern="True">
     <name>Molecular Interactions Ontology</name>
     <synonyms>
       <synonym>MI</synonym>
@@ -4830,7 +4826,7 @@ PharmGKB Pathways are drug centric, gene based, interactive pathways which focus
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000110" pattern="^CL:\d{7}$">
+  <datatype id="MIR:00000110" pattern="^CL:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Cell Type Ontology</name>
     <synonyms>
       <synonym>Cell Ontology</synonym>
@@ -4878,7 +4874,7 @@ PharmGKB Pathways are drug centric, gene based, interactive pathways which focus
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000111" pattern="^BTO:\d{7}$">
+  <datatype id="MIR:00000111" pattern="^BTO:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Brenda Tissue Ontology</name>
     <synonyms>
       <synonym>BTO</synonym>
@@ -4926,7 +4922,7 @@ PharmGKB Pathways are drug centric, gene based, interactive pathways which focus
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000112" pattern="^PATO:\d{7}$">
+  <datatype id="MIR:00000112" pattern="^PATO:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>PATO</name>
     <definition>PATO is an ontology of phenotypic qualities, intended for use in a number of applications, primarily defining composite phenotypes and phenotype  annotation.</definition>
     <uris>
@@ -5847,7 +5843,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000136" pattern="^UO:\d{7}?">
+  <datatype id="MIR:00000136" pattern="^UO:\d{7}?" namespaceEmbeddedInPattern="True">
     <name>Unit Ontology</name>
     <synonyms>
       <synonym>UO</synonym>
@@ -6032,7 +6028,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       <tag>registry</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000141" pattern="^PR\:P?\d+$">
+  <datatype id="MIR:00000141" pattern="^PR\:P?\d+$" namespaceEmbeddedInPattern="True">
     <name>Protein Ontology</name>
     <definition>The PRotein Ontology (PRO) has been designed to describe the relationships of proteins and protein evolutionary classes, to delineate the multiple protein forms of a gene locus (ontology for protein forms), and to interconnect existing ontologies.</definition>
     <uris>
@@ -9332,7 +9328,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000233" pattern="^DOID\:\d+$">
+  <datatype id="MIR:00000233" pattern="^DOID\:\d+$" namespaceEmbeddedInPattern="True">
     <name>Human Disease Ontology</name>
     <synonyms>
       <synonym>DO</synonym>
@@ -9389,7 +9385,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000234" pattern="^CCO\:\w+$">
+  <datatype id="MIR:00000234" pattern="^CCO\:\w+$" namespaceEmbeddedInPattern="True">
     <name>Cell Cycle Ontology</name>
     <definition>The Cell Cycle Ontology is an application ontology that captures and integrates detailed knowledge on the cell cycle process.</definition>
     <uris>
@@ -9690,7 +9686,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000242" pattern="^PW:\d{7}$">
+  <datatype id="MIR:00000242" pattern="^PW:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Pathway Ontology</name>
     <definition>The Pathway Ontology captures information on biological networks, the relationships between netweorks and the alterations or malfunctioning of such networks within a hierarchical structure. The five main branches of the ontology are: classic metabolic pathways, regulatory, signaling, drug, and disease pathwaysfor complex human conditions.</definition>
     <uris>
@@ -12117,7 +12113,7 @@ The interactions include direct (physical) and indirect (functional) association
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000307" pattern="^PO:\d+$">
+  <datatype id="MIR:00000307" pattern="^PO:\d+$" namespaceEmbeddedInPattern="True">
     <name>Plant Ontology</name>
     <synonyms>
       <synonym>PO</synonym>
@@ -16018,7 +16014,7 @@ Each page contains information about a particular group, with pages linked one t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000406" pattern="^VariO:\d+$">
+  <datatype id="MIR:00000406" pattern="^VariO:\d+$" namespaceEmbeddedInPattern="True">
     <name>VariO</name>
     <synonyms>
       <synonym>Variation Ontology</synonym>
@@ -17290,7 +17286,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
     </annotation>
   </datatype>
   <datatype id="MIR:00000441" pattern="^[A-Z]$" obsolete="true" replacement="MIR:00000119">
-    <comment>As of September 2013, this collection is no longer maintained. Various archives are available at: ftp://ftp.ncbi.nih.gov/pub/COG/. </comment>
+    <comment>As of September 2013, this collection is no longer maintained. Various archives are available at: ftp://ftp.ncbi.nih.gov/pub/COG/.</comment>
     <name>COGs Function</name>
     <synonyms>
       <synonym>Clusters of Orthologous Groups Function</synonym>
@@ -17360,7 +17356,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
     </annotation>
   </datatype>
   <datatype id="MIR:00000443" pattern="^GenProp\d+$" obsolete="true" replacement="MIR:00000202">
-    <comment>Genome Properties (CMR) is no longer supported by the JCVI and has been taken offline. More information at: http://www.jcvi.org/cms/research/past-projects/cmr/overview/ </comment>
+    <comment>Genome Properties (CMR) is no longer supported by the JCVI and has been taken offline. More information at: http://www.jcvi.org/cms/research/past-projects/cmr/overview/</comment>
     <name>Genome Properties</name>
     <definition>The Genome Properties system captures key aspects of prokaryotic biology using standardized computational methods and controlled vocabularies. Properties, expressed using controlled vocabulary, reflect gene content, phenotype, phylogeny and computational analyses. Additional properties are derived from curation, published reports and other forms of evidence.</definition>
     <uris>
@@ -17432,7 +17428,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000445" pattern="^MA:\d+$">
+  <datatype id="MIR:00000445" pattern="^MA:\d+$" namespaceEmbeddedInPattern="True">
     <name>Mouse Adult Gross Anatomy</name>
     <definition>A structured controlled vocabulary of the adult anatomy of the mouse (Mus)</definition>
     <uris>
@@ -17482,7 +17478,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000446" pattern="^UBERON\:\d+$">
+  <datatype id="MIR:00000446" pattern="^UBERON\:\d+$" namespaceEmbeddedInPattern="True">
     <name>UBERON</name>
     <synonyms>
       <synonym>Uber Anatomy Ontology</synonym>
@@ -17635,7 +17631,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000450" pattern="^GO_REF:\d{7}$">
+  <datatype id="MIR:00000450" pattern="^GO_REF:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Gene Ontology Reference</name>
     <synonyms>
       <synonym>GO reference collection</synonym>
@@ -19402,7 +19398,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000508" pattern="^GRO\:\d+$">
+  <datatype id="MIR:00000508" pattern="^GRO\:\d+$" namespaceEmbeddedInPattern="True">
     <name>Gramene Growth Stage Ontology</name>
     <definition>Gramene is a comparative genome mapping database for grasses and crop plants. It combines a semi-automatically generated database of cereal genomic and expressed sequence tag sequences, genetic maps, map relations, quantitative trait loci (QTL), and publications, with a curated database of mutants (genes and alleles), molecular markers, and proteins. This collection refers to growth stage ontology information in Gramene.</definition>
     <uris>
@@ -19722,7 +19718,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000518" pattern="^(P)?EO\:\d{7}$">
+  <datatype id="MIR:00000518" pattern="^(P)?EO\:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Plant Environment Ontology</name>
     <synonyms>
       <synonym>Plant Environment Conditions</synonym>
@@ -20661,7 +20657,7 @@ It also includes trials conducted outside these areas if they form part of a pae
       <tag>encyclopedia</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000550" pattern="^SLM:\d+$">
+  <datatype id="MIR:00000550" pattern="^SLM:\d+$" namespaceEmbeddedInPattern="True">
     <name>SwissLipids</name>
     <definition>SwissLipids is a curated resource that provides information about known lipids, including lipid structure, metabolism, interactions, and subcellular and tissue localization. Information is curated from peer-reviewed literature and referenced using established ontologies, and provided with full provenance and evidence codes for curated assertions.</definition>
     <uris>
@@ -20896,7 +20892,7 @@ It also includes trials conducted outside these areas if they form part of a pae
       <tag>model</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000558" pattern="^RRID:[A-Z_a-z-0-9]+$">
+  <datatype id="MIR:00000558" pattern="^RRID:[A-Z_a-z-0-9]+$" namespaceEmbeddedInPattern="True">
     <name>RRID</name>
     <synonyms>
       <synonym>Research Resource IDentifier</synonym>
@@ -21264,7 +21260,7 @@ The initiative works with participating journals to intercept manuscripts in the
       <tag>reaction</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000571" pattern="^HP:\d{7}$">
+  <datatype id="MIR:00000571" pattern="^HP:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Human Phenotype Ontology</name>
     <synonyms>
       <synonym>HPO</synonym>
@@ -21531,7 +21527,7 @@ The initiative works with participating journals to intercept manuscripts in the
       <tag>protein</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000580" pattern="^MP:\d{7}$">
+  <datatype id="MIR:00000580" pattern="^MP:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Mammalian Phenotype Ontology</name>
     <definition>The Mammalian Phenotype Ontology (MP) classifies and organises phenotypic information related to the mouse and other mammalian species. This ontology has been applied to mouse phenotype descriptions in various databases allowing comparisons of data from diverse mammalian sources. It can facilitate in the identification of appropriate experimental disease models, and aid in the discovery of candidate disease genes and molecular signaling pathways.</definition>
     <uris>
@@ -21667,7 +21663,7 @@ The initiative works with participating journals to intercept manuscripts in the
         <dataResource>http://multicellds.org/MultiCellDB.php</dataResource>
         <dataEntityExample>MCDS_L_0000000001</dataEntityExample>
         <dataEntry>http://multicellds.org/MultiCellDB/$id</dataEntry>
-        <dataInfo> MultiCellDS Digital Cell Line at Keck School of Medicine</dataInfo>
+        <dataInfo>MultiCellDS Digital Cell Line at Keck School of Medicine</dataInfo>
         <dataInstitution>Center for Applied Molecular Medicine, Keck School of Medicine, University of Southern California, California</dataInstitution>
         <dataLocation>USA</dataLocation>
       </resource>
@@ -21816,7 +21812,7 @@ The initiative works with participating journals to intercept manuscripts in the
       </resource>
     </resources>
   </datatype>
-  <datatype id="MIR:00000590" pattern="^MS:\d{7}$">
+  <datatype id="MIR:00000590" pattern="^MS:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Mass Spectrometry Controlled Vocabulary</name>
     <definition>The PSI-Mass Spectrometry (MS) CV contains all the terms used in the PSI MS-related data standards. The CV contains a logical hierarchical structure to ensure ease of maintenance and the development of software that makes use of complex semantics. The CV contains terms required for a complete description of an MS analysis pipeline used in proteomics, including sample labeling, digestion enzymes, instrumentation parts and parameters, software used for identification and quantification of peptides/proteins and the parameters and scores used to determine their significance.</definition>
     <uris>
@@ -21850,7 +21846,7 @@ The initiative works with participating journals to intercept manuscripts in the
       <tag>mass spectrometry</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000591" pattern="^ENVO:\d{8}$">
+  <datatype id="MIR:00000591" pattern="^ENVO:\d{8}$" namespaceEmbeddedInPattern="True">
     <name>Environment Ontology</name>
     <synonyms>
       <synonym>ENVO</synonym>
@@ -21886,7 +21882,7 @@ The initiative works with participating journals to intercept manuscripts in the
       <tag>ontology</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000592" pattern="^(ark\:)/*[0-9A-Za-z]+(?:/[\w/.=*+@\$-]*)?(?:\?.*)?$">
+  <datatype id="MIR:00000592" pattern="^ark:/*[0-9A-Za-z]+(?:/[\w/.=*+@\$-]*)?(?:\?.*)?$" namespaceEmbeddedInPattern="True">
     <name>ARK</name>
     <synonyms>
       <synonym>Archival Resource Key</synonym>
@@ -22067,7 +22063,7 @@ The initiative works with participating journals to intercept manuscripts in the
       </resource>
     </resources>
   </datatype>
-  <datatype id="MIR:00000599" pattern="^MIR:\d{8}$">
+  <datatype id="MIR:00000599" pattern="^MIR:\d{8}$" namespaceEmbeddedInPattern="True">
     <name>Identifiers.org Registry</name>
     <definition>The Identifiers.org registry contains registered namespace and provider prefixes with associated access URIs for a large number of high quality data collections. These prefixes are used in web resolution of compact identifiers of the form “PREFIX:ACCESSION” or "PROVIDER/PREFIX:ACCESSION” commonly used to specify bioinformatics and other data resources.</definition>
     <uris>
@@ -22207,8 +22203,7 @@ The initiative works with participating journals to intercept manuscripts in the
         <dataEntityExample>ae8c77fe-e6c8-44d5-8265-4a38c637bbef</dataEntityExample>
         <dataEntry>https://portal.gdc.cancer.gov/cases/$id</dataEntry>
         <dataInfo>Genomic Data Commons</dataInfo>
-        <dataInstitution>National Cancer Institute Genomic Data Commons, NIH
-</dataInstitution>
+        <dataInstitution>National Cancer Institute Genomic Data Commons, NIH</dataInstitution>
         <dataLocation>USA</dataLocation>
       </resource>
     </resources>
@@ -22230,8 +22225,7 @@ The initiative works with participating journals to intercept manuscripts in the
         <dataEntityExample>0005506</dataEntityExample>
         <dataEntry>https://www.ebi.ac.uk/ols/ontologies/omit/terms?short_form=OMIT_$id</dataEntry>
         <dataInfo>Ontology for miRNA Target (OMIT) through OLS</dataInfo>
-        <dataInstitution>European Bioinformatics Institute, Hinxton, Cambridge
-</dataInstitution>
+        <dataInstitution>European Bioinformatics Institute, Hinxton, Cambridge</dataInstitution>
         <dataLocation>UK</dataLocation>
       </resource>
     </resources>
@@ -22702,7 +22696,7 @@ The initiative works with participating journals to intercept manuscripts in the
       <tag>sequence</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000625" pattern="^mzspec:.+$">
+  <datatype id="MIR:00000625" pattern="^mzspec:.+$" namespaceEmbeddedInPattern="True">
     <name>Universal Spectrum Identifier</name>
     <definition>The Universal Spectrum Identifier (USI) is a compound identifier that provides an abstract path to refer to a single spectrum generated by a mass spectrometer, and potentially the ion that is thought to have produced it.</definition>
     <uris>
@@ -23030,7 +23024,7 @@ The initiative works with participating journals to intercept manuscripts in the
       </resource>
     </resources>
   </datatype>
-  <datatype id="MIR:00000639" pattern="^NMR:\d+$">
+  <datatype id="MIR:00000639" pattern="^NMR:\d+$" namespaceEmbeddedInPattern="True">
     <name>Nuclear Magnetic Resonance Controlled Vocabulary</name>
     <synonyms>
       <synonym>nmrCV</synonym>
@@ -23388,7 +23382,7 @@ The initiative works with participating journals to intercept manuscripts in the
       </resource>
     </resources>
   </datatype>
-  <datatype id="MIR:00000655" pattern="^swh:[1-9]:[a-z][a-z][a-z]:[a-f0-9]+$">
+  <datatype id="MIR:00000655" pattern="^swh:[1-9]:[a-z][a-z][a-z]:[a-f0-9]+$" namespaceEmbeddedInPattern="True">
     <name>Software Heritage</name>
     <definition>Software Heritage is the universal archive of software source code.</definition>
     <uris>
@@ -23520,7 +23514,7 @@ OCIs can also be created for bibliographic resources described in external bibli
       </resource>
     </resources>
   </datatype>
-  <datatype id="MIR:00000661" pattern="^FOODON:[0-9]{8}$">
+  <datatype id="MIR:00000661" pattern="^FOODON:[0-9]{8}$" namespaceEmbeddedInPattern="True">
     <name>FoodOn Food Ontology</name>
     <definition>FoodOn is a comprehensive and easily accessible global farm-to-fork ontology about food that accurately and consistently describes foods commonly known in cultures from around the world. It is a consortium-driven project built to interoperate with the The Open Biological and Biomedical Ontology Foundry library of ontologies.</definition>
     <uris>
@@ -23566,7 +23560,7 @@ OCIs can also be created for bibliographic resources described in external bibli
   </datatype>
   <datatype id="MIR:00000663" pattern="^\w.+$">
     <name>GTEx</name>
-    <definition>The Genotype-Tissue Expression (GTEx) project aims to provide to the scientific community a resource with which to study human gene expression and regulation and its relationship to genetic variation. </definition>
+    <definition>The Genotype-Tissue Expression (GTEx) project aims to provide to the scientific community a resource with which to study human gene expression and regulation and its relationship to genetic variation.</definition>
     <uris>
       <uri type="URN">urn:miriam:gtex</uri>
       <uri type="URL">http://identifiers.org/gtex/</uri>
@@ -23901,205 +23895,6 @@ OCIs can also be created for bibliographic resources described in external bibli
       </resource>
     </resources>
   </datatype>
-  <listOfTags>
-    <tagDefinition>
-      <name>annotation</name>
-      <definition>Descriptive text, usually added by an author or curator, that provides extra information that may be missing or not immediately evident.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>assay</name>
-      <definition>A collection that specifies direct assay conditions and/or provides experimental results.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>bibliography</name>
-      <definition>A citation list which supports the information provided. This may include books, publications in journal, or URL links.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>catalogue</name>
-      <definition>A data collection providing information on commercially available products.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>chemical</name>
-      <definition>Data collections with this tag reference data pertaining to chemical compounds and substances.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>classification</name>
-      <definition>A classification scheme which does not necessarily depict a relationship between different groups, but only between individuals within a group. </definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>clustering</name>
-      <definition>Data collections with this tag contain data which has been processed in such a way as to generate subsets (clusters) within which some trait should be shared.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>controlled vocabulary</name>
-      <definition>Controlled vocabularies provide predefined and authorised terms for shared use by a community, providing a means to organise knowledge for subsequent processing.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>disease</name>
-      <definition>A disease is an abnormal condition of an organism that impairs bodily functions and can be deadly. It is also defined as a way of the body harming itself in an abnormal way, associated with specific symptoms and signs. [wikipedia]</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>disorder</name>
-      <definition>The term "disorder" is often considered more value-neutral than the term "disease" [wikipedia]. Hence it may have no attributable signs or symptoms.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>DNA</name>
-      <definition>Data collections with this tag reference data pertaining to deoxyribonucleic acid.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>domain</name>
-      <definition>A domain is a protein subsequence that forms a three-dimensional structure, and can provide specific catalytic or binding sites as found in enzymes or regulatory proteins. A specific domain may appear in a variety of evolutionarily related proteins.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>drug</name>
-      <definition>A drug, broadly speaking, is any chemical substance that, when absorbed into the body of a living organism, alters normal bodily function [wikipedia].Toxins are included in this category.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>encyclopedia</name>
-      <definition>A generic knowledge repository not restricted to a particular domain, and which is primarily used for reference purposes.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>enzyme</name>
-      <definition>An enzyme is a biological catalyst of a chemical reaction. Most enzymes are proteins.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>eukaryotic</name>
-      <definition>Data collection pertaining to eukaryotic cells, which are differentiated from prokaryotic cells by the presence of a nucleus. This group includes human, plant, and fungal cells.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>expression</name>
-      <definition>Data collections associated with this tag pertain to the measurement of gene expression, often through the use of microarray techniques, and usually in quantitative fashion.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>fungal</name>
-      <definition>Data collection pertaining to species of fungi.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>gene</name>
-      <definition>Genes are discrete subsequences of genomic DNA and correspond to a unit of inheritance [based on wikipedia]. A data collection tagged 'gene' should include gene information in addition to purely sequence-oriented data.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>genome</name>
-      <definition>A genome is the full compliment of hereditary information (usually DNA) for a given organism, and includes coding and non-coding sequences where applicable. 'Genome' tagged data collections are those whose information is derived from genome level sequencing projects.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>human</name>
-      <definition>Data collections labelled 'human' should contain human centric data.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>image library</name>
-      <definition>A repository of static images or animations.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>immunogenetics</name>
-      <definition>A branch of research focused upon the relationship between one's genetics and immune response.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>interaction</name>
-      <definition>Data collections tagged 'interaction' should contain information relating to molecular interaction data, often protein-protein.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>kinetics</name>
-      <definition>Kinetics is the study of rates of reactions or chemical processes. Data collections tagged 'kinetics' should provide information such as rate laws and rate constants.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>lipid</name>
-      <definition>Data collection pertaining to lipids, which are lipophilic, naturally-occurring molecules.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>mammalian</name>
-      <definition>Data collections labelled 'mammalian' should contain mammal centric data.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>mass spectrometry</name>
-      <definition>Mass spectrometry is an analytical technique that identifies the chemical composition of a compound or sample on the basis of the mass-to-charge ratio of charged particles. [Wikipedia]</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>metabolite</name>
-      <definition>Metabolites are the intermediates and products of metabolism. The term metabolite is usually restricted to small molecules. A primary metabolite is directly involved in normal growth, development, and reproduction. A secondary metabolite is not directly involved in those processes, but usually has an important ecological function. Examples include antibiotics and pigments.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>microarray</name>
-      <definition>Microarray is a high-throughput technology often used to measure gene expression.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>microbial</name>
-      <definition>Datatype relating to bacterial species</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>model</name>
-      <definition>Data collection pertaining to mathematical models,  encoded in a form that allows their use in simulation software.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>neuroscience</name>
-      <definition>Scientific study of the nervous system.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>nucleotide</name>
-      <definition>Data collections tagged with 'nucleotide' refer to DNA and RNA molecules.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>ontology</name>
-      <definition>Data collections tagged with 'ontology' reference those ontologies that are used in the life sciences.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>pathway</name>
-      <definition>Series of sequential chemical reactions that are referred to collectively.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>pharmacogenomics</name>
-      <definition>Pharmacogenomics is the branch of pharmacology which deals with the influence of genetic variation on drug response in patients by correlating gene expression or single-nucleotide polymorphisms with a drug's efficacy or toxicity. [wiki] </definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>phenotype</name>
-      <definition>A phenotype is any observable characteristic of an organism, such as its morphology, development, biochemical or physiological properties, or behaviour [wikipedia].</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>plant</name>
-      <definition>Dataype type should be focused on plant species</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>polysaccharide</name>
-      <definition>Polysaccharides are polymeric carbohydrate structures, formed of repeating units (either mono- or di-saccharides) joined together by glycosidic bonds. These structures are often linear, but may contain various degrees of branching. Polysaccharides are often quite heterogeneous, containing slight modifications of the repeating unit.
-[http://en.wikipedia.org/wiki/Polysaccharide]</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>protein</name>
-      <definition>Data collections with this tag reference data pertaining to proteins.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>reaction</name>
-      <definition>A single chemical reaction which yields products which are, generally, different from the reactants. Data collections tagged 'reaction' focus on individual chemical reactions.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>registry</name>
-      <definition>A data collection within which information is  registered or collated, effectively providing a catalogue for (community) reference purposes.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>schema.org</name>
-      <definition>Data collection containing Schema.org metadata.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>sequence</name>
-      <definition>Data collections tagged 'sequence' reference sequence data, such as DNA, RNA or protein.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>strain</name>
-      <definition>A genetic variant of a particular organism.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>structure</name>
-      <definition>Data collections with the 'structure' tag should reference chemical or 3-dimensional structure.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>taxonomy</name>
-      <definition>A classification scheme, arranged in a hierarchical structure, that depicts parent-child relationships between its members.</definition>
-    </tagDefinition>
-    <tagDefinition>
-      <name>viral</name>
-      <definition>Data collection pertaining to virus information.</definition>
-    </tagDefinition>
-  </listOfTags>
   <datatype id="MIR:00000680" pattern="^[0-9a-zA-Z]{8}$">
     <name>Virtual Fly Brain</name>
     <definition>An interactive tool for neurobiologists to explore the detailed neuroanatomy, neuron connectivity and gene expression of the Drosophila melanogaster.</definition>
@@ -24138,8 +23933,8 @@ OCIs can also be created for bibliographic resources described in external bibli
   </datatype>
   <datatype id="MIR:00000684" pattern="^[0-9]{15}[0-9X]{1}$">
     <name>International Standard Name Identifier</name>
-    <definition>ISNI is the ISO certified global standard number for identifying the millions of contributors to creative works and those active in their distribution, including researchers, inventors, writers, artists, visual creators, performers, producers, publishers, aggregators, and more. It is part of a family of international standard identifiers that includes identifiers of works, recordings, products and right holders in all repertoires, e.g. DOI, ISAN, ISBN, ISRC, ISSN, ISTC, and ISWC.&#13;
-&#13;
+    <definition>ISNI is the ISO certified global standard number for identifying the millions of contributors to creative works and those active in their distribution, including researchers, inventors, writers, artists, visual creators, performers, producers, publishers, aggregators, and more. It is part of a family of international standard identifiers that includes identifiers of works, recordings, products and right holders in all repertoires, e.g. DOI, ISAN, ISBN, ISRC, ISSN, ISTC, and ISWC.
+
 The mission of the ISNI International Authority (ISNI-IA) is to assign to the public name(s) of a researcher, inventor, writer, artist, performer, publisher, etc. a persistent unique identifying number in order to resolve the problem of name ambiguity in search and discovery; and diffuse each assigned ISNI across all repertoires in the global supply chain so that every published work can be unambiguously attributed to its creator wherever that work is described.</definition>
     <namespace>isni</namespace>
     <uris>
@@ -24201,7 +23996,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
       <uri type="URL">http://www.peptideatlas.org/PASS/</uri>
     </uris>
   </datatype>
-  <datatype id="MIR:00000691" pattern="^did:[a-z0-9]+:[A-Za-z0-9.\-:]+$">
+  <datatype id="MIR:00000691" pattern="^did:[a-z0-9]+:[A-Za-z0-9.\-:]+$" namespaceEmbeddedInPattern="True">
     <name>Decentralized Identifiers (DIDs)</name>
     <definition>DIDs are an effort by the W3C Credentials Community Group and the wider Internet identity community to define identifiers that can be registered, updated, resolved, and revoked without any dependency on a central authority or intermediary.</definition>
     <namespace>did</namespace>
@@ -24257,7 +24052,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
   </datatype>
   <datatype id="MIR:00000707" pattern="[A-Za-z0-9]+$">
     <name>MINID Test</name>
-    <definition>Minid are identifiers used to provide robust reference to intermediate data generated during the course of a research investigation. This is a prefix for referencing identifiers in the minid test namespace. </definition>
+    <definition>Minid are identifiers used to provide robust reference to intermediate data generated during the course of a research investigation. This is a prefix for referencing identifiers in the minid test namespace.</definition>
     <namespace>minid.test</namespace>
     <uris>
       <uri type="URN">urn:miriam:minid.test</uri>
@@ -24266,7 +24061,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
   </datatype>
   <datatype id="MIR:00000708" pattern="^PKDB[0-9]{5}$">
     <name>PK-DB</name>
-    <definition>PK-DB an open database for pharmacokinetics information from clinical trials as well as pre-clinical research. The focus of PK-DB is to provide high-quality pharmacokinetics data enriched with the required meta-information for computational modeling and data integration. </definition>
+    <definition>PK-DB an open database for pharmacokinetics information from clinical trials as well as pre-clinical research. The focus of PK-DB is to provide high-quality pharmacokinetics data enriched with the required meta-information for computational modeling and data integration.</definition>
     <namespace>pkdb</namespace>
     <uris>
       <uri type="URN">urn:miriam:pkdb</uri>
@@ -24282,7 +24077,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
       <uri type="URL">https://www.genenames.org/cgi-bin/genefamilies/set/</uri>
     </uris>
   </datatype>
-  <datatype id="MIR:00000712" pattern="^GSSO:\d{6}$">
+  <datatype id="MIR:00000712" pattern="^GSSO:\d{6}$" namespaceEmbeddedInPattern="True">
     <name>Gender, Sex, and Sexual Orientation (GSSO) Ontology</name>
     <definition>The Gender, Sex, and Sexual Orientation (GSSO) ontology is an interdisciplinary ontology connecting terms from biology, medicine, psychology, sociology, and gender studies, aiming to bridge gaps between linguistic variations inside and outside of the health care environment. A large focus of the ontology is its consideration of LGBTQIA+ terminology.</definition>
     <namespace>gsso</namespace>
@@ -24347,7 +24142,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
   </datatype>
   <datatype id="MIR:00000723" pattern="^VB\.[A-Za-z][A-Za-z]\..*$">
     <name>VegBank</name>
-    <definition>VegBank is the vegetation plot database of the Ecological Society of America's Panel on Vegetation Classification. VegBank consists of three linked databases that contain (1) vegetation plot records, (2) vegetation types recognized in the U.S. National Vegetation Classification and other vegetation types submitted by users, and (3) all plant taxa recognized by ITIS/USDA as well as all other plant taxa recorded in plot records. Vegetation records, community types and plant taxa may be submitted to VegBank and may be subsequently searched, viewed, annotated, revised, interpreted, downloaded, and cited. </definition>
+    <definition>VegBank is the vegetation plot database of the Ecological Society of America's Panel on Vegetation Classification. VegBank consists of three linked databases that contain (1) vegetation plot records, (2) vegetation types recognized in the U.S. National Vegetation Classification and other vegetation types submitted by users, and (3) all plant taxa recognized by ITIS/USDA as well as all other plant taxa recorded in plot records. Vegetation records, community types and plant taxa may be submitted to VegBank and may be subsequently searched, viewed, annotated, revised, interpreted, downloaded, and cited.</definition>
     <namespace>vegbank</namespace>
     <uris>
       <uri type="URN">urn:miriam:vegbank</uri>
@@ -24356,8 +24151,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
   </datatype>
   <datatype id="MIR:00000725" pattern="^M[0-9]{4,}$">
     <name>Morpheus model repository</name>
-    <definition>The Morpheus model repository is an open-access data resource to store, search and retrieve unpublished and published computational models of spatio-temporal and multicellular biological systems, encoded in the MorpheusML language and readily executable with the Morpheus software.
-</definition>
+    <definition>The Morpheus model repository is an open-access data resource to store, search and retrieve unpublished and published computational models of spatio-temporal and multicellular biological systems, encoded in the MorpheusML language and readily executable with the Morpheus software.</definition>
     <namespace>morpheus</namespace>
     <uris>
       <uri type="URN">urn:miriam:morpheus</uri>
@@ -24409,7 +24203,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
       <uri type="URL">https://transyt.bio.di.uminho.pt/reactions/</uri>
     </uris>
   </datatype>
-  <datatype id="MIR:00000738" pattern="ocid:[0-9]{12}">
+  <datatype id="MIR:00000738" pattern="ocid:[0-9]{12}" namespaceEmbeddedInPattern="True">
     <name>Ontology Concept Identifiers</name>
     <definition>'ocid' stands for "Ontology Concept Identifiers" and are 12 digit long integers covering IDs in topical ontologies from anatomy up to toxicology.</definition>
     <namespace>ocid</namespace>
@@ -24557,7 +24351,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
   </datatype>
   <datatype id="MIR:00000768" pattern="^[m,M]{2}[0-9]{5}[0-9]*$">
     <name>MolMeDB</name>
-    <definition>MolMeDB is an open chemistry database about interactions of molecules with membranes. We collect information on how chemicals interact with individual membranes either from experiment or from simulations. </definition>
+    <definition>MolMeDB is an open chemistry database about interactions of molecules with membranes. We collect information on how chemicals interact with individual membranes either from experiment or from simulations.</definition>
     <namespace>molmedb</namespace>
     <uris>
       <uri type="URN">urn:miriam:molmedb</uri>
@@ -24609,9 +24403,9 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
       <uri type="URL">https://w3id.org/biolink/vocab/</uri>
     </uris>
   </datatype>
-  <datatype id="MIR:00000785" pattern="^HOG:[0-9]{7}(\.[0-9a-z.]+)?(_[0-9]+)?$">
+  <datatype id="MIR:00000785" pattern="^HOG:[0-9]{7}(\.[0-9a-z.]+)?(_[0-9]+)?$" namespaceEmbeddedInPattern="True">
     <name>OMA HOGs</name>
-    <definition>Hierarchical orthologous groups predicted by OMA (Orthologous MAtrix) database. Hierarchical orthologous groups are sets of genes that have started diverging from a single common ancestor gene at a certain taxonomic level of reference. </definition>
+    <definition>Hierarchical orthologous groups predicted by OMA (Orthologous MAtrix) database. Hierarchical orthologous groups are sets of genes that have started diverging from a single common ancestor gene at a certain taxonomic level of reference.</definition>
     <namespace>oma.hog</namespace>
     <uris>
       <uri type="URN">urn:miriam:oma.hog</uri>
@@ -24730,7 +24524,7 @@ These data will help scientists uncover and understand cellular level mechanisms
   </datatype>
   <datatype id="MIR:00000814" pattern="^[0-9]+$">
     <name>InterLex</name>
-    <definition>InterLex is a dynamic lexicon, initially built on the foundation of NeuroLex (PMID: 24009581), of biomedical terms and common data elements designed to help improve the way that biomedical scientists communicate about their data, so that information systems can find data more easily and provide more powerful means of integrating data across distributed resources and datasets. InterLex allows for the association of data fields and data values to common data elements and terminologies enabling the crowdsourcing of data-terminology mappings within and across communities. InterLex provides a stable layer on top of the many other existing terminologies, lexicons, ontologies, and common data element collections and provides a set of inter-lexical and inter-data-lexical mappings. </definition>
+    <definition>InterLex is a dynamic lexicon, initially built on the foundation of NeuroLex (PMID: 24009581), of biomedical terms and common data elements designed to help improve the way that biomedical scientists communicate about their data, so that information systems can find data more easily and provide more powerful means of integrating data across distributed resources and datasets. InterLex allows for the association of data fields and data values to common data elements and terminologies enabling the crowdsourcing of data-terminology mappings within and across communities. InterLex provides a stable layer on top of the many other existing terminologies, lexicons, ontologies, and common data element collections and provides a set of inter-lexical and inter-data-lexical mappings.</definition>
     <namespace>ilx</namespace>
     <uris>
       <uri type="URN">urn:miriam:ilx</uri>
@@ -24910,7 +24704,7 @@ These data will help scientists uncover and understand cellular level mechanisms
   </datatype>
   <datatype id="MIR:00000855" pattern="^.*?--%3E.*?$">
     <name>Datanator Reaction</name>
-    <definition>	Datanator is an integrated database of genomic and biochemical data designed to help investigators find data about specific molecules and reactions in specific organisms and specific environments for meta-analyses and mechanistic models. Datanator currently includes metabolite concentrations, RNA modifications and half-lives, protein abundances and modifications, and reaction kinetics integrated from several databases and numerous publications. The Datanator website and REST API provide tools for extracting clouds of data about specific molecules and reactions in specific organisms and specific environments, as well as data about similar molecules and reactions in taxonomically similar organisms.</definition>
+    <definition>Datanator is an integrated database of genomic and biochemical data designed to help investigators find data about specific molecules and reactions in specific organisms and specific environments for meta-analyses and mechanistic models. Datanator currently includes metabolite concentrations, RNA modifications and half-lives, protein abundances and modifications, and reaction kinetics integrated from several databases and numerous publications. The Datanator website and REST API provide tools for extracting clouds of data about specific molecules and reactions in specific organisms and specific environments, as well as data about similar molecules and reactions in taxonomically similar organisms.</definition>
     <namespace>datanator.reaction</namespace>
     <uris>
       <uri type="URN">urn:miriam:datanator.reaction</uri>
@@ -25043,4 +24837,484 @@ These data will help scientists uncover and understand cellular level mechanisms
       <uri type="URL">https://run.biosimulations.org/simulations/</uri>
     </uris>
   </datatype>
+  <datatype id="MIR:00000887" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>Kids First</name>
+    <definition>Full implementation of the DRS 1.1 standard with support for persistent identifiers. Open source DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org</definition>
+    <namespace>dg.f82a1a</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.f82a1a</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000889" pattern="\b[0-9a-f]{8}\b-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-\b[0-9a-f]{12}\b">
+    <name>Blue Brain Project Topological sampling Knowledge Graph</name>
+    <definition>Input data and analysis results for the paper "Topology of synaptic connectivity constrains neuronal stimulus representation, predicting two complementary coding strategies (https://www.biorxiv.org/content/10.1101/2020.11.02.363929v2 ).</definition>
+    <namespace>bbtp</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:bbtp</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000891" pattern="^FCB\d{3}">
+    <name>the FAIR Cookbook</name>
+    <definition>Created by researchers and data managers professionals, the FAIR Cookbook is an online resource for the Life Sciences with recipes that help you to make and keep data Findable, Accessible, Interoperable, and Reusable (FAIR).
+
+</definition>
+    <namespace>fcb</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:fcb</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000893" pattern="^\d{5,}$">
+    <name>VCell Published Models</name>
+    <definition>Models developed with the Virtual Cell (VCell) software prorgam.</definition>
+    <namespace>vcell</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:vcell</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000895" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>BloodPAC</name>
+    <definition>The Blood Profiling Atlas in Cancer (BloodPAC) supports the management, analysis and sharing of liquid biopsy data for the oncology research community and aims to accelerate discovery and development of therapies, diagnostic tests, and other technologies for cancer treatment and prevention. The data commons supports cross-project analyses by harmonizing data from different projects through the collaborative development of a data dictionary, providing an API for data queries and download, and providing a cloud-based analysis workspace with rich tools and resources.</definition>
+    <namespace>dg.5b0d</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.5b0d</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000899" pattern="^[0-9A-Za-z-_\.]+/[0-9A-Za-z-_\.]+$">
+    <name>Bitbucket</name>
+    <definition>Bitbucket is a Git-based source code repository hosting service owned by Atlassian.</definition>
+    <namespace>bitbucket</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:bitbucket</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000903" pattern="^[-\w]+(?:\/[-\w]+)(?:\/\b[0-9a-f]{8}\b-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-\b[0-9a-f]{12}\b)$">
+    <name>Blue Brain Project Knowledge Graph</name>
+    <definition>Blue Brain Project's published data as knowledge graphs and Web Studios.</definition>
+    <namespace>bbkg</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:bbkg</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000919" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>GenoMEL Data Commons</name>
+    <definition>The GenoMEL data commons supports the management, analysis and sharing of next generation sequencing data for the GenoMEL research community and aims to accelerate opportunities for discovery of susceptibility genes for melanoma. The data commons supports cross-project analyses by harmonizing data from different projects through the development of a data dictionary and utilization of common workflows, providing an API for data queries, and providing a cloud-based analysis workspace with rich tools and resources.</definition>
+    <namespace>dg.80b6</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.80b6</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000905" pattern="\d+">
+    <name>ModelDB concept</name>
+    <definition>Concept used by ModelDB, an accessible location for storing and efficiently retrieving computational neuroscience models.</definition>
+    <namespace>modeldb.concept</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:modeldb.concept</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000907" pattern="^[0-9]+$">
+    <name>CIViC Gene</name>
+    <definition>A CIViC Gene Summary is created to provide a high-level overview of clinical relevance of cancer variants for the gene. Gene Summaries in CIViC focus on emphasizing the clinical relevance from a molecular perspective rather than describing the biological function of the gene unless necessary to contextualize its clinical relevance in cancer. Gene Summaries include relevant cancer subtypes, specific treatments for the gene’s associated variants, pathway interactions, functional alterations caused by the variants in the gene, and normal/abnormal functions of the gene with associated roles in oncogenesis</definition>
+    <namespace>civic.gid</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:civic.gid</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000909" pattern="^[0-9]+$">
+    <name>CIViC Variant</name>
+    <definition>CIViC variants are usually genomic alterations, including single nucleotide variants (SNVs), insertion/deletion events (indels), copy number alterations (CNV’s such as amplification or deletion), structural variants (SVs such as translocations and inversions), and other events that differ from the “normal” genome. In some cases a CIViC variant may represent events of the transcriptome or proteome. For example, ‘expression’ or ‘over-expression’ is a valid variant. Regardless of the variant, it must have a Predictive, Prognostic, Predisposing, Diagnostic, Oncogenic, or Functional relevance that is clinical in nature to be entered in CIViC. i.e. There must be some rationale for why curation of this variant could ultimately aid clinical decision making.</definition>
+    <namespace>civic.vid</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:civic.vid</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000901" pattern="^[0-9A-Za-z_][0-9A-Za-z-_()\. ]*/[0-9A-Za-z_][0-9A-Za-z-_\. ]*$">
+    <name>GitLab</name>
+    <definition>GitLab is The DevOps platform that empowers organizations to maximize the overall return on software development by delivering software faster and efficiently, while strengthening security and compliance. With GitLab, every team in your organization can collaboratively plan, build, secure, and deploy software to drive business outcomes faster with complete transparency, consistency and traceability.</definition>
+    <namespace>gitlab</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:gitlab</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000911" pattern="^[a-z]+/[0-9]+$">
+    <name>RISM Online</name>
+    <definition>RISM Online is a new service that will publish the bibliographic and authority data from the catalogue of the Répertoire International des Sources Musicales project.</definition>
+    <namespace>rism</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:rism</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00001015" pattern="^[0-9]{9}$">
+    <name>CropMRepository</name>
+    <definition>CropMRespository is a database of soil and crop biophysical process models.</definition>
+    <namespace>crop2ml</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:crop2ml</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000916" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>VA Data Commons</name>
+    <definition>The VA Data Commons supports the research and analysis of US military Veteran medical and genomic data and aims to accelerate scientific discovery and development of therapies, diagnostic tests, and other technologies for improving the lives of Veterans and beyond.</definition>
+    <namespace>dg.f738</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.f738</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000917" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>https://accessclinicaldata.niaid.nih.gov/</name>
+    <definition>AccessClinicalData@NIAID is a NIAID cloud-based, secure data platform that enables sharing of and access to reports and data sets from NIAID COVID-19 and other sponsored clinical trials for the basic and clinical research community.</definition>
+    <namespace>dg.nacd</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.nacd</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00001019" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>ACCOuNT Data Commons</name>
+    <definition>This website provides a centralized, cloud-based discovery portal for African American pharmacogenomics data and aims to accelerate discovery of novel genetic variants in African Americans related to clinically actionable cardiovascular phenotypes.</definition>
+    <namespace>dg.4825</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.4825</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00001021" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>NIDDK IBD Genetics Consortium Portal</name>
+    <definition>The Inflammatory Bowel Disease Genetics Consortium Data Commons supports the management, analysis, and sharing of genetic data to support the vision and mission of the IBD genetics consortium.</definition>
+    <namespace>dg.ea80</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.ea80</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00001020" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>BioData Catalyst</name>
+    <definition>NHLBI BioData Catalyst supports the management, analysis and sharing of human disease data for the research community and aims to advance basic understanding of the genetic basis of complex traits and accelerate discovery and development of therapies, diagnostic tests, and other technologies for diseases like cancer. The data commons supports cross-project analyses by harmonizing data from different projects through the collaborative development of a data dictionary, providing an API for data queries and download, and providing a cloud-based analysis workspace with rich tools and resources.</definition>
+    <namespace>4503</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:4503</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000932" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>MIDRC Data Commons</name>
+    <definition>The Medical Imaging &amp; Data Resource Center (MIDRC) Data Commons supports the management, analysis and sharing of medical imaging data for the improvement of patient outcomes.</definition>
+    <namespace>dg.md1r</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.md1r</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000948" pattern="^[a-zA-Z0-9_\-]+(/.*?)?$">
+    <name>Physiome Model Repository workspace</name>
+    <definition>Workspace (Git repository) for modeling projects managed by the Physiome Model Repository</definition>
+    <namespace>pmr.workspace</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:pmr.workspace</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000922" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>The AnVIL</name>
+    <definition>The AnVIL supports the management, analysis and sharing of human disease data for the research community and aims to advance basic understanding of the genetic basis of complex traits and accelerate discovery and development of therapies, diagnostic tests, and other technologies for diseases like cancer. The data commons supports cross-project analyses by harmonizing data from different projects through the collaborative development of a data dictionary, providing an API for data queries and download, and providing a cloud-based analysis workspace with rich tools and resources.</definition>
+    <namespace>dg.373f</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.373f</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000925" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>Environmental Data Commons</name>
+    <definition>This website provides a centralized, cloud-based portal for the open redistribution and analysis of environmental datasets and satellite imagery from OCC stakeholders like NASA and NOAA and aims to support the earth science research community as well as human assisted disaster relief.</definition>
+    <namespace>dg.7c5b</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.7c5b</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000926" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>Kids First Data Catalog</name>
+    <definition>The Kids First Data Catalog supports the Kids First Data Resource Center by providing a digital object services that allow interoperability between data commons, including authentication and authorization for controlled access data.</definition>
+    <namespace>f82a1a</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:f82a1a</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000928" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>NHLBI BioData Catalyst</name>
+    <definition>NHLBI BioData Catalyst supports the management, analysis and sharing of human disease data for the research community and aims to advance basic understanding of the genetic basis of complex traits and accelerate discovery and development of therapies, diagnostic tests, and other technologies for diseases like cancer. The data commons supports cross-project analyses by harmonizing data from different projects through the collaborative development of a data dictionary, providing an API for data queries and download, and providing a cloud-based analysis workspace with rich tools and resources.
+</definition>
+    <namespace>dg.712c</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.712c</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00001026" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>Chicago Pandemic Response Commons</name>
+    <definition>Chicago Pandemic Response Commons known as CCC is the first regional data commons launched under the Pandemic Response Commons Consortium. Born out of a consortium of Chicago-area civic and healthcare organizations with support from several technology partners, the PRC represents a persistent data resource for the research community engaging with COVID-19.</definition>
+    <namespace>dg.63d5</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.63d5</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000934" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>JCOIN Portal</name>
+    <definition>The Helping to End Addiction Long-termSM Initiative, or NIH HEAL InitiativeSM, will support the Justice Community Opioid Innovation Network (JCOIN) to study approaches to increase high-quality care for people with opioid misuse and OUD in justice settings. JCOIN will test strategies to expand effective treatment and care in partnership with local and state justice systems and community-based treatment providers.</definition>
+    <namespace>6vts</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:6vts</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000936" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>NCI Data Commons Framework Services</name>
+    <definition>The vision of DCFS is to make it easier to develop, operate, and interoperate data commons, data clouds, knowledge bases, and other resources for managing, analyzing, and sharing research data that can be part of a large data commons ecosystem.</definition>
+    <namespace>dg.nci35</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.nci35</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000938" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>Veterans Precision Oncology Data Commons</name>
+    <definition>The Veterans Data Commons supports the management, analysis and sharing of veteran oncologic data for the research community and aims to accelerate discovery and development of therapies, diagnostic tests, and other technologies for precision oncology.</definition>
+    <namespace>dg.vp07</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.vp07</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000940" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>Canine Data Commons</name>
+    <definition>This website analyzes and shares genomic architecture of modern dog breeds and runs analysis for canine cancer to create clean, easy to navigate visualizations for data-driven discovery for canine cancer.</definition>
+    <namespace>dg.c78ne</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.c78ne</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000942" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>The HEAL platform</name>
+    <definition>The HEAL Platform is a cloud-based and multifunctional web interface that provides a secure environment for discovery and analysis of NIH HEAL results and data. It is designed to serve users with a variety of objectives, backgrounds, and specialties.
+
+The HEAL Platform represents a dynamic Data Ecosystem that aggregates and hosts data from multiple resources to make data discovery and access easy for users.
+
+The platform provides a way to search and query over study metadata and diverse data types, generated by different projects and organizations and stored across multiple secure repositories.
+
+The HEAL platform also offers a secure and cost-effective cloud-computing environment for data analysis, empowering collaborative research and development of new analytical tools. New workflows and results of analyses can be shared with the HEAL community to enable collaborative, high-impact publications that address the opioid crisis.</definition>
+    <namespace>dg.h34l</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.h34l</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000944" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>HEAL Data Platform</name>
+    <definition>This website supports the management, analysis and sharing of data for the research community and aims to accelerate discovery and development of therapies, diagnostic tests, and other technologies.</definition>
+    <namespace>dg.h35l</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.h35l</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000946" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
+    <name>UMCCR AGHA Data Commons</name>
+    <definition>The UMCCR AGHA Data Commons supports the management, analysis and sharing of data for the research community.</definition>
+    <namespace>dg.um33r90</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:dg.um33r90</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000951" pattern="N:package:[a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12}">
+    <name>Pennsieve</name>
+    <definition>Pennsieve is a publicly accessible Scientific Data Management and publication platform. The platform supports data curation, sharing and publishing complex scientific datasets with a focus on integration between graph-based metadata and file-archival. The platform provides a "peer"-reviewed publication mechanism and public datasets are available through its Discover Web Application and APIs. </definition>
+    <namespace>ps</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:ps</uri>
+    </uris>
+  </datatype>
+  <listOfTags>
+    <tagDefinition>
+      <name>annotation</name>
+      <definition>Descriptive text, usually added by an author or curator, that provides extra information that may be missing or not immediately evident.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>assay</name>
+      <definition>A collection that specifies direct assay conditions and/or provides experimental results.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>bibliography</name>
+      <definition>A citation list which supports the information provided. This may include books, publications in journal, or URL links.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>catalogue</name>
+      <definition>A data collection providing information on commercially available products.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>chemical</name>
+      <definition>Data collections with this tag reference data pertaining to chemical compounds and substances.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>classification</name>
+      <definition>A classification scheme which does not necessarily depict a relationship between different groups, but only between individuals within a group.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>clustering</name>
+      <definition>Data collections with this tag contain data which has been processed in such a way as to generate subsets (clusters) within which some trait should be shared.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>controlled vocabulary</name>
+      <definition>Controlled vocabularies provide predefined and authorised terms for shared use by a community, providing a means to organise knowledge for subsequent processing.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>disease</name>
+      <definition>A disease is an abnormal condition of an organism that impairs bodily functions and can be deadly. It is also defined as a way of the body harming itself in an abnormal way, associated with specific symptoms and signs. [wikipedia]</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>disorder</name>
+      <definition>The term "disorder" is often considered more value-neutral than the term "disease" [wikipedia]. Hence it may have no attributable signs or symptoms.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>DNA</name>
+      <definition>Data collections with this tag reference data pertaining to deoxyribonucleic acid.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>domain</name>
+      <definition>A domain is a protein subsequence that forms a three-dimensional structure, and can provide specific catalytic or binding sites as found in enzymes or regulatory proteins. A specific domain may appear in a variety of evolutionarily related proteins.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>drug</name>
+      <definition>A drug, broadly speaking, is any chemical substance that, when absorbed into the body of a living organism, alters normal bodily function [wikipedia].Toxins are included in this category.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>encyclopedia</name>
+      <definition>A generic knowledge repository not restricted to a particular domain, and which is primarily used for reference purposes.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>enzyme</name>
+      <definition>An enzyme is a biological catalyst of a chemical reaction. Most enzymes are proteins.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>eukaryotic</name>
+      <definition>Data collection pertaining to eukaryotic cells, which are differentiated from prokaryotic cells by the presence of a nucleus. This group includes human, plant, and fungal cells.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>expression</name>
+      <definition>Data collections associated with this tag pertain to the measurement of gene expression, often through the use of microarray techniques, and usually in quantitative fashion.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>fungal</name>
+      <definition>Data collection pertaining to species of fungi.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>gene</name>
+      <definition>Genes are discrete subsequences of genomic DNA and correspond to a unit of inheritance [based on wikipedia]. A data collection tagged 'gene' should include gene information in addition to purely sequence-oriented data.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>genome</name>
+      <definition>A genome is the full compliment of hereditary information (usually DNA) for a given organism, and includes coding and non-coding sequences where applicable. 'Genome' tagged data collections are those whose information is derived from genome level sequencing projects.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>human</name>
+      <definition>Data collections labelled 'human' should contain human centric data.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>image library</name>
+      <definition>A repository of static images or animations.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>immunogenetics</name>
+      <definition>A branch of research focused upon the relationship between one's genetics and immune response.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>interaction</name>
+      <definition>Data collections tagged 'interaction' should contain information relating to molecular interaction data, often protein-protein.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>kinetics</name>
+      <definition>Kinetics is the study of rates of reactions or chemical processes. Data collections tagged 'kinetics' should provide information such as rate laws and rate constants.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>lipid</name>
+      <definition>Data collection pertaining to lipids, which are lipophilic, naturally-occurring molecules.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>mammalian</name>
+      <definition>Data collections labelled 'mammalian' should contain mammal centric data.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>mass spectrometry</name>
+      <definition>Mass spectrometry is an analytical technique that identifies the chemical composition of a compound or sample on the basis of the mass-to-charge ratio of charged particles. [Wikipedia]</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>metabolite</name>
+      <definition>Metabolites are the intermediates and products of metabolism. The term metabolite is usually restricted to small molecules. A primary metabolite is directly involved in normal growth, development, and reproduction. A secondary metabolite is not directly involved in those processes, but usually has an important ecological function. Examples include antibiotics and pigments.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>microarray</name>
+      <definition>Microarray is a high-throughput technology often used to measure gene expression.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>microbial</name>
+      <definition>Datatype relating to bacterial species</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>model</name>
+      <definition>Data collection pertaining to mathematical models,  encoded in a form that allows their use in simulation software.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>neuroscience</name>
+      <definition>Scientific study of the nervous system.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>nucleotide</name>
+      <definition>Data collections tagged with 'nucleotide' refer to DNA and RNA molecules.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>ontology</name>
+      <definition>Data collections tagged with 'ontology' reference those ontologies that are used in the life sciences.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>pathway</name>
+      <definition>Series of sequential chemical reactions that are referred to collectively.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>pharmacogenomics</name>
+      <definition>Pharmacogenomics is the branch of pharmacology which deals with the influence of genetic variation on drug response in patients by correlating gene expression or single-nucleotide polymorphisms with a drug's efficacy or toxicity. [wiki]</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>phenotype</name>
+      <definition>A phenotype is any observable characteristic of an organism, such as its morphology, development, biochemical or physiological properties, or behaviour [wikipedia].</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>plant</name>
+      <definition>Dataype type should be focused on plant species</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>polysaccharide</name>
+      <definition>Polysaccharides are polymeric carbohydrate structures, formed of repeating units (either mono- or di-saccharides) joined together by glycosidic bonds. These structures are often linear, but may contain various degrees of branching. Polysaccharides are often quite heterogeneous, containing slight modifications of the repeating unit.
+[http://en.wikipedia.org/wiki/Polysaccharide]</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>protein</name>
+      <definition>Data collections with this tag reference data pertaining to proteins.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>reaction</name>
+      <definition>A single chemical reaction which yields products which are, generally, different from the reactants. Data collections tagged 'reaction' focus on individual chemical reactions.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>registry</name>
+      <definition>A data collection within which information is  registered or collated, effectively providing a catalogue for (community) reference purposes.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>schema.org</name>
+      <definition>Data collection containing Schema.org metadata.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>sequence</name>
+      <definition>Data collections tagged 'sequence' reference sequence data, such as DNA, RNA or protein.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>strain</name>
+      <definition>A genetic variant of a particular organism.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>structure</name>
+      <definition>Data collections with the 'structure' tag should reference chemical or 3-dimensional structure.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>taxonomy</name>
+      <definition>A classification scheme, arranged in a hierarchical structure, that depicts parent-child relationships between its members.</definition>
+    </tagDefinition>
+    <tagDefinition>
+      <name>viral</name>
+      <definition>Data collection pertaining to virus information.</definition>
+    </tagDefinition>
+  </listOfTags>
 </miriam>
