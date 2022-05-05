@@ -2769,7 +2769,7 @@
       <tag>nucleotide</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000055" pattern="ECO:\d{7}$" namespaceEmbeddedInPattern="True">
+  <datatype id="MIR:00000055" pattern="^ECO:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Evidence Code Ontology</name>
     <synonyms>
       <synonym>ECO</synonym>
