@@ -1027,7 +1027,7 @@
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000019" pattern="^(doi\:)?\d{2}\.\d{4}.*$">
+  <datatype id="MIR:00000019" pattern="^(doi:)?\d{2}\.\d{4}.*$">
     <name>DOI</name>
     <synonyms>
       <synonym>Digital Object Identifier</synonym>
@@ -2359,7 +2359,7 @@
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000044" pattern="^DIP(\:)?\-\d{1,}[ENXS]$">
+  <datatype id="MIR:00000044" pattern="^DIP(:)?\-\d{1,}[ENXS]$">
     <name>Database of Interacting Proteins</name>
     <synonyms>
       <synonym>DIP</synonym>
@@ -2958,7 +2958,7 @@
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000060" pattern="^PTHR\d{5}(\:SF\d{1,3})?$">
+  <datatype id="MIR:00000060" pattern="^PTHR\d{5}(:SF\d{1,3})?$">
     <name>PANTHER Family</name>
     <definition>The PANTHER (Protein ANalysis THrough Evolutionary Relationships) Classification System is a resource that classifies genes by their functions, using published scientific experimental evidence and evolutionary relationships to predict function even in the absence of direct experimental evidence. This collection references groups of genes that have been organised as families.</definition>
     <uris>
@@ -6028,7 +6028,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       <tag>registry</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000141" pattern="^PR\:P?\d+$" namespaceEmbeddedInPattern="True">
+  <datatype id="MIR:00000141" pattern="^PR:P?\d+$" namespaceEmbeddedInPattern="True">
     <name>Protein Ontology</name>
     <definition>The PRotein Ontology (PRO) has been designed to describe the relationships of proteins and protein evolutionary classes, to delineate the multiple protein forms of a gene locus (ontology for protein forms), and to interconnect existing ontologies.</definition>
     <uris>
@@ -7495,7 +7495,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       <tag>sequence</tag>
     </tags>
   </datatype>
-  <datatype id="MIR:00000182" pattern="^GR\:\d+$">
+  <datatype id="MIR:00000182" pattern="^GR:\d+$">
     <name>Gramene genes</name>
     <definition>Gramene is a comparative genome mapping database for grasses and crop plants. It combines a semi-automatically generated database of cereal genomic and expressed sequence tag sequences, genetic maps, map relations, quantitative trait loci (QTL), and publications, with a curated database of mutants (genes and alleles), molecular markers, and proteins. This datatype refers to genes in Gramene.</definition>
     <uris>
@@ -7529,7 +7529,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000183" pattern="^GR\_tax\:\d+$">
+  <datatype id="MIR:00000183" pattern="^GR\_tax:\d+$">
     <name>Gramene Taxonomy</name>
     <definition>Gramene is a comparative genome mapping database for grasses and crop plants. It combines a semi-automatically generated database of cereal genomic and expressed sequence tag sequences, genetic maps, map relations, quantitative trait loci (QTL), and publications, with a curated database of mutants (genes and alleles), molecular markers, and proteins. This datatype refers to taxonomic information in Gramene.</definition>
     <uris>
@@ -7907,7 +7907,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000194" pattern="^[A-Z-0-9]+(\:)?[A-Za-z0-9+_.%-:]+$" restricted="true">
+  <datatype id="MIR:00000194" pattern="^[A-Z-0-9]+(:)?[A-Za-z0-9+_.%-:]+$" restricted="true">
     <name>BioCyc</name>
     <definition>BioCyc is a collection of Pathway/Genome Databases (PGDBs) which provides an electronic reference source on the genomes and metabolic pathways of sequenced organisms.</definition>
     <uris>
@@ -9328,7 +9328,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000233" pattern="^DOID\:\d+$" namespaceEmbeddedInPattern="True">
+  <datatype id="MIR:00000233" pattern="^DOID:\d+$" namespaceEmbeddedInPattern="True">
     <name>Human Disease Ontology</name>
     <synonyms>
       <synonym>DO</synonym>
@@ -9385,7 +9385,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000234" pattern="^CCO\:\w+$" namespaceEmbeddedInPattern="True">
+  <datatype id="MIR:00000234" pattern="^CCO:\w+$" namespaceEmbeddedInPattern="True">
     <name>Cell Cycle Ontology</name>
     <definition>The Cell Cycle Ontology is an application ontology that captures and integrates detailed knowledge on the cell cycle process.</definition>
     <uris>
@@ -9610,7 +9610,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000240" pattern="^oai\:cwi\.nl\:\d+$">
+  <datatype id="MIR:00000240" pattern="^oai:cwi\.nl:\d+$">
     <name>NARCIS</name>
     <synonyms>
       <synonym>National Academic Research and Collaborations Information System</synonym>
@@ -10372,7 +10372,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000261" pattern="^([A-Za-z]+)?(\_)?([A-Za-z-]+)\:([A-Za-z0-9 ]+)$">
+  <datatype id="MIR:00000261" pattern="^([A-Za-z]+)?(\_)?([A-Za-z-]+):([A-Za-z0-9 ]+)$">
     <name>CABRI</name>
     <definition>CABRI (Common Access to Biotechnological Resources and Information) is an online service where users can search a number of European Biological Resource Centre catalogues. It lists the availability of a particular organism or genetic resource and defines the set of technical specifications and procedures which should be used to handle it.</definition>
     <uris>
@@ -15002,7 +15002,7 @@ We recommend usage of the following data collection for pathway related annotati
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000381" pattern="^urn\:nbn\:[A-Za-z_0-9]+\:([A-Za-z_0-9]+)-[A-Za-z_0-9]+$">
+  <datatype id="MIR:00000381" pattern="^urn:nbn:[A-Za-z_0-9]+:([A-Za-z_0-9]+)-[A-Za-z_0-9]+$">
     <name>National Bibliography Number</name>
     <synonyms>
       <synonym>NBN</synonym>
@@ -15370,7 +15370,7 @@ We recommend usage of the following data collection for pathway related annotati
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000389" pattern="^(ev\:)?E\d+$">
+  <datatype id="MIR:00000389" pattern="^(ev:)?E\d+$">
     <name>KEGG Environ</name>
     <synonyms>
       <synonym>KEGG</synonym>
@@ -16485,7 +16485,7 @@ Each page contains information about a particular group, with pages linked one t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000419" pattern="^(FBvd|XtroDO|HsapDO|MmusDO)\:\d+$">
+  <datatype id="MIR:00000419" pattern="^(FBvd|XtroDO|HsapDO|MmusDO):\d+$">
     <name>Bgee stage</name>
     <definition>Bgee is a database of gene expression patterns within particular anatomical structures within a species, and between different animal species. This collection refers to developmental stages.</definition>
     <uris>
@@ -16518,7 +16518,7 @@ Each page contains information about a particular group, with pages linked one t
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000420" pattern="^(XAO|ZFA|EHDAA|EMAPA|EV|MA)\:\d+$">
+  <datatype id="MIR:00000420" pattern="^(XAO|ZFA|EHDAA|EMAPA|EV|MA):\d+$">
     <name>Bgee organ</name>
     <definition>Bgee is a database of gene expression patterns within particular anatomical structures within a species, and between different animal species. This collection refers to anatomical structures.</definition>
     <uris>
@@ -17478,7 +17478,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000446" pattern="^UBERON\:\d+$" namespaceEmbeddedInPattern="True">
+  <datatype id="MIR:00000446" pattern="^UBERON:\d+$" namespaceEmbeddedInPattern="True">
     <name>UBERON</name>
     <synonyms>
       <synonym>Uber Anatomy Ontology</synonym>
@@ -19398,7 +19398,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000508" pattern="^GRO\:\d+$" namespaceEmbeddedInPattern="True">
+  <datatype id="MIR:00000508" pattern="^GRO:\d+$" namespaceEmbeddedInPattern="True">
     <name>Gramene Growth Stage Ontology</name>
     <definition>Gramene is a comparative genome mapping database for grasses and crop plants. It combines a semi-automatically generated database of cereal genomic and expressed sequence tag sequences, genetic maps, map relations, quantitative trait loci (QTL), and publications, with a curated database of mutants (genes and alleles), molecular markers, and proteins. This collection refers to growth stage ontology information in Gramene.</definition>
     <uris>
@@ -19431,7 +19431,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000509" pattern="^(GI|gi)\:\d+$" restricted="true" obsolete="true" replacement="">
+  <datatype id="MIR:00000509" pattern="^(GI|gi):\d+$" restricted="true" obsolete="true" replacement="">
     <comment>This is not a data collection but rather an alternative sequence identifier that is associated with a specific sequence version for an accession.</comment>
     <name>NCBI GI</name>
     <definition>The NCBI GI (or "gi") identifier is the original form of identifier for sequence records processed by the NCBI. This 'GenInfo' identifier system was used to access GenBank and related databases, and was assigned to both protein and nucleotide sequences.</definition>
@@ -19718,7 +19718,7 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       </format>
     </annotation>
   </datatype>
-  <datatype id="MIR:00000518" pattern="^(P)?EO\:\d{7}$" namespaceEmbeddedInPattern="True">
+  <datatype id="MIR:00000518" pattern="^(P)?EO:\d{7}$" namespaceEmbeddedInPattern="True">
     <name>Plant Environment Ontology</name>
     <synonyms>
       <synonym>Plant Environment Conditions</synonym>
@@ -24621,7 +24621,7 @@ These data will help scientists uncover and understand cellular level mechanisms
       <uri type="URL">https://civicdb.org/links/assertions/</uri>
     </uris>
   </datatype>
-  <datatype id="MIR:00000837" pattern="^[A-Za-z0-9._~\-\:]+$">
+  <datatype id="MIR:00000837" pattern="^[A-Za-z0-9._~\-:]+$">
     <name>National Microbiome Data Collaborative</name>
     <definition>The National Microbiome Data Collaborative (NMDC) is an initiative to empower the research community to harness microbiome data exploration and discovery through a collaborative integrative data science ecosystem.</definition>
     <namespace>nmdc</namespace>
