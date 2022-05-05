@@ -24203,7 +24203,7 @@ The mission of the ISNI International Authority (ISNI-IA) is to assign to the pu
       <uri type="URL">https://transyt.bio.di.uminho.pt/reactions/</uri>
     </uris>
   </datatype>
-  <datatype id="MIR:00000738" pattern="ocid:[0-9]{12}" namespaceEmbeddedInPattern="True">
+  <datatype id="MIR:00000738" pattern="^ocid:[0-9]{12}" namespaceEmbeddedInPattern="True">
     <name>Ontology Concept Identifiers</name>
     <definition>'ocid' stands for "Ontology Concept Identifiers" and are 12 digit long integers covering IDs in topical ontologies from anatomy up to toxicology.</definition>
     <namespace>ocid</namespace>
