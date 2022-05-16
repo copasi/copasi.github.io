@@ -1,0 +1,52 @@
+---
+layout: structure
+title: "COPASI 4.36 Build 260"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.36.260</h3>
+    Release Date: May 16, 2022<br />
+    <h4>Bug Fixes since COPASI 4.35 (Build 258)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Fixed an issue where the mapping of substrates could not be changed in the reaction widget
+            when the compartment name included spaces.
+          </li>
+       </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Updated XML parsing to use the latest Expat library to prevent a 
+            <a href="https://en.wikipedia.org/wiki/Billion_laughs_attack" target="_blank">billion laughs attack</a>.
+          </li>
+        </ul>
+      </li>
+      <li> Standards
+        <ul>
+          <li>
+            SBML: Removed spurious error message when importing compartment volumes.
+          </li>
+          <li>
+            SBML: Fixed import and export of atto, zepto, yocto, exa, zetto, and yotta scale.
+          </li>
+          <li>
+            SBML: Fixed round trip problem with dimensionless quantity unit.
+          </li>
+          <li>
+            SEDML: Fixed export of plot colors, markers; added labels for items without
+            SBMLId; assured that output start time is &ge; initial time; and added support
+            for parameter estimation plots. 
+          </li>
+          <li>
+            MIRIAM: Added support for the new 'compact' representation of identifiers.org URLs
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
