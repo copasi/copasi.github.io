@@ -195,3 +195,25 @@ structure: "User_Manual"
     <br />
   </div>
 </div>
+
+<div markdown="1">
+
+## Examples
+The following example assumes that, you have marked a task as
+`executable`, and selected `update model`. Now running the model 
+using: 
+
+```bash
+./CopasiSE input_file.cps -s output_file.cps 
+```
+
+will run that scheduled task on the `input_file.cps`. Saving the result 
+of the computation as `output_file.cps`. If a report was selected, that report will be writen into the designated file. Or you could specify an
+alternative report filename: 
+
+```bash
+./CopasiSE input_file.cps -s output_file.cps --report-file report.txt
+```
+now the report will be written into `report.txt`.
+
+</div>
