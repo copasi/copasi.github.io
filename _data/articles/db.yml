@@ -109,6 +109,19 @@
   - events
   - time course
 -
+ Reference: "Franco R, Serrano-Marín J (2022) Robustness of the Krebs Cycle under Physiological Conditions and in Cancer: New Clues for Evaluating Metabolism-Modifying Drug Therapies. Biomedicines 10:1199"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.3390/biomedicines10051199
+ Keywords:
+  - Metabolism
+ Locations:
+  - Network Center for Neurodegenerative Diseases, National Spanish Health Institute Carlos III, 28029 Madrid, Spain
+  - Universitat de Barcelona, 08028 Barcelona, Spain
+ Methods:
+  - steady state
+  - time course
+-
  Reference: "Jin Q, Wu Q, Shapiro BM, McKernan SE (2022) Limited Mechanistic Link Between the Monod Equation and Methanogen Growth: a Perspective from Metabolic Modeling. Microbiology Spectrum e0225921"
  Year: 2022
  Type: 2
