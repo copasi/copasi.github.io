@@ -75,6 +75,19 @@
  Methods:
   - time course
 -
+ Reference: "Daas JCJ, Förster JD, Pahle J (2022) Dynamic publication media with the COPASI R Connector (CoRC). Mathematical Biosciences 348:108822"
+ Year: 2022
+ Type: 1
+ URL: https://doi.org/10.1016/j.mbs.2022.108822
+ Keywords:
+  - Computational Method
+ Locations:
+  - BioQuant, Heidelberg University, BQ47, INF267, 69120 Heidelberg, Germany
+  - German Cancer Research Center (DKFZ), INF280, 69120 Heidelberg, Germany
+  - German Center for Infection Research (DZIF), Heidelberg, Germany
+ Funding:
+  - Klaus Tschira Foundation, Germany
+-
  Reference: "Das A, Mandal SC, Pathak B (2022) Mechanistic exploration of CO2 conversion to dimethoxymethane (DMM) using transition metal (Co, Ru) catalysts: an energy span model. Physical Chemistry Chemical Physics 24:8387–8397"
  Year: 2022
  Type: 2
