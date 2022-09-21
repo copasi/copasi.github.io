@@ -176,6 +176,24 @@
   - steady state
   - time course
 -
+ Reference: "Gallas JAC, Olsen LF (2022) Complexity in subnetworks of a peroxidase-oxidase reaction model. Chaos 32:063122"
+ Type: 2
+ Year: 2022
+ URL: https://doi.org/10.1063/5.0093169
+ Keywords:
+  - Biochemistry
+  - Enzymology
+ Locations:
+  - Instituto de Altos Estudos da Paraíba, Rua Silvino Lopes 419-2502, 58039-190 João Pessoa, Brazil
+  - Max-Planck Institute for the Physics of Complex Systems, Nöthnitzer Str. 38, 01187 Dresden, Germany
+  - Institute of Biochemistry and Molecular Biology, University of Southern Denmark, DK-5230 Odense M, Denmark
+ Funding:
+  - CNPq, Brazil
+ Methods:
+  - steady state
+  - Lyapunov exponents
+  - Cross sections
+-
  Reference: "Greenyer H (2022) Evaluation of network inference algorithms and their effects on network analysis for the study of small metabolomic data sets. MS Thesis, University of Victoria, Canada."
  Year: 2022
  Type: 2
