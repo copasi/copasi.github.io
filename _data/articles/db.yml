@@ -426,6 +426,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Shaikh B, Smith LP, Vasilescu D, Marupilla G, Wilson M, Agmon E, Agnew H, Andrews SS, Karr JR, et al. (2022) BioSimulators: a central registry of simulation engines and services for recommending specific tools. Nucleic Acids Research 50: W108–W114"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.1093/nar/gkac331
+ Keywords:
+  - Computational Method
+ Locations:
+  - Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+  - University of Washington, Seattle, WA 98105, USA
+  - University of Connecticut School of Medicine, Farmington, CT 06030, USA
+ Funding:
+  - NIH
+-
  Reference: "Sharma S, Hsieh Y-C, Dietze J, Bockwoldt M, Strømland Ø, Ziegler M, Heiland I (2022) Early Evolutionary Selection of NAD Biosynthesis Pathway in Bacteria. Metabolites 12:569"
  Year: 2022
  Type: 2
