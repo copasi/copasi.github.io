@@ -302,21 +302,6 @@
  Methods:
   - parameter estimation
 -
- Reference: "Maestri S, Merelli E, Pettini M (2022) Agent-based models for detecting the driving forces of biomolecular interactions. Scientific Reports 12:1878"
- Year: 2022
- Type: 2
- URL: https://doi.org/10.1038/s41598-021-04205-8
- Keywords:
-  - Computational Method
-  - Metabolism
- Locations:
-  - School of Science and Technology, University of Camerino, 62032, Camerino, Italy
-  - Aix-Marseille Univ, Université de Toulon, CNRS, Centre de Physique Théorique, 163 Avenue de Luminy, 13288, Marseille Cedex 9, France
- Funding:
-  - EU FP7
- Methods:
-  - time course
--
  Reference: "MacKeown H, von Gunten U, Criquet J (2022) Iodide sources in the aquatic environment and its fate during oxidative water treatment - A critical review. Water Research 217:118417"
  Year: 2022
  Type: 2
@@ -332,6 +317,32 @@
  Methods:
   - time course
   - parameter scan
+-
+ Reference: "Maestri S, Merelli E, Pettini M (2022) Agent-based models for detecting the driving forces of biomolecular interactions. Scientific Reports 12:1878"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1038/s41598-021-04205-8
+ Keywords:
+  - Computational Method
+  - Metabolism
+ Locations:
+  - School of Science and Technology, University of Camerino, 62032, Camerino, Italy
+  - Aix-Marseille Univ, Université de Toulon, CNRS, Centre de Physique Théorique, 163 Avenue de Luminy, 13288, Marseille Cedex 9, France
+ Funding:
+  - EU FP7
+ Methods:
+  - time course
+-
+ Reference: "Mayr S, Zipse H (2022) Annelated Pyridine Bases for the Selective Acylation of 1,2-Diols. European Journal of Organic Chemistry 2022:e202101521"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1002/ejoc.202101521
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, LMU München, Butenandtstr. 5–13, 81366 München, Germany
+ Funding:
+  - DFG
 -
  Reference: "Mokry RL, O’Brien BS, Adelman JW, Rosas S, Schumacher ML, Ebert AD, Terhune SS (2022) Nitric Oxide Attenuates Human Cytomegalovirus Infection yet Disrupts Neural Cell Differentiation and Tissue Organization. Journal of Virology 96:e0012622"
  Year: 2022
