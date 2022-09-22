@@ -502,6 +502,22 @@
  Methods:
   - time course
 -
+ Reference: "Tokarev A, Mozokhina A, Volpert V (2022) Competition of SARS-CoV-2 Variants in Cell Culture and Tissue: Wins the Fastest Viral Autowave. Vaccines 10:995"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.3390/vaccines10070995
+ Keywords:
+  - Immunology
+ Locations:
+  - Peoples Friendship University of Russia (RUDN University), 6 Miklukho-Maklaya Street, 117198 Moscow, Russia
+  - N.N. Semenov Federal Research Center for Chemical Physics RAS, 4 Kosygina Street, Building 1, 119991 Moscow, Russia
+  - Institut Camille Jordan, UMR 5208 CNRS, University Lyon 1, 69622 Villeurbanne, France
+ Funding:
+  - Russian Science Foundation
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Trošanová Z, Louša P, Kozeleková A, Brom T, Gašparik N, Tungli J, Weisová V, Župa E, Žoldák G, Hritz J (2022) Quantitation of Human 14-3-3ζ Dimerization and the Effect of Phosphorylation on Dimer-monomer Equilibria. Journal of Molecular Biology 434:167479"
  Year: 2022
  Type: 2
