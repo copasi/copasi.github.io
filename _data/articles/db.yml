@@ -57,6 +57,23 @@
   - time course
   - parameter estimation
 -
+ Reference: "Boonekamp FJ, Knibbe E, Vieira-Lara MA, Wijsman M, Luttik MAH, van Eunen K, Ridder M den, Bron R, Almonacid Suarez AM, van Rijn P, Wolters JC, Pabst M, Daran J-M, Bakker BM, Daran-Lapujade P (2022) Full humanization of the glycolytic pathway in Saccharomyces cerevisiae. Cell Reports 39:111010"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1016/j.celrep.2022.111010
+ Keywords:
+  - Metabolism
+ Locations:
+  - Department of Biotechnology, Delft University of Technology, Van Der Maasweg 9, 2629 Delft, the Netherlands
+  - University of Groningen, University Medical Center Groningen, Groningen, the Netherlands
+ Funding:
+  - EU-ERC
+  - De Cock-Hadders Foundation, The Netherlands
+ Methods:
+  - steady state
+  - MCA
+  - sensitivity
+-
  Reference: "Borg Y, Alsford S, Pavlika V, Zaikin A, Nesbeth DN (2022) Synthetic biology tools for engineering Goodwin oscillation in Trypanosoma brucei brucei. Heliyon 8:e08891"
  Year: 2022
  Type: 2
