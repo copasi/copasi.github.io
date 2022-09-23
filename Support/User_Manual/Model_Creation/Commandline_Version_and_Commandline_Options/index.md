@@ -158,6 +158,12 @@ structure: "User_Manual"
         <td>Override the task marked as executable.</td>
       </tr>
       <tr>
+        <td>--sedmlTask</td>
+        <td> string value</td>
+        <td> For specifying the task id to import (and execute) when importing SED-ML or importing
+             a COMBINE archive. For a list of all SED-ML tasks use `--printSedMLTasks`.</td>
+      </tr>
+      <tr>
         <td>--convert-to-irreversible</td>
         <td></td>
         <td>Converts reversible reactions to irreversible ones before running Task.</td>
@@ -177,6 +183,11 @@ structure: "User_Manual"
         <td> </td>
         <td> This option suppresses the output of the &quot;Logo&quot; when CopasiSE is run. The
           &quot;Logo&quot; usually consist of the version of COPASI and some license statement.</td>
+      </tr>
+      <tr>
+        <td>--printSedMLTasks</td>
+        <td> </td>
+        <td> Only print the SED-ML tasks when importing SED-ML or COMBINE archives. </td>
       </tr>
       <tr>
         <td>--validate </td>
@@ -215,5 +226,25 @@ alternative report filename:
 ./CopasiSE input_file.cps -s output_file.cps --report-file report.txt
 ```
 now the report will be written into `report.txt`.
+
+## Importing SED-ML
+When importing SED-ML documents (or combine archives, containing a SED-ML document)
+it is useful to specify which SED-ML Task should be executed. For that the option
+`--printSedMLTasks` can be used to obtain a list of SED-ML tasks contained in the 
+loaded file:
+
+```bash 
+./CopasiSE input.omex --printSedMLTasks
+```
+using any of the returned ids, it the corresponding SED-ML task and its first report 
+will be imported and marked to be executed. In order to specify where the report should 
+be saved, the `--report-file` option should be used: 
+
+```bash
+./CopasiSE input.omex --sedmlTask repTsk_0_0_0 --report-file report.txt
+```
+
+the `--verbose` option can be used to verify the which task, model and report will be 
+generated.
 
 </div>
