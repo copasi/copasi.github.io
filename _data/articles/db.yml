@@ -220,6 +220,23 @@
  Methods:
   - time course
 -
+ Reference: "Esposito M, Picchiami L (2022) A Comparative Study of AI Search Methods for Personalised Cancer Therapy Synthesis in COPASI. In: Bandini S, Gasparini F, Mascardi V, Palmonari M and Vizzari G (eds) AIxIA 2021 – Advances in Artificial Intelligence. Lecture Notes in Computer Science 13196:638–654"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1007/978-3-031-08421-8_44
+ Keywords:
+  - Pharmacology
+  - Physiology
+  - Computational Method
+ Locations:
+  - Computer Science Department, Sapienza University of Rome, via Salaria 113, 00198, Rome, Italy
+ Funding:
+  - Italian Ministry of University and Research
+  - Sapienza University
+  - Lazio POR FESR
+ Methods:
+  - optimization
+-
  Reference: "Ferrari Gianlupi J, Mapder T, Sego TJ, Sluka JP, Quinney SK, Craig M, Stratford RE, Glazier JA (2022) Multiscale Model of Antiviral Timing, Potency, and Heterogeneity Effects on an Epithelial Tissue Patch Infected by SARS-CoV-2. Viruses 14:605"
  Year: 2022
  Type: 2
