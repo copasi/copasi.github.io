@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 by Pedro Mendes, Rector and Visitors of the -->
+<!-- University of Virginia, University of Heidelberg, and University -->
+<!-- of Connecticut School of Medicine. -->
+<!-- All rights reserved. -->
+
 <miriam xmlns="http://www.biomodels.net/MIRIAM/" date="Tue, 25 Sep 2018 12:16:32 GMT" data-version="Fri, 21 Sep 2018 10:26:19 GMT">
   <datatype id="MIR:00000001" pattern="^\d+$" restricted="true" obsolete="true" replacement="MIR:00000010">
     <comment>BIND doesn't exist any more and its successor (BOND) is not open-access. Bulk downloads of BIND data (http://bond.unleashedinformatics.com/downloads/data/BIND/data/datasets/taxon/xml/) and a PSI-MI 2.5 translation (http://download.baderlab.org/BINDTranslation/) are available.</comment>
@@ -129,7 +134,7 @@
         <dataEntityExample>ENSG00000139618</dataEntityExample>
         <dataEntry>http://uswest.ensembl.org/id/$id</dataEntry>
         <dataInfo>Ensembl US West mirror</dataInfo>
-        <dataInstitution/>
+        <dataInstitution></dataInstitution>
         <dataLocation>USA</dataLocation>
       </resource>
       <resource id="MIR:00100562" state="up" reliability="99">
@@ -137,7 +142,7 @@
         <dataEntityExample>ENSG00000139618</dataEntityExample>
         <dataEntry>http://useast.ensembl.org/id/$id</dataEntry>
         <dataInfo>Ensembl US East mirror</dataInfo>
-        <dataInstitution/>
+        <dataInstitution></dataInstitution>
         <dataLocation>USA</dataLocation>
       </resource>
       <resource id="MIR:00100563" state="up" reliability="99">
@@ -145,7 +150,7 @@
         <dataEntityExample>ENSG00000139618</dataEntityExample>
         <dataEntry>http://asia.ensembl.org/id/$id</dataEntry>
         <dataInfo>Ensembl Asia mirror</dataInfo>
-        <dataInstitution/>
+        <dataInstitution></dataInstitution>
         <dataLocation>Singapore</dataLocation>
       </resource>
     </resources>
@@ -294,7 +299,7 @@
         <dataEntry>http://purl.uniprot.org/uniprot/$id</dataEntry>
         <dataInfo>Universal Protein Resource using Persistent URL system</dataInfo>
         <dataInstitution>UniProt Consortium</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
       <resource id="MIR:00100330" state="up" reliability="99">
         <dataResource>https://www.ncbi.nlm.nih.gov/protein/</dataResource>
@@ -416,7 +421,7 @@
         <dataEntry>http://taxonomy.bio2rdf.org/describe/?url=http://bio2rdf.org/taxonomy:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
       <resource id="MIR:00100770" state="up" reliability="99">
         <dataResource>https://www.ebi.ac.uk/ols/ontologies/ncbitaxon/</dataResource>
@@ -483,7 +488,7 @@
         <dataEntry>http://cu.biomodels.bio2rdf.org/describe/?url=http://bio2rdf.org/biomodels:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
       <resource id="MIR:00100855" state="unknown" reliability="0">
         <dataResource>https://www.omicsdi.org/</dataResource>
@@ -641,7 +646,7 @@
         <dataEntry>http://interpro.bio2rdf.org/describe/?url=http://bio2rdf.org/interpro:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -819,7 +824,7 @@
         <dataEntry>http://pubmed.bio2rdf.org/describe/?url=http://bio2rdf.org/pubmed:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
       <resource id="MIR:00100745" state="up" reliability="88">
         <dataResource>http://linkedlifedata.com/</dataResource>
@@ -904,7 +909,7 @@
         <dataEntry>http://omim.bio2rdf.org/describe/?url=http://bio2rdf.org/omim:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
       <resource id="MIR:00100777" state="up" reliability="100">
         <dataResource>http://mirror.omim.org/</dataResource>
@@ -1319,7 +1324,7 @@
         <dataEntry>http://sgd.bio2rdf.org/describe/?url=http://bio2rdf.org/sgd:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
       <resource id="MIR:00100892" state="unknown" reliability="0">
         <dataResource>https://bioentity.link/</dataResource>
@@ -1534,7 +1539,7 @@
         <dataEntry>http://wormbase.bio2rdf.org/describe/?url=http://bio2rdf.org/wormbase:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
       <resource id="MIR:00100890" state="unknown" reliability="0">
         <dataResource>https://bioentity.link/</dataResource>
@@ -2122,7 +2127,7 @@
         <dataEntry>http://mgi.bio2rdf.org/describe/?url=http://bio2rdf.org/mgi:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -3332,7 +3337,7 @@
         <dataEntry>http://ncbigene.bio2rdf.org/describe/?url=http://bio2rdf.org/ncbigene:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -3541,7 +3546,7 @@
         <dataEntry>http://www.mmmp.org/MMMP/public/biomap/viewBiomap.mmmp?id=$id</dataEntry>
         <dataInfo>main webpage</dataInfo>
         <dataInstitution>Melanoma Molecular Map Project</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -3746,7 +3751,7 @@ All content is under the Creative Commons Attribution 3.0 Unported license.</def
         <dataEntry>http://hgnc.bio2rdf.org/describe/?url=http://bio2rdf.org/$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -4544,7 +4549,7 @@ PharmGKB Pathways are drug centric, gene based, interactive pathways which focus
         <dataEntry>http://drugbank.bio2rdf.org/describe/?url=http://bio2rdf.org/drugbank:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -5911,7 +5916,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
         <dataEntry>http://clinicaltrials.bio2rdf.org/describe/?url=http://bio2rdf.org/clinicaltrials:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -8889,7 +8894,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
         <dataEntry>http://orphanet.bio2rdf.org/describe/?url=http://bio2rdf.org/orphanet:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -10305,7 +10310,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
     </resources>
   </datatype>
   <datatype id="MIR:00000259" pattern="^ZDB\-GEN0\-\d+\-\d+$" obsolete="true" replacement="">
-    <comment/>
+    <comment></comment>
     <name>ZFIN Phenotype</name>
     <definition>ZFIN serves as the zebrafish model organism database. This collection references the phenotypes observed for any given genotype.</definition>
     <uris>
@@ -10339,7 +10344,7 @@ Note: Currently, direct access to RNA products is restricted. This is expected t
     </annotation>
   </datatype>
   <datatype id="MIR:00000260" pattern="^ZDB\-GEN0\-\d+\-\d+$" obsolete="true" replacement="">
-    <comment/>
+    <comment></comment>
     <name>ZFIN Expression</name>
     <definition>ZFIN serves as the zebrafish model organism database. This collection references the set of expressed genes for any given genotype.</definition>
     <uris>
@@ -10971,7 +10976,7 @@ The interactions include direct (physical) and indirect (functional) association
         <dataEntry>http://homologene.bio2rdf.org/describe/?url=http://bio2rdf.org/homologene:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -14799,7 +14804,7 @@ We recommend usage of the following data collection for pathway related annotati
         <dataEntityExample>LRG_1</dataEntityExample>
         <dataEntry>http://asia.ensembl.org/Homo_sapiens/LRG/Summary?lrg=$id</dataEntry>
         <dataInfo>Locus Reference Genomic through Ensembl mirror (asia)</dataInfo>
-        <dataInstitution/>
+        <dataInstitution></dataInstitution>
         <dataLocation>Singapore</dataLocation>
       </resource>
       <resource id="MIR:00100630" state="up" reliability="94">
@@ -14807,7 +14812,7 @@ We recommend usage of the following data collection for pathway related annotati
         <dataEntityExample>LRG_1</dataEntityExample>
         <dataEntry>http://uswest.ensembl.org/Homo_sapiens/LRG/Summary?lrg=$id</dataEntry>
         <dataInfo>Locus Reference Genomic through Ensembl mirror (US west)</dataInfo>
-        <dataInstitution/>
+        <dataInstitution></dataInstitution>
         <dataLocation>USA</dataLocation>
       </resource>
       <resource id="MIR:00100631" state="up" reliability="94">
@@ -14815,7 +14820,7 @@ We recommend usage of the following data collection for pathway related annotati
         <dataEntityExample>LRG_1</dataEntityExample>
         <dataEntry>http://useast.ensembl.org/Homo_sapiens/LRG/Summary?lrg=$id</dataEntry>
         <dataInfo>Locus Reference Genomic through Ensembl mirror (US east)</dataInfo>
-        <dataInstitution/>
+        <dataInstitution></dataInstitution>
         <dataLocation>USA</dataLocation>
       </resource>
     </resources>
@@ -15609,7 +15614,7 @@ We recommend usage of the following data collection for pathway related annotati
         <dataEntry>http://cu.affymetrix.bio2rdf.org/describe/?url=http://bio2rdf.org/affymetrix:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <restrictions>
@@ -16959,7 +16964,7 @@ components may be proteins, genes/DNA, RNA, or simple molecules. Where the ident
         <dataEntry>http://ndc.bio2rdf.org/describe/?url=http://bio2rdf.org/ndc:$id</dataEntry>
         <dataInfo>Bio2RDF</dataInfo>
         <dataInstitution>Bio2RDF.org</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
       <resource id="MIR:00100555" obsolete="true">
         <dataResource>http://healthprovidersdata.com/</dataResource>
@@ -19922,9 +19927,9 @@ SubtiList provides a complete dataset of DNA and protein sequences derived from 
       <resource id="MIR:00100679" obsolete="true">
         <dataResource>http://pathema.jcvi.org/</dataResource>
         <dataEntry>http://pathema.jcvi.org/$id</dataEntry>
-        <dataInfo/>
-        <dataInstitution/>
-        <dataLocation/>
+        <dataInfo></dataInfo>
+        <dataInstitution></dataInstitution>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
   </datatype>
@@ -20327,7 +20332,7 @@ It also includes trials conducted outside these areas if they form part of a pae
         <dataEntry>https://www.google.com/patents/$id</dataEntry>
         <dataInfo>Google Patents at Google</dataInfo>
         <dataInstitution>Google Incorporated</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -20383,7 +20388,7 @@ It also includes trials conducted outside these areas if they form part of a pae
         <dataEntry>http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=$id</dataEntry>
         <dataInfo>Cooperative Patent Classification at Espace</dataInfo>
         <dataInstitution>Espace, European Patent Office</dataInstitution>
-        <dataLocation/>
+        <dataLocation></dataLocation>
       </resource>
     </resources>
     <tags>
@@ -24855,9 +24860,7 @@ These data will help scientists uncover and understand cellular level mechanisms
   </datatype>
   <datatype id="MIR:00000891" pattern="^FCB\d{3}">
     <name>the FAIR Cookbook</name>
-    <definition>Created by researchers and data managers professionals, the FAIR Cookbook is an online resource for the Life Sciences with recipes that help you to make and keep data Findable, Accessible, Interoperable, and Reusable (FAIR).
-
-</definition>
+    <definition>Created by researchers and data managers professionals, the FAIR Cookbook is an online resource for the Life Sciences with recipes that help you to make and keep data Findable, Accessible, Interoperable, and Reusable (FAIR).</definition>
     <namespace>fcb</namespace>
     <uris>
       <uri type="URN">urn:miriam:fcb</uri>
@@ -25033,8 +25036,7 @@ These data will help scientists uncover and understand cellular level mechanisms
   </datatype>
   <datatype id="MIR:00000928" pattern="[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}">
     <name>NHLBI BioData Catalyst</name>
-    <definition>NHLBI BioData Catalyst supports the management, analysis and sharing of human disease data for the research community and aims to advance basic understanding of the genetic basis of complex traits and accelerate discovery and development of therapies, diagnostic tests, and other technologies for diseases like cancer. The data commons supports cross-project analyses by harmonizing data from different projects through the collaborative development of a data dictionary, providing an API for data queries and download, and providing a cloud-based analysis workspace with rich tools and resources.
-</definition>
+    <definition>NHLBI BioData Catalyst supports the management, analysis and sharing of human disease data for the research community and aims to advance basic understanding of the genetic basis of complex traits and accelerate discovery and development of therapies, diagnostic tests, and other technologies for diseases like cancer. The data commons supports cross-project analyses by harmonizing data from different projects through the collaborative development of a data dictionary, providing an API for data queries and download, and providing a cloud-based analysis workspace with rich tools and resources.</definition>
     <namespace>dg.712c</namespace>
     <uris>
       <uri type="URN">urn:miriam:dg.712c</uri>
@@ -25112,10 +25114,52 @@ The HEAL platform also offers a secure and cost-effective cloud-computing enviro
   </datatype>
   <datatype id="MIR:00000951" pattern="N:package:[a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12}">
     <name>Pennsieve</name>
-    <definition>Pennsieve is a publicly accessible Scientific Data Management and publication platform. The platform supports data curation, sharing and publishing complex scientific datasets with a focus on integration between graph-based metadata and file-archival. The platform provides a "peer"-reviewed publication mechanism and public datasets are available through its Discover Web Application and APIs. </definition>
+    <definition>Pennsieve is a publicly accessible Scientific Data Management and publication platform. The platform supports data curation, sharing and publishing complex scientific datasets with a focus on integration between graph-based metadata and file-archival. The platform provides a "peer"-reviewed publication mechanism and public datasets are available through its Discover Web Application and APIs.</definition>
     <namespace>ps</namespace>
     <uris>
       <uri type="URN">urn:miriam:ps</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000953" pattern="^[0-9]+$">
+    <name>CIViC Source</name>
+    <definition>In CIViC, each Evidence Item must be associated with a Source Type and Source ID, which link the Evidence Item to the original source of information supporting clinical claims. Currently, CIViC accepts publications indexed on PubMed OR abstracts published through the American Society of Clinical Oncology (ASCO). Each such source entered into CIViC is assigned a unique identifier and expert curators can curate guidance that assists future curators in the interpretation of information from this source.</definition>
+    <namespace>civic.sid</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:civic.sid</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000955" pattern="^[0-9]+$">
+    <name>CIViC Therapy</name>
+    <definition>Therapies (often drugs) in CIViC are associated with Predictive Evidence Types, which describe sensitivity, resistance or adverse response to therapies when a given variant is present. The Therapy field may also be used to describe more general treatment types and regimes, such as FOLFOX or Radiation, as long as the literature derived Evidence Item makes a scientific association between the Therapy (treatment type) and the presence of the variant.</definition>
+    <namespace>civic.tid</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:civic.tid</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000957" pattern="^[0-9]+$">
+    <name>CIViC Disease</name>
+    <definition>Within the CIViC database, the disease should be the cancer or cancer subtype that is a result of the described variant. The disease selected should be as specific as possible should reflect the disease type used in the source that supports the evidence statement.</definition>
+    <namespace>civic.did</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:civic.did</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000959" pattern="^MA[MR]\d{5}[a-z]?$">
+    <name>Metabolic Atlas</name>
+    <definition>Metabolic Atlas facilitates metabolic modelling by presenting open source genome-scale metabolic models for easy browsing and analysis.</definition>
+    <namespace>metatlas</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:metatlas</uri>
+    </uris>
+  </datatype>
+  <datatype id="MIR:00000961" pattern="^0[a-hj-km-np-tv-z|0-9]{6}[0-9]{2}$">
+    <name>ROR</name>
+    <definition>ROR (Research Organization Registry) is a global, community-led registry
+of open persistent identifiers for research organizations. ROR is jointly
+operated by California Digital Library, Crossref, and Datacite.</definition>
+    <namespace>ror</namespace>
+    <uris>
+      <uri type="URN">urn:miriam:ror</uri>
     </uris>
   </datatype>
   <listOfTags>
