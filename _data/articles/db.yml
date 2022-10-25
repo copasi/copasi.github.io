@@ -675,6 +675,18 @@
   - parameter estimation
   - time course
 -
+ Reference: "Wang M (2022) Bottom-up synthesis of Nicotinamide Adenine Dinucleotide (NAD) regeneration modules for artificial cells. PhD Thesis, Otto von Guericke Universität Magdeburg, Germany."
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.25673/86309
+ Keywords:
+  - Synthetic Biology
+  - Chemistry
+ Locations:
+  - Faculty for Process and Systems Engineering, Otto von Guericke Universität Magdeburg, Universitätsplatz 2, 39106 Magdeburg, Germany
+ Methods:
+  - parameter estimation
+-
  Reference: "White C, Rottschäfer V, Bridge LJ (2022) Insights into the dynamics of ligand-induced dimerisation via mathematical modelling and analysis. Journal of Theoretical Biology 538:110996"
  Year: 2022
  Type: 2
