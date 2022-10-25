@@ -440,6 +440,19 @@
  Methods:
   - time course
 -
+ Reference: "Li M, Liao R-Z (2022) Water Oxidation Catalyzed by a Bioinspired Tetranuclear Manganese Complex: Mechanistic Study and Prediction. ChemSusChem 15:e202200187"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1002/cssc.202200187
+ Keywords:
+  - Chemistry
+ Locations:
+  - School of Chemistry and Chemical Engineering, Huazhong University of Science and Technology, Wuhan, 430074, P. R. China
+ Funding:
+  - National Natural Science Foundation of China
+ Methods:
+  - parameter estimation
+-
  Reference: "Li Y, Cheng H (2022) Autocatalytic effect of in situ formed (hydro)quinone intermediates in Fenton and photo-Fenton degradation of non-phenolic aromatic pollutants and chemical kinetic modeling. Chemical Engineering Journal 449:137812"
  Year: 2022
  Type: 2
@@ -453,18 +466,22 @@
  Methods:
   - time course
 -
- Reference: "Li M, Liao R-Z (2022) Water Oxidation Catalyzed by a Bioinspired Tetranuclear Manganese Complex: Mechanistic Study and Prediction. ChemSusChem 15:e202200187"
+ Reference: "Lueckheide MJ, Ertem MZ, Michon MA, Chmielniak P, Robinson JR (2022) Peroxide-Selective Reduction of O2 at Redox-Inactive Rare-Earth(III) Triflates Generates an Ambiphilic Peroxide. Journal of the American Chemical Society 144:17295–17306"
  Year: 2022
  Type: 2
- URL: https://doi.org/10.1002/cssc.202200187
+ URL: https://doi.org/10.1021/jacs.2c08140
  Keywords:
   - Chemistry
  Locations:
-  - School of Chemistry and Chemical Engineering, Huazhong University of Science and Technology, Wuhan, 430074, P. R. China
+  - Department of Chemistry, Brown University, Providence, Rhode Island 02912, USA
+  - Chemistry Division, Energy & Photon Sciences, Brookhaven National Laboratory, Upton, New York 11973, USA
  Funding:
-  - National Natural Science Foundation of China
+  - NSF
+  - Brown University
+  - DOE
  Methods:
   - parameter estimation
+  - time course
 -
  Reference: "MacKeown H, von Gunten U, Criquet J (2022) Iodide sources in the aquatic environment and its fate during oxidative water treatment - A critical review. Water Research 217:118417"
  Year: 2022
