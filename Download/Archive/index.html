@@ -168,6 +168,7 @@ section: Download
     
     function cps_getFileInfo(filename) {
         var info = {
+            content: undefined,
             platform: undefined, 
             platformVersion: undefined, 
             architecture: undefined, 
@@ -175,10 +176,6 @@ section: Download
             icon: 'none',
             title: 'Any OS'
         };
-
-        if (cps_getUse(filename) != 'COPASI') {
-            return info;
-        }
 
         var regex_darwin_monterey_arm = /darwin-arm/i;
         var regex_darwin_monterey_intel = /darwin-intel/i;
@@ -201,11 +198,11 @@ section: Download
             info.title = 'Mac OS X Monterey (arm)';
         } else if (regex_darwin_monterey_intel.test(filename)) {
             info.platform = 'Mac OS';
-            info.platformVersion = /^1[2-9]/;
+            info.platformVersion = /^1[1-9]/;
             info.architecture = 'amd64';
             info.bitness = '64';
             info.icon = 'osx_icon.png';
-            info.title = 'Mac OS X Monterey (Intel)';
+            info.title = 'Mac OS X Big Sur (Intel)';
         } else if (regex_darwin_64.test(filename)) {
             info.platform = 'Mac OS';
             info.architecture = 'amd64';
@@ -255,6 +252,8 @@ section: Download
             info.title = 'Windows';
         } 
 
+        info.content = cps_getUse(filename);
+
         return info;
     }
 
@@ -263,6 +262,7 @@ section: Download
 
         var result = {score: 0, icon: info.icon, title: info.title}
     
+        result.score += 16 * cps_scoreComponent('COPASI', info.content);
         result.score += 8 * cps_scoreComponent(os.platform, info.platform);
         result.score += 4 * cps_scoreComponent(os.platformVersion, info.platformVersion);
         result.score += 2 * cps_scoreComponent(os.architecture, info.architecture);

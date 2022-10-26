@@ -164,6 +164,7 @@ section: Download
     
     function cps_getFileInfo(filename) {
         var info = {
+            content: undefined,
             platform: undefined, 
             platformVersion: undefined, 
             architecture: undefined, 
@@ -247,6 +248,8 @@ section: Download
             info.title = 'Windows';
         } 
 
+        info.content = cps_getUse(filename);
+
         return info;
     }
 
@@ -255,6 +258,7 @@ section: Download
 
         var result = {score: 0, icon: info.icon, title: info.title}
     
+        result.score += 16 * cps_scoreComponent('COPASI', info.content);
         result.score += 8 * cps_scoreComponent(os.platform, info.platform);
         result.score += 4 * cps_scoreComponent(os.platformVersion, info.platformVersion);
         result.score += 2 * cps_scoreComponent(os.architecture, info.architecture);
