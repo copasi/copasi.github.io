@@ -550,6 +550,20 @@
  Funding:
   - NIH
 -
+ Reference: "Nelson TF, Baumgartner R, Jaggi M, Bernasconi SM, Battagliarin G, Sinkel C, Künkel A, Kohler H-PE, McNeill K, Sander M (2022) Biodegradation of poly(butylene succinate) in soil laboratory incubations assessed by stable carbon isotope labelling. Nature Communications 13:5691"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1038/s41467-022-33064-8
+ Locations:
+  - ETH Zurich, 8092, Zurich, Switzerland
+  - Environmental Microbiology, Swiss Federal Institute of Aquatic Science and Technology, 8600, Dübendorf, Switzerland.
+ Funding:
+  - BASF SE
+  - ETH Zurich
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Német N, Miele Y, Shuszter G, Tóth EL, Maróti JE, Szabó PJ, Rossi F, Lagzi I (2022) Inhibition of the urea-urease reaction by the components of the zeolite imidazole frameworks-8 and the formation of urease-zinc-imidazole hybrid compound. Reaction Kinetics, Mechanisms and Catalysis 135:15–28"
  Year: 2022
  Type: 2
