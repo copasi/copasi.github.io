@@ -514,6 +514,21 @@
  Methods:
   - time course
 -
+ Reference: "Maier BD, Aguilera LU, Sahle S, Mutz P, Kalra P, Dächert C, Bartenschlager R, Binder M, Kummer U (2022) Stochastic dynamics of Type-I interferon responses. PLoS Computational Biology 18:e1010623"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1010623
+ Keywords:
+  - Immunology
+  - Signaling
+ Locations:
+  - Department of Modeling of Biological Processes, COS Heidelberg / Bioquant, Heidelberg University, Heidelberg, Germany
+  - German Cancer Research Center (DKFZ), Heidelberg, Germany
+  - Department for Infectious Diseases, Molecular Virology, Medical Faculty, Heidelberg University, Heidelberg, Germany
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Mayr S, Zipse H (2022) Annelated Pyridine Bases for the Selective Acylation of 1,2-Diols. European Journal of Organic Chemistry 2022:e202101521"
  Year: 2022
  Type: 2
