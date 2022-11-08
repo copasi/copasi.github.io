@@ -686,8 +686,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Shaikh B, Smith LP, Vasilescu D, Marupilla G, Wilson M, Agmon E, Agnew H, Andrews SS, Anwar A, Beber ME, Bergmann FT, Brooks D, Brusch L, Calzone L, Choi K, Cooper J, Detloff J, Drawert B, Dumontier M, Ermentrout GB, Faeder JR, Freiburger AP, Fröhlich F, Funahashi A, Garny A, Gennari JH, Gleeson P, Goelzer A, Haiman Z, Hasenauer J, Hellerstein JL, Hermjakob H, Hoops S, Ison JC, Jahn D, Jakubowski HV, Jordan R, Kalaš M, König M, Liebermeister W, Malik Sheriff RS, Mandal S, McDougal R, Medley JK, Mendes P, Müller R, Myers CJ, Naldi A, Nguyen TVN, Nickerson DP, Olivier BG, Patoliya D, Paulevé L, Petzold LR, Priya A, Rampadarath AK, Rohwer JM, Saglam AS, Singh D, Sinha A, Snoep J, Sorby H, Spangler R, Starruß J, Thomas PJ, van Niekerk D, Weindl D, Zhang F, Zhukova A, Goldberg AP, Schaff JC, Blinov ML, Sauro HM, Moraru II, Karr JR (2022) BioSimulators: a central registry of simulation engines and services for recommending specific tools. Nucleic Acids Research 50: W108–W114"
- Year: 2022
+ Reference: "Shaikh B, Smith LP, Vasilescu D, Marupilla G, Wilson M, Agmon E, Agnew H, Andrews SS, Anwar A, Beber ME, Bergmann FT, Brooks D, Brusch L, Calzone L, Choi K, Cooper J, Detloff J, Drawert B, Dumontier M, Ermentrout GB, Faeder JR, Freiburger AP, Fröhlich F, Funahashi A, Garny A, Gennari JH, Gleeson P, Goelzer A, Haiman Z, Hasenauer J, Hellerstein JL, Hermjakob H, Hoops S, Ison JC, Jahn D, Jakubowski HV, Jordan R, Kalaš M, König M, Liebermeister W, Malik Sheriff RS, Mandal S, McDougal R, Medley JK, Mendes P, Müller R, Myers CJ, Naldi A, Nguyen TVN, Nickerson DP, Olivier BG, Patoliya D, Paulevé L, Petzold LR, Priya A, Rampadarath AK, Rohwer JM, Saglam AS, Singh D, Sinha A, Snoep J, Sorby H, Spangler R, Starruß J, Thomas PJ, van Niekerk D, Weindl D, Zhang F, Zhukova A, Goldberg AP, Schaff JC, Blinov ML, Sauro HM, Moraru II, Karr JR (2022) BioSimulators: a central registry of simulation engines and services for recommending specific tools. Nucleic Acids Research 50: W108–W114" Year: 2022
  Type: 3
  URL: https://doi.org/10.1093/nar/gkac331
  Keywords:
@@ -7777,7 +7776,7 @@
   - stochastic simulation
   - sensitivity analysis
 -
- Reference: "Haurat MF, Figueiredo AS, Hoffmann L, Li L, Herr K, J Wilson A, Beeby M, Schaber J, Albers S-V (2017) ArnS, a kinase involved in starvation-induced archaellum expression. Molecular Microbiology 103:181–194"
+ Reference: "Haurat MF, Figueiredo AS, Hoffmann L, Li L, Herr K, Wilson AJ, Beeby M, Schaber J, Albers S-V (2017) ArnS, a kinase involved in starvation-induced archaellum expression. Molecular Microbiology 103:181–194"
  Year: 2017
  URL: https://doi.org/10.1111/mmi.13550
  Keywords:
