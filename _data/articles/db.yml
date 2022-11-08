@@ -819,6 +819,30 @@
  Methods:
    - parameter estimation
 -
+ Reference: "Xu Q, Rose JJ, Chen X, Wang L, DeMartino AW, Dent MR, Tiwari S, Bocian K, Huang XN, Tong Q, McTiernan CF, Guo L, Alipour E, Jones TC, Ucer KB, Kim-Shapiro DB, Tejero J, Gladwin MT (2022) Cell-free and alkylated hemoproteins improve survival in mouse models of carbon monoxide poisoning. JCI Insight 7:e153296"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1172/jci.insight.153296
+ Keywords:
+  - Biochemistry
+  - Toxicology
+  - Physiology
+ Locations:
+  - Department of Bioengineering, Swanson School of Engineering, University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+  - Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland, USA
+  - Department of Orthopedics & Rehabilitation, University of Iowa, Iowa City, Iowa, USA
+  - Wake Forest University, Winston-Salem, North Carolina, USA
+  - Department of Pharmacology and Chemical Biology, University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+ Funding:
+  - NIH
+  - Martin Family Foundation
+  - Institute for Transfusion Medicine
+  - Hemophilia Center of Western Pennsylvania
+  - Parker B. Francis Foundation
+  - Globin Solutions Inc.
+ Methods:
+  - time course
+-
  Reference: "Yuan L, Wu C, Guo X, Yang C (2022) ParaCopasi: A package for parallel biochemical simulation and analysis. Journal of Computational Chemistry 43:144–154"
  Year: 2022
  Type: 3
