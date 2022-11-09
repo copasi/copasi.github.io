@@ -15074,6 +15074,19 @@
   - Cariplo Foundation
   - Italian Ministry of University and Research
 -
+ Reference: "Saffrey P, Orton R (2009) Version control of pathway models using XML patches. BMC systems biology 3:34"
+ Year: 2009
+ Type: 2
+ URL: https://doi.org/10.1186/1752-0509-3-34
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Computing Science, University of Glasgow, Glasgow, G12 8QQ, UK
+ Funding:
+  - EPSRC
+ Methods:
+  - SBML
+-
  Reference: "Schulz M, Bakker BM, Klipp E (2009) TIde: a software for the systematic scanning of drug targets in kinetic network models. BMC Bioinformatics 10:344"
  Year: 2009
  URL: https://doi.org/10.1186/1471-2105-10-344
