@@ -1511,6 +1511,20 @@
   - Russian Foundation for Basic Research
   - Lomonosov Moscow State University Digital Medicine School
 -
+ Reference: "Koshy-Chenthittayil S, Dimitrova E, Jenkins EW, Dean BC (2021) A computational framework for finding parameter sets associated with chaotic dynamics. In Silico Biology 14:41–51"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.3233/ISB-200476
+ Keywords:
+  - Computational Method
+ Locations:
+  - Center for Quantitative Medicine, UConn Health, Farmington, Connecticut, USA
+  - Department of Mathematics, California Polytechnic State University, San Luis Obispo, California, USA
+  - Clemson University, Clemson, South Carolina, USA
+ Methods:
+  - lyapunov exponents
+  - optimization
+-
  Reference: "Lakhova TN, Kazantsev FV, Lashin SA, Matushkin YG (2021) The finding and researching algorithm for potentially oscillating enzymatic systems. Vavilov Journal of Genetics and Breeding 25:318–330"
  Year: 2021
  Type: 3
@@ -3280,20 +3294,6 @@
   - time course
   - steady state
   - stability analysis
--
- Reference: "Koshy-Chenthittayil S, Dimitrova E, Jenkins EW, Dean BC (2020) A computational framework for finding parameter sets associated with chaotic dynamics. In Silico Biology 14:41–51"
- Year: 2020
- Type: 3
- URL: https://doi.org/10.3233/ISB-200476
- Keywords:
-  - Computational Method
- Locations:
-  - Center for Quantitative Medicine, UConn Health, Farmington, Connecticut, USA 
-  - Department of Mathematics, California Polytechnic State University, San Luis Obispo, California, USA
-  - Clemson University, Clemson, South Carolina, USA
- Methods:
-  - lyapunov exponents
-  - optimization
 -
  Reference: "Leuba SI, Yaesoubi R, Antillon M, Cohen T, Zimmer C (2020) Tracking and predicting U.S. influenza activity with a real-time surveillance network. PLOS Computational Biology 16:e1008180"
  Year: 2020
