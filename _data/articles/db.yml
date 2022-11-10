@@ -6231,20 +6231,6 @@
   - time course
   - parameter estimation
 -
- Reference: "e Silva BVR, Rad M, Cui J, McCabe M, Pan K (2018) A Mobile-Based Diet Monitoring System for Obesity Management. Journal of Health & Medical Informatics 9:307"
- Year: 2018
- Type: 3
- URL: https://doi.org/10.4172/2157-7420.1000307
- Locations:
-  - University of Nebraska, Lincoln, Nebraska, USA
-  - Department of Computer Science, McGill University, Montreal, Canada
- Keywords:
-  - Computational method
- Funding:
-  - NIH
-  - University of Nebraska Lincoln
-  - Tobacco Settlement Fund 
--
  Reference: "Eibel A, Fast DE, Gescheidt G (2018) Choosing the ideal photoinitiator for free radical photopolymerizations: predictions based on simulations using established data. Polymer Chemistry 9:5107–5115"
  Year: 2018
  Type: 2
@@ -7029,6 +7015,20 @@
   - ITMO University
  Methods:
   - time course
+-
+ Reference: "Silva BVR, Rad M, Cui J, McCabe M, Pan K (2018) A Mobile-Based Diet Monitoring System for Obesity Management. Journal of Health & Medical Informatics 9:307"
+ Year: 2018
+ Type: 3
+ URL: https://doi.org/10.4172/2157-7420.1000307
+ Locations:
+  - University of Nebraska, Lincoln, Nebraska, USA
+  - Department of Computer Science, McGill University, Montreal, Canada
+ Keywords:
+  - Computational method
+ Funding:
+  - NIH
+  - University of Nebraska Lincoln
+  - Tobacco Settlement Fund
 -
  Reference: "Silva E, Martin R, Pomuceno J, Mansilla R, Betancourt-Mar J, Cocho G, Nieto-Villar J (2018) Dose and frequency in cancer therapy. Theoretical non-autonomous model of p53 network. Biological Rhythm Research 50:483-489"
  Year: 2018
