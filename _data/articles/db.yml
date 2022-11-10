@@ -2139,6 +2139,21 @@
   - steady state
   - parameter scan
 -
+ Reference: "Tomasoni D, Paris A, Giampiccolo S, Reali F, Simoni G, Marchetti L, Kaddi C, Neves-Zaph S, Priami C, Azer K, Lombardo R (2021) QSPcc reduces bottlenecks in computational model simulations. Communications Biology 4:1022"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.1038/s42003-021-02553-9
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  - Fondazione the Microsoft Research, University of Trento Centre for Computational and Systems Biology, Rovereto, Italy
+  - Sanofi, Bridgewater, NJ, USA
+ Funding:
+  - Sanofi
+ Methods:
+  - time course
+-
  Reference: "Vaginay A, Boukhobza T, Smaïl-Tabbone M (2021) From quantitative SBML models to boolean networks. CNA 2021 - 10th International Conference on Complex Networks and their Applications, Nov 2021, Madrid, Spain."
  Year: 2021
  Typee: 3
