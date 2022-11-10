@@ -1975,6 +1975,35 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Schmiester L, Schälte Y, Bergmann FT, Camba T, Dudkin E, Egert J, Fröhlich F, Fuhrmann L, Hauber AL, Kemmer S, Lakrisenko P, Loos C, Merkt S, Müller W, Pathirana D, Raimúndez E, Refisch L, Rosenblatt M, Stapor PL, Städter P, Wang D, Wieland F-G, Banga JR, Timmer J, Villaverde AF, Sahle S, Kreutz C, Hasenauer J, Weindl D (2021) PEtab-Interoperable specification of parameter estimation problems in systems biology. PLOS Computational Biology 17:e1008646"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pcbi.1008646
+ Keywords:
+  - Computational Method
+ Locations:
+  - Institute of Computational Biology, Helmholtz Zentrum München-German Research Center for Environmental Health, Neuherberg, Germany
+  - Center for Mathematics, Technische Universität München, Garching, Germany
+  - BioQUANT/COS, Heidelberg University, Heidelberg, Germany
+  - Department of Applied Mathematics II, University of Vigo, Vigo, Galicia, Spain
+  - BioProcess Engineering Group, IIM-CSIC, Vigo, Galicia, Spain
+  - Faculty of Mathematics and Natural Sciences, University of Bonn, Bonn, Germany
+  - Faculty of Medicine and Medical Center, Institute of Medical Biometry and Statistics, University of Freiburg, Freiburg, Germany
+  - Department of Systems Biology, Harvard Medical School, Boston, Massachusetts, USA
+  - Institute of Physics, University of Freiburg, Freiburg, Germany
+  - Ragon Institute of MGH, MIT and Harvard, Cambridge, Massachusetts, USA
+  - Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
+  - Heidelberg Institute for Theoretical Studies (HITS gGmbH), Heidelberg, Germany
+ Funding:
+  - EU Horizon2020
+  - German Federal Ministry of Education and Research
+  - German Federal Ministry of Economic Affairs and Energy
+  - Deutsche Krebshilfe
+  - Human Frontier Science Program
+  - NIH
+ Methods:
+  - parameter estimation
+-
  Reference: "Shaikh B, Marupilla G, Wilson M, Blinov ML, Moraru II, Karr JR (2021) RunBioSimulations: an extensible web application that simulates a wide range of computational modeling frameworks, algorithms, and formats. Nucleic Acids Research 49:W597–W602"
  Year: 2021
  Type: 3
