@@ -15474,6 +15474,18 @@
   - NIH
   - BMBF
 -
+ Reference: "Mandel JJ, Fuß H, Palfreyman NM, Dubitzky W (2007) Modeling biochemical transformation processes and information processing with Narrator. BMC Bioinformatics 8:103"
+ Year: 2007
+ Type: 3
+ URL: https://doi.org/10.1186/1471-2105-8-103
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  -  Dept, of Biotechnology & Bioinformatics, Weihenstephan University of Applied Sciences, 85350 Freising, Germany
+ Methods:
+  - SBML
+-
  Reference: "Rippe K, Schrader A, Riede P, Strohner R, Lehmann E,Längst G (2007) DNA sequence- and conformation-directed positioning of nucleosomes by chromatin-remodeling complexes. Proceedings of the National Academy of Sciences USA 104:15635-40"
  Year: 2007
  URL: https://doi.org/10.1073/pnas.0702430104
