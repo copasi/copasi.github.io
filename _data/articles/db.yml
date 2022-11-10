@@ -15498,6 +15498,26 @@
   - Ludwig-Maximilians University of Munich, Munich, Germany
   - University of Regensburg, Regensburg, Germany
 -
+ Reference: "Ralser M, Wamelink MM, Kowald A, Gerisch B, Heeren G, Struys EA, Klipp E, Jakobs C, Breitenbach M, Lehrach H, Krobitsch S (2007) Dynamic rerouting of the carbohydrate flux is key to counteracting oxidative stress. Journal of Biology 6:10"
+ Year: 2007
+ Type: 2
+ URL: https://doi.org/10.1186/jbiol61
+ Keywords:
+  - Metabolism
+ Locations:
+  - Max Planck Institute for Molecular Genetics, Ihnestrasse 73, 14195 Berlin, Germany
+  - Department of Clinical Chemistry, Metabolic Unit, VU University Medical Center, Amsterdam, de Boelelaan 1117, 1081 HV Amsterdam, The Netherlands
+  - Department of Cell Biology, University of Salzburg, Hellbrunnerstrasse 34, 5020 Salzburg, Austria
+ Funding:
+  - Max Planck Society
+  - FWF (Vienna, Austria)
+  - Ministry of Innovation, Science, Research and Technology of North Rhine-Westphalia, Germany
+  - BMBF
+  - EU FP6
+ Methods:
+  - steady state
+  - parameter estimation
+-
  Reference: "Uys L, Botha FC, Hofmeyr J-HS, Rohwer JM (2007) Kinetic model of sucrose accumulation in maturing sugarcane culm tissue. Phytochemistry 68:2375-92"
  Year: 2007
  URL: https://doi.org/10.1016/j.phytochem.2007.04.023
