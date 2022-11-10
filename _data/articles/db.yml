@@ -6202,32 +6202,6 @@
   - time course
   - parameter estimation
 -
- Reference: "Silva LHG (2018) Self-Replication and Non-enzymatic Catalytic Networks subject to Open Flow. MS Thesis, University of Porto."
- Year: 2018
- Type: 2
- URL: https://repositorio-aberto.up.pt/bitstream/10216/118619/2/311847.pdf
- Keywords:
-  - Biochemistry
-  - Theory
- Locations:
-  - Instituto de Ciências Biomédicas Abel Salazar, University of Porto, Portugal
- Funding:
-  - EU Erasmus+
--
- Reference: "Silva LHG, Hochberg D (2018) Open flow non-enzymatic template catalysis and replication. Physical Chemistry Chemical Physics 20:14864–14875"
- Year: 2018
- Type: 2
- URL: https://doi.org/10.1039/C8CP01828F
- Keywords:
-  - Biochemistry
- Locations:
-  - Department of Molecular Evolution, Centro de Astrobiología (CSIC-INTA), Carretera Ajalvir Kilómetro 4, 28850 Torrejón de Ardoz, Madrid, Spain
- Funding:
-  - EU Erasmus
-  - MINECO, Spain
- Methods:
-  - elementary flux modes
--
  Reference: "Dalle Pezze P, Karanasios E, Kandia V, Walker SA, Ktistakis NT, Le Novère N (2018) Dynamic modelling suggests differential mechanisms for initiation of non-selective autophagy and mitophagy. bioRxiv Preprint bioRxiv:370114"
  Year: 2018
  Type: 2
@@ -7068,6 +7042,32 @@
   - Mexican Institute of Complex Systems, Tamaulipas, México
  Methods:
   - time course
+-
+ Reference: "Silva LHG (2018) Self-Replication and Non-enzymatic Catalytic Networks subject to Open Flow. MS Thesis, University of Porto."
+ Year: 2018
+ Type: 2
+ URL: https://repositorio-aberto.up.pt/bitstream/10216/118619/2/311847.pdf
+ Keywords:
+  - Biochemistry
+  - Theory
+ Locations:
+  - Instituto de Ciências Biomédicas Abel Salazar, University of Porto, Portugal
+ Funding:
+  - EU Erasmus+
+-
+ Reference: "Silva LHG, Hochberg D (2018) Open flow non-enzymatic template catalysis and replication. Physical Chemistry Chemical Physics 20:14864–14875"
+ Year: 2018
+ Type: 2
+ URL: https://doi.org/10.1039/C8CP01828F
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Department of Molecular Evolution, Centro de Astrobiología (CSIC-INTA), Carretera Ajalvir Kilómetro 4, 28850 Torrejón de Ardoz, Madrid, Spain
+ Funding:
+  - EU Erasmus
+  - MINECO, Spain
+ Methods:
+  - elementary flux modes
 -
  Reference: "Suwanmajo T, Krishnan J (2018) Exploring the intrinsic behaviour of multisite phosphorylation systems as part of signalling pathways. Journal of the Royal Society Interface 15:1520180109"
  Year: 2018
