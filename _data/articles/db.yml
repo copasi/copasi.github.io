@@ -14584,6 +14584,17 @@
   - time course
   - parameter estimation
 -
+ Reference: "Mazza T, Iaccarino G, Priami C (2010) Snazer: the simulations and networks analyzer. BMC Systems Biology 4:1"
+ Year: 2010
+ Type: 3
+ URL: https://doi.org/10.1186/1752-0509-4-1
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  - Microsoft Research University of Trento, CoSBi, Trento, Italy
+  - University of Trento, Trento, Italy
+-
  Reference: "Morrissey ER, Juarez MA, Denby KJ, Burroughs NJ (2010) On reverse engineering of gene interaction networks using time course data with repeated measurements. Bioinformatics 26:2305–2312"
  Year: 2010
  URL: https://doi.org/10.1093/bioinformatics/btq421
