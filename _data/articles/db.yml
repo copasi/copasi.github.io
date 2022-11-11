@@ -12541,6 +12541,23 @@
   - University of Cambridge, Cambridge, UK
   - University of London, London, UK
 -
+ Reference: "Hayashi K, Piras V, Tabata S, Tomita M, Selvarajoo K (2013) A systems biology approach to suppress TNF-induced proinflammatory gene expressions. Cell Communication and Signaling 11:84"
+ Year: 2013
+ Type: 2
+ URL: https://doi.org/10.1186/1478-811X-11-84
+ Keywords:
+  - Signaling
+ Locations:
+  - Institute for Advanced Biosciences, Keio University, 14-1 Baba-cho, Tsuruoka, Japan
+  - Systems Biology Program, Graduate School of Media and Governance, Keio University, Fujisawa, Endo 5322, Japan
+ Funding:
+  - Japan Society for the Promotion of Science
+  - Tsuruoka City, Yamagata Prefecture
+ Methods:
+  - parameter estimation
+  - sensitivity analysis
+  - time course
+-
  Reference: "Helgeson LA, Nolen BJ (2013) Mechanism of synergistic activation of Arp2/3 complex by cortactin and N-WASP. eLife 2:e00884"
  Year: 2013
  URL: https://doi.org/10.7554/eLife.00884
