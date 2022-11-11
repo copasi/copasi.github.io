@@ -571,7 +571,7 @@
  URL: https://doi.org/10.1038/s41467-022-33064-8
  Locations:
   - ETH Zurich, 8092, Zurich, Switzerland
-  - Environmental Microbiology, Swiss Federal Institute of Aquatic Science and Technology, 8600, Dübendorf, Switzerland.
+  - Environmental Microbiology, Swiss Federal Institute of Aquatic Science and Technology, 8600, Dübendorf, Switzerland
  Funding:
   - BASF SE
   - ETH Zurich
@@ -628,7 +628,7 @@
   - Chemistry
  Locations:
   - Université de Rouen Normandie, CNRS, INSA, Normandie Université, 76000 Rouen, France
-  - Istituto di Chimica della Materia Condensata e Tecnologie dell’Energia, Consiglio Nazionale delle Ricerche, Via F. Marzolo 1, 35131 Padova, PD, Italy
+  - Istituto di Chimica della Materia Condensata e Tecnologie dell'Energia, Consiglio Nazionale delle Ricerche, Via F. Marzolo 1, 35131 Padova, PD, Italy
   - Dipartimento di Scienze Chimiche, Università di Padova, Via F. Marzolo 1, 35131 Padova, PD, Italy
   - Department of Chemistry, Seoul National University, Seoul 08826, South Korea
   - Université Paris-Saclay, 91405 Orsay Cedex, France
@@ -662,7 +662,7 @@
  Funding:
   - EU Horizon2020
   - EU ERC
-  - Associazione Italiana per la Ricerca sul Cancro, AIRC
+  - Associazione Italiana per la Ricerca sul Cancro
 -
  Reference: "Rivas FJ (2022) Monopersulfate in water treatment: Kinetics. Journal of Hazardous Materials 430:128383"
  Year: 2022
@@ -670,6 +670,8 @@
  URL: https://doi.org/10.1016/j.jhazmat.2022.128383
  Keywords:
   - Chemistry
+ Locations:
+  - Departamento de Ingeniería química y química física, Universidad de Extremadura, Av. Elvas s/n, 06006 Badajoz, Spain
  Methods:
   - parameter estimation
 -
