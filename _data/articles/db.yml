@@ -14216,6 +14216,23 @@
   - parameter estimation
   - sensitivity analysis
 -
+ Reference: "Hooshangi S, Bentley WE (2011) LsrR quorum sensing “switch” is revealed by a bottom-up approach. PLOS Computational Biology 7:e1002172"
+ Year: 2011
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1002172
+ Keywords:
+  - Microbiology
+  - Signaling
+ Locations:
+  - College of Professional Studies, The George Washington University, Washington DC, USA
+  - University of Maryland College Park, College Park, Maryland, USA
+ Funding:
+  - Deutsch Foundation,
+  - DoD DTRA
+  - NSF
+ Methods:
+  - time course
+-
  Reference: "Iwasaki H, Takeuchi O, Teraguchi S, Matsushita K, Uehata T, Kuniyoshi K, Satoh T, Saitoh T, Matsushita M, Standley DM, Akira S (2011) The IkB kinase complex regulates the stability of cytokine-encoding mRNA induced by TLR-IL-1R by controlling degradation of regnase-1. Nature Immunology 12:1167-75"
  Year: 2011
  URL: https://doi.org/10.1038/ni.2137
