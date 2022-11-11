@@ -14262,21 +14262,17 @@
   - Eastman Chemical
   - NSF
 -
- Reference: "Kleppe R, Martinez A, Døskeland SO, Haavik J (2011) The 14-3-3 proteins in regulation of cellular metabolism. Seminars in Cell & Developmental Biology 22:713–719"
+ Reference: "Jablonsky J, Bauwe H, Wolkenhauer O (2011) Modeling the Calvin-Benson cycle. BMC systems biology 5:185"
  Year: 2011
- URL: https://doi.org/10.1016/j.semcdb.2011.08.008
  Type: 2
+ URL: https://doi.org/10.1186/1752-0509-5-185
  Keywords:
-  - Signaling
   - Metabolism
  Locations:
-  - University of Bergen, Jonas Lies vei 91, 5009 Bergen, Norway
-  - Haukeland University Hospital, Bergen, Norway
+  - Department of Systems Biology and Bioinformatics, University of Rostock, 218051 Rostock, Germany
+  - Department of Plant Physiology, University of Rostock, 18059 Rostock, Germany
  Funding:
-  - Research Council of Norway
-  - The Kristian Gerhard Jebsen Foundation
-  - Norwegian Cancer Society
-  - Western Norway Health Authorities
+  - DFG
  Methods:
   - time course
 -
@@ -14303,6 +14299,24 @@
  Funding:
   - NIH
   - NDSEG
+-
+ Reference: "Kleppe R, Martinez A, Døskeland SO, Haavik J (2011) The 14-3-3 proteins in regulation of cellular metabolism. Seminars in Cell & Developmental Biology 22:713–719"
+ Year: 2011
+ URL: https://doi.org/10.1016/j.semcdb.2011.08.008
+ Type: 2
+ Keywords:
+  - Signaling
+  - Metabolism
+ Locations:
+  - University of Bergen, Jonas Lies vei 91, 5009 Bergen, Norway
+  - Haukeland University Hospital, Bergen, Norway
+ Funding:
+  - Research Council of Norway
+  - The Kristian Gerhard Jebsen Foundation
+  - Norwegian Cancer Society
+  - Western Norway Health Authorities
+ Methods:
+  - time course
 -
  Reference: "Klotz C, Ziegler T, Figueiredo AS, Rausch S, Hepworth MR, Obsivac N, Sers C, Lang R, Hammerstein P, Lucius R, Hartmann S (2011) A Helminth Immunomodulator Exploits Host Signaling Events to Regulate Cytokine Production in Macrophages. PLOS Pathogens 7:e1001248"
  Year: 2011
