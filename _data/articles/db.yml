@@ -14452,6 +14452,28 @@
   - Secretaría de Ciencia y Técnica-Universidad Nacional de Cuyo (Argentina)
   - ANPCYT (Argentina)
 -
+ Reference: "Schaber J, Flöttmann M, Li J, Tiger C-F, Hohmann S, Klipp E (2011) Automated ensemble modeling with modelMaGe: analyzing feedback mechanisms in the Sho1 branch of the HOG pathway. PLOS One 6:e14791"
+ Year: 2011
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pone.0014791
+ Keywords:
+  - Signaling
+  - Computational Method
+  - Software
+ Locations:
+  - Institute for Experimental Internal Medicine, Medical Faculty, Otto von Guericke University, Magdeburg, Germany
+  - Theoretical Biophysics, Department of Biology, Humboldt University, Berlin, Germany
+  - Department of Cell and Molecular Biology, University of Gothenburg, Göteborg, Sweden
+ Funding:
+  - Max Planck Society
+  - German Academic Exchange Service
+  - EU FP6
+  - Vinnova, Sweden
+  - DAAD
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Schweizer N (2011) Calcium signaling in fish cells. PhD Thesis, University of Heidelberg"
  Year: 2011
  URL: https://doi.org/DOI:10.11588/heidok.00013410
