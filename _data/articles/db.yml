@@ -13618,6 +13618,20 @@
   - University of Bern, Bern, Switzerland
   - Max-Planck Institute for Molecular Physiology, Dortmund, Germany
 -
+ Reference: "Kleessen S, Nikoloski Z (2012) Dynamic regulatory on/off minimization for biological systems under internal temporal perturbations. BMC Systems Biology 6:16"
+ Year: 2012
+ Type: 3
+ URL: https://doi.org/10.1186/1752-0509-6-16
+ Keywords:
+  - Computational Method
+ Locations:
+  - Max-Planck Institute of Molecular Plant Physiology, Potsdam, Germany
+ Funding:
+  - DFG
+  - Max-Planck Society
+ Methods:
+  - time course
+-
  Reference: "Kostromins A, Mozga I, Stalidzans E (2012) ConvAn: A convergence analyzing tool for optimization of biochemical networks. Biosystems 108:73-77"
  Year: 2012
  URL: https://doi.org/10.1016/j.biosystems.2011.12.004
