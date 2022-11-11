@@ -13307,6 +13307,25 @@
   - Virginia Tech, Blacksburg VA, USA
   - VA-MD Regional College of Veterinary Medicine, Blacksburg VA, USA
 -
+ Reference: "Wang H, Huang Y, Qi Y, Zhang Y, Bao Y, Sun L, Zheng L, Zhang Y, Ma Z, Li Y (2013) Mathematical models for the Notch and Wnt signaling pathways and the crosstalk between them during somitogenesis. Theoretical Biology & Medical Modelling 10:27"
+ Year: 2013
+ Type: 2
+ URL: https://doi.org/10.1186/1742-4682-10-27
+ Keywords:
+  - Signaling
+ Locations:
+  - Northeast Normal University, Changchun 130024,China
+ Funding:
+  - National Natural Science Foundation of China
+  - Natural Science Foundation of Jilin Province, China
+  - Research Foundation of Jilin Provincial Science & Technology Development, China
+  - Research Funds for the Central Universities, China
+  - Jilin Province Science & Technology Committee, China
+ Methods:
+  - time course
+  - parameter estimation
+  - sensitivity analysis
+-
  Reference: "Achcar F, Kerkhoven EJ, The SilicoTryp Consortium, Bakker BM, Barrett MP, Breitling R (2012) Dynamic Modelling under Uncertainty: The Case of Trypanosoma brucei Energy Metabolism. PLOS Computational Biology 8:e1002352"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pcbi.1002352
