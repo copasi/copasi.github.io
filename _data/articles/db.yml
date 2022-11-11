@@ -12852,6 +12852,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Nim TH, White JK, Tucker-Kellogg L (2013) SPEDRE: a web server for estimating rate parameters for cell signaling dynamics in data-rich environments. Nucleic Acids Research 41:W187-191"
+ Year: 2013
+ Type: 3
+ URL: https://doi.org/10.1093/nar/gkt459
+ Keywords:
+  - Software
+ Locations:
+  - Computational Systems Biology Programme, Singapore-MIT Alliance, National University of Singapore, 117576, Singapore
+  - Mechanobiology Institute, National University of Singapore, 117411, Singapore
+  - Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA
+  - Department of Dermatology, State University of New York at Stony Brook, NY 11794, USA
+ Funding:
+  - Singapore-MIT Alliance
+  - Mechanobiology Institute
+ Methods:
+  - parameter estimation
+-
  Reference: "Nobile MS , Besozzi D, Cazzaniga P, Mauri G, Pescini D (2013) cupSODA: a CUDA-powered simulator of mass-action kinetics. Parallel Computing Technologies Proceedings of the 12th International Conference, PaCT 2013, St. Petersburg, pp.344-357"
  Year: 2013
  URL: https://doi.org/10.1007/978-3-642-39958-9_32
