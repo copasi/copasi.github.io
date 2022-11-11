@@ -11375,6 +11375,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Cui Y, Murphy B, Gentilcore A, Sharma Y, Minasian LM, Kramer BS, Coates PM, Gohagan JK, Klenk J, Tidor B (2014) Multilevel modeling and value of information in clinical trial decision support. BMC Systems Biology 8:6"
+ Year: 2014
+ Type: 2
+ URL: https://doi.org/10.1186/s12918-014-0140-0
+ Keywords:
+  - Metabolism
+ Locations:
+  - Massachusetts Institute of Technology, Cambridge, MA 02139, USA
+  - Booz Allen Hamilton, Rockville, MD 20852, USA
+  - National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA
+  - Office of Dietary Supplements, National Institutes of Health, Bethesda, MD 20892, USA
+  - Office of the Director, National Institutes of Health, Rockville, MD 20892, USA
+ Methods:
+  - SBML
+-
  Reference: "Dalle Pezze P, Nelson G, Otten EG, Korolchuk VI, Kirkwood TBL, von Zglinicki T, Shanley DP (2014) Dynamic Modelling of Pathways to Cellular Senescence Reveals Strategies for Targeted Interventions. PLOS Computational Biology 10:e1003728."
  Year: 2014
  URL: https://doi.org/10.1371/journal.pcbi.1003728
