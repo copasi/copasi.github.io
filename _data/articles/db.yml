@@ -11436,6 +11436,19 @@
   - Wellcome Trust
   - DFG
 -
+ Reference: "Figueredo GP, Siebers P-O, Owen MR, Reps J, Aickelin U (2014) Comparing stochastic differential equations and agent-based modelling and simulation for early-stage cancer. PLOS One 9:e95150"
+ Year: 2014
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pone.0095150
+ Keywords:
+  - Computational Method
+ Locations:
+  - The University of Nottingham, Nottingham, UK
+ Funding:
+  - The University of Nottingham
+ Methods:
+  - stochastic simulation
+-
  Reference: "Gautam VK, Czeizler E, Haddow PC, Kuiper M (2014) Design of a Minimal System for Self-replication of Rectangular Patterns of DNA Tiles. In: Dediu AH, Lozano M, Martín-Vide C (eds) Theory and Practice of Natural Computing. TPNC 2014. Lecture Notes in Computer Science 8890:119-133"
  Year: 2014
  URL: https://doi.org/10.1007/978-3-319-13749-0_11
