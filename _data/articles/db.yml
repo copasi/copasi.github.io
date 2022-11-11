@@ -13991,6 +13991,19 @@
  Locations:
   - University of Missouri-Saint Louis, One University Boulevard, St. Louis, Missouri 63121, USA
 -
+ Reference: "Baker SM, Poskar CH, Junker BH (2011) Unscented Kalman filter with parameter identifiability analysis for the estimation of multiple parameters in kinetic models. EURASIP Journal on Bioinformatics & Systems Biology 2011:7"
+ Year: 2011
+ Type: 3
+ URL: https://doi.org/10.1186/1687-4153-2011-7
+ Keywords:
+  - Computational Method
+ Locations:
+  - Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben, Germany
+ Funding:
+  - BMBF
+ Methods:
+  - parameter estimation
+-
  Reference: "Bandaru P, Bansal M, Nemenman I (2011) Mass Conservation and Inference of Metabolic Networks from High-Throughput Mass Spectrometry Data. Journal of Computational Biology 18:147-154"
  Year: 2011
  URL: https://doi.org/10.1089/cmb.2010.0222
