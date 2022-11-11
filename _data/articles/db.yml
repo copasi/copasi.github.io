@@ -1098,6 +1098,20 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Dalle Pezze P, Karanasios E, Kandia V, Manifava M, Walker SA, Gambardella Le Novère N, Ktistakis NT (2021) ATG13 dynamics in nonselective autophagy and mitophagy: insights from live imaging studies and mathematical modeling. Autophagy 17:1131–1141"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1080/15548627.2020.1749401
+ Keywords:
+  - Cell Biology
+  - Signaling
+ Locations:
+  - The Babraham Institute, Babraham Research Campus, Cambridge, UK
+ Funding:
+  - BBSRC
+ Methods:
+  - parameter estimation
+-
  Reference: "Das A, Mandal SC, Pathak B (2021) Unraveling the catalytically preferential pathway between the direct and indirect hydrogenation of CO2 to CH3OH using N-heterocyclic carbene-based Mn(I) catalysts: a theoretical approach. Catalysis Science & Technology 11:1375–1385"
  Year: 2021
  Type: 2
