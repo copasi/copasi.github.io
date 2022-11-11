@@ -925,6 +925,17 @@
   - steady state
   - sensitivity analysis
 -
+ Reference: "Angeli L, Imperiale S, Ding Y, Scampicchio M, Morozova K (2021) A Novel Stoichio-Kinetic Model for the DPPH• Assay: The Importance of the Side Reaction and Application to Complex Mixtures. Antioxidants 10:1019"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.3390/antiox10071019
+ Keywords:
+  - Experimental Method
+ Locations:
+  -  Faculty of Science and Technology, Free University of Bozen-Bolzano, Piazza Università 1, 39100 Bolzano, Italy
+ Methods:
+  - parameter estimation
+-
  Reference: "Arya S, Williams A, Reina SV, Knapp CW, Kreft J-U, Hobman JL, Stekel DJ (2021) Towards a general model for predicting minimal metal concentrations co-selecting for antibiotic resistance plasmids. Environmental Pollution 275:116602"
  Year: 2021
  Type: 2
