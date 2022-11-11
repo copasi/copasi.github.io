@@ -1533,6 +1533,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Koch D, Alexandrovich A, Funk F, Kho AL, Schmitt JP, Gautel M (2021) Molecular noise filtering in the β-adrenergic signaling network by phospholamban pentamers. Cell Reports 36:109448"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1016/j.celrep.2021.109448
+ Keywords:
+  - Signaling
+ Locations:
+  - Randall Centre for Cell and Molecular Biophysics, King's College London, SE1 1UL London, UK
+  - University Hospital Düsseldorf, 40225 Düsseldorf, Germany
+ Funding:
+  - British Heart Foundation
+  - DFG
+ Methods:
+  - parameter estimation
+-
  Reference: "Korobkin J, Balabin FA, Yakovenko SA, Simonenko EY, Sveshnikova AN (2021) Occurrence of Calcium Oscillations in Human Spermatozoa Is Based on Spatial Signaling Enzymes Distribution. International Journal of Molecular Sciences 22:8018"
  Year: 2021
  Type: 2
