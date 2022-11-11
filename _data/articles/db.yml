@@ -12371,6 +12371,19 @@
  Locations:
   - Virginia Tech, Blacksburg VA, USA
 -
+ Reference: "Carbo A, Hontecillas R, Kronsteiner B, Viladomiu M, Pedragosa M, Lu P, Philipson CW, Hoops S, Marathe M, Eubank S, Bisset K, Wendelsdorf K, Jarrah A, Mei Y, Bassaganya-Riera J (2013) Systems modeling of molecular mechanisms controlling cytokine-driven CD4+ T cell differentiation and phenotype plasticity. PLOS Computational Biology 9:e1003027"
+ Year: 2013
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1003027
+ Keywords:
+  - Immunology
+  - Signaling
+ Locations:
+  - Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, Virginia, USA
+ Methods:
+  - parameter estimation
+  - sensitivity analysis
+-
  Reference: "Chelliah V, Laibe C, Le Novère N (2013) BioModels database: a repository of mathematical models of biological processes. Methods in Molecular Biology 1021:189–199"
  Year: 2013
  URL: https://doi.org/10.1007/978-1-62703-450-0_10
