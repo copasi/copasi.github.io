@@ -11880,6 +11880,29 @@
  Funding:
   - NIH
 -
+ Reference: "Meyer P, Cokelaer T, Chandran D, Kim KH, Loh P-R, Tucker G, Lipson M, Berger B, Kreutz C, Raue A, Steiert B, Timmer J, Bilal E, Sauro HM, Stolovitzky G, Saez-Rodriguez J (2014) Network topology and parameter estimation: from experimental design methods to gene regulatory network kinetics using a community based approach. BMC Systems Biology 8:13"
+ Year: 2014
+ Type: 2
+ URL: https://doi.org/10.1186/1752-0509-8-13
+ Keywords:
+  - Computational Method
+ Locations:
+  - IBM T.J. Watson Research Center, Yorktown Heights, New York, USA
+  - European Molecular Biology Laboratory, European Bioinformatics Institute, Cambridge, UK
+  - Autodesk Research, San Francisco, CA, USA
+  - Department of Bioengineering, University of Washington, William H. Foege Building, Box 355061, Seattle, WA 98195-5061, USA
+  - Department of Mathematics, MIT, Cambridge, Massachusetts, USA
+  - University of Freiburg, Schänzlestr. 18, 79104 Freiburg, Germany
+  - Merrimack Pharmaceuticals One Kendall Square, Suite B7201, Cambridge, MA 02139, USA
+  - Physics Department, University of Freiburg, Hermann-Herder Str.3, 79104 Freiburg, Germany
+ Funding:
+  - EU FP7
+  - NIH
+  - NSF support
+  - BMBF
+ Methods:
+  - time course
+-
  Reference: "Miller AJM, Kaminsky W, Goldberg KI (2014) Arene Activation at Iridium Facilitates C-O Bond Cleavage of Aryl Ethers. Organometallics 33:1245-1252"
  Year: 2014
  URL: https://doi.org/10.1021/om5000166
