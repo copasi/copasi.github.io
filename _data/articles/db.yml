@@ -10595,6 +10595,22 @@
   - European Social Fund
   - Greek Government
 -
+ Reference: "Lai M, Brun D, Edelstein SJ, Le Novère N (2015) Modulation of calmodulin lobes by different targets: an allosteric model with hemiconcerted conformational transitions. PLOS Computational Biology 11:e1004063"
+ Year: 2015
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1004063
+ Keywords:
+  - Biochemistry
+  - Enzymology
+ Locations:
+  - Babraham Institute, Cambridge, UK
+  - EMBL-EBI, Hinxton, United Kingdom
+  - Amadeus IT Group, Sophia Antipolis, France
+ Funding:
+  - EU FP7
+ Methods:
+  - parameter estimation
+-
  Reference: "Laurell Nash A, Hertzberg R, Wen YQ, Dahlgren B, Brinck T, Moberg C (2015) Dual Lewis Acid-Lewis Base Catalyzed Acylcyanation of Aldehydes: A Mechanistic Study. Chemistry 22:3821-3829"
  Year: 2015
  URL: https://doi.org/10.1002/chem.201503782
