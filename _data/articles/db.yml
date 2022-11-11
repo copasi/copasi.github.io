@@ -1767,6 +1767,28 @@
  Methods: 
   - steady state
 -
+ Reference: "Monti M, Guiducci G, Paone A, Rinaldo S, Giardina G, Liberati FR, Cutruzzolá F, Tartaglia GG (2021) Modelling of SHMT1 riboregulation predicts dynamic changes of serine and glycine levels across cellular compartments. Computational and Structural Biotechnology Journal 19:3034–3041"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1016/j.csbj.2021.05.019
+ Keywords:
+  - Macromolecular Biochemistry
+ Locations:
+  - Centre for Genomic Regulation, The Barcelona Institute for Science and Technology, Dr. Aiguader 88, 08003 Barcelona, Spain
+  - Centre for Human Technologies, Istituto Italiano di Tecnologia (IIT), Enrico Melen 83, 16152 Genova, Italy
+  - Department of Biochemical Sciences, Sapienza University of Rome, P-le A.Moro 5, 00185 Rome, Italy
+  - ICREA, Passeig de Lluís Companys, 23, 08010 Barcelona, Spain
+  - Department of Biology and Biotechnology, Sapienza University of Rome, P-le A.Moro 5, 00185 Rome, Italy
+ Funding:
+  - EU ERC
+  - EU Horizon2020
+  - Spanish Ministry of Economy and Competitiveness
+  - The Wellcome Trust
+  - Barts Charity Grant
+  - Sapienza University of Rome
+ Methods:
+  - stochastic simulation
+-
  Reference: "Novichkov AI, Hanopolskyi AI, Miao X, Shimon LJW, Diskin-Posner Y, Semenov SN (2021) Autocatalytic and oscillatory reaction networks that form guanidines and products of their cyclization. Nature Communications 12:2994"
  Year: 2021
  URL: https://doi.org/10.1038/s41467-021-23206-9
