@@ -12960,6 +12960,23 @@
   - time course
   - parameter estimation
 -
+ Reference: "Qi Y, Huang Y, Wang H, Zhang Y, Bao Y, Sun L, Wu Y, Yu C, Song Z, Zheng L, Sun Y, Wang G, Li Y (2013) Elucidating the crosstalk mechanism between IFN-gamma and IL-6 via mathematical modelling. BMC Bioinformatics 14:41"
+ Year: 2013
+ Type: 2
+ URL: https://doi.org/10.1186/1471-2105-14-41
+ Keywords:
+  - Signaling
+ Locations:
+  - Northeast Normal University, Changchun 130024, China
+ Funding:
+  - National Natural Science Foundation of China
+  - Natural Science Foundation of Jilin Province, China
+  - National High Technology Research and Development Program of China
+  - Research Foundation of Jilin Provincial Science & Technology Development, China
+  - Fundamental Research Funds for the Central Universities, China
+ Methods:
+  - time course
+-
  Reference: "Ravichandran S, Rao KVS, Jain S (2013) Bistability in a model of early B cell receptor activation and its role in tonic signaling and system tunability. Molecular BioSystems 9:2498-2511"
  Year: 2013
  URL: https://doi.org/10.1039/C3MB70099B
