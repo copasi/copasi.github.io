@@ -14396,6 +14396,25 @@
  Locations:
   - California Institute of Technology, Pasadena, California 91125, USA
 -
+ Reference: "Proctor CJ, Lorimer IAJ (2011) Modelling the role of the Hsp70/Hsp90 system in the maintenance of protein homeostasis. PLOS One 6:e22038"
+ Year: 2011
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pone.0022038
+ Keywords:
+  - Macromolecular Biochemistry
+ Locations:
+  - Centre for Integrated Systems Biology of Ageing and Nutrition, Institute for Ageing and Health, Newcastle University, Newcastle upon Tyne, UK
+  - Ottawa Hospital Research Institute, Ottawa, Canada
+  - Department of Biochemistry, Microbiology and Immunology, University of Ottawa, Ottawa, Canada
+ Funding:
+  - Alzheimer Scotland
+  - Alzheimer’s Research UK
+  - Canadian Cancer Society
+ Methods:
+  - time course
+  - parameter scan
+  - stochastic simulation
+-
  Reference: "Qian L, Winfree E (2011) A simple DNA gate motif for synthesizing large-scale circuits. Journal of the Royal Society Interface 8:1281-97"
  Year: 2011
  URL: https://doi.org/10.1098/rsif.2010.0729
