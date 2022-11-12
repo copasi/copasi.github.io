@@ -8508,6 +8508,20 @@
   - time course
   - parameter scan
 -
+ Reference: "Kosey D, Singh S (2017) Computational design of molecular motors as nanocircuits in Leishmaniasis. F1000Research 6:94"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.12688/f1000research.10701.2
+ Keywords:
+  - Synthetic Biology
+ Locations:
+  - National Centre for Cell Science, NCCS Complex, SP Pune University Campus, Pune, India
+ Funding:
+  - Department of Biotechnology, Ministry of Science and technology, Government of India
+ Methods:
+  - steady state
+  - parameter scan
+-
  Reference: "Kwon JS, Everetts NJ, Wang X, Wang W, Della Croce K, Xing J, Yao G (2017) Controlling Depth of Cellular Quiescence by an Rb-E2F Network Switch. Cell Reports 20:3223–3235"
  Year: 2017
  URL: https://doi.org/10.1016/j.celrep.2017.09.007
