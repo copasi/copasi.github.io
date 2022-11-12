@@ -9773,6 +9773,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Rutkis R, Strazdina I, Balodite E, Lasa Z, Galinina N, Kalnenieks U (2016) The Low Energy-Coupling Respiration in Zymomonas mobilis Accelerates Flux in the Entner-Doudoroff Pathway. PLOS One 11:e0153866"
+ Year: 2016
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pone.0153866
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Location:
+  - Institute of Microbiology and Biotechnology, University of Latvia, Jelgavas Street 1, Riga, LV-1004, Latvia
+ Funding:
+  - Latvian Council of Science
+ Methods:
+  - steady state
+  - MCA
+  - time course
+-
  Reference: "Salcedo-Sora JE, McAuley MT (2016) A mathematical model of microbial folate biosynthesis and utilisation: implications for antifolate development. Molecular BioSystems 12:923–933"
  Year: 2016
  URL: https://doi.org/10.1039/C5MB00801H
