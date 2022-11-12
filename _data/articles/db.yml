@@ -9235,6 +9235,22 @@
  Methods:
   - time course
 -
+ Reference: "Jablonsky J, Papacek S, Hagemann M (2016) Different strategies of metabolic regulation in cyanobacteria: from transcriptional to biochemical control. Scientific Reports 6:33024"
+ Year: 2016
+ Type: 2
+ URL: https://doi.org/10.1038/srep33024
+ Keywords:
+  - Microbiology
+  - Metabolism
+ Locations:
+  - Institute of Complex Systems, FFPW, University of South Bohemia, Cenakva, Czech Republic
+  - Department of Plant Physiology, University of Rostock, Einsteinstr. 3, D-18059 Rostock, Germany
+ Funding:
+  - Ministry of Education, Youth and Sports of the Czech Republic
+  - DFG
+ Methods:
+  - SBML
+-
  Reference: "Jung J, Czabany T, Wilding B, Klempier N, Nidetzky B (2016) Kinetic analysis and probing with substrate analogues of the reaction pathway of the nitrile reductase QueF from Escherichia coli. Journal of Biological Chemistry 291:25411–25426"
  Year: 2016
  URL: https://doi.org/10.1074/jbc.M116.747014
