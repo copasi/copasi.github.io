@@ -9107,6 +9107,25 @@
  Methods:
   - time course
 -
+ Reference: "Gallimore AR, Aricescu AR, Yuzaki M, Calinescu R (2016) A Computational Model for the AMPA Receptor Phosphorylation Master Switch Regulating Cerebellar Long-Term Depression. PLOS Computational Biology 12:e1004664"
+ Year: 2016
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1004664
+ Keywords:
+  - Signaling
+ Locations:
+  - Department of Computer Science, University of York, York, UK
+  - Computational Neuroscience Unit, Okinawa Institute of Science and Technology Graduate University, Okinawa, Japan
+  - Division of Structural Biology, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK
+  - Department of Physiology, Graduate School of Medicine, Keio University, Tokyo, Japan
+ Funding:
+  - MRC
+  - Japan Society for the Promotion of Science
+  - Human Frontiers Science Program
+ Methods:
+  - time course
+  - sensitivity analysis
+-
  Reference: "Ganesan N, Li J, Sharma V, Jiang H, Compagnoni A (2016) Process Simulation of Complex Biological Pathways in Physical Reactive Space and Reformulated for Massively Parallel Computing Platforms. IEEE/ACM Transactions on Computational Biology and Bioinformatics 13:365–379"
  Year: 2016
  URL: https://doi.org/10.1109/TCBB.2015.2443784
