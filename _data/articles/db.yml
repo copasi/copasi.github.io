@@ -3357,6 +3357,22 @@
  Methods:
   - time course
 -
+ Reference: "Horváth D, Taricska N, Keszei E, Stráner P, Farkas V, Tóth GK, Perczel A (2020) Compactness of Protein Folds Alters Disulfide-Bond Reducibility by Three Orders of Magnitude: A Comprehensive Kinetic Case Study on the Reduction of Differently Sized Tryptophan Cage Model Proteins. ChemBioChem 21:681–695"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1002/cbic.201900470
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Institute of Chemistry, Eötvös Loránd University, 112, P. O. Box 32, 1518, Budapest, Hungary
+  - Department of Medical Chemistry, Faculty of General Medicine, University of Szeged, Szeged Dóm tér 8, H-6720, Szeged, Hungary
+ Funding:
+  - State of Hungary
+  - EU ERDF
+  - Hungarian Academy of Sciences
+ Methods:
+  - parameter estimation
+-
  Reference: "Howell RSM, Klemm C, Thorpe PH, Csikász-Nagy A (2020) Unifying the mechanism of mitotic exit control in a spatiotemporal logical model. PLOS Biology 18:e3000917"
  Year: 2020
  Type: 2
