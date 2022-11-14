@@ -3777,6 +3777,21 @@
   - time course
   - sliders
 -
+ Reference: "Morgan AE, Mc Auley MT (2020) Cholesterol Homeostasis: An In Silico Investigation into How Aging Disrupts Its Key Hepatic Regulatory Mechanisms. Biology 9:E314"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.3390/biology9100314
+ Keywords:
+  - Metabolism
+ Locations:
+  - Faculty of Science and Engineering, University of Chester, Thornton Science Park, Chester CH2 4NU, UK
+ Funding:
+  - British Society for Research on Ageing
+ Methods:
+  - steady state
+  - MCA
+  - parameter scan
+-
  Reference: "Noga MJ, Büke F, van den Broek NJF, Imholz NCE, Scherer N, Yang F, Bokinsky G (2020) Posttranslational Control of PlsB Is Sufficient To Coordinate Membrane Synthesis with Growth in Escherichia coli. mBio 11:e02703-19"
  Year: 2020
  Type: 2
