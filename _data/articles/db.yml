@@ -4936,6 +4936,21 @@
  Methods:
   - time course
 -
+ Reference: "Lombardo SD, Presti M, Mangano K, Petralia MC, Basile MS, Libra M, Candido S, Fagone P, Mazzon E, Nicoletti F, Bramanti A (2019) Prediction of PD-L1 Expression in Neuroblastoma via Computational Modeling. Brain Sciences 9:E221"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.3390/brainsci9090221
+ Keywords:
+  - Signaling
+ Locations:
+  -  Department of Biomedical and Biotechnological Sciences, University of Catania, 95123 Catania, Italy
+  - Istituti di Ricovero e Cura a Carattere Scientifico, Centro Neurolesi Bonino Pulejo, C.da Casazza, 98124 Messina, Italy
+ Funding:
+  - Centro Neurolesi Bonino Pulejo, Messina, Italy
+ Methods:
+  - parameter estimation
+  - sensitivity analysis
+-
  Reference: "Macikova L, Sinica V, Kadkova A, Villette S, Ciaccafava A, Faherty J, Lecomte S, Alves ID, Vlachova V (2019) Putative interaction site for membrane phospholipids controls activation of TRPA1 channel at physiological membrane potentials. FEBS Journal 286:3664–3683"
  Year: 2019
  Type: 2
