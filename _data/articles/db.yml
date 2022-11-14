@@ -3744,6 +3744,19 @@
   - steady state
   - python bindings
 -
+ Reference: "Mokry RL, Schumacher ML, Hogg N, Terhune SS (2020) Nitric Oxide Circumvents Virus-Mediated Metabolic Regulation during Human Cytomegalovirus Infection. mBio 11:e02630-20"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1128/mBio.02630-20
+ Keywords:
+  - Immunology
+ Locations:
+  - Medical College of Wisconsin, Milwaukee, Wisconsin, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+-
  Reference: "Mondeel TDGA, Ivanov O, Westerhoff HV, Liebermeister W, Barberis M (2020) Clb3-centered regulations are recurrent across distinct parameter regions in minimal autonomous cell cycle oscillator designs. npj Systems Biology and Applications 6:8"
  Year: 2020
  Type: 2
