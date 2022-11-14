@@ -8289,6 +8289,20 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Marchetti L, Lombardo R, Priami C (2017) HSimulator: Hybrid Stochastic/Deterministic Simulation of Biochemical Reaction Networks. Complexity 2017:1–12"
+ Year: 2017
+ Type: 3
+ URL: https://doi.org/10.1155/2017/1232868
+ Keywords:
+  - Computational Method
+ Locations:
+  - The Microsoft Research–University of Trento Centre for Computational and Systems Biology (COSBI), Piazza Manifattura, No. 1, 38068 Rovereto, Italy
+  - Department of Computer Science, University of Pisa, Pisa, Italy
+ Funding:
+  - Provincia Autonoma di Trento
+ Methods:
+  - stocahstic simulation
+-
  Reference: "Meng X, Firczuk H, Pietroni P, Westbrook R, Dacheux E, Mendes P, McCarthy JEG (2017) Minimum-noise production of translation factor eIF4G maps to a mechanistically determined optimal rate control window for protein synthesis. Nucleic Acids Research 45:1015–1025"
  Year: 2017
  Type: 2
