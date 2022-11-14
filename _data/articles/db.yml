@@ -3777,7 +3777,7 @@
   - time course
   - sliders
 -
- Reference: "Morgan AE, Mc Auley MT (2020) Cholesterol Homeostasis: An In Silico Investigation into How Aging Disrupts Its Key Hepatic Regulatory Mechanisms. Biology 9:E314"
+ Reference: "Morgan AE, McAuley MT (2020) Cholesterol Homeostasis: An In Silico Investigation into How Aging Disrupts Its Key Hepatic Regulatory Mechanisms. Biology 9:E314"
  Year: 2020
  Type: 2
  URL: https://doi.org/10.3390/biology9100314
@@ -4102,6 +4102,19 @@
  Methods:
   - time course
   - parameter estimation
+-
+ Reference: "Tian S, Jones SM, Solomon EI (2020) Role of a Tyrosine Radical in Human Ceruloplasmin Catalysis. ACS Central Science 6:1835–1843"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1021/acscentsci.0c00953
+ Keywords:
+  - Enzymology
+ Locations:
+  - Department of Chemistry, Stanford University, Stanford, California 94305, USA
+ Funding:
+  - NIH
+ Methods:
+  - paramter estimation
 -
  Reference: "Townrow OPE, Chung C, Macgregor SA, Weller AS, Goicoechea JM (2020) A Neutral Heteroatomic Zintl Cluster for the Catalytic Hydrogenation of Cyclic Alkenes. Journal of the American Chemical Society 142:18330–18335"
  Year: 2020
