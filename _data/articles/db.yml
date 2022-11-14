@@ -4177,6 +4177,22 @@
  Methods: 
   - stochastic simulation
 -
+ Reference: "Bakewell C, White AJP, Crimmin MR (2019) Reversible alkene binding and allylic C-H activation with an aluminium(i) complex. Chemical Science 10:2452–2458"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1039/c8sc04865g
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry , Imperial College London , South Kensington , London , SW7 2AZ , UK
+ Funding:
+  - EU ERC
+  - Royal Society
+  - Leverhulme Trust
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Bartoli V, Di Bernardo M, Gorochowski TE (2019) Tunable genetic devices through simultaneous control of transcription and translation. bioRxiv Preprint bioRxiv:711275"
  Year: 2019
  Type: 2
