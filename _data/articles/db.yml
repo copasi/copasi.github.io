@@ -8580,6 +8580,22 @@
  Methods:
   - time course
 -
+ Reference: "Simak M, Yeang C-H, Lu HH-S (2017) Exploring candidate biological functions by Boolean Function Networks for Saccharomyces cerevisiae. PLOS One 12:e0185475"
+ Year: 2017
+ Typee: 3
+ URL: https://doi.org/10.1371/journal.pone.0185475
+ Keywords:
+  - Computational Method
+ Locations:
+  - Taiwan International Graduate Program, Institute of Information Science, Academia Sinica, Taipei, Taiwan
+  - Institute of Statistics, National Chiao Tung University, Hsinchu, Taiwan
+  - Institute of Statistical Science, Academia Sinica, Taipei, Taiwan
+  - Big Data Research Center, National Chiao Tung University, Hsinchu, Taiwan
+ Funding:
+  - Ministry of Science and Technology, Taiwan
+ Methods:
+  - time course
+-
  Reference: "Stalidzans E, Mozga I, Sulins J, Zikmanis P (2017) Search for a Minimal Set of Parameters by Assessing the Total Optimization Potential for a Dynamic Model of a Biochemical Network. IEEE/ACM Transactions on Computational Biology and Bioinformatics 14:978–985"
  Year: 2017 
  URL: https://doi.org/10.1109/TCBB.2016.2550451
