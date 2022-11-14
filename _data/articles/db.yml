@@ -8497,6 +8497,24 @@
   - Babraham Institute, Cambridge, UK 
   - Centre for Integrative Physiology, University of Edinburgh, Edinburgh, UK
 -
+ Reference: "Schäuble S, Stavrum A-K, Bockwoldt M, Puntervoll P, Heiland I (2017) SBMLmod: a Python-based web application and web service for efficient data integration and model simulation. BMC Bioinformatics 18:314"
+ Year: 2017
+ Type: 3
+ URL: https://doi.org/10.1186/s12859-017-1722-9
+ Keywords:
+  - Software
+ Locations:
+  - Jena University Language & Information Engineering (JULIE) Lab, Friedrich-Schiller-University Jena, Jena, Germany
+  - Department of Informatics, University of Bergen, Bergen, Norway
+  - Department of Arctic and Marine Biology, UiT The Arctic University of Norway, Tromsø, Norway
+  - Centre for Applied Biotechnology, Uni Research Environment, Bergen, Norway
+ Funding:
+  - DAAD-exchange program between Norway and Germany
+  - Norwegian Research Council
+  - BMBF funded e:Med project
+ Methods:
+  - CopasiWS
+-
  Reference: "Schmölzer K, Eibinger M, Nidetzky B (2017) Active-Site His85 of Pasteurella dagmatis Sialyltransferase Facilitates Productive Sialyl Transfer and So Prevents Futile Hydrolysis of CMP-Neu5Ac. ChemBioChem 18:1544–1550"
  Year: 2017
  URL: https://doi.org/10.1002/cbic.201700113
