@@ -3331,6 +3331,19 @@
  Methods:
   - time course
 -
+ Reference: "Herrmann HA, Schwartz J-M, Johnson GN (2020) From empirical to theoretical models of light response curves - linking photosynthetic and metabolic acclimation. Photosynthesis Research 145:5–14"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1007/s11120-019-00681-2
+ Keywords:
+  - Metabolism
+ Locations:
+  - University of Manchester, Oxford Rd., Manchester M13 9PT, UK
+ Funding:
+  - BBSRC
+ Methods:
+  - parameter estimation
+-
  Reference: "Hinze T (2020) Coping with dynamical reaction system topologies using deterministic P modules: a case study of photosynthesis. Journal of Membrane Computing 2:281–289"
  Year: 2020
  Type: 3
