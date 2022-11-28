@@ -13213,6 +13213,17 @@
  Locations:
   - Coordinates: 40.0349052,-75.3395391
 -
+ Reference: "LeBaron R, Villareal G, Roberson DJ, Phelix C (2013) Abstract 5224: Breast cancer biomarkers from biosimulations: transcriptome-to-reactome™ technology. Cancer Research 73:5224"
+ Year: 2013
+ Type: 3
+ URL: https://doi.org/10.1158/1538-7445.AM2013-5224
+ Keywords:
+  - Genomics
+  - Computational Method
+ Locations:
+  - University of Texas at San Antonio, San Antonio, TX, USA
+  - AL Phahelix Biometrics, Inc., San Antonio, TX, USA
+-
  Reference: "Leroux AE, Haanstra JR, Bakker BM, Krauth-Siegel RL (2013) Dissecting the catalytic mechanism of Trypanosoma brucei trypanothione synthetase by kinetic analysis and computational modeling. Journal of Biological Chemistry 288:23751-23764"
  Year: 2013
  URL: https://doi.org/10.1074/jbc.M113.483289
