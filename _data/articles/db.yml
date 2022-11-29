@@ -14677,6 +14677,24 @@
  Locations:
   - Otto von Guericke University, Magdeburg, Germany
 -
+ Reference: "Schaber J, Baltanas R, Bush A, Klipp E, Colman-Lerner A (2012) Modelling reveals novel roles of two parallel signalling pathways and homeostatic feedbacks in yeast. Molecular Systems Biology 8:622"
+ Year: 2012
+ Type: 2
+ URL: https://doi.org/10.1038/msb.2012.53
+ Keywords:
+  - Signaling
+ Locations:
+  - Institute for Experimental Internal Medicine, Medical Faculty, Otto von Guericke University, Magdeburg, Germany
+  - Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
+  - Theoretical Biophysics, Department of Biology, Humboldt University, Berlin, Germany
+ Funding:
+  - EU FP7
+  - BMBF
+  - Argentine Ministry of Science and Productive Innovation (MYNCYT)
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Schimek C, Vlaic S, Wöstemeyer J, Werner S, Schuster S, Schroeter A (2012) Model of the synthesis of trisporic acid in Mucorales showing bistability. IET Systems Biology 6:207-214"
  Year: 2012
  URL: https://doi.org/10.1049/iet-syb.2011.0056
