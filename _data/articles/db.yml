@@ -748,6 +748,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Schälte Y, Klinger E, Alamoudi E, Hasenauer J (2022) pyABC: Efficient and robust easy-to-use approximate Bayesian computation. Journal of Open Source Software 7:4304"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.21105/joss.04304
+ Keywords:
+  - Software
+ Locations:
+  - Faculty of Mathematics and Natural Sciences, University of Bonn, Bonn, Germany
+  - Institute of Computational Biology, Helmholtz Center Munich, Neuherberg, Germany
+  - Center for Mathematics, Technical University Munich, Garching, Germany
+  - Department of Connectomics, Max Planck Institute for Brain Research, Frankfurt, Germany
+ Funding:
+  - BMBF
+  - DFG
+-
  Reference: "Shaikh B, Smith LP, Vasilescu D, Marupilla G, Wilson M, Agmon E, Agnew H, Andrews SS, Anwar A, Beber ME, Bergmann FT, Brooks D, Brusch L, Calzone L, Choi K, Cooper J, Detloff J, Drawert B, Dumontier M, Ermentrout GB, Faeder JR, Freiburger AP, Fröhlich F, Funahashi A, Garny A, Gennari JH, Gleeson P, Goelzer A, Haiman Z, Hasenauer J, Hellerstein JL, Hermjakob H, Hoops S, Ison JC, Jahn D, Jakubowski HV, Jordan R, Kalaš M, König M, Liebermeister W, Malik-Sheriff RS, Mandal S, McDougal R, Medley JK, Mendes P, Müller R, Myers CJ, Naldi A, Nguyen TVN, Nickerson DP, Olivier BG, Patoliya D, Paulevé L, Petzold LR, Priya A, Rampadarath AK, Rohwer JM, Saglam AS, Singh D, Sinha A, Snoep J, Sorby H, Spangler R, Starruß J, Thomas PJ, van Niekerk D, Weindl D, Zhang F, Zhukova A, Goldberg AP, Schaff JC, Blinov ML, Sauro HM, Moraru II, Karr JR (2022) BioSimulators: a central registry of simulation engines and services for recommending specific tools. Nucleic Acids Research 50: W108–W114"
  Year: 2022
  Type: 3
