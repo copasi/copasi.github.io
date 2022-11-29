@@ -2040,6 +2040,25 @@
   - time course
   - parameter estimation
 -
+ Reference: "Poucet T, Beauvoit B, González-Moro MB, Cabasson C, Pétriacq P, Flandin A, Gibon Y, Marino D, Dieuaide-Noubhani M (2022) Impaired cell growth under ammonium stress explained by modeling the energy cost of vacuole expansion in tomato leaves. The Plant Journal 112:1014–1028"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1111/tpj.15991
+ Keywords:
+  - Physiology
+  - Plant Biology
+ Locations:
+  - Department of Plant Biology and Ecology, University of the Basque Country, E-48940, Leioa, Spain
+  - Université de Bordeaux, INRAE, UMR Biologie du Fruit et Pathologie, Villenave d’Ornon 33140, France
+  - Ikerbasque, Basque Foundation for Science, E-48011, Bilbao, Spain
+ Funding:
+  - Basque Government
+  - Spanish Government
+  - EU FEDER
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Quiros DN, Nieto F, Mayorga LS (2021) From cartoons to quantitative models in Golgi transport. Biology of the Cell 113:146–164"
  Year: 2021
  Type: 2 
