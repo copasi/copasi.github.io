@@ -15272,6 +15272,17 @@
  Locations:
   - University of Wisconsin‐Madison, Madison WI, USA
 -
+ Reference: "Liu B, Hsu D, Thiagarajan PS (2011) Probabilistic approximations of ODEs based bio-pathway dynamics. Theoretical Computer Science 412:2188–2206"
+ Year: 2011
+ Type: 3
+ URL: https://doi.org/10.1016/j.tcs.2011.01.021
+ Keywords:
+  - Theory
+ Locations:
+  - National University of Singapore, Singapore
+ Funding:
+  - Singapore Ministry of Education
+-
  Reference: "Liu B, Zhang J, Tan PY, Hsu D, Blom AM, Leong B, Sethi S, Ho B, Ding JL, Thiagarajan PS (2011) A computational and experimental study of the regulatory mechanisms of the complement system. PLOS Computational Biology 7:e1001059"
  Year: 2011
  Type: 2
@@ -16508,7 +16519,7 @@
  Locations:
   - Technical University Munich, Garching, Germany
 -
- Reference: "Koh G, Hsu D, Thiagarajan P (2008) Composition of signaling pathway models and its application to parameter estimation. ACM International Conference on Computational Biology (RECOMB) Poster Book, Singapore"
+ Reference: "Koh G, Hsu D, Thiagarajan PS (2008) Composition of signaling pathway models and its application to parameter estimation. ACM International Conference on Computational Biology (RECOMB) Poster Book, Singapore"
  Year: 2008
  URL: http://www.comp.nus.edu.sg/~rpsysbio/publication/recomb08geof.pdf
  Keywords:
