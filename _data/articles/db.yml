@@ -333,6 +333,27 @@
   - Lyapunov exponents
   - cross sections
 -
+ Reference: "Garay-Ruiz D, Bo C (2022) Chemical reaction network knowledge graphs: the OntoRXN ontology. Journal of Cheminformatics 14:29"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.1186/s13321-022-00610-x
+ Keywords:
+  - Software
+  - Computational Method
+ Locations:
+  - Institute of Chemical Research of Catalonia, The Barcelona Institute of Science and Technology, Av. Països Catalans 16, 43007 Tarragona, Spain
+  - Departament de Química Física i Inorgànica, Universitat Rovira i Virgili, Marcel. lí Domingo s/n, 43007 Tarragona, Spain
+ Funding:
+  - ICIQ Foundation
+  - CERCA program
+  - Ministerio de Ciencia e Innovación, Spain
+  - Severo Ochoa Excellence Accreditation 2020-2023
+  - Secretaria d’Universitats i Recerca of the Generalitat de Catalunya
+  - EU European Social Fund
+ Methods:
+  - time course
+  - python API
+-
  Reference: "Greenyer H (2022) Evaluation of network inference algorithms and their effects on network analysis for the study of small metabolomic data sets. MS Thesis, University of Victoria, Canada."
  Year: 2022
  Type: 2
