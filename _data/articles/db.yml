@@ -16540,7 +16540,13 @@
  Locations:
   - University of Ottawa, Ottawa, Ontario, K1N 6N5, Canada
  Funding:
-  - NSERC and the University of Ottawa for support of this work. The Research Corpora- tion, Boehringer Ingelheim (Laval), Merck Frosst Canada, Merck Inc., Eli Lilly, Amgen, and Astra Zeneca Montreal
+  - NSERC
+  - University of Ottawa
+  - Boehringer Ingelheim
+  - Merck Frosst Canada, Merck Inc.
+  - Eli Lilly
+  - Amgen
+  - Astra Zeneca Montreal
 -
  Reference: "Cai Y, Lux MW, Adam L, Peccoud J (2009) Modeling Structure-Function Relationships in Synthetic DNA Sequences using Attribute Grammars. PLOS Computational Biology 5:e1000529"
  Year: 2009
