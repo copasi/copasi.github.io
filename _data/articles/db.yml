@@ -753,6 +753,25 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Poucet T, Beauvoit B, González-Moro MB, Cabasson C, Pétriacq P, Flandin A, Gibon Y, Marino D, Dieuaide-Noubhani M (2022) Impaired cell growth under ammonium stress explained by modeling the energy cost of vacuole expansion in tomato leaves. The Plant Journal 112:1014–1028"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1111/tpj.15991
+ Keywords:
+  - Physiology
+  - Plant Biology
+ Locations:
+  - Department of Plant Biology and Ecology, University of the Basque Country, E-48940, Leioa, Spain
+  - Université de Bordeaux, INRAE, UMR Biologie du Fruit et Pathologie, Villenave d’Ornon 33140, France
+  - Ikerbasque, Basque Foundation for Science, E-48011, Bilbao, Spain
+ Funding:
+  - Basque Government
+  - Spanish Government
+  - EU FEDER
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Ranallo S, Sorrentino D, Delibato E, Ercolani G, Plaxco KW, Ricci F (2022) Protein-Protein Communication Mediated by an Antibody-Responsive DNA Nanodevice. Angewandte Chemie 61:e202115680"
  Year: 2022
  Type: 3
@@ -2130,25 +2149,6 @@
   - Department of Chemistry, Colgate University, 13 Oak Drive, Hamilton, New York, USA
  Funding:
   - NSF
- Methods:
-  - time course
-  - parameter estimation
--
- Reference: "Poucet T, Beauvoit B, González-Moro MB, Cabasson C, Pétriacq P, Flandin A, Gibon Y, Marino D, Dieuaide-Noubhani M (2022) Impaired cell growth under ammonium stress explained by modeling the energy cost of vacuole expansion in tomato leaves. The Plant Journal 112:1014–1028"
- Year: 2022
- Type: 2
- URL: https://doi.org/10.1111/tpj.15991
- Keywords:
-  - Physiology
-  - Plant Biology
- Locations:
-  - Department of Plant Biology and Ecology, University of the Basque Country, E-48940, Leioa, Spain
-  - Université de Bordeaux, INRAE, UMR Biologie du Fruit et Pathologie, Villenave d’Ornon 33140, France
-  - Ikerbasque, Basque Foundation for Science, E-48011, Bilbao, Spain
- Funding:
-  - Basque Government
-  - Spanish Government
-  - EU FEDER
  Methods:
   - time course
   - parameter estimation
