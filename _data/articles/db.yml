@@ -108,6 +108,25 @@
   - time course
   - parameter estimation
 -
+ Reference: "Boldova AE, Korobkin JD, Nechipurenko YD, Sveshnikova AN (2022) Theoretical Explanation for the Rarity of Antibody-Dependent Enhancement of Infection (ADE) in COVID-19. International Journal of Molecular Sciences 23:11364"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.3390/ijms231911364
+ Keywords:
+  - Immunology
+ Locations:
+  - Russian Academy of Sciences, 30 Srednyaya Kalitnikovskaya Str., 109029 Moscow, Russia
+  - Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, 119991 Moscow, Russia
+  - Department of Normal Physiology, Sechenov First Moscow State Medical University, 8/2 Trubetskaya St., 119991 Moscow, Russia
+  - Faculty of Fundamental Physico-Chemical Engineering, Lomonosov Moscow State University, 1/51 Leninskie Gory, 119991 Moscow, Russia
+ Funding:
+  - Ministry of Education and Science of Russia
+ Methods:
+  - time course
+  - steady state
+  - sensitivity analysis
+  - parameter estimation
+-
  Reference: "Boonekamp FJ, Knibbe E, Vieira-Lara MA, Wijsman M, Luttik MAH, van Eunen K, Ridder M den, Bron R, Almonacid Suarez AM, van Rijn P, Wolters JC, Pabst M, Daran J-M, Bakker BM, Daran-Lapujade P (2022) Full humanization of the glycolytic pathway in Saccharomyces cerevisiae. Cell Reports 39:111010"
  Year: 2022
  Type: 2
