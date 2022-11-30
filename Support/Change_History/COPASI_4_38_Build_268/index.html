@@ -1,0 +1,62 @@
+---
+layout: structure
+title: "COPASI 4.38 Build 268"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.38.268</h3>
+    Release Date: November 30, 2022<br />
+
+    <h4>Bug Fixes since COPASI 4.37 (Build 264)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Improved import von Combine Archives containing multiple SED-ML files and task.
+          </li>
+          <li>
+            Improved display of the Fischer Information Matrix (FIM) and it's analysis supporting unscaled and scaled results
+            in different tabs. 
+          </li>
+          <li>
+            Fixed editing of function parameters under Mac OS Big-sur and Monterrey caused by switch to Qt 6.
+          </li>
+          <li>
+            Fixed editing of the weight in the experimental data for parameter fitting when using multiple experiments. 
+          </li>
+       </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Optimization and Parameter Fitting deal now properly with invalid start values for the optimization parameters.
+          </li>
+        </ul>
+      </li>
+      <li> Standards
+        <ul>
+          <li>
+            Support export to SBML of mathematical expression containing initial values.
+          </li>
+          <li>
+            When exporting to SBML all COPASI annotations are now prefixed.
+          </li>
+          <li>
+            Fixed SBML import of units using multipliers different from 1 to encode scaled units.
+          </li>
+          <li>
+            Improved Combine archive export by adding the master flag to SED-ML files.
+          </li>
+          <li>
+            Fixed Combine archive export of old COPASI files created with COPASI prior to COPASI 4.6 (Build 32).
+          </li>
+          <li>
+            Implemented SED-ML import of scan tasks using functional ranges. 
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
