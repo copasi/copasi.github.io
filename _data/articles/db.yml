@@ -15242,6 +15242,18 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Koh G, Hsu D, Thiagarajan PS (2011) Component-based construction of bio-pathway models: The parameter estimation problem. Theoretical Computer Science 412:2840–2853"
+ Year: 2011
+ Type: 3
+ URL: https://doi.org/10.1016/j.tcs.2011.02.013
+ Keywords:
+  - Computational Method
+ Locations:
+  - Bioprocessing Technology Institute, Agency for Science, Technology and Research, 20 Biopolis Way, 06-01 Centros, Singapore 138668, Singapore
+  - Department of Computer Science, National University of Singapore, Singapore
+ Methods:
+  - parameter estimation
+-
  Reference: "Kolodkin AN (2011) Emergence of design. PhD Thesis, Vrije Universiteit Amsterdam, The Netherlands."
  Year: 2011
  URL: http://hdl.handle.net/1871/22320
