@@ -499,6 +499,25 @@
  Methods:
   - time course
 -
+ Reference: "Lo-Thong-Viramoutou O, Charton P, Cadet XF, Grondin-Perez B, Saavedra E, Damour C, Cadet F (2022) Non-linearity of Metabolic Pathways Critically Influences the Choice of Machine Learning Model. Frontiers in Artificial Intelligence 5:744755"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.3389/frai.2022.744755
+ Keywords:
+  - Computational Method
+ Locations:
+  - University of Paris, Inserm, UMR_S1134, Paris, France
+  - Laboratory of Excellence GR-Ex, Paris, France
+  - Faculty of Sciences and Technology, University of La Reunion, Saint-Denis, France,
+  - PEACCEL, Artificial Intelligence Department, Paris, France
+  - Departamento de Bioquímica, Instituto Nacional de Cardiología Ignacio Chávez, Mexico City, Mexico
+ Funding:
+  - EU FEDER
+  - CONACyT-Mexico
+  - UKRI
+ Methods:
+  - time course
+-
  Reference: "Lucido A, Basallo O, Sorribas A, Marin-Sanguino A, Vilaprinyo E, Alves R (2022) A mathematical model for strigolactone biosynthesis in plants. Frontiers in Plant Science 13:979162"
  Year: 2022
  Type: 2
