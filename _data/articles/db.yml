@@ -1,4 +1,15 @@
 -
+ Reference: "Abraha BW, Marchisio MA (2023) Design of Gene Boolean Gates and Circuits with Convergent Promoters. In: Selvarajoo K (ed) Computational Biology and Machine Learning for Metabolic Engineering and Synthetic Biology. New York, NY: Springer US, 121–154."
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1007/978-1-0716-2617-7_7
+ Keywords:
+  - Synthetic Biology
+ Locations:
+  - School of Pharmaceutical Science and Technology, Tianjin University, Tianjin, China
+ Methods:
+  - paramter scan
+-
  Reference: "Abraha BW, Marchisio MA (2022) NOT Gates Based on Protein Degradation as a Case Study for a New Modular Modeling via SBML Level 3—Comp Package. Frontiers in Bioengineering and Biotechnology 10:845240"
  Year: 2022
  Type: 2
