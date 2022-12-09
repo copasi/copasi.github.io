@@ -1,6 +1,8 @@
 pages:
 - path: Events
   title: "Events"
+- path: Events/CCB2023
+  title: "24th Computational Cell Biology Workshop 2023"
 - path: Events/COPASI_Developer_Workshop_2022
   title: "COPASI Developer Workshop 2022"
 - path: Events/COPASI_Developer_Workshop_2019
