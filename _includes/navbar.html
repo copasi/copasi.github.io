@@ -40,10 +40,13 @@
         <li class="dropdown{% if cps_path.first == "Projects" %} active{% endif %}">
           <a title="Projects" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a title="Multistate Model Builder" href="{{ site.baseurl }}/Projects/Multistate_Model_Builder/">Multistate Model Builder</a></li>
+            <!-- <li><a title="Multistate Model Builder" href="{{ site.baseurl }}/Projects/Multistate_Model_Builder/">Multistate Model Builder</a></li>
             <li><a title="JigCell Run Manager 2.0" href="{{ site.baseurl }}/Projects/JigCell_Run_Manager_2_0/">JigCell Run Manager 2.0</a></li>
-            <li><a title="JigCell Model Connector" href="{{ site.baseurl }}/Projects/JigCell_Model_Connector/">JigCell Model Connector</a></li>
-	    <li><a title="Piecewise parameter fitting with COPASI" href="{{ site.baseurl }}/Projects/piecewise_parameter_fitting/"> Piecewise parameter fitting</a></li>
+            <li><a title="JigCell Model Connector" href="{{ site.baseurl }}/Projects/JigCell_Model_Connector/">JigCell Model Connector</a></li> -->
+	          <li><a title="basiCO: A simplified python interface to COPASI" target="_blank" href="https://basico.readthedocs.io/"> basiCO: A simplified python interface to COPASI</a></li>
+	          <li><a title="CoRC: the COPASI R Connector" target="_blank" href="https://jpahle.github.io/CoRC/index.html"> CoRC: the COPASI R Connector</a></li>
+	          <li><a title="Piecewise parameter fitting with COPASI" href="{{ site.baseurl }}/Projects/piecewise_parameter_fitting/"> Piecewise parameter fitting</a></li>
+            <li><a title="All projects" href="{{ site.baseurl }}/Projects/">All projects</a></li>
           </ul>
         </li>
         <li {% if cps_path.first == "Events" %} class="active" {% endif %} >
