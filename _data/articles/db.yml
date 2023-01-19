@@ -1162,6 +1162,22 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Wysocka EM, Page M, Snowden J, Simpson TI (2022) Comparison of rule- and ordinary differential equation-based dynamic model of DARPP-32 signalling network. PeerJ 10:e14516"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.7717/peerj.14516
+ Keywords:
+  - Computational Method
+ Locations:
+  - School of Informatics, University of Edinburgh, Edinburgh, UK
+  - UCB Celltech, Slough, Berkshire, UK
+ Funding:
+  - UCB PHARMA S.A.
+  - University of Edinburgh
+ Methods:
+  - time course
+  - stochastic simulation
+-
  Reference: "Xu Q, Rose JJ, Chen X, Wang L, DeMartino AW, Dent MR, Tiwari S, Bocian K, Huang XN, Tong Q, McTiernan CF, Guo L, Alipour E, Jones TC, Ucer KB, Kim-Shapiro DB, Tejero J, Gladwin MT (2022) Cell-free and alkylated hemoproteins improve survival in mouse models of carbon monoxide poisoning. JCI Insight 7:e153296"
  Year: 2022
  Type: 2
