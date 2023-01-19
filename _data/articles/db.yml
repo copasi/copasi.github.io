@@ -101,6 +101,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Ouyang X, Liu G, Ji S, Luo S, Shi T, Xu P, Zhao Y-L, Tang H (2023) Dioxetane and lactone pathways in dioxygenolytic ring cleavage catalyzed by 2,5-dihydroxypyridine dioxygenase. Chem Catalysis 3:100480"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1016/j.checat.2022.11.019
+ Keywords:
+  - Enzymology
+ Locations:
+  - School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, P. R. China
+ Funding:
+  - "National Key R&D Program of China"
+  - National Natural Science Foundation of China
+ Methods:
+  - time course
+-
  Reference: "Abraha BW, Marchisio MA (2022) NOT Gates Based on Protein Degradation as a Case Study for a New Modular Modeling via SBML Level 3—Comp Package. Frontiers in Bioengineering and Biotechnology 10:845240"
  Year: 2022
  Type: 2
