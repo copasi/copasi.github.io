@@ -81,6 +81,26 @@
   - time course
   - parameter estimation
 -
+ Reference: "Neiburga KD, Muiznieks R, Zake DM, Pentjuss A, Komasilovs V, Rohwer J, Tissier A, Stalidzans E (2023) Total optimization potential (TOP) approach based constrained design of isoprene and cis-abienol production in A. thaliana. Biochemical Engineering Journal 190:108723"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1016/j.bej.2022.108723
+ Keywords:
+  - Metabolism
+  - Biotechnology
+  - Plant Biology
+ Locations:
+  - Latvia University of Life Sciences and Technologies, Liela iela 2, Jelgava LV3001, Latvia
+  - Institute of Microbiology and Biotechnology, University of Latvia, Jelgavas iela 1, Riga LV1004, Latvia
+  - Department of Biochemistry, Stellenbosch University, Private Bag X1, Matieland, 7602 Stellenbosch, South Africa
+  - Leibniz Institute of Plant Biochemistry, Weinberg 3, 06120 Halle (Saale), Germany
+ Funding:
+  - ERASynBio
+  - University of Latvia
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Abraha BW, Marchisio MA (2022) NOT Gates Based on Protein Degradation as a Case Study for a New Modular Modeling via SBML Level 3—Comp Package. Frontiers in Bioengineering and Biotechnology 10:845240"
  Year: 2022
  Type: 2
@@ -1013,6 +1033,22 @@
  Funding:
   - BMBF
   - DFG
+-
+ Reference: "Schmallegger M, Grützmacher H, Gescheidt G (2022) Bis(acyl)phosphine Oxides as Stoichiometric Photo-Reductants for Copper Nanoparticle Synthesis: Efficiency and Kinetics. ChemPhotoChem 6:e202200155"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1002/cptc.202200155
+ Keywords:
+  - Chemistry
+ Locations:
+  - Institute of Physical and Theoretical Chemistry, Graz University of Technology, Stremayrgasse 9, 8010 Graz, Austria
+  - Department of Chemistry and Applied Biosciences, ETH Zürich, Vladimir-Prelog Weg 1, 8093 Zürich, Switzerland
+ Funding:
+  - NAWI Graz
+  - Austria Wirtschaftsservice aws
+ Methods:
+  - parameter estimation
+  - time course
 -
  Reference: "Shaikh B, Smith LP, Vasilescu D, Marupilla G, Wilson M, Agmon E, Agnew H, Andrews SS, Anwar A, Beber ME, Bergmann FT, Brooks D, Brusch L, Calzone L, Choi K, Cooper J, Detloff J, Drawert B, Dumontier M, Ermentrout GB, Faeder JR, Freiburger AP, Fröhlich F, Funahashi A, Garny A, Gennari JH, Gleeson P, Goelzer A, Haiman Z, Hasenauer J, Hellerstein JL, Hermjakob H, Hoops S, Ison JC, Jahn D, Jakubowski HV, Jordan R, Kalaš M, König M, Liebermeister W, Malik-Sheriff RS, Mandal S, McDougal R, Medley JK, Mendes P, Müller R, Myers CJ, Naldi A, Nguyen TVN, Nickerson DP, Olivier BG, Patoliya D, Paulevé L, Petzold LR, Priya A, Rampadarath AK, Rohwer JM, Saglam AS, Singh D, Sinha A, Snoep JL, Sorby H, Spangler R, Starruß J, Thomas PJ, van Niekerk DD, Weindl D, Zhang F, Zhukova A, Goldberg AP, Schaff JC, Blinov ML, Sauro HM, Moraru II, Karr JR (2022) BioSimulators: a central registry of simulation engines and services for recommending specific tools. Nucleic Acids Research 50: W108–W114"
  Year: 2022
