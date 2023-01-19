@@ -198,6 +198,24 @@
  Methods:
   - sensitivity analysis
 -
+ Reference: "Bergman D, Marazzi L, Chowkwale M, Maheshvare M D, Bidanta S, Mapder T, Li J (2022) PhysiPKPD: A pharmacokinetics and pharmacodynamics module for PhysiCell. Gigabyte 2022:1–11"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.46471/gigabyte.72
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Mathematics, University of Michigan, Ann Arbor, MI 48109, USA
+  - Center for Quantitative Medicine, University of Connecticut School of Medicine, Farmington, CT, 06030, USA
+  - Department of Biomedical Engineering, University of Virginia, Charlottesville, VA 22908, USA
+  - Department of Computational and Data Sciences, Indian Institute of Science, Bengaluru 560012, India
+  - Indiana University, Bloomington, IN 47405, USA
+  - Quantitative Systems Pharmacology, Bristol-Myers Squibb, Princeton Lawrenceville, NJ, USA
+  - McGill University, Montréal, QC H3A 0G4, Canada
+ Methods:
+  - model definition
+  - events
+-
  Reference: "Berzins K, Muiznieks R, Baumanis MR, Strazdina I, Shvirksts K, Prikule S, Galvanauskas V, Pleissner D, Pentjuss A, Grube M, Kalnenieks U, Stalidzans E (2022) Kinetic and Stoichiometric Modeling-Based Analysis of Docosahexaenoic Acid (DHA) Production Potential by Crypthecodinium cohnii from Glycerol, Glucose and Ethanol. Marine Drugs 20:115"
  Year: 2022
  Type: 2
