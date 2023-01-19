@@ -201,6 +201,19 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Bauerstätter P (2022) Compartment Modeling of Overweight in Toddler Age: Modeling and Simulating a Diets Effect with COPASI. SNE Simulation Notes Europe 32:221–224"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.11128/sne.32.sn.10626
+ Keywords:
+  - Physiology
+  - Computational Method
+ Locations:
+  - Austrian Institute of Technology, Center for Health and Bioresources, Giefinggasse 4, 1210, Vienna, Austria
+  - TU Wien, Inst. of Analysis and Scientific Computation, Wiedner Hauptstrasse 8-10, 1040 Vienna, Austria
+ Methods:
+  - time course
+-
  Reference: "Bell M (2022) Mechanochemical modeling of structural plasticity in synapses. Ph.D. Thesis, University of California San Diego, USA."
  Year: 2022
  Type: 2
