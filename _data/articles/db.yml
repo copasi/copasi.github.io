@@ -8569,6 +8569,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Chua HE, Bhowmick SS, Tucker-Kellogg L (2017) Synergistic target combination prediction from curated signaling networks: Machine learning meets systems biology and pharmacology. Methods 129:60–80"
+ Year: 2017
+ Type: 3
+ URL: https://doi.org/10.1016/j.ymeth.2017.05.015
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  - Nanyang Technological University, Singapore
+  - DUKE-NUS Medical School, Singapore
+ Funding:
+  - Ministry of Education, Singapore
+ Methods:
+  - time course
+  - sensitivity analysis
+  - Java bindings
+-
  Reference: "Chung R, Hein JE (2017) The More, The Better: Simultaneous In Situ Reaction Monitoring Provides Rapid Mechanistic and Kinetic Insight. Topics in Catalysis 60:594–608"
  Year: 2017
  Type: 3
