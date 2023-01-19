@@ -8885,6 +8885,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Milivojević A, Ćorović M, Carević M, Banjanac K, Vujisić L, Veličković D, Bezbradica D (2017) Highly efficient enzymatic acetylation of flavonoids: Development of solvent-free process and kinetic evaluation. Biochemical Engineering Journal 128:106–115"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1016/j.bej.2017.09.018
+ Keywords:
+  - Biotechnology
+  - Enzymology
+ Locations:
+  - Department of Biochemical Engineering and Biotechnology, Faculty of Technology and Metallurgy, University of Belgrade, Karnegijeva 4, 11000 Belgrade, Serbia
+  - Faculty of Chemistry, University of Belgrade, Studentski trg 12, 11000 Belgrade, Serbia
+  - Environmental Molecular Sciences Laboratory, Pacific Northwest National Laboratory, Richland, WA 99354, USA
+ Funding:
+  - Serbian Ministry of Education
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Millard P, Smallbone K, Mendes P (2017) Metabolic regulation is sufficient for global and robust coordination of glucose uptake, catabolism, energy production and growth in Escherichia coli. PLOS Computational Biology 13:e1005396"
  Year: 2017
  URL: https://doi.org/10.1371/journal.pcbi.1005396
