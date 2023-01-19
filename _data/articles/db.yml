@@ -4260,6 +4260,21 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Sotnikov DV, Byzova NA, Zvereva EA, Bartosh AV, Zherdev AV, Dzantiev BB (2020) Mathematical modeling of immunochromatographic test systems in a competitive format: Analytical and numerical approaches. Biochemical Engineering Journal 164:107763"
+ Year: 2020
+ Type: 3
+ URL: https://doi.org/10.1016/j.bej.2020.107763
+ Keywords:
+  - Computational Method
+  - Laboratory Method
+ Locations:
+  - A.N. Bach Institute of Biochemistry, Federal Research Centre Fundamentals of Biotechnology, Russian Academy of Sciences, Leninsky prospect 33, Moscow 119071, Russia
+ Methods:
+  - time course
+ Funding:
+  - Russian Foundation for Basic Research
+  - Ministry of Science and Higher Education of the Russian Federation
+-
  Reference: "Sotnikov DV, Zherdev AV, Dzantiev BB (2020) Lateral Flow Serodiagnosis in the Double-Antigen Sandwich Format: Theoretical Consideration and Confirmation of Advantages. Sensors 21:39"
  Year: 2020
  Type: 2
