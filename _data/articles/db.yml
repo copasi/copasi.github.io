@@ -16253,6 +16253,21 @@
  Funding:
   - National Institutes of Health (Grant GM069559 to J.A.E.), the National Science Foundation (predoctoral fel- lowship to D.A.C.), and the Director and Office of Energy Research Office of Basic Energy Sciences, Chemical Sci- ences Division, U.S. Department of Energy (Contract DE- AC02-05CH11231 to R.G.B.)
 -
+ Reference: "Costa RS, Machado D, Ferreira EC, Rocha I (2010) Evaluating the integration of proteomic data for the prediction of intracellular fluxes after knockout experiments. IFAC Proceedings Volumes 43:114–119"
+ Year: 2010
+ Type: 2
+ URL: https://doi.org/10.3182/20100707-3-BE-2012.0108
+ Keywords:
+  - Computational Method
+  - Metabolism
+ Locations:
+  - Institute for Biotechnology and Bioengineering, Centre of Biological Engineering, University of Minho, Portugal
+ Funding:
+  - MIT-Portugal
+  - Portuguese Science Foundation
+ Methods:
+  - steady state
+-
  Reference: "Dada JO, Spasić I, Paton NW, Mendes P (2010) SBRML: a markup language for associating systems biology data with models. Bioinformatics 26:932–938"
  Year: 2010
  URL: https://doi.org/10.1093/bioinformatics/btq069
