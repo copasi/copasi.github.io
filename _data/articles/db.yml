@@ -9174,6 +9174,18 @@
   - time course
   - stochastic simulation
 -
+ Reference: "Leber A, Hontecillas R, Abedi V, Tubau-Juni N, Zoccoli-Rodriguez V, Stewart C, Bassaganya-Riera J (2017) Modeling new immunoregulatory therapeutics as antimicrobial alternatives for treating Clostridium difficile infection. Artificial Intelligence in Medicine 78:1–13"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1016/j.artmed.2017.05.003
+ Keywords:
+  - Immunology
+ Locations:
+  - Biocomplexity Institute, Virginia Tech, Blacksburg, VA, USA
+ Methods:
+  - stochastic simulation
+  - condor-copasi
+-
  Reference: "Man-Sai A, Siles-Canales F, Mora-Rodríguez R (2017) A biocomputational platform for the automated construction of large-scale mathematical models of miRNA-transcription factor networks for studies on gene dosage compensation. 2016 IEEE 36th Central American and Panama Convention (CONCAPAN XXXVI), San Jose, 2016, pp. 1-7"
  Year: 2017
  Type: 2
