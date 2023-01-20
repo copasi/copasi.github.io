@@ -15267,6 +15267,19 @@
  Locations:
   - Keio University, Tsuruoka, Japan
 -
+ Reference: "Rahimi O, Phelix C, Perry G (2012) Transcriptome-To-Reactome Biosimulation: Oxidative Pathways to Apoptotic Cell Death. Alzheimer’s & Dementia 8:P478–P479"
+ Year: 2012
+ Type: 2
+ URL: https://doi.org/10.1016/j.jalz.2012.05.1293
+ Keywords:
+  - Signaling
+  - Cell Biology
+ Locations:
+  - University of Texas Health Science Center at San Antonio, San Antonio, Texas, USA
+  - University of Texas at San Antonio, San Antonio, Texas, USA
+ Methods:
+  - parameter estimation
+-
  Reference: "Ray JCJ, Igoshin OA (2012) Interplay of Gene Expression Noise and Ultrasensitive Dynamics Affects Bacterial Operon Organization. PLOS Computational Biology 8:e1002672"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pcbi.1002672
