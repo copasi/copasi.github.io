@@ -15224,6 +15224,20 @@
  Locations:
   - Indian Institute of Technology Kanpur, Kanpur, India
 -
+ Reference: "Phelix C, Rahimi O, Colom L, Perry G, Ginsberg S (2012) Transcriptome-to-reactome biosimulation: Basal forebrain cholinergic neuron neurotrophin signaling. Alzheimer’s & Dementia 8:P467–P468"
+ Year: 2012
+ Type: 2
+ URL: https://doi.org/10.1016/j.jalz.2012.05.1253
+ Keywords:
+  - Signaling
+ Locations:
+  - University of Texas at San Antonio, San Antonio, Texas, USA
+  - University of Texas Health Science Center at San Antonio, San Antonio, Texas, USA
+  - University of Texas at Brownsville, Brownsville, Texas, USA
+  - New York University Langone Medical Center, Orangeburg, New York, USA
+ Methods:
+  - parameter estimation
+-
  Reference: "Pinna F, Sahle S, Beuke K, Bissinger M, Tuncay S, D’Alessandro LA, Gauges R, Raue A, Timmer J, Klingmüller U, Schirmacher P, Kummer U, Breuhahn K (2012) A Systems Biology Study on NFκB Signaling in Primary Mouse Hepatocytes. Frontiers in Physiology 3:466"
  Year: 2012
  URL: https://doi.org/10.3389/fphys.2012.00466
