@@ -16208,6 +16208,20 @@
   - BBSRC
   - EPSRC
 -
+ Reference: "Degasperi A, Calder M (2010) Relating PDEs in Cylindrical Coordinates and CTMCs with Levels of Concentration. Electronic Notes in Theoretical Computer Science 268:49–59"
+ Year: 2010
+ Type: 3
+ URL: https://doi.org/10.1016/j.entcs.2010.12.005
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Computing Science, University of Glasgow, Glasgow, UK
+ Funding:
+  - EPSRC
+  - University of Glasgow
+ Methods:
+  - time course
+-
  Reference: "Dimitrova E, Vera-Licona P, McGee J, Laubenbacher R (2010) Discretization of Time Series Data. Journal of Computational Biology 17:853-68."
  Year: 2010
  URL: https://doi.org/10.1089/cmb.2008.0023
