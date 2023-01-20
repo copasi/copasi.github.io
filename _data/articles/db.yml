@@ -11357,7 +11357,7 @@
  Locations:
   - École Nationale Supérieure de Chimie de Rennes, 11 allée des Beaulieu, CS 50837, 35708 Rennes Cedex 7, France
   - Université européenne de Bretagne
-  - Laboratoire de Traitement des Eaux a Naturelles, Centre des Recherches et Technologies des eaux, BP 273 Soliman 8020, Tunisie
+  - Laboratoire de Traitement des Eaux a Naturelles, Centre des Recherches et Technologies des eaux, BP 273 Soliman 8020, Tunisia
  Methods:
   - time course
 -
@@ -13108,6 +13108,21 @@
  Funding:
   - NSF
   - Camille and Henry Dreyfus Postdoctoral Program in Environmental Chemistry
+-
+ Reference: "Mol M, Patole MS, Singh S (2014) Immune signal transduction in leishmaniasis from natural to artificial systems: role of feedback loop insertion. Biochimica et Biophysica Acta 1840:71–79"
+ Year: 2014
+ Type: 2
+ URL: https://doi.org/10.1016/j.bbagen.2013.08.018
+ Keywords:
+  - Signaling
+  - Immunology
+ Locations:
+  - National Centre for Cell Science, NCCS Complex, Ganeshkhind, Pune University Campus, Pune 411007, India
+ Funding:
+  - Ministry of Science and Technology, Government of India
+  - Department of Biotechnology, Government of India
+ Methods:
+  - Time course
 -
  Reference: "Mozga I, Stalidzans E (2014) Reduction of Combinatorial Space of Adjustable Kinetic Parameters of Biochemical Network Models in Optimisation Task. Baltic Journal of Modern Computing 150:150–159"
  Year: 2014
