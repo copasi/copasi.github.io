@@ -16993,6 +16993,21 @@
  Locations:
   - Durham University, Durham DH1 3LE, UK
 -
+ Reference: "Ma H, Boogerd FC, Goryanin I (2009) Modelling nitrogen assimilation of Escherichia coli at low ammonium concentration. Journal of Biotechnology 144:175–183"
+ Year: 2009
+ Type: 2
+ URL: https://doi.org/10.1016/j.jbiotec.2009.09.003
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Locations:
+  - School of Informatics, the University of Edinburgh, Informatics Forum, 10 Crichton Street, Edinburgh, EH8 9AB, UK
+  - Department of Molecular Cell Physiology, Faculty of Earth and Life Sciences, Vrije Universiteit, Amsterdam, The Netherlands
+ Funding:
+  - EU FP6
+ Methods:
+  - steady state
+-
  Reference: "Magarkar A, Banerji A, Kolhi S (2009) Quantification of Biological Robustness at the Systemic Level. arXiv preprint arXiv:0903.4844"
  Year: 2009
  URL: https://arxiv.org/abs/0903.4844
