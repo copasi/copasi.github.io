@@ -2820,6 +2820,18 @@
   - parameter estimation
   - time course
 -
+ Reference: "Soni B, Singh S (2021) COVID-19 co-infection mathematical model as guided through signaling structural framework. Computational and Structural Biotechnology Journal 19:1672–1683"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1016/j.csbj.2021.03.028
+ Keywords:
+  - Signaling
+  - Immunology
+ Locations:
+  - National Centre for Cell Science, NCCS Complex, Ganeshkhind, SPPU Campus, Pune 411007, India
+ Methods:
+  - steady state
+-
  Reference: "Sotnikov DV, Berlina AN, Zherdev AV, Dzantiev BB (2021) Theoretical limitations for aggregation methods of analysis based on affine interactions. AIP Conference Proceedings 2371:070001"
  Year: 2021
  Type: 2
