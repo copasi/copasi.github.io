@@ -11348,6 +11348,19 @@
  Funding:
   - Academy of Finland
 -
+ Reference: "Azizi M, Biard P-F, Couvert A, Ben Amor M (2015) Competitive kinetics study of sulfide oxidation by chlorine using sulfite as reference compound. Chemical Engineering Research and Design 94:141–152"
+ Year: 2015
+ Type: 2
+ URL: https://doi.org/10.1016/j.cherd.2014.07.023
+ Keywords:
+  - Chemistry
+ Locations:
+  - École Nationale Supérieure de Chimie de Rennes, 11 allée des Beaulieu, CS 50837, 35708 Rennes Cedex 7, France
+  - Université européenne de Bretagne
+  - Laboratoire de Traitement des Eaux a Naturelles, Centre des Recherches et Technologies des eaux, BP 273 Soliman 8020, Tunisie
+ Methods:
+  - time course
+-
  Reference: "Bodei C, Bortolussi L, Chiarugi D, Guerriero ML, Policriti A, Romanel A (2015) On the impact of discreteness and abstractions on modelling noise in gene regulatory networks. Computational Biology and Chemistry 56:98-1089"
  Year: 2015
  URL: https://doi.org/10.1016/j.compbiolchem.2015.04.004
