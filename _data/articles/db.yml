@@ -16383,6 +16383,21 @@
  Methods:
   - steady state
 -
+ Reference: "Costa RS, Machado D, Rocha I, Ferreira EC (2010) Hybrid dynamic modeling of Escherichia coli central metabolic network combining Michaelis-Menten and approximate kinetic equations. BioSystems 100:150–157"
+ Year: 2010
+ Type: 2
+ URL: https://doi.org/10.1016/j.biosystems.2010.03.001
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Locations:
+  - IBB-Institute for Biotechnology and Bioengineering, Centre of Biological Engineering, Universidade do Minho, Campus de Gualtar, 4710-057 Braga, Portugal
+ Funding:
+  - Fundação para a Ciência e a Tecnologia, Portugal
+  - MIT-Portugal
+ Methods:
+  - parameter estimation
+-
  Reference: "Dada JO, Spasić I, Paton NW, Mendes P (2010) SBRML: a markup language for associating systems biology data with models. Bioinformatics 26:932–938"
  Year: 2010
  URL: https://doi.org/10.1093/bioinformatics/btq069
