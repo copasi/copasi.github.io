@@ -4214,6 +4214,27 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Martyanov AA, Balabin FA, Dunster JL, Panteleev MA, Gibbins JM, Sveshnikova AN (2020) Control of Platelet CLEC-2-Mediated Activation by Receptor Clustering and Tyrosine Kinase Signaling. Biophysical Journal 118:2641–2655"
+ Year: 2020
+ Type: 2
+ URL: https://doi.org/10.1016/j.bpj.2020.04.023
+ Keywords:
+  - Immunology
+  - Signaling
+ Locations:
+  - Center for Theoretical Problems of Physico-chemical Pharmacology, Russian Academy of Sciences, Moscow, Russia
+  - Dmitry Rogachev National Medical Research Centre of Pediatric Hematology, Oncology and Immunology, Moscow, Russia
+  - Institute for Biochemical Physics, Russian Academy of Sciences, Moscow, Russia
+  - Faculty of Physics, Lomonosov Moscow State University, Moscow, Russia
+  - Institute for Cardiovascular and Metabolic Research, School of Biological Sciences, Harborne Building, University of Reading, Whiteknights, Reading, UK
+  - Faculty of Biological and Medical Physics, Moscow Institute of Physics and Technology, Dolgoprudnyi, Russia
+  - Department of Normal Physiology, Sechenov First Moscow State Medical University, Moscow, Russia
+ Funding:
+  - Russian Science Foundation
+ Methods:
+  - time course
+  - sensitivity analysis
+-
  Reference: "Martyanov AA, Morozova DS, Sorokina MA, Filkova AA, Fedorova DV, Uzueva SS, Suntsova EV, Novichkova GA, Zharkov PA, Panteleev MA, Sveshnikova AN (2020) Heterogeneity of Integrin αIIbβ3 Function in Pediatric Immune Thrombocytopenia Revealed by Continuous Flow Cytometry Analysis. International Journal of Molecular Sciences 21:3035"
  Year: 2020
  Type: 2
