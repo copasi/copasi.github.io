@@ -16952,6 +16952,29 @@
   - time course
   - sensitivity analysis
 -
+ Reference: "Pieper I, Wechler K, Katzberg M, Brusch L, Sørensen PG, Mensonides F, Bertau M (2009) Biosimulation of drug metabolism--a yeast based model. European Journal of Pharmaceutical Sciences 36:157–170"
+ Year: 2009
+ Type: 2
+ URL: https://doi.org/10.1016/j.ejps.2008.10.026
+ Keywords:
+  - Metabolism
+  - Pharmacology
+ Locations:
+  - Freiberg University of Mining and Technology, Institute of Technical Chemistry, 09596 Freiberg, Germany
+  - Dresden University of Technology, Institute of Biochemistry, 01062 Dresden, Germany
+  - University of Copenhagen, Department of Chemistry, H.C. Ørsted Institute, Universitetsparken 5, 2100 Copenhagen Ø, Denmark
+  - University of Heidelberg, Department of Modelling of Biological Processes, Institute for Zoology/BIOQUANT, INF 267, 69120 Heidelberg, Germany
+ Funding:
+  - EU
+  - German Environment Foundation
+  - Danish Natural Science Research Council
+  - European Science Foundation,
+  - Klaus Tschira Foundation
+  - Fonds der Chemischen Industrie
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Pingoud V, Wende W, Friedhoff P, Reuter M, Alves J, Jeltsch A, Mones L, Fuxreiter M, Pingoud A (2009) On the Divalent Metal Ion Dependence of DNA Cleavage by Restriction Endonucleases of the EcoRI Family. Journal of Molecular Biology 393:140-60"
  Year: 2009
  URL: https://doi.org/10.1016/j.jmb.2009.08.011
