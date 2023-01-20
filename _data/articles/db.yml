@@ -9262,6 +9262,22 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Nakatani-Webster E, Nath A (2017) Inferring Mechanistic Parameters from Amyloid Formation Kinetics by Approximate Bayesian Computation. Biophysical Journal 112:868–880"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1016/j.bpj.2017.01.011
+ Keywords:
+  - Macromolecular Biochemistry
+  - Computational Method
+ Locations:
+  - Department of Medicinal Chemistry, University of Washington, Seattle, Washington, USA
+ Funding:
+  - University of Washington
+  - NIH
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Orlenko A, Chi PB, Liberles DA (2017) Characterizing the roles of changing population size and selection on the evolution of flux control in metabolic pathways. BMC Evolutionary Biology 17:117"
  Year: 2017 
  URL: https://doi.org/10.1186/s12862-017-0962-7
