@@ -8883,6 +8883,18 @@
   - parameter estimation
   - time course
 -
+ Reference: "Hay S (2017) Extracting Kinetic Isotope Effects From a Global Analysis of Reaction Progress Curves. Methods in Enzymology 596:85–111"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1016/bs.mie.2017.06.041
+ Keywords:
+  - Enzymology
+ Locations:
+  - Manchester Institute of Biotechnology, The University of Manchester, Manchester M1 7DN, UK
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Hendrickx DM, Souza T, Jennen DG, Kleinjans JC (2017) DTNI: a novel toxicogenomics data analysis tool for identifying the molecular mechanisms underlying the adverse effects of toxic compounds. Archives of Toxicology 91:2343–2352"
  Year: 2017
  Type: 3
