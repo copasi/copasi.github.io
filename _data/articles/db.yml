@@ -14537,21 +14537,6 @@
   - Coordinates: 18.547104, 73.831279
   - Coordinates: 21.146627, 79.050112
 -
- Reference: "Scheller S, Goenrich M, Thauer RK, Jaun B (2013) Methyl-coenzyme M reductase from methanogenic archaea: isotope effects on label exchange and ethane formation with the homologous substrate ethyl-coenzyme M. Journal of the American Chemical Society 135:14985-14995"
- Year: 2013
- URL: https://doi.org/10.1021/ja4064876
- Keywords:
-  - Chemistry
-  - Enzymology
- Type: 2
- Locations:
-  - Coordinates: 50.8068216,8.8087063
-  - Coordinates: 47.3757262,8.545752
- Funding:
-  - Swiss National Science Foundation
-  - Max Planck Society
-  - Fonds der Chemischen Industrie
--
  Reference: "Schäuble S, Stavrum A-K, Puntervoll P, Schuster S, Heiland I (2013) Effect of substrate competition in kinetic models of metabolic networks. FEBS Letters 587:2818-2824"
  Year: 2013
  URL: https://doi.org/10.1016/j.febslet.2013.06.025
@@ -14569,6 +14554,35 @@
   - German academic exchange service
  Methods:
   - time course
+-
+ Reference: "Scheller S, Goenrich M, Thauer RK, Jaun B (2013) Methyl-coenzyme M reductase from methanogenic archaea: isotope effects on label exchange and ethane formation with the homologous substrate ethyl-coenzyme M. Journal of the American Chemical Society 135:14985-14995"
+ Year: 2013
+ URL: https://doi.org/10.1021/ja4064876
+ Keywords:
+  - Chemistry
+  - Enzymology
+ Type: 2
+ Locations:
+  - Coordinates: 50.8068216,8.8087063
+  - Coordinates: 47.3757262,8.545752
+ Funding:
+  - Swiss National Science Foundation
+  - Max Planck Society
+  - Fonds der Chemischen Industrie
+-
+ Reference: "Schokker D, Bannink A, Smits MA, Rebel JMJ (2013) A mathematical model representing cellular immune development and response to Salmonella of chicken intestinal tissue. Journal of Theoretical Biology 330:75–87"
+ Year: 2013
+ Type: 2
+ URL: https://doi.org/10.1016/j.jtbi.2013.04.005
+ Keywords:
+  - Immunology
+ Locations:
+  - Genetics and Genomics, Wageningen UR Livestock Research, Wageningen UR, The Netherlands
+  - Central Veterinary Institute, Wageningen UR, The Netherlands
+ Methods:
+  - time course
+  - sensitivity analysis
+  - parameter estimation
 -
  Reference: "Sharma V (2013) Language design for computational modeling, simulation, and visualization. Proceedings of the 2013 Winter Simulation Conference: Simulation: Making Decisions in a Complex World. Washington, D.C.: IEEE Press, 3934–3935"
  Year: 2013
