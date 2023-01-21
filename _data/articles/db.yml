@@ -5081,6 +5081,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Bhatt P, Pal K, Bhandari G, Barh A (2019) Modelling of the methyl halide biodegradation in bacteria and its effect on environmental systems. Pesticide Biochemistry and Physiology 158:88–100"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.pestbp.2019.04.015
+ Keywords:
+  - Metabolism
+  - Environmental Sciences
+ Locations:
+  - Department of Microbiology, Dolphin (P.G) Institute of Biomedical and Natural Sciences Dehradun, Uttarakhand, India
+  - Sardar Bhagwan Singh University, Dehradun, Uttarakhand, India
+  - ICAR-Directorate of Mushroom Research, Solan, H.P, India
+ Methods:
+  - Java binding to CellDesigner
+-
  Reference: "Boba P (2019) Graphenrekonstruktion anhand abhängiger Zeitreihen in biologischen Netzwerken. Ph.D. Thesis, Technische Universität Darmstadt, Germany."
  Year: 2019
  URL: https://tuprints.ulb.tu-darmstadt.de/9128/
