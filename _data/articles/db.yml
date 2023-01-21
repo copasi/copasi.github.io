@@ -10666,6 +10666,24 @@
   - time course
   - parameter estimation
 -
+ Reference: "Michalak P, Sobral BW, Abedi V, Kim YB, Deng X, Philipson C, Viladomiu M, Lu P, Wendelsdorf K, Hontecillas R, Bassaganya-Riera J (2016) From Big Data Analytics and Network Inference to Systems Modeling. Computational Immunology. Elsevier, 113–144."
+ Year: 2016
+ Type: 3
+ URL: https://doi.org/10.1016/B978-0-12-803697-6.00007-2
+ Keywords:
+  - Computational Method
+  - Immunology
+ Locations:
+  - Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, VA, USA
+  - One Health Institute, Colorado State University, Fort Collins, CO, USA
+  - Department of Statistics, Virginia Tech, Blacksburg, VA, USA
+  - Biotherapeutics Inc., Blacksburg, VA, USA
+  - Applied Advanced Genomics, QIAGEN, Redwood City, CA, USA
+ Funding:
+  - NIH
+ Methods:
+  - paramter estimation
+-
  Reference: "Mizeranschi A, Swain MT, Scona R, Fazilleau Q, Bosak B, Piontek T, Kopta P, Thompson P, Dubitzky W (2016) MultiGrain/MAPPER: A distributed multiscale computing approach to modeling and simulating gene regulation networks. Future Generation Computer Systems 63:1–14"
  Year: 2016
  URL: https://doi.org/10.1016/j.future.2016.04.002
