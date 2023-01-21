@@ -13561,6 +13561,25 @@
  Methods:
   - time course
 -
+ Reference: "Ryll A, Bucher J, Bonin A, Bongard S, Gonçalves E, Saez-Rodriguez J, Niklas J, Klamt S (2014) A model integration approach linking signalling and gene-regulatory logic with kinetic metabolic models. BioSystems 124:26–38"
+ Year: 2014
+ Type: 2
+ URL: https://doi.org/10.1016/j.biosystems.2014.07.002
+ Keywords:
+  - Metabolism
+  - Signaling
+  - Genetics
+ Locations:
+  - Max Planck Institute for Dynamics of Complex Technical Systems, Sandtorstraße 1, D-39106 Magdeburg, Germany
+  - Insilico Biotechnology AG, Meitnerstraße 8, D-70563 Stuttgart, Germany
+  - European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton CB10 1SD, Cambridge, United Kingdom
+ Funding:
+  - BMBF
+  - EU FP7
+  - Cosmetics Europe) for funding.
+ Methods:
+  - time course
+-
  Reference: "Sakkalis V, Sfakianakis S, Tzamali E, Marias K, Stamatakos G, Misichroni F, Ouzounoglou E, Kolokotroni E, Dionysiou D, Johnson D, McKeever S, Graf N (2014) Web-based workflow planning platform supporting the design and execution of complex multiscale cancer models. IEEE Journal of Biomededical Health Informatics 18:824-31"
  Year: 2014
  URL: https://doi.org/10.1109/JBHI.2013.2297167
