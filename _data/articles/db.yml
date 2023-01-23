@@ -489,6 +489,25 @@
   - steady state
   - time course
 -
+ Reference: "Fueyo-González F, McGinty M, Ningoo M, Anderson L, Cantarelli C, Andrea Angeletti  null, Demir M, Llaudó I, Purroy C, Marjanovic N, Heja D, Sealfon SC, Heeger PS, Cravedi P, Fribourg M (2022) Interferon-β acts directly on T cells to prolong allograft survival by enhancing regulatory T cell induction through Foxp3 acetylation. Immunity 55:459-474.e7"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1016/j.immuni.2022.01.011
+ Keywords:
+  - Immunology
+ Locations:
+  - Icahn School of Medicine at Mount Sinai, New York City, NY, USA
+  - Carter Immunology Center, University of Virginia, Charlottesville, VA 22903, USA
+  - UO Nefrologia, Azienda Ospedaliero-Universitaria Parma, Parma, Italy
+  - Division of Nephrology, Dialysis, Transplantation, IRCCS Giannina Gaslini, Genoa, Italy
+  - Department of Anesthesiology, University of Cologne, Cologne, Germany
+  - Department of Nephrology, Complejo Hospitalario de Navarra, Navarra, Spain
+ Funding:
+  - NIH
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Gallas JAC, Olsen LF (2022) Complexity in subnetworks of a peroxidase-oxidase reaction model. Chaos 32:063122"
  Type: 2
  Year: 2022
