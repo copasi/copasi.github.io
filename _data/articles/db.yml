@@ -10958,6 +10958,26 @@
   - time course
   - parameter estimation
 -
+ Reference: "Podoplelova NA, Sveshnikova AN, Kurasawa JH, Sarafanov AG, Chambost H, Vasil’ev SA, Demina IA, Ataullakhanov FI, Alessi M-C, Panteleev MA (2016) Hysteresis-like binding of coagulation factors X/Xa to procoagulant activated platelets and phospholipids results from multistep association and membrane-dependent multimerization. Biochimica et Biophysica Acta 1858:1216–1227"
+ Year: 2016
+ Type: 2
+ URL: https://doi.org/10.1016/j.bbamem.2016.02.008
+ Keywords:
+  - Immunology
+  - Biochemistry
+  - Biophysics
+ Locations:
+  - Federal Research and Clinical Centre of Pediatric Hematology, Oncology and Immunology, Moscow 117198, Russia
+  - Laboratory of Molecular Mechanisms of Hemostasis, Center for Theoretical Problems of Physicochemical Pharmacology, Moscow 119991, Russia
+  - Faculty of Physics, Moscow State University, Moscow 119992, Russia
+  - U.S. Food and Drug Administration, Center for Biologics Evaluation and Research, Silver Spring, MD 20993, USA
+  - Department of Pediatric Onco-Hematology, APHM, La Timone Hospital, Aix-Marseille University, Marseille, France
+  - National Research Center for Hematology, Moscow 125167, Russia
+  - Faculty of Biological and Medical Physics, Moscow Institute of Physics and Technology, Dolgoprudny 141700, Russia
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Proctor CJ, Gartland A (2016) Simulated interventions to ameliorate age-related bone loss indicate the importance of timing. Frontiers in Endocrinology 7:61"
  Year: 2016
  URL: https://doi.org/10.3389/fendo.2016.00061
