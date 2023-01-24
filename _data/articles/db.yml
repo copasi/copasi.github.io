@@ -8900,6 +8900,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Elsts A, Pentjuss A, Stalidzans E (2017) SpaceScanner: COPASI wrapper for automated management of global stochastic optimization experiments. Bioinformatics 33:2966–2967"
+ Year: 2017
+ Type: 3
+ URL: https://doi.org/10.1093/bioinformatics/btx363
+ Keywords:
+  - Software
+  - Computational Method
+ Locations:
+  - Department of Electrical and Electronic Engineering, University of Bristol, Bristol BS8 1UB, UK
+  - Institute of Microbiology and Biotechnology, University of Latvia, Riga LV-1004, Latvia
+ Methods:
+  - optimization
+-
  Reference: "Fieser ME, Sanford MJ, Mitchell LA, Dunbar CR, Mandal M, Van Zee NJ, Urness DM, Cramer CJ, Coates GW, Tolman WB (2017) Mechanistic Insights into the Alternating Copolymerization of Epoxides and Cyclic Anhydrides Using a (Salph) AlCl and Iminium Salt Catalytic System. Journal of the American Chemical Society 139:15222–15231"
  Year: 2017
  Type: 2
