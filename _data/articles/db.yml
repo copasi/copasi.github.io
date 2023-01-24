@@ -1354,6 +1354,21 @@
   - parameter estimation
   - time course
 -
+ Reference: "Uematsu S, Ohno S, Tanaka KY, Hatano A, Kokaji T, Ito Y, Kubota H, Hironaka K-I, Suzuki Y, Matsumoto M, Nakayama KI, Hirayama A, Soga T, Kuroda S (2022) Multi-omics-based label-free metabolic flux inference reveals obesity-associated dysregulatory mechanisms in liver glucose metabolism. iScience 25:103787"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1016/j.isci.2022.103787
+ Keywords:
+  - Metabolism
+ Locations:
+  - Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8562, Japan
+  - Graduate School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan
+  - Department of Omics and Systems Biology, Graduate School of Medical and Dental Sciences, Niigata University, 757 Ichibancho, Asahimachi-dori, Chuo-ku, Niigata City, Niigata 951-8510, Japan
+  - Medical Institute of Bioregulation, Kyushu University, 3-1-1 Maidashi, Higashi-ku, Fukuoka 812-8582, Japan
+  - Institute for Advanced Biosciences, Keio University, 246-2 Mizukami, Kakuganji, Tsuruoka, Yamagata 997-0052, Japan
+ Methods:
+  - steady state
+-
  Reference: "Wang M (2022) Bottom-up synthesis of Nicotinamide Adenine Dinucleotide (NAD) regeneration modules for artificial cells. PhD Thesis, Otto von Guericke Universität Magdeburg, Germany"
  Year: 2022
  Type: 2
