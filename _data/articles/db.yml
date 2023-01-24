@@ -9190,7 +9190,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Ismail AM, Mohamad MS, Abdul Majid H, Abas KH, Deris S, Zaki N, Mohd Hashim SZ, Ibrahim Z, Remli MA (2017) An improved hybrid of particle swarm optimization and the gravitational search algorithm to produce a kinetic parameter estimation of aspartate biochemical pathways. Bio Systems 162:81–89"
+ Reference: "Ismail AM, Mohamad MS, Abdul Majid H, Abas KH, Deris S, Zaki N, Mohd Hashim SZ, Ibrahim Z, Remli MA (2017) An improved hybrid of particle swarm optimization and the gravitational search algorithm to produce a kinetic parameter estimation of aspartate biochemical pathways. BioSystems 162:81–89"
  Year: 2017
  Type: 3
  URL: https://doi.org/10.1016/j.biosystems.2017.09.013
@@ -9304,7 +9304,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Komasilovs V, Pentjuss A, Elsts A, Stalidzans E (2017) Total enzyme activity constraint and homeostatic constraint impact on the optimization potential of a kinetic model. Biosystems 162:128-134"
+ Reference: "Komasilovs V, Pentjuss A, Elsts A, Stalidzans E (2017) Total enzyme activity constraint and homeostatic constraint impact on the optimization potential of a kinetic model. BioSystems 162:128-134"
  Year: 2017
  URL: https://doi.org/10.1016/j.biosystems.2017.09.016
  Type: 3
@@ -10857,7 +10857,7 @@
  Locations:
   - Harvard University, Cambridge, MA, USA
 -
- Reference: "Morgan AE, Mooney KM, Wilkinson SJ, Pickles NA, McAuley MT (2016) Mathematically modelling the dynamics of cholesterol metabolism and ageing. Biosystems 145:19–32"
+ Reference: "Morgan AE, Mooney KM, Wilkinson SJ, Pickles NA, McAuley MT (2016) Mathematically modelling the dynamics of cholesterol metabolism and ageing. BioSystems 145:19–32"
  Year: 2016
  URL: https://doi.org/10.1016/j.biosystems.2016.05.001
  Keywords:
@@ -12711,7 +12711,7 @@
  Locations:
   - Heidelberg University, Heidelberg, Germany
 -
- Reference: "Zimmer C, Sahle S (2015) A termination criterion for parameter estimation in stochastic models in systems biology. Biosystems 9:181-92"
+ Reference: "Zimmer C, Sahle S (2015) A termination criterion for parameter estimation in stochastic models in systems biology. BioSystems 9:181-92"
  Year: 2015
  URL: https://doi.org/10.1016/j.biosystems.2015.08.003
  Keywords:
@@ -13223,7 +13223,7 @@
  Funding:
   - DOE
 -
- Reference: "Khandekar DC, Palai T, Agarwal A, Bhattacharya PK (2014) Kinetics of sucrose conversion to fructo-oligosaccharides using enzyme (invertase) under free condition. Bioprocess and Biosystems Engineering 37:2529–2537"
+ Reference: "Khandekar DC, Palai T, Agarwal A, Bhattacharya PK (2014) Kinetics of sucrose conversion to fructo-oligosaccharides using enzyme (invertase) under free condition. Bioprocess and BioSystems Engineering 37:2529–2537"
  Year: 2014
  URL: https://doi.org/10.1007/s00449-014-1230-5
  Type: 2
@@ -13349,7 +13349,7 @@
  Funding:
   - BMBF
 -
- Reference: "Machado D, Rodrigues LR, Rocha I (2014) A kinetic model for curcumin production in Escherichia coli. Biosystems 125:16-21"
+ Reference: "Machado D, Rodrigues LR, Rocha I (2014) A kinetic model for curcumin production in Escherichia coli. BioSystems 125:16-21"
  Year: 2014
  URL: https://doi.org/10.1016/j.biosystems.2014.09.001
  Keywords:
@@ -15463,7 +15463,7 @@
  Methods:
   - time course
 -
- Reference: "Kostromins A, Mozga I, Stalidzans E (2012) ConvAn: A convergence analyzing tool for optimization of biochemical networks. Biosystems 108:73-77"
+ Reference: "Kostromins A, Mozga I, Stalidzans E (2012) ConvAn: A convergence analyzing tool for optimization of biochemical networks. BioSystems 108:73-77"
  Year: 2012
  URL: https://doi.org/10.1016/j.biosystems.2011.12.004
  Keywords:
@@ -15811,7 +15811,7 @@
   - Institute of Mathematical Sciences, Chennai, India
   - Tata Memorial Centre, Navi Mumbai, India
 -
- Reference: "Schaber J (2012) Easy parameter identifiability analysis with COPASI. Biosystems 110:183-185"
+ Reference: "Schaber J (2012) Easy parameter identifiability analysis with COPASI. BioSystems 110:183-185"
  Year: 2012
  URL: https://doi.org/10.1016/j.biosystems.2012.09.003
  Keywords:
@@ -17302,7 +17302,7 @@
   - NIH
   - EPSRC
 -
- Reference: "Ibrahim B, Schmitt E, Dittrich P, Diekmann S (2009) In silico study of kinetochore control, amplification, and inhibition effects in MCC assembly. Biosystems 95:35-50"
+ Reference: "Ibrahim B, Schmitt E, Dittrich P, Diekmann S (2009) In silico study of kinetochore control, amplification, and inhibition effects in MCC assembly. BioSystems 95:35-50"
  Year: 2009
  URL: https://doi.org/10.1016/j.biosystems.2008.06.007
  Keywords:
