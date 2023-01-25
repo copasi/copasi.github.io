@@ -15587,6 +15587,20 @@
  Methods:
   - time course
 -
+ Reference: "Kloster A, Olsen LF (2012) Oscillations in glycolysis in Saccharomyces cerevisiae: the role of autocatalysis and intracellular ATPase activity. Biophysical Chemistry 165–166:39–47"
+ Year: 2012
+ Type: 2
+ URL: https://doi.org/10.1016/j.bpc.2012.03.003
+ Keywords:
+  - Metabolism
+ Locations:
+  - Department of Biochemistry and Molecular Biology, University of Southern Denmark, Campusvej 55, DK-5230 Odense M, Denmark
+ Funding:
+  - Siemens Foundation
+  - Danish Research Council for Technology and Production
+ Methods:
+  - time course
+-
  Reference: "Kostromins A, Mozga I, Stalidzans E (2012) ConvAn: A convergence analyzing tool for optimization of biochemical networks. BioSystems 108:73-77"
  Year: 2012
  URL: https://doi.org/10.1016/j.biosystems.2011.12.004
