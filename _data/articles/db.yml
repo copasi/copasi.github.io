@@ -10404,6 +10404,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "delToro D, Ortiz D, Ordyan M, Sippy J, Oh C-S, Keller N, Feiss M, Catalano CE, Smith DE (2016) Walker-A Motif Acts to Coordinate ATP Hydrolysis with Motor Output in Viral DNA Packaging. Journal of Molecular Biology 428:2709–2729"
+ Year: 2016
+ Type: 2
+ URL: https://doi.org/10.1016/j.jmb.2016.04.029
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Department of Physics, University of California, San Diego, La Jolla, CA 92093, USA
+  - Department of Medicinal Chemistry, University of Washington, Seattle, WA 98195, USA
+  - Department of Microbiology, Roy J. and Lucille A. Carver College of Medicine, University of Iowa, Iowa City, IA 52242, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Di Camillo B, Carlon A, Eduati F, Toffolo GM (2016) A rule-based model of insulin signalling pathway. BMC Systems Biology 10:38"
  Year: 2016
  URL: https://doi.org/10.1186/s12918-016-0281-4
