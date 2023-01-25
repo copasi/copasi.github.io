@@ -6981,6 +6981,24 @@
   - time course
   - parameter scan
 -
+ Reference: "Yang X, Yuan Q, Luo H, Li F, Mao Y, Zhao X, Du J, Li P, Ju X, Zheng Y, Chen Y, Liu Y, Jiang H, Yao Y, Ma H, Ma Y (2019) Systematic design and in vitro validation of novel one-carbon assimilation pathways. Metabolic Engineering 56:142–153"
+ Year: 2019
+ Type: 2
+ URL: https://doi.org/10.1016/j.ymben.2019.09.001
+ Keywords:
+  - Metabolism
+  - Synthetic Biology
+ Locations:
+  - Key Laboratory of Systems Microbial Biotechnology, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China
+  - Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308, China
+  - University of Chinese Academy of Sciences, Beijing, 100049, China
+ Funding:
+  - National Key Research and Development Program of China
+  - Chinese Academy of Sciences
+  - National Natural Science Foundation of China
+ Methods:
+  - time course
+-
  Reference: "Yeoh JW, Ng KBI, Teh AY, Zhang J, Chee WKD, Poh CL (2019) An Automated Biomodel Selection System (BMSS) for Gene Circuit Designs. ACS Synthetic Biology 8:1484–1497"
  Year: 2019
  Type: 3
