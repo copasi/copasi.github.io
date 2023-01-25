@@ -10229,6 +10229,19 @@
  Methods:
   - stochastic simulation
 -
+ Reference: "Altıntaş A, Davidsen K, Garde C, Mortensen UH, Brasen JC, Sams T, Workman CT (2016) High-resolution kinetics and modeling of hydrogen peroxide degradation in live cells. Free Radical Biology & Medicine 101:143–153"
+ Year: 2016
+ Type: 2
+ URL: https://doi.org/10.1016/j.freeradbiomed.2016.10.006
+ Keywords:
+  - Metabolism
+ Locations:
+  - Technical University of Denmark, Kongens Lyngby DK-2800, Denmark
+ Funding:
+  - EU FP7
+ Methods:
+  - time course
+-
  Reference: "Andrews SS, Peria WJ, Richard CY, Colman-Lerner A, Brent R (2016) Push-pull and feedback mechanisms can align signaling system outputs with inputs. Cell Systems 3:444–455"
  Year: 2016
  URL: https://doi.org/10.1016/j.cels.2016.10.002
