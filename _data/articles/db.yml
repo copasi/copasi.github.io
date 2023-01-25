@@ -18248,3 +18248,22 @@
   - Department of Molecular and Biochemical Pharmacology, Vrije Universiteit Brussel, Pleinlaan 2, B-1050 Brussels, Belgium
  Methods:
   - time course
+-
+ Reference: "Kummer U, Krajnc B, Pahle J, Green AK, Dixon CJ, Marhl M (2005) Transition from stochastic to deterministic behavior in calcium oscillations. Biophysical Journal 89:1603–1611"
+ Year: 2005
+ Type: 2
+ URL: https://doi.org/10.1529/biophysj.104.057216
+ Keywords:
+  - Signaling
+ Locations:
+  -  Bioinformatics and Computational Biochemistry Group, EML Research, D-69118 Heidelberg, Germany
+  - Department of Physics, Faculty of Education, University of Maribor, SI-2000 Maribor, Slovenia
+  - Department of Biological Sciences, The University of Warwick, Coventry, CV4 7AL, UK
+  - Leicester School of Pharmacy, De Montfort University, Leicester, LE1 7BH, UK
+ Funding:
+  - Klaus Tschira Foundation
+  - BMBF
+  - Wellcome Trust
+ Methods:
+  - time course
+  - stochastic simulation
