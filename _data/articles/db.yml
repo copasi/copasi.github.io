@@ -927,6 +927,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Marazzi L, Shah M, Balakrishnan S, Patil A, Vera-Licona P (2022) NETISCE: a network-based tool for cell fate reprogramming. npj Systems Biology and Applications 8:21"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.1038/s41540-022-00231-y
+ Keywords:
+  - Computational Method
+ Locations:
+  - Center for Quantitative Medicine, University of Connecticut School of Medicine, 195 Farmington Avenue, Farmington, CT, 06030, USA
+  - Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, 400 Farmington Avenue, Farmington, CT, 06030, USA
+ Funding:
+  - University of Connecticut
+ Methods:
+  - time course
+-
  Reference: "Mattila H, Tyystjärvi E (2022) Light-induced damage to photosystem II at a very low temperature (195 K) depends on singlet oxygen. Physiologia Plantarum 174:e13824"
  Year: 2022
  Type: 2
