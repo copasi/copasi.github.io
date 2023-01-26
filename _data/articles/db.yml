@@ -830,6 +830,19 @@
  Methods:
   - time course
 -
+ Reference: "Liu Y, Wang W, Zeng A-P (2022) Biosynthesizing structurally diverse diols via a general route combining oxidative and reductive formations of OH-groups. Nature Communications 13:1595"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1038/s41467-022-29216-5
+ Keywords:
+  - Biotechnology
+  - Synthetic Biology
+ Locations:
+  - Hamburg University of Technology, Institute of Bioprocess and Biosystems Engineering, Denickestrasse 15, Hamburg, 21073, Germany
+  - Center of Synthetic Biology and Integrated Bioengineering, School of Engineering, Westlake University, Hangzhou, Zhejiang, 310024, China
+ Methods:
+  - model editing
+-
  Reference: "Lo-Thong-Viramoutou O, Charton P, Cadet XF, Grondin-Perez B, Saavedra E, Damour C, Cadet F (2022) Non-linearity of Metabolic Pathways Critically Influences the Choice of Machine Learning Model. Frontiers in Artificial Intelligence 5:744755"
  Year: 2022
  Type: 3
