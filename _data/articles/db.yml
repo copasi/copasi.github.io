@@ -10526,6 +10526,23 @@
  Methods:
   - time course
 -
+ Reference: "Firdaus MY, Brask J, Nielsen PM, Guo Z, Fedosov S (2016) Kinetic model of biodiesel production catalyzed by free liquid lipase from Thermomyces lanuginosus. Journal of Molecular Catalysis B: Enzymatic 133:55–64"
+ Year: 2016
+ Type: 2
+ URL: https://doi.org/10.1016/j.molcatb.2016.07.011
+ Keywords:
+  - Biotechnology
+  - Enzymology
+ Locations:
+  - Aarhus University, 8000 Aarhus, Denmark
+  - School of Chemical Sciences and Food Technology, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Malaysia
+  - Novozymes A/S, Krogshøjvej 36, 2880 Bagsværd, Copenhagen, Denmark
+ Funding:
+  - Ministry of Higher Education of Malaysia
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Firdaus MY, Guo Z, Fedosov SN (2016) Development of kinetic model for biodiesel production using liquid lipase as a biocatalyst, esterification step. Biochemical Engineering Journal 105:52–61"
  Year: 2016
  Type: 2
