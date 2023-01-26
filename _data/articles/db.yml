@@ -1267,6 +1267,25 @@
   - steady state
   - optimization
 -
+ Reference: "Shelton MG, Kerns KA, Castora FJ, Coleman RA (2022) Incorporating Mitochondrial Gene Expression Changes Within a Testable Mathematical Model for Alzheimer’s Disease: Stress Response Modulation Predicts Potential Therapeutic Targets. Journal of Alzheimer’s Disease 90:109–117"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.3233/JAD-220163
+ Keywords:
+  - Signaling
+  - Metabolism
+ Locations:
+  - Department of Chemistry, The College of William and Mary, Williamsburg, VA, USA
+  - Department of Physiological Sciences, Division of Biochemistry, Eastern Virginia Medical School, Norfolk, VA, USA
+  - Department of Neurology, Eastern Virginia Medical School, Norfolk, VA, USA
+ Funding:
+  - Virginia Center of Aging Alzheimer’s and Related Diseases Research Award Foundation (USA)
+  - Commonwealth Health Research Board, Virginia, USA
+ Methods:
+  - parameter estimation
+  - optimization
+  - sensitivity analysis
+-
  Reference: "Sinner EK, Townsend CA (2022) Purification and characterization of sequential cobalamin-dependent radical SAM methylases ThnK and TokK in carbapenem β-lactam antibiotic biosynthesis. Methods in Enzymology 669:29–44"
  Year: 2022
  Type: 2
