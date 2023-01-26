@@ -11708,6 +11708,27 @@
   - parameter estimation
   - stochastic simulation
 -
+ Reference: "Talemi SR, Tiger C-F, Andersson M, Babazadeh R, Welkenhuysen N, Klipp E, Hohmann S, Schaber J (2016) Systems Level Analysis of the Yeast Osmo-Stat. Scientific Reports 6:30950"
+ Year: 2016
+ Type: 2
+ URL: https://doi.org/10.1038/srep30950
+ Keywords:
+  - Signaling
+ Locations:
+  - Institut für Experimentelle Innere Medizin, Medizinische Fakultät, Otto-von-Guericke-Universität, Magdeburg, Germany
+  - Division of Theoretical Systems Biology, German Cancer Research Center (DKFZ), Heidelberg, Germany
+  - Department of Chemistry and Molecular Biology, University of Gothenburg, SE-405 30 Göteborg, Sweden
+  - Theoretical Biophysics, Humboldt Universität zu Berlin, Berlin, Germany.
+  - Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Göteborg, Sweden
+ Funding:
+  - Ministry of Education of Saxony-Anhalt, Germany
+  - International Max Planck Research School Magdeburg for Advanced Methods in Process and Systems Engineering
+  - BMBF
+  - EU FP7
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Thiaville JJ, Frelin O, García-Salinas C, Harrison K, Hasnain G, Horenstein NA, de la Garza RID, Henry CS, Hanson AD, de Crécy-Lagard V (2016) Experimental and Metabolic Modeling Evidence for a Folate-Cleaving Side-Activity of Ketopantoate Hydroxymethyltransferase (PanB). Frontiers in Microbiology 7:431"
  Year: 2016
  URL: https://doi.org/10.3389/fmicb.2016.00431
