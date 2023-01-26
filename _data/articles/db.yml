@@ -9720,6 +9720,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Opgenorth PH, Korman TP, Iancu L, Bowie JU (2017) A molecular rheostat maintains ATP levels to drive a synthetic biochemistry system. Nature Chemical Biology 13:938–942"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1038/nchembio.2418
+ Keywords:
+  - Synthetic Biology
+ Locations:
+  - Department of Chemistry and Biochemistry, UCLA-DOE Institute for Genomics and Proteomics, Molecular Biology Institute, University of California, Los Angeles, Los Angeles, California, USA
+ Funding:
+  - DOE
+ Methods:
+  - time course
+-
  Reference: "Orlenko A, Chi PB, Liberles DA (2017) Characterizing the roles of changing population size and selection on the evolution of flux control in metabolic pathways. BMC Evolutionary Biology 17:117"
  Year: 2017 
  URL: https://doi.org/10.1186/s12862-017-0962-7
