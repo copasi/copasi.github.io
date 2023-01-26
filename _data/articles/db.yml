@@ -406,6 +406,25 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Deem MC, Derasp JS, Malig TC, Legard K, Berlinguette CP, Hein JE (2022) Ring walking as a regioselectivity control element in Pd-catalyzed C-N cross-coupling. Nature Communications 13:2869"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1038/s41467-022-30255-1
+ Keywords:
+  - Chemistry
+ Locations:
+  - The University of British Columbia, 2360 East Mall, Vancouver, BC, V6T 1Z3, Canada
+  - Canadian Institute for Advanced Research, MaRS Innovation Centre, 661 University Ave. Suite 505, Toronto, ON, M5G 1M1, Canada
+ Funding:
+  - Natural Resources Canada
+  - University of British Columbia
+  - Canada Foundation for Innovation
+  - Natural Science and Engineering Research Council of Canada
+  - DARPA
+  - Canadian Institute for Advanced Research
+ Methods:
+  - time course
+-
  Reference: "Erdem C, Mutsuddy A, Bensman EM, Dodd WB, Saint-Antoine MM, Bouhaddou M, Blake RC, Gross SM, Heiser LM, Feltus FA, Birtwistle MR (2022) A scalable, open-source implementation of a large-scale mechanistic model for single cell proliferation and death signaling. Nature Communications 13:3555"
  Year: 2022
  Type: 2
