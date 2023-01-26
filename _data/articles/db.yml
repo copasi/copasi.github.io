@@ -16679,6 +16679,23 @@
  Locations:
   - University of Wisconsin‐Madison, Madison WI, USA
 -
+ Reference: "Li Y, Cucinotta FA (2011) Modeling non-homologous end joining. Journal of Theoretical Biology 283:122–135"
+ Year: 2011
+ Type: 2
+ URL: https://doi.org/10.1016/j.jtbi.2011.05.015
+ Keywords:
+  - Genetics
+  - Theory
+  - Macromolecular Biochemistry
+ Locations:
+  - USRA, Division of Space Life Sciences, Houston, TX 77058, USA
+  - NASA, Lyndon B. Johnson Space Center, Houston, TX 77058, USA
+ Funding:
+  - NASA
+  - DOE
+ Methods:
+  - time course
+-
  Reference: "Liu B, Hsu D, Thiagarajan PS (2011) Probabilistic approximations of ODEs based bio-pathway dynamics. Theoretical Computer Science 412:2188–2206"
  Year: 2011
  Type: 3
