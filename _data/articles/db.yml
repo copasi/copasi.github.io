@@ -10257,6 +10257,23 @@
   - MITRE
   - Simons Foundation
 -
+ Reference: "Balabin FA, Sveshnikova AN (2016) Computational biology analysis of platelet signaling reveals roles of feedbacks through phospholipase C and inositol 1,4,5-trisphosphate 3-kinase in controlling amplitude and duration of calcium oscillations. Mathematical Biosciences 276:67–74"
+ Year: 2016
+ Type: 2
+ URL: https://doi.org/10.1016/j.mbs.2016.03.006
+ Keywords:
+  - Signaling
+ Locations:
+  - Faculty of Physics, M.V. Lomonosov Moscow State University, 1-2 Leninskie gory, GSP-1, Moscow 119991, Russia
+  - Center for Theoretical Problems of Physicochemical Pharmacology, Russian Academy of Sciences, 4 Kosygina St, Moscow 119991, Russia
+  - Federal Research and Clinical Center of Pediatric Hematology, Oncology and Immunology, 1 Samory Mashela St, Moscow 117198, Russia
+ Funding:
+  - Russian Federation President Grant for Young Doctors of Science
+  - Russian Federation President Grant for Young Candidates of Science
+ Methods:
+  - time course
+  - stochastic simulation
+-
  Reference: "Barbon A, Bortolus M, Isse AA, Reznikov VA, Weiner L (2016) Electron transfer in pH-sensitive nitroxide radicals. Chemical Physics Letters 665:137–140"
  Year: 2016
  URL: https://doi.org/10.1016/j.cplett.2016.10.067
