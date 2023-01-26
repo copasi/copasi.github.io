@@ -12924,6 +12924,17 @@
   - stochastic simulation
   - condor-copasi
 -
+ Reference: "Arnold A, Nikoloski Z (2014) In search for an accurate model of the photosynthetic carbon metabolism. Mathematics and Computers in Simulation 96:171–194"
+ Year: 2014
+ Type: 2
+ URL: https://doi.org/10.1016/j.matcom.2012.03.011
+ Keywords:
+  - Plant Biology
+  - Metabolism
+ Locations:
+  - Max Planck Institute of Molecular Plant Physiology, 14476 Potsdam, Germany
+  - Institute of Biochemistry and Biology, University of Potsdam, 14469 Potsdam, Germany
+-
  Reference: "Aubert N, Mosca C, Fujii T, Hagiya M, Rondelez Y (2014) Computer-assisted design for scaling up systems based on DNA reaction networks. Journal of the Royal Society Interface 11:20131167"
  Year: 2014
  URL: https://doi.org/10.1098/rsif.2013.1167
