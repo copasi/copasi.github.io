@@ -63,6 +63,22 @@
   - parameter estimation
   - time course
 -
+ Reference: "Masison J, Mendes P (2023) Modeling the iron storage protein ferritin reveals how residual ferrihydrite iron determines initial ferritin iron sequestration kinetics. PLoS One 18:e0281401"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pone.0281401
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, 400 Farmington Av., Farmington, CT, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - parameter scan
+  - parameter estimation
+  - BasiCO
+-
  Reference: "Mattila H, Mishra S, Tyystjärvi T, Tyystjärvi E (2023) Singlet oxygen production by photosystem II is caused by misses of the oxygen evolving complex. The New Phytologist 237:113–125"
  Year: 2023
  Type: 2
@@ -3318,7 +3334,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Zake DM, Kurlovics J, Zaharenko L, Komasilovs V, Klovins J, Stalidzans E (2021) Physiologically based metformin pharmacokinetics model of mice and scale-up to humans for the estimation of concentrations in various tissues. PLOS One 16:e0249594"
+ Reference: "Zake DM, Kurlovics J, Zaharenko L, Komasilovs V, Klovins J, Stalidzans E (2021) Physiologically based metformin pharmacokinetics model of mice and scale-up to humans for the estimation of concentrations in various tissues. PLoS One 16:e0249594"
  Year: 2021
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0249594
@@ -5864,7 +5880,7 @@
   - time course
   - sensitivity analysis
 -
- Reference: "Kalra P, Brandl J, Gaub T, Niederalt C, Lippert J, Sahle S, Küpfer L, Kummer U (2019) Quantitative systems pharmacology of interferon alpha administration: A multi-scale approach. PLOS One 14:e0209587"
+ Reference: "Kalra P, Brandl J, Gaub T, Niederalt C, Lippert J, Sahle S, Küpfer L, Kummer U (2019) Quantitative systems pharmacology of interferon alpha administration: A multi-scale approach. PLoS One 14:e0209587"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0209587
@@ -6012,7 +6028,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Lang SN, Germerodt S, Glock C, Skerka C, Zipfel PF, Schuster S (2019) Molecular crypsis by pathogenic fungi using human factor H. A numerical model. PLOS One 14:e0212187"
+ Reference: "Lang SN, Germerodt S, Glock C, Skerka C, Zipfel PF, Schuster S (2019) Molecular crypsis by pathogenic fungi using human factor H. A numerical model. PLoS One 14:e0212187"
  Year: 2019
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0212187
@@ -9658,7 +9674,7 @@
  Methods:
   - parameter estimation
 -
- Reference: "Madec M, Lallement C, Haiech J (2017) Modeling and simulation of biological systems using SPICE language. PLOS One 12:e0182385"
+ Reference: "Madec M, Lallement C, Haiech J (2017) Modeling and simulation of biological systems using SPICE language. PLoS One 12:e0182385"
  Year: 2017
  URL: https://doi.org/10.1371/journal.pone.0182385
  Type: 3
@@ -9934,7 +9950,7 @@
  Methods:
   - time course
 -
- Reference: "Proctor CJ, Smith GR (2017) Computer simulation models as a tool to investigate the role of microRNAs in osteoarthritis. PLOS One 12:e0187568"
+ Reference: "Proctor CJ, Smith GR (2017) Computer simulation models as a tool to investigate the role of microRNAs in osteoarthritis. PLoS One 12:e0187568"
  Year: 2017
  URL:  https://doi.org/10.1371/journal.pone.0187568
  Type: 2
@@ -10073,7 +10089,7 @@
  Methods:
   - time course
 -
- Reference: "Simak M, Yeang C-H, Lu HH-S (2017) Exploring candidate biological functions by Boolean Function Networks for Saccharomyces cerevisiae. PLOS One 12:e0185475"
+ Reference: "Simak M, Yeang C-H, Lu HH-S (2017) Exploring candidate biological functions by Boolean Function Networks for Saccharomyces cerevisiae. PLoS One 12:e0185475"
  Year: 2017
  Typee: 3
  URL: https://doi.org/10.1371/journal.pone.0185475
@@ -10996,7 +11012,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Leber A, Bassaganya-Riera J, Tubau-Juni N, Zoccoli-Rodriguez V, Viladomiu M, Abedi V, Lu P, Hontecillas R (2016) Modeling the Role of Lanthionine Synthetase C-Like 2 (LANCL2) in the Modulation of Immune Responses to Helicobacter pylori Infection. PLOS One 11:e0167440"
+ Reference: "Leber A, Bassaganya-Riera J, Tubau-Juni N, Zoccoli-Rodriguez V, Viladomiu M, Abedi V, Lu P, Hontecillas R (2016) Modeling the Role of Lanthionine Synthetase C-Like 2 (LANCL2) in the Modulation of Immune Responses to Helicobacter pylori Infection. PLoS One 11:e0167440"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pone.0167440
  Type: 2
@@ -11350,7 +11366,7 @@
  Methods:
   - time course
 -
- Reference: "Pappalardo F, Russo G, Candido S, Pennisi M, Cavalieri S, Motta S, McCubrey JA, Nicoletti F, Libra M (2016) Computational Modeling of PI3K/AKT and MAPK Signaling Pathways in Melanoma Cancer. PLOS One 11:e0152104"
+ Reference: "Pappalardo F, Russo G, Candido S, Pennisi M, Cavalieri S, Motta S, McCubrey JA, Nicoletti F, Libra M (2016) Computational Modeling of PI3K/AKT and MAPK Signaling Pathways in Melanoma Cancer. PLoS One 11:e0152104"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pone.0152104
  Keywords:
@@ -11430,7 +11446,7 @@
   - time course
   - sensitivity analysis
 -
- Reference: "Rantasalo A, Czeizler E, Virtanen R, Rousu J, Lähdesmäki H, Penttilä M, Jäntti J, Mojzita D (2016) Synthetic Transcription Amplifier System for Orthogonal Control of Gene Expression in Saccharomyces cerevisiae. PLOS One 11:e0148320"
+ Reference: "Rantasalo A, Czeizler E, Virtanen R, Rousu J, Lähdesmäki H, Penttilä M, Jäntti J, Mojzita D (2016) Synthetic Transcription Amplifier System for Orthogonal Control of Gene Expression in Saccharomyces cerevisiae. PLoS One 11:e0148320"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pone.0148320
  Keywords:
@@ -11506,7 +11522,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Rutkis R, Strazdina I, Balodite E, Lasa Z, Galinina N, Kalnenieks U (2016) The Low Energy-Coupling Respiration in Zymomonas mobilis Accelerates Flux in the Entner-Doudoroff Pathway. PLOS One 11:e0153866"
+ Reference: "Rutkis R, Strazdina I, Balodite E, Lasa Z, Galinina N, Kalnenieks U (2016) The Low Energy-Coupling Respiration in Zymomonas mobilis Accelerates Flux in the Entner-Doudoroff Pathway. PLoS One 11:e0153866"
  Year: 2016
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0153866
@@ -11634,7 +11650,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Sluka JP, Fu X, Swat M, Belmonte JM, Cosmanescu A, Clendenon SG, Wambaugh JF, Glazier JA (2016) A Liver-Centric Multiscale Modeling Framework for Xenobiotics. PLOS One 11:e0162428"
+ Reference: "Sluka JP, Fu X, Swat M, Belmonte JM, Cosmanescu A, Clendenon SG, Wambaugh JF, Glazier JA (2016) A Liver-Centric Multiscale Modeling Framework for Xenobiotics. PLoS One 11:e0162428"
  Year: 2016
  URL: https://doi.org/10.1371/journal.pone.0162428
  Keywords:
@@ -11983,7 +11999,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Zimmer C (2016) Experimental Design for Stochastic Models of Nonlinear Signaling Pathways Using an Interval-Wise Linear Noise Approximation and State Estimation. PLOS One 11:e0159902"
+ Reference: "Zimmer C (2016) Experimental Design for Stochastic Models of Nonlinear Signaling Pathways Using an Interval-Wise Linear Noise Approximation and State Estimation. PLoS One 11:e0159902"
  Year: 2016
  Type: 3
  URL: https://doi.org/10.1371/journal.pone.0159902
@@ -12209,7 +12225,7 @@
  Funding:
   - NSF
 -
- Reference: "Dutta-Roy R, Rosenmund C, Edelstein SJ, Le Novère N (2015) Ligand-Dependent Opening of the Multiple AMPA Receptor Conductance States: A Concerted Model. PLOS One 10:e0116616"
+ Reference: "Dutta-Roy R, Rosenmund C, Edelstein SJ, Le Novère N (2015) Ligand-Dependent Opening of the Multiple AMPA Receptor Conductance States: A Concerted Model. PLoS One 10:e0116616"
  Year: 2015
  URL: https://doi.org/10.1371/journal.pone.0116616
  Keywords:
@@ -12222,7 +12238,7 @@
   - European Bioinformatics Institute, Hinxton, UK
   - Babraham Institute, Babraham, UK
 -
- Reference: "Emiola A, George J, Andrews SS (2015) A Complete Pathway Model for Lipid A Biosynthesis in Escherichia coli. PLOS One 10:e0121216"
+ Reference: "Emiola A, George J, Andrews SS (2015) A Complete Pathway Model for Lipid A Biosynthesis in Escherichia coli. PLoS One 10:e0121216"
  Year: 2015
  URL: https://doi.org/10.1371/journal.pone.0121216
  Keywords:
@@ -12467,7 +12483,7 @@
   - Swedish Research Council
   - Wenner-Gren Foundations
 -
- Reference: "Leber A, Viladomiu M, Hontecillas R, Abedi V, Philipson CW, Hoops S, Howard B, Bassaganya-Riera J (2015) Systems Modeling of Interactions between Mucosal Immunity and the Gut Microbiome during Clostridium difficile Infection. PLOS One 10:e0134849"
+ Reference: "Leber A, Viladomiu M, Hontecillas R, Abedi V, Philipson CW, Hoops S, Howard B, Bassaganya-Riera J (2015) Systems Modeling of Interactions between Mucosal Immunity and the Gut Microbiome during Clostridium difficile Infection. PLoS One 10:e0134849"
  Year: 2015
  URL: https://doi.org/10.1371/journal.pone.0134849
  Keywords:
@@ -12552,7 +12568,7 @@
  Locations:
   - Newcastle University, Newcastle upon Tyne, UK
 -
- Reference: "Maggi M, Chiarelli LR, Valentini G, Scotti C (2015) Engineering of Helicobacter pylori L-asparaginase: characterization of two functionally distinct groups of mutants. PLOS One 10:e0117025"
+ Reference: "Maggi M, Chiarelli LR, Valentini G, Scotti C (2015) Engineering of Helicobacter pylori L-asparaginase: characterization of two functionally distinct groups of mutants. PLoS One 10:e0117025"
  Year: 2015
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0117025
@@ -12692,7 +12708,7 @@
  Locations:
   - Ludwig-Maximilians-Universität München, Munich, Germany
 -
- Reference: "Paul D, Dasgupta A, De RK (2015) Exploring the Altered Dynamics of Mammalian Central Carbon Metabolic Pathway in Cancer Cells: A Classical Control Theoretic Approach. PLOS One 10:e0137728."
+ Reference: "Paul D, Dasgupta A, De RK (2015) Exploring the Altered Dynamics of Mammalian Central Carbon Metabolic Pathway in Cancer Cells: A Classical Control Theoretic Approach. PLoS One 10:e0137728."
  Year: 2015
  URL: https://doi.org/10.1371/journal.pone.0137728
  Keywords:
@@ -12754,7 +12770,7 @@
   - parameter estimation
   - time course
 -
- Reference: "Philipson CW, Bassaganya-Riera J, Viladomiu M, Kronsteiner B, Abedi V, Hoops S,  Michalak P, Kang L, Girardin SE, Hontecillas R (2015) Modeling the Regulatory Mechanisms by Which NLRX1 Modulates Innate Immune Responses to Helicobacter pylori Infection. PLOS One 10:e0137839"
+ Reference: "Philipson CW, Bassaganya-Riera J, Viladomiu M, Kronsteiner B, Abedi V, Hoops S,  Michalak P, Kang L, Girardin SE, Hontecillas R (2015) Modeling the Regulatory Mechanisms by Which NLRX1 Modulates Innate Immune Responses to Helicobacter pylori Infection. PLoS One 10:e0137839"
  Year: 2015
  URL: https://doi.org/10.1371/journal.pone.0137839
  Keywords:
@@ -12896,7 +12912,7 @@
  Methods:
   - time course
 -
- Reference: "Sengupta A, Grover M, Chakraborty A, Saxena S (2015) HEPNet: A Knowledge Base Model of Human Energy Pool Network for Predicting the Energy Availability Status of an Individual. PLOS One 10:e0127918"
+ Reference: "Sengupta A, Grover M, Chakraborty A, Saxena S (2015) HEPNet: A Knowledge Base Model of Human Energy Pool Network for Predicting the Energy Availability Status of an Individual. PLoS One 10:e0127918"
  Year: 2015
  URL: https://doi.org/10.1371/journal.pone.0127918
  Keywords:
@@ -13046,7 +13062,7 @@
  Funding:
   - the BBSRC/EPSRC (BB/D0196131)
 -
- Reference: "Tóth A, Brózik A, Szakács G, Sarkadi B, Hegedüs T (2015) A Novel Mathematical Model Describing Adaptive Cellular Drug Metabolism and Toxicity in the Chemoimmune System. PLOS One 10:e0115533"
+ Reference: "Tóth A, Brózik A, Szakács G, Sarkadi B, Hegedüs T (2015) A Novel Mathematical Model Describing Adaptive Cellular Drug Metabolism and Toxicity in the Chemoimmune System. PLoS One 10:e0115533"
  Year: 2015
  URL: https://doi.org/10.1371/journal.pone.0115533
  Keywords:
@@ -13132,7 +13148,7 @@
  Locations:
   - Heidelberg University, Heidelberg, Germany
 -
- Reference: "Antunes G, Sebastião AM, de Souza FMS (2014) Mechanisms of regulation of olfactory transduction and adaptation in the olfactory cilium. PLOS One 9:e105531"
+ Reference: "Antunes G, Sebastião AM, de Souza FMS (2014) Mechanisms of regulation of olfactory transduction and adaptation in the olfactory cilium. PLoS One 9:e105531"
  Year: 2014
  URL: https://doi.org/10.1371/journal.pone.0105531
  Type: 2
@@ -13381,7 +13397,7 @@
   - Wellcome Trust
   - DFG
 -
- Reference: "Figueredo GP, Siebers P-O, Owen MR, Reps J, Aickelin U (2014) Comparing stochastic differential equations and agent-based modelling and simulation for early-stage cancer. PLOS One 9:e95150"
+ Reference: "Figueredo GP, Siebers P-O, Owen MR, Reps J, Aickelin U (2014) Comparing stochastic differential equations and agent-based modelling and simulation for early-stage cancer. PLoS One 9:e95150"
  Year: 2014
  Type: 3
  URL: https://doi.org/10.1371/journal.pone.0095150
@@ -13730,7 +13746,7 @@
   - Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA
   - School of Biological Sciences, University of Edinburgh, Edinburgh, UK
 -
- Reference: "Ligon TS, Leonhardt C, Rädler JO (2014) Multi-level kinetic model of mRNA delivery via transfection of lipoplexes. PLOS One 9:e107148"
+ Reference: "Ligon TS, Leonhardt C, Rädler JO (2014) Multi-level kinetic model of mRNA delivery via transfection of lipoplexes. PLoS One 9:e107148"
  Year: 2014
  URL: https://doi.org/10.1371/journal.pone.0107148
  Type: 2
@@ -13759,7 +13775,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Lutz A, Sanwald J, Thomas M, Feuer R, Sawodny O, Ederer M,  Borner C, Humar M, Merfort I (2014) Interleukin-1beta Enhances FasL-Induced Caspase-3/-7 Activity without Increasing Apoptosis in Primary Mouse Hepatocytes. PLOS One 9:e115603."
+ Reference: "Lutz A, Sanwald J, Thomas M, Feuer R, Sawodny O, Ederer M,  Borner C, Humar M, Merfort I (2014) Interleukin-1beta Enhances FasL-Induced Caspase-3/-7 Activity without Increasing Apoptosis in Primary Mouse Hepatocytes. PLoS One 9:e115603."
  Year: 2014
  URL: https://doi.org/10.1371/journal.pone.0115603
  Keywords:
@@ -13784,7 +13800,7 @@
  Funding:
   - FCT Portugal
 -
- Reference: "Marwaha S, Schumacher MA, Zavros Y, Eghbalnia HR (2014) Crosstalks between Cytokines and Sonic Hedgehog in Helicobacter pylori Infection: A Mathematical Model. PLOS One 9:e111338."
+ Reference: "Marwaha S, Schumacher MA, Zavros Y, Eghbalnia HR (2014) Crosstalks between Cytokines and Sonic Hedgehog in Helicobacter pylori Infection: A Mathematical Model. PLoS One 9:e111338."
  Year: 2014
  URL: https://doi.org/10.1371/journal.pone.0111338
  Keywords:
@@ -13930,7 +13946,7 @@
   - University of Bergamo, Bergamo, Italy
   - University of Milano, Milano, Italy
 -
- Reference: "Nobile MS, Cazzaniga P, Besozzi D, Pescini D, Mauri G (2014) cuTauLeaping: A GPU-Powered Tau-Leaping Stochastic Simulator for Massive Parallel Analyses of Biological Systems. PLOS One 9:e91963."
+ Reference: "Nobile MS, Cazzaniga P, Besozzi D, Pescini D, Mauri G (2014) cuTauLeaping: A GPU-Powered Tau-Leaping Stochastic Simulator for Massive Parallel Analyses of Biological Systems. PLoS One 9:e91963."
  Year: 2014
  URL: https://doi.org/10.1371/journal.pone.0091963
  Keywords:
@@ -13993,7 +14009,7 @@
  Locations:
   - Free University of Berlin, Berlin, Germany
 -
- Reference: "Pandey V, Sultan M, Kashofer K, Ralser M, Amstislavskiy V, Starmann J, Osprian I, Grimm C, Hache H, Yaspo M-L, Sültmann H, Trauner M, Denk M, Zatloukal K, Lehrach H, Wierling C (2014) Comparative Analysis and Modeling of the Severity of Steatohepatitis in DDC-Treated Mouse Strains. PLOS One 9:e111006."
+ Reference: "Pandey V, Sultan M, Kashofer K, Ralser M, Amstislavskiy V, Starmann J, Osprian I, Grimm C, Hache H, Yaspo M-L, Sültmann H, Trauner M, Denk M, Zatloukal K, Lehrach H, Wierling C (2014) Comparative Analysis and Modeling of the Severity of Steatohepatitis in DDC-Treated Mouse Strains. PLoS One 9:e111006."
  Year: 2014
  URL: https://doi.org/10.1371/journal.pone.0111006
  Keywords:
@@ -14455,7 +14471,7 @@
  Funding:
   - Klaus Tschira Foundation
 -
- Reference: "Berestovsky N, Nakhleh L (2013) An Evaluation of Methods for Inferring Boolean Networks from Time-Series Data. PLOS One 8:e66031"
+ Reference: "Berestovsky N, Nakhleh L (2013) An Evaluation of Methods for Inferring Boolean Networks from Time-Series Data. PLoS One 8:e66031"
  Year: 2013
  URL: https://doi.org/10.1371/journal.pone.0066031
  Keywords:
@@ -14473,7 +14489,7 @@
  Locations:
   - Latvia University of Agriculture, Jelgava, Latvia
 -
- Reference: "Carbo A, Bassaganya-Riera J, Pedragosa M, Viladomiu M, Marathe M, Eubank S, Wendelsdorf K, Bisset K, Hoops S, Deng X, Alam M, Kronsteiner B, Mei Y, Hontecillas R (2013) Predictive Computational Modeling of the Mucosal Immune Responses during Helicobacter pylori Infection. PLOS One 8:e73365"
+ Reference: "Carbo A, Bassaganya-Riera J, Pedragosa M, Viladomiu M, Marathe M, Eubank S, Wendelsdorf K, Bisset K, Hoops S, Deng X, Alam M, Kronsteiner B, Mei Y, Hontecillas R (2013) Predictive Computational Modeling of the Mucosal Immune Responses during Helicobacter pylori Infection. PLoS One 8:e73365"
  Year: 2013
  URL: https://doi.org/10.1371/journal.pone.0073365
  Keywords:
@@ -14710,7 +14726,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Incicco JJ, Gebhard LG, González-Lebrero RM, Gamarnik AV, Kaufman SB (2013) Steady-State NTPase Activity of Dengue Virus NS3: Number of Catalytic Sites, Nucleotide Specificity and Activation by ssRNA. PLOS One 8:e58508"
+ Reference: "Incicco JJ, Gebhard LG, González-Lebrero RM, Gamarnik AV, Kaufman SB (2013) Steady-State NTPase Activity of Dengue Virus NS3: Number of Catalytic Sites, Nucleotide Specificity and Activation by ssRNA. PLoS One 8:e58508"
  Year: 2013
  URL: https://doi.org/10.1371/journal.pone.0058508
  Keywords:
@@ -14741,7 +14757,7 @@
  Locations:
   - University of Ulster, Coleraine, UK
 -
- Reference: "Kent E, Neumann S, Kummer U, Mendes P (2013) What Can We Learn from Global Sensitivity Analysis of Biochemical Systems? PLOS One 8:e79244"
+ Reference: "Kent E, Neumann S, Kummer U, Mendes P (2013) What Can We Learn from Global Sensitivity Analysis of Biochemical Systems? PLoS One 8:e79244"
  Year: 2013
  URL: https://doi.org/10.1371/journal.pone.0079244
  Keywords:
@@ -15094,7 +15110,7 @@
   - Virginia Tech, Blacksburg VA, USA
   - VA-MD Regional College of Veterinary Medicine, Blacksburg VA, USA
 -
- Reference: "Proctor CJ, Boche D, Gray DA, Nicoll JAR (2013) Investigating Interventions in Alzheimer's Disease with Computer Simulation Models. PLOS One 8:e73631"
+ Reference: "Proctor CJ, Boche D, Gray DA, Nicoll JAR (2013) Investigating Interventions in Alzheimer's Disease with Computer Simulation Models. PLoS One 8:e73631"
  Year: 2013
  URL: https://doi.org/10.1371/journal.pone.0073631
  Keywords:
@@ -15301,7 +15317,7 @@
   - steady state
   - time course
 -
- Reference: "Sharp GC, Ma H, Saunders PTK, Norman JE (2013) A Computational Model of Lipopolysaccharide-Induced Nuclear Factor Kappa B Activation: A Key Signalling Pathway in Infection-Induced Preterm Labour. PLOS One 8:e70180"
+ Reference: "Sharp GC, Ma H, Saunders PTK, Norman JE (2013) A Computational Model of Lipopolysaccharide-Induced Nuclear Factor Kappa B Activation: A Key Signalling Pathway in Infection-Induced Preterm Labour. PLoS One 8:e70180"
  Year: 2013
  URL: https://doi.org/10.1371/journal.pone.0070180
  Keywords:
@@ -15394,7 +15410,7 @@
   - sensitivity analysis
   - parameter estimation
 -
- Reference: "Stanford NJ, Lubitz T, Smallbone K, Klipp E, Mendes P, Liebermeister W (2013) Systematic construction of kinetic models from genome-scale metabolic networks. PLOS One 8:e79195"
+ Reference: "Stanford NJ, Lubitz T, Smallbone K, Klipp E, Mendes P, Liebermeister W (2013) Systematic construction of kinetic models from genome-scale metabolic networks. PLoS One 8:e79195"
  Year: 2013
  URL: https://doi.org/10.1371/journal.pone.0079195
  Type: 3
@@ -15451,7 +15467,7 @@
   - University Hospital Heidelberg, Heidelberg, Germany
   - Heidelberg University, Heidelberg, Germany
 -
- Reference: "Tapinos A, Mendes P (2013) A Method for Comparing Multivariate Time Series with Different Dimensions. PLOS One 8:e54201"
+ Reference: "Tapinos A, Mendes P (2013) A Method for Comparing Multivariate Time Series with Different Dimensions. PLoS One 8:e54201"
  Year: 2013
  URL: https://doi.org/10.1371/journal.pone.0054201
  Keywords:
@@ -15811,7 +15827,7 @@
   - Federal University of Alagoas, Maceió, Brazil
   - Federal University of Mato Grosso do Sul, Campo Grande, Brazil
 -
- Reference: "Gatti DL (2012) Biapenem Inactivation by B2 Metallo β-Lactamases: Energy Landscape of the Post-Hydrolysis Reactions. PLOS One 7:e30079"
+ Reference: "Gatti DL (2012) Biapenem Inactivation by B2 Metallo β-Lactamases: Energy Landscape of the Post-Hydrolysis Reactions. PLoS One 7:e30079"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0030079
  Keywords:
@@ -15820,7 +15836,7 @@
  Locations:
   - Wayne State University School of Medicine, Detroit MI, USA
 -
- Reference: "Gebhard LG, Kaufman SB, Gamarnik AV (2012) Novel ATP-Independent RNA Annealing Activity of the Dengue Virus NS3 Helicase. PLOS One 7:e36244"
+ Reference: "Gebhard LG, Kaufman SB, Gamarnik AV (2012) Novel ATP-Independent RNA Annealing Activity of the Dengue Virus NS3 Helicase. PLoS One 7:e36244"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0036244
  Keywords:
@@ -15893,7 +15909,7 @@
   - BBSRC
   - BTExact
 -
- Reference: "Hultqvist G, Punekar AS, Morrone A, Chi CN, Engström Å, Selmer M, Gianni S, Jemth P (2012) Tolerance of Protein Folding to a Circular Permutation in a PDZ Domain. PLOS One 7:e50055"
+ Reference: "Hultqvist G, Punekar AS, Morrone A, Chi CN, Engström Å, Selmer M, Gianni S, Jemth P (2012) Tolerance of Protein Folding to a Circular Permutation in a PDZ Domain. PLoS One 7:e50055"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0050055
  Keywords:
@@ -16025,7 +16041,7 @@
   - time course
   - parameter estimation
 -
- Reference: "Leach MD, Tyc KM, Brown AJP, Klipp E (2012) Modelling the Regulation of Thermal Adaptation in Candida albicans, a Major Fungal Pathogen of Humans. PLOS One 7:e32467"
+ Reference: "Leach MD, Tyc KM, Brown AJP, Klipp E (2012) Modelling the Regulation of Thermal Adaptation in Candida albicans, a Major Fungal Pathogen of Humans. PLoS One 7:e32467"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0032467
  Keywords:
@@ -16110,7 +16126,7 @@
   - Universidad Nacional de Cuyo, Mendoza, Argentina
   - Department of Botany, Madison WI, USA
 -
- Reference: "Mazemondet O, John M, Leye S, Rolfs A, Uhrmacher AM (2012) Elucidating the Sources of β-Catenin Dynamics in Human Neural Progenitor Cells. PLOS One 7:e42792"
+ Reference: "Mazemondet O, John M, Leye S, Rolfs A, Uhrmacher AM (2012) Elucidating the Sources of β-Catenin Dynamics in Human Neural Progenitor Cells. PLoS One 7:e42792"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0042792
  Keywords:
@@ -16297,7 +16313,7 @@
   - time course
   - sensitivity analysis
 -
- Reference: "Salvado B, Vilaprinyo E, Karathia H, Sorribas A, Alves R (2012) Two Component Systems: Physiological Effect of a Third Component. PLOS One 7:e31095"
+ Reference: "Salvado B, Vilaprinyo E, Karathia H, Sorribas A, Alves R (2012) Two Component Systems: Physiological Effect of a Third Component. PLoS One 7:e31095"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0031095
  Keywords:
@@ -16327,7 +16343,7 @@
   - National Centre for Cell Science, Pune, India
   - Jawaharlal Nehru University, New Delhi, India
 -
- Reference: "Sarma U, Sareen A, Maiti M, Kamat V, Sudan R, Pahari S, Srivastava N, Roy S, Sinha S, Ghosh I, Chande AG, Mukhopadhyaya R, Saha B (2012) Modeling and Experimental Analyses Reveals Signaling Plasticity in a Bi-Modular Assembly of CD40 Receptor Activated Kinases. PLOS One 7:e39898"
+ Reference: "Sarma U, Sareen A, Maiti M, Kamat V, Sudan R, Pahari S, Srivastava N, Roy S, Sinha S, Ghosh I, Chande AG, Mukhopadhyaya R, Saha B (2012) Modeling and Experimental Analyses Reveals Signaling Plasticity in a Bi-Modular Assembly of CD40 Receptor Activated Kinases. PLoS One 7:e39898"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0039898
  Keywords:
@@ -16377,7 +16393,7 @@
   - Friedrich Schiller University Jena, Jena, Germany
   - Leibniz-Institute for Natural Product Research and Infection Biology - Hans-Knöll-Institute, Jena, Germany
 -
- Reference: "Singh VK, Das K, Seshadri K (2012) Kinetic Modelling of GlmU Reactions - Prioritization of Reaction for Therapeutic Application. PLOS One 7:e43969"
+ Reference: "Singh VK, Das K, Seshadri K (2012) Kinetic Modelling of GlmU Reactions - Prioritization of Reaction for Therapeutic Application. PLoS One 7:e43969"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0043969
  Keywords:
@@ -16397,7 +16413,7 @@
  Funding:
   - EU - European Structural Fund
 -
- Reference: "Stefan MI, Marshall DP, Le Novère N (2012) Structural Analysis and Stochastic Modelling Suggest a Mechanism for Calmodulin Trapping by CaMKII. PLOS One 7:e29406"
+ Reference: "Stefan MI, Marshall DP, Le Novère N (2012) Structural Analysis and Stochastic Modelling Suggest a Mechanism for Calmodulin Trapping by CaMKII. PLoS One 7:e29406"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0029406
  Keywords:
@@ -16458,7 +16474,7 @@
  Locations:
   - University of Western Ontario, London Ontario, Canada
 -
- Reference: "Usuyama M, Ushida C, Shingai R (2012) A model of the intracellular response of an olfactory neuron in Caenorhabditis elegans to odor stimulation. PLOS One 7:e42907"
+ Reference: "Usuyama M, Ushida C, Shingai R (2012) A model of the intracellular response of an olfactory neuron in Caenorhabditis elegans to odor stimulation. PLoS One 7:e42907"
  Year: 2012
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0042907
@@ -16472,7 +16488,7 @@
  Methods:
   - time course
 -
- Reference: "Viladomiu M, Hontecillas R, Pedragosa M, Carbo A, Hoops S, Michalak P, Michalak K, Guerrant RL, Roche JK, Warren CA, Bassaganya-Riera J (2012) Modeling the Role of Peroxisome Proliferator-Activated Receptor γ and MicroRNA-146 in Mucosal Immune Responses to Clostridium difficile. PLOS One 7:e47525"
+ Reference: "Viladomiu M, Hontecillas R, Pedragosa M, Carbo A, Hoops S, Michalak P, Michalak K, Guerrant RL, Roche JK, Warren CA, Bassaganya-Riera J (2012) Modeling the Role of Peroxisome Proliferator-Activated Receptor γ and MicroRNA-146 in Mucosal Immune Responses to Clostridium difficile. PLoS One 7:e47525"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pone.0047525
  Keywords:
@@ -17046,7 +17062,7 @@
  Locations:
   - California Institute of Technology, Pasadena, California 91125, USA
 -
- Reference: "Proctor CJ, Lorimer IAJ (2011) Modelling the role of the Hsp70/Hsp90 system in the maintenance of protein homeostasis. PLOS One 6:e22038"
+ Reference: "Proctor CJ, Lorimer IAJ (2011) Modelling the role of the Hsp70/Hsp90 system in the maintenance of protein homeostasis. PLoS One 6:e22038"
  Year: 2011
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0022038
@@ -17088,7 +17104,7 @@
  Methods:
   - time course
 -
- Reference: "Rodriguez F, Bustos MA, Zanetti MN, Ruete MC, Mayorga LS, Tomes CN (2011) alpha-SNAP prevents docking of the acrosome during sperm exocytosis because it sequesters monomeric syntaxin. PLOS One 6:e21925"
+ Reference: "Rodriguez F, Bustos MA, Zanetti MN, Ruete MC, Mayorga LS, Tomes CN (2011) alpha-SNAP prevents docking of the acrosome during sperm exocytosis because it sequesters monomeric syntaxin. PLoS One 6:e21925"
  Year: 2011
  URL: https://doi.org/10.1371/journal.pone.0021925
  Keywords:
@@ -17102,7 +17118,7 @@
   - Secretaría de Ciencia y Técnica-Universidad Nacional de Cuyo (Argentina)
   - ANPCYT (Argentina)
 -
- Reference: "Schaber J, Flöttmann M, Li J, Tiger C-F, Hohmann S, Klipp E (2011) Automated ensemble modeling with modelMaGe: analyzing feedback mechanisms in the Sho1 branch of the HOG pathway. PLOS One 6:e14791"
+ Reference: "Schaber J, Flöttmann M, Li J, Tiger C-F, Hohmann S, Klipp E (2011) Automated ensemble modeling with modelMaGe: analyzing feedback mechanisms in the Sho1 branch of the HOG pathway. PLoS One 6:e14791"
  Year: 2011
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0014791
@@ -17256,7 +17272,7 @@
   - NIH
   - David and Lucile Packard Foundation
 -
- Reference: "Adra S, Sun T, MacNeil S, Holcombe M, Smallwood R (2010) Development of a Three Dimensional Multiscale Computational Model of the Human Epidermis. PLOS One 5:e8511."
+ Reference: "Adra S, Sun T, MacNeil S, Holcombe M, Smallwood R (2010) Development of a Three Dimensional Multiscale Computational Model of the Human Epidermis. PLoS One 5:e8511."
  Year: 2010
  URL: https://doi.org/10.1371/journal.pone.0008511
  Keywords:
@@ -17645,7 +17661,7 @@
   - University of Manchester, Manchester, UK
   - Virginia Tech, Blacksburg VA, USA
 -
- Reference: "Smith GR, Shanley DP (2010) Modelling the Response of FOXO Transcription Factors to Multiple Post-Translational Modifications Made by Ageing-Related Signalling Pathways. PLOS One 5:e11092"
+ Reference: "Smith GR, Shanley DP (2010) Modelling the Response of FOXO Transcription Factors to Multiple Post-Translational Modifications Made by Ageing-Related Signalling Pathways. PLoS One 5:e11092"
  Year: 2010
  Type: 2
  URL: https://doi.org/10.1371/journal.pone.0011092
@@ -18236,7 +18252,7 @@
  Methods:
   - time course
 -
- Reference: "Sun T, Adra S, Smallwood R, Holcombe M, MacNeil S (2009) Exploring Hypotheses of the Actions of TGF-β1 in Epidermal Wound Healing Using a 3D Computational Multiscale Model of the Human Epidermis. PLOS One 4:e8515"
+ Reference: "Sun T, Adra S, Smallwood R, Holcombe M, MacNeil S (2009) Exploring Hypotheses of the Actions of TGF-β1 in Epidermal Wound Healing Using a 3D Computational Multiscale Model of the Human Epidermis. PLoS One 4:e8515"
  Year: 2009
  URL: https://doi.org/10.1371/journal.pone.0008515
  Keywords:
