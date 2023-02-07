@@ -117,6 +117,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Olsen LF (2023) Complex dynamics in an unexplored simple model of the peroxidase–oxidase reaction. Chaos 33:023102"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1063/5.0129095
+ Keywords:
+  - Biochemistry
+  - Enzymology
+ Locations:
+  - Institute of Biochemistry and Molecular Biology, University of Southern Denmark, Campusvej 55, DK-5230 Odense M, Denmark
+ Methods:
+  - time course
+  - cross sections
+  - Lyapunov exponents
+-
  Reference: "Ouyang X, Liu G, Ji S, Luo S, Shi T, Xu P, Zhao Y-L, Tang H (2023) Dioxetane and lactone pathways in dioxygenolytic ring cleavage catalyzed by 2,5-dihydroxypyridine dioxygenase. Chem Catalysis 3:100480"
  Year: 2023
  Type: 2
