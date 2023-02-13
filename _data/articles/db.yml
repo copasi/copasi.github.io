@@ -131,6 +131,21 @@
   - cross sections
   - Lyapunov exponents
 -
+ Reference: "Oughou M, Biot E, Arnaud N, Maugarny-Calès A, Laufs P, Andrey P, Burguet J (2023) Model-based reconstruction of whole organ growth dynamics reveals invariant patterns in leaf morphogenesis. Quantitative Plant Biology. Cambridge University Press 4:E1"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1017/qpb.2022.23
+ Keywords:
+  - Plant Biology
+ Locations:
+  - Université Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin (IJPB), 78000 Versailles, France
+ Funding:
+  - Région Paris Ile-de-France
+  - Saclay Plant Sciences
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Ouyang X, Liu G, Ji S, Luo S, Shi T, Xu P, Zhao Y-L, Tang H (2023) Dioxetane and lactone pathways in dioxygenolytic ring cleavage catalyzed by 2,5-dihydroxypyridine dioxygenase. Chem Catalysis 3:100480"
  Year: 2023
  Type: 2
