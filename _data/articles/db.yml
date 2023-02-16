@@ -18749,6 +18749,15 @@
  Funding:
   - Deutschen Forschungsgemeinschaft (DFG)
 -
+ Reference: "Vauquelin G, Fierens F, Van Liefde I (2006) Long-lasting angiotensin type 1 receptor binding and protection by candesartan: comparison with other biphenyl-tetrazole sartans. Journal of Hypertension 24:S23-30"
+ Year: 2006
+ Type: 2
+ URL: https://doi.org/10.1097/01.hjh.0000220403.61493.18
+ Keywords:
+  - Pharmacology
+ Locations:
+  - Department of Molecular and Biochemical Pharmacology, Vrije Universiteit Brussel, Pleinlaan 2, B-1050 Brussels, Belgium
+-
  Reference: "Vauquelin G, Van Liefde I (2006) Slow antagonist dissociation and long-lasting in vivo receptor protection. Trends in Pharmacological Sciences 27:356–359"
  Year: 2006
  Type: 2
@@ -18756,6 +18765,7 @@
  Keywords:
   - Signaling
   - Biochemistry
+  - Pharmacology
  Locations:
   - Department of Molecular and Biochemical Pharmacology, Vrije Universiteit Brussel, Pleinlaan 2, B-1050 Brussels, Belgium
  Methods:
