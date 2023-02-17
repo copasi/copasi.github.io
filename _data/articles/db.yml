@@ -17557,6 +17557,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Funahashi A, Matsuoka Y, Jouraku A, Takizawa H, Hiroi N, Ghosh S, Kikuchi N, Kitano H (2010) 細胞シミュレータCellDesignerの設計と実装. Journal of The Society of Instrument and Control Engineers 49:531–536"
+ Year: 2010
+ Type: 3
+ URL: https://doi.org/10.11499/sicejl.49.531
+ Keywords:
+  - Software
+ Locations:
+  - Dept. of Biosciences and Informatics, Keio University, Hiyoshi 3–14–1, Kouhoku-ku, Yokohama, Kanagawa, Japan
+  - The Systems Biology Institute, Shirokanedai 5–6–9–5F, Minato-ku, Tokyo, Japan
+  - National Institute of Agrobiological Sciences, Ohwashi 1–2 Tsukuba, Ibaraki, Japan
+  - Mitsui Knowledge Industry Co. LTD., Atago 2–5–1, Minato-ku, Tokyo, Japan
+ Methods:
+  - API Java bindings
+-
  Reference: "Furrow SD, Aurentz DJ (2010) Reactions of Iodomalonic Acid, Diiodomalonic Acid, and Other Organics in the Briggs−Rauscher Oscillating System. Journal of Physical Chemistry 114:2526–2533"
  Year: 2010
  URL: https://doi.org/10.1021/jp911492f
