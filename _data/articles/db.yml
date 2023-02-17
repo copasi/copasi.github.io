@@ -424,6 +424,22 @@
  Methods:
   - time course
 -
+ Reference: "Chedere A, Mishra M, Kulkarni O, Sriraman S, Chandra N (2022) Personalized quantitative models of NAD metabolism in hepatocellular carcinoma identify a subgroup with poor prognosis. Frontiers in Oncology 12:954512"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.3389/fonc.2022.954512
+ Keywords:
+  - Metabolism
+  - Physiology
+ Locations:
+  - Department of Biochemistry, Biological Science Division, Indian Institute of Science, Bengaluru, Karnataka, India
+  - IISc Mathematics Initiative, Indian Institute of Science, Bengaluru, Karnataka, India
+ Funding:
+  - Department of Biotechnology, Government of India
+  - Council for Scientific Research, Government of India
+ Methods:
+  - steady state
+-
  Reference: "Daas JCJ, Förster J, Pahle J (2022) Dynamic publication media with the COPASI R Connector (CoRC). Mathematical Biosciences 348:108822"
  Year: 2022
  Type: 1
