@@ -1323,6 +1323,29 @@
   - EU ERC
   - Associazione Italiana per la Ricerca sul Cancro
 -
+ Reference: "Range J, Halupczok C, Lohmann J, Swainston N, Kettner C, Bergmann FT, Weidemann A, Wittig U, Schnell S, Pleiss J (2022) EnzymeML-a data exchange format for biocatalysis and enzymology. FEBS journal 289:5864–5874"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.1111/febs.16318
+ Keywords:
+  - Enzymology
+  - Computational Method
+ Locations:
+  - Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Allmandring 31, 70569 Stuttgart, Germany
+  - Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool L69 7ZB, United Kingdom
+  - Beilstein-Institut, Trakehner Str. 7 – 9, 60487 Frankfurt am Main, Germany
+  - BioQUANT/COS, Heidelberg University, INF 267, Heidelberg, Germany
+  - Heidelberg Institute for Theoretical Studies, Schloss-Wolfsbrunnenweg 35, 69118 Heidelberg, Germany
+  - University of Michigan Medical School, Ann Arbor, Michigan 48109, USA
+ Funding:
+  - DFG
+  - BBSRC
+  - University of Liverpool
+  - Klaus Tschira Foundation
+  - BMBF
+ Methods:
+  - API
+-
  Reference: "Rietmeyer L (2022) Étude fonctionnelle et structurale des transférases de la famille Fem de Staphylococcus aureus. Ph.D. Thesis, Sorbonne Université, Paris, France"
  Year: 2022
  Type: 2
