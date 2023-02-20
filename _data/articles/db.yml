@@ -18926,6 +18926,18 @@
  Funding:
   - Deutschen Forschungsgemeinschaft (DFG)
 -
+ Reference: "Manninen T, Mäkiraatikka E, Ylipää A, Pettinen A, Leinonen K, Linne M-L (2006) Discrete stochastic simulation of cell signaling: comparison of computational tools. Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society. 2006:2013–2016"
+ Year: 2006
+ Type: 3
+ URL: https://doi.org/10.1109/IEMBS.2006.260023
+ Keywords:
+  - Computational Method
+ Locations:
+  - Institute of Mathematics, Tampere University of Technology, Tampere, Finland
+  - Tampereen yliopisto - Hervannan kampus, Tampere, Pirkanmaa, Finland
+ Methods:
+  - stochastic simulation
+-
  Reference: "Vauquelin G, Fierens F, Van Liefde I (2006) Long-lasting angiotensin type 1 receptor binding and protection by candesartan: comparison with other biphenyl-tetrazole sartans. Journal of Hypertension 24:S23-30"
  Year: 2006
  Type: 2
