@@ -1923,6 +1923,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Bhalla US (2021) HillTau: A fast, compact abstraction for model reduction in biochemical signaling networks. PLoS computational biology 17:e1009621"
+ Year: 2021
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pcbi.1009621
+ Keywords:
+  - Computational Method
+ Locations:
+  - NCBS-TIFR, Bangalore, Karnataka, India
+ Funding:
+  - Department of Atomic Energy, Government of India
+  - Department of Science and Technology, Government of India
+ Methods:
+  - time course
+  - steady state
+  - parameter estimation
+  - time-scale separation analysis
+-
  Reference: "Biswas S, Blessent MJ, Gordon BM, Zhou T, Malakar S, Wang DY, Krogh-Jespersen K, Goldman AS (2021) Origin of Regioselectivity in the Dehydrogenation of Alkanes by Pincer–Iridium Complexes: A Combined Experimental and Computational Study. ACS Catalysis 11:12038–12051"
  Year: 2021
  Type: 2
