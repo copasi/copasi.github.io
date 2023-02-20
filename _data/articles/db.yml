@@ -14973,6 +14973,18 @@
   - parameter estimation
   - sensitivity analysis
 -
+ Reference: "Challenger JD (2013) The stochastic dynamics of biochemical systems. Ph.D. Thesis, University of Manchester, UK"
+ Year: 2013
+ Type: 3
+ URL: https://www.escholar.manchester.ac.uk/uk-ac-man-scw:200267
+ Keywords:
+  - Computational Method
+  - Metabolism
+ Locations:
+  - School of Physics and Astronomy, The University of Manchester, Oxford Rd, Manchester, M13 9PL, UK
+ Methods:
+  - lna
+-
  Reference: "Chelliah V, Laibe C, Le Novère N (2013) BioModels database: a repository of mathematical models of biological processes. Methods in Molecular Biology 1021:189–199"
  Year: 2013
  URL: https://doi.org/10.1007/978-1-62703-450-0_10
