@@ -274,6 +274,21 @@
  Methods:
   - time course
 -
+ Reference: "Yuan AT, Korkola NC, Stillman MJ (2023) Apo-metallothionein-3 cooperatively forms tightly compact structures under physiological conditions. Journal of Biological Chemistry 299:102899"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1016/j.jbc.2023.102899
+ Keywords:
+  - Biochemistry
+  - Biophysics
+ Locations:
+  - Department of Chemistry, University of Western Ontario, London, Ontario, Canada
+ Funding:
+  - NSERC, Canada
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Abraha BW, Marchisio MA (2022) NOT Gates Based on Protein Degradation as a Case Study for a New Modular Modeling via SBML Level 3—Comp Package. Frontiers in Bioengineering and Biotechnology 10:845240"
  Year: 2022
  Type: 2
