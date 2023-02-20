@@ -1039,6 +1039,23 @@
   - parameter scan
   - sensitivity analysis
 -
+ Reference: "Kurlovics J, Zake DM, Zaharenko L, Berzins K, Klovins J, Stalidzans E (2022) Metformin Transport Rates Between Plasma and Red Blood Cells in Humans. Clinical Pharmacokinetics 61:133–142"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1007/s40262-021-01058-2
+ Keywords:
+  - Pharmacology
+ Locations:
+  - Computational Systems Biology Group, Institute of Microbiology and Biotechnology, University of Latvia, Riga, Latvia
+  - Division of Pharmaceutical Chemistry and Technology, University of Helsinki, Helsinki, Finland
+  - Latvian Biomedical Research and Study Centre, Riga, Latvia
+ Funding:
+  - Latvian Council of Science
+  - EU HorizonH2020
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Kurokhtina AA, Larina EV, Lagoda NA, Schmidt AF (2022) The Role of Catalyst Formation–Deactivation Processes and Evidence for a Nonlinear Mechanism in the Mizoroki–Heck Reaction with Aryl Chlorides. Kinetics and Catalysis 63:543–554"
  Year: 2022
  Type: 2
