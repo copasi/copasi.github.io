@@ -1920,10 +1920,10 @@
   - Institute for Energy Technology, Kjeller, Norway
  Funding:
   - NATO Programme “Science for Peace and Security”
- Methods:
+ Methods:git p
   - parameter estimation
 -
- Reference: "Bhalla US (2021) HillTau: A fast, compact abstraction for model reduction in biochemical signaling networks. PLoS computational biology 17:e1009621"
+ Reference: "Bhalla US (2021) HillTau: A fast, compact abstraction for model reduction in biochemical signaling networks. PLoS Computational Biology 17:e1009621"
  Year: 2021
  Type: 3
  URL: https://doi.org/10.1371/journal.pcbi.1009621
