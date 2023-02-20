@@ -9553,6 +9553,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Finney EE, Finke RG (2017) Catalyst Sintering Kinetics Data: Is There a Minimal Chemical Mechanism Underlying Kinetics Previously Fit by Empirical Power-Law Expressions—and if So, What Are Its Implications? Industrial & Engineering Chemistry Research 56:10271–10286"
+ Year: 2017
+ Type: 2
+ URL: https://doi.org/10.1021/acs.iecr.7b02633
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Pacific Lutheran University, Tacoma, Washington 98447, USA
+  - Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523, USA
+ Funding:
+  - DOE
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Földes T, Madarász Á, Révész Á, Dobi Z, Varga S, Hamza A, Nagy PR, Pihko PM, Pápai I (2017) Stereocontrol in Diphenylprolinol Silyl Ether Catalyzed Michael Additions: Steric Shielding or Curtin–Hammett Scenario? Journal of the American Chemical Society 139:17052–17063"
  Year: 2017
  Type: 2
