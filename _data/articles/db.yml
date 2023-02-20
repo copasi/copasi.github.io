@@ -15989,6 +15989,22 @@
   - parameter estimation
   - sensitivity analysis
 -
+ Reference: "Wilcock P (2013) A systems biology approach for investigating oral squamous cell carcinoma (OSCC). Ph.D. Thesis, University of Manchester, UK"
+ Year: 2013
+ Type: 2
+ URL: https://www.escholar.manchester.ac.uk/uk-ac-man-scw:188310
+ Keywords:
+  - Metabolism
+  - Biochemistry
+ Locations:
+  - School of Chemistry, The University of Manchester, Oxford Rd, Manchester M13 9PL, UK
+ Funding:
+  - EPSRC
+  - BBSRC
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Achcar F, Kerkhoven EJ, The SilicoTryp Consortium, Bakker BM, Barrett MP, Breitling R (2012) Dynamic Modelling under Uncertainty: The Case of Trypanosoma brucei Energy Metabolism. PLOS Computational Biology 8:e1002352"
  Year: 2012
  URL: https://doi.org/10.1371/journal.pcbi.1002352
