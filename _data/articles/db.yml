@@ -3165,6 +3165,23 @@
   - parameter estimation
   - time course
 -
+ Reference: "Rosenbloom AD, Kovar EW, Kovar DR, Loew LM, Pollard TD (2021) Mechanism of actin filament nucleation. Biophysical Journal 120:4399–4417"
+ Year: 2021
+ Type: 2
+ URL: https://doi.org/10.1016/j.bpj.2021.09.006
+ Keywords:
+  - Macromolecular Biochemistry
+  - Biophysics
+ Locations:
+  - Yale University, New Haven, Connecticut, USA
+  - The University of Chicago, Chicago, Illinois, USA
+  - R. D. Berlin Center for Cell Analysis and Modeling, The University of Connecticut School of Medicine, Farmington, Connecticut, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Rutkis R, Strazdina I, Lasa Z, Bruheim P, Kalnenieks U (2021) Ethanologenesis and respiration in a pyruvate decarboxylase-deficient Zymomonas mobilis. BMC Research Notes 14:208"
  Year: 2021
  Type: 2
