@@ -17580,6 +17580,23 @@
  Locations:
   - California Institute of Technology, Pasadena, California 91125, USA
 -
+ Reference: "Oh E, Lu M, Park C, Park C, Oh HB, Lee SY, Lee J (2011) Dynamic modeling of lactic acid fermentation metabolism with Lactococcus lactis. Journal of Microbiology and Biotechnology 21:162–169"
+ Year: 2011
+ Type: 2
+ URL: https://doi.org/10.4014/jmb.1007.07066
+ Keywords:
+  - Microbiology
+  - Metabolism
+ Locations:
+  - Sogang University, Seoul 121-742, Korea
+  - Clinical Trials Center, Yonsei University Health System, Seoul 120-725, Korea
+  - Department of Chemical and Biomolecular Engineering, Korea Advanced Institute of Science and Technology, Daejeon 305-701, Korea
+ Funding:
+  - National Research Foundation of Korea
+ Methods:
+  - parameter estimation
+  - mca
+-
  Reference: "Proctor CJ, Lorimer IAJ (2011) Modelling the role of the Hsp70/Hsp90 system in the maintenance of protein homeostasis. PLoS One 6:e22038"
  Year: 2011
  Type: 2
