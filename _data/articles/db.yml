@@ -3100,7 +3100,7 @@
  Reference: "Quiros DN, Nieto F, Mayorga LS (2021) From cartoons to quantitative models in Golgi transport. Biology of the Cell 113:146–164"
  Year: 2021
  Type: 2 
- URL:  https://doi.org/10.1111/boc.202000107
+ URL: https://doi.org/10.1111/boc.202000107
  Keywords:
   - Cell Biology
  Locations:
@@ -15481,10 +15481,10 @@
 -
  Reference: "Mensonides F, Bakker BM, Cremazy F, Messiha HL, Mendes P, Boogerd FC, Westerhoff HV (2013) A new regulatory principle for in vivo biochemistry: pleiotropic low affinity regulation by the adenine nucleotides illustrated for the glycolytic enzymes of Saccharomyces cerevisiae. FEBS Letters 587:2860-7"
  Year: 2013
+ Type: 2
  URL: https://doi.org/10.1016/j.febslet.2013.07.013
  Keywords:
   - Metabolism
- Type: 2
  Locations:
   - Coordinates: 52.3337601,4.8635312
   - Coordinates: 53.2208632,6.5749903
@@ -19048,15 +19048,6 @@
  Type: 3
  Locations:
   - National University of Singapore, Singapore, Singapore
--
- Reference: "Chu C-F (2009) Computational characterization of the role of antioxidant potential in the tonifying mechanism of Yang-invigorating Chinese tonifying herbs. Masters Thesis, National Chiao Tung University, Taiwan, Republic of China"
- Year: 2009
- URL: https://ir.nctu.edu.tw/bitstream/11536/43261/1/150101.pdf
- Keywords:
-  - Biochemistry
- Type: 2
- Locations:
-  - National Chiao Tung University, Hsinchu, Taiwan
 -
  Reference: "Kühn C, Pe℡enz E, Nordlander B, Schaber J, Hohmann S, Klipp E (2008) Exploring the Impact of Osmoadaptation on Glycolysis Using Time-Varying Response-Coefficients. Genome Informatics 20:77–90"
  Year: 2008
