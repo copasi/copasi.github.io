@@ -18110,11 +18110,11 @@
 -
  Reference: "Li P, Dada JO, Jameson D, Spasić I, Swainston N, Carroll KM, Dunn WB, Khan F, Malys N, Messiha HL, Simeonidis E, Weichart D, Winder CL, Wishart J, Broomhead DS, Goble CA, Gaskell SJ, Kell DB, Westerhoff HV, Mendes P, Paton NW (2010) Systematic integration of experimental data and models in systems biology. BMC Bioinformatics 11:582"
  Year: 2010
+ Type: 3
  URL: https://doi.org/10.1186/1471-2105-11-582
  Keywords:
   - Computational Method
   - Metabolism
- Type: 3
  Locations:
   - University of Manchester, Manchester, UK
   - Virginia Tech, Blacksburg, VA 24061, USA
@@ -18139,10 +18139,10 @@
 -
  Reference: "Maiwald T, Schneider A, Busch H, Sahle S, Gretz N, Weiss TS, Kummer U, Klingmüller U (2010) Combining theoretical analysis and experimental data generation reveals IRF9 as a crucial factor for accelerating interferon α-induced early antiviral signalling: IRF9 accelerates IFNα signal transduction. FEBS Journal 277:4741-4754"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1111/j.1742-4658.2010.07880.x
  Keywords:
   - Signaling
- Type: 2
  Locations:
   - Heidelberg University, Heidelberg, Germany
   - German Cancer Research Center, Heidelberg, Germany
@@ -18191,10 +18191,10 @@
 -
  Reference: "Nakano T, Doi T, Yoshimoto J, Doya K (2010) A Kinetic Model of Dopamine- and Calcium-Dependent Striatal Synaptic Plasticity. PLoS Computational Biology 6:e1000670."
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1371/journal.pcbi.1000670
  Keywords:
   - Physiology
- Type: 2
  Locations:
   - Nara Institute of Science and Technology, Ikoma, Japan
   - Okinawa Institute of Science and Technology, Uruma, Japan
@@ -18202,10 +18202,10 @@
 -
  Reference: "Orrillo AG, Furlan RLE (2010) Supramolecular Interactions between Library Members Modulate the Behavior of Dynamic Combinatorial Libraries. Journal of Organic Chemistry 75:211–214"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1021/jo902296h
  Keywords:
   - Chemistry
- Type: 2
  Locations:
   - Universidad Nacional de Rosario, Rosario, Argentina
  Funding:
