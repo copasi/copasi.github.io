@@ -18077,10 +18077,10 @@
 -
  Reference: "Hallinan JS, Misirli G, Wipat A (2010) Evolutionary computation for the design of a stochastic switch for synthetic genetic circuits. Proceedings of the 2010 Annual International Conference of the IEEE Engineering in Medicine and Biology 768–774"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1109/iembs.2010.5626353
  Keywords:
   - Synthetic Biology
- Type: 2
  Locations:
   - Newcastle University, Newcastle upon Tyne, UK
   - Newcastle University, Newcastle, UK
@@ -18089,10 +18089,10 @@
 -
  Reference: "Hill MP, Carroll EC, Vang MC, Addington TA, Toney MD, Larsen DS (2010) Light-Enhanced Catalysis by Pyridoxal Phosphate-Dependent Aspartate Aminotransferase. Journal of the American Chemical Society 132:16953–16961"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1021/ja107054x
  Keywords:
   - Enzymology
- Type: 2
  Locations:
   - University of California, Davis, CA, USA
  Funding:
@@ -18101,10 +18101,10 @@
 -
  Reference: "Huang R, Grabarek Z,  Wang C-LA (2010) Differential effects of caldesmon on the intermediate conformational states of polymerizing actin. Journal of Biological Chemistry 285:71-79"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1074/jbc.M109.065078
  Keywords:
   - Macromolecular Biochemistry
- Type: 2
  Locations:
   - Boston Biomedical Research Institute, Watertown MA, USA
 -
@@ -18126,10 +18126,10 @@
 -
  Reference: "Liu J, Mehdi S, Topping J, Tarkowski P, Lindsey K (2010) Modelling and experimental analysis of hormonal crosstalk in Arabidopsis. Molecular Systems Biology 6:373"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1038/msb.2010.26
  Keywords:
   - Signaling
- Type: 2
  Locations:
   - Swedish University of Agricultural Science, Umea, Sweden
   - Durham University, Durham DH1 3LE, UK
@@ -18151,7 +18151,6 @@
  Methods:
   - time course
   - parameter estimation
--
 -
  Reference: "Mazza T, Iaccarino G, Priami C (2010) Snazer: the simulations and networks analyzer. BMC Systems Biology 4:1"
  Year: 2010
@@ -18179,10 +18178,10 @@
 -
  Reference: "Morrissey ER, Juarez MA, Denby KJ, Burroughs NJ (2010) On reverse engineering of gene interaction networks using time course data with repeated measurements. Bioinformatics 26:2305–2312"
  Year: 2010
+ Type: 3
  URL: https://doi.org/10.1093/bioinformatics/btq421
  Keywords:
   - Computational Method
- Type: 3
  Locations:
   - University of Warwick, Coventry CV4 7AL, UK
  Funding:
@@ -18216,18 +18215,18 @@
 -
  Reference: "Pezzola S, Antonini G, Geroni C, Beria I, Colombo M, Broggini M, Mongelli N, Leboffe L, MacArthur R, Mozzi AF, Federici G, Caccuri AM (2010) Role of Glutathione Transferases in the Mechanism of Brostallicin Activation. Biochemistry 49:226–235"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1021/bi901689s
  Keywords:
   - Enzymology
- Type: 2
  Locations:
-  - University of “Tor Vergata”, Rome, Italy
-  - University of “RomaTre”, Rome, Italy
+  - University of Tor Vergata, Rome, Italy
+  - University of RomaTre, Rome, Italy
   - Nerviano Medical Sciences Srl, Nerviano, Italy
-  - Istituto di Ricerche Farmacologiche ‘Mario Negri, Milan, Italy
+  - Istituto di Ricerche Farmacologiche Mario Negri, Milan, Italy
   - Systems Medicine LLC, Seattle, Washington
   - TorVergata’s Hospital, Rome, Italy
-  - Istituto di Ricovero e Cura a Carattere Scientifico ‘‘Bambin Ges’’, Rome, Italy
+  - Istituto di Ricovero e Cura a Carattere Scientifico Bambin Ges, Rome, Italy
 -
  Reference: "Piedrafita G, Montero F, Morán F, Cárdenas ML, Cornish-Bowden A (2010) A Simple Self-Maintaining Metabolic System: Robustness, Autocatalysis, Bistability. PLoS Computational Biology 6:e1000872"
  Year: 2010
@@ -18246,11 +18245,11 @@
 -
  Reference: "Samorodnitsky E, Pugh BF (2010) Genome-Wide Modeling of Transcription Preinitiation Complex Disassembly Mechanisms using ChIP-chip Data. PLoS Computational Biology 6:e1000733"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1371/journal.pcbi.1000733
  Keywords:
   - Macromolecular Biochemistry
   - Genomics
- Type: 2
  Locations:
   - Pennsylvania State University, University Park PA, USA
  Funding:
@@ -18258,12 +18257,12 @@
 -
  Reference: "Smallbone K, Simeonidis E, Swainston N, Mendes P (2010) Towards a genome-scale kinetic model of cellular metabolism. BMC Systems Biology 4:6"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1186/1752-0509-4-6
  Keywords:
   - Genomics
   - Whole-Cell Models
   - Metabolism
- Type: 2
  Locations:
   - University of Manchester, Manchester, UK
   - Virginia Tech, Blacksburg VA, USA
@@ -18286,8 +18285,8 @@
 -
  Reference: "Swainston N, Jameson D, Li P, Spasić I, Mendes P, Paton NW (2010) Integrative information management for systems biology. Lecture Notes in Computer Science 6254:164–178"
  Year: 2010
- URL: https://doi.org/10.1007/978-3-642-15120-0_13
  Type: 3
+ URL: https://doi.org/10.1007/978-3-642-15120-0_13
  Keywords:
   - Computational Method
  Locations:
@@ -18297,11 +18296,11 @@
 -
  Reference: "Tiwari A, Balázsi G, Gennaro ML, Igoshin OA (2010) The interplay of multiple feedback loops with post-translational kinetics results in bistability of mycobacterial stress response. Physical Biology 7:36005"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1088/1478-3975/7/3/036005
  Keywords:
   - Microbiology
   - Genetics
- Type: 2
  Locations:
   - Rice University, Houston, TX 77005, USA
   - The University of Texas MD Anderson Cancer Center, Houston, TX 77005, USA
@@ -18315,31 +18314,31 @@
 -
  Reference: "Watkins AL, Landis CR (2010) Origin of Pressure Effects on Regioselectivity and Enantioselectivity in the Rhodium-Catalyzed Hydroformylation of Styrene with ( S , S , S )-BisDiazaphos. Journal of the American Chemical Society 132:10306–10317"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1021/ja909619a
  Keywords:
   - Chemistry
- Type: 2
  Locations:
   - University of Wisconsin-Madison, Madison, Wisconsin, USA
  Funding:
   - NSF
   - NIH
 -
- Reference: "Wendelsdorf K, Bassaganya-Riera J, Hontecillas R,  Eubank S (2010) Model of colonic inflammation: immune modulatory mechanisms in inflammatory bowel disease. Journal of Theoretical Biology 264:1225-1239"
+ Reference: "Wendelsdorf K, Bassaganya-Riera J, Hontecillas R, Eubank S (2010) Model of colonic inflammation: immune modulatory mechanisms in inflammatory bowel disease. Journal of Theoretical Biology 264:1225-1239"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1016/j.jtbi.2010.03.027
  Keywords:
   - Immunology
- Type: 2
  Locations:
   - Virginia Tech, Blacksburg VA, USA
 -
  Reference: "Yao G, Tan C, West M, Nevins JR, You L (2010) A Minimal Gene Circuit Underlying the Bistable Cell Cycle Entry. Citeseer Preprint"
  Year: 2010
+ Type: 2
  URL: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.184.1759
  Keywords:
   - Synthetic Biology
- Type: 2
  Locations:
   - Duke University Durham, Durham, NC, USA
  Funding:
@@ -18347,8 +18346,8 @@
 -
  Reference: "Zhang R, Monsma F (2010) Binding kinetics and mechanism of action: toward the discovery and development of better and best in class drugs. Expert Opinion on Drug Discovery 5:1023–1029"
  Year: 2010
- URL: https://doi.org/10.1517/17460441.2010.520700
  Type: 2
+ URL: https://doi.org/10.1517/17460441.2010.520700
  Keywords:
   - Enzymology
   - Pharmacology
@@ -18361,10 +18360,10 @@
 -
  Reference: "Zhang Y, Song D, Lanni LM, Shimizu KD (2010) Importance of Functional Monomer Dimerization in the Molecular Imprinting Process. Macromolecules 43:6284–6294"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1021/ma101013c
  Keywords:
   - Chemistry
- Type: 2
  Locations:
   - University of South Carolina, Columbia, South Carolina 29208, USA
  Funding:
@@ -18372,10 +18371,10 @@
 -
  Reference: "Baralla A, Mentzen WI, De La Fuente A (2009) Inferring Gene Networks: Dream or Nightmare?: Part 1: Challenges 1 and 3. Annals of the New York Academy of Sciences 1158:246-256"
  Year: 2009
+ Type: 3
  URL: https://doi.org/10.1111/j.1749-6632.2008.04099.x
  Keywords:
   - Computational Method
- Type: 3
  Locations:
   - University of Sassari, Sassari, Italy
   - CRS4 Bioinformatica, Pula, Italy
