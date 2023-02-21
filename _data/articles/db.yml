@@ -17925,14 +17925,16 @@
 -
  Reference: "Colby DA, Bergman RG, Ellman JA (2010) Rhodium-Catalyzed C−C Bond Formation via Heteroatom-Directed C−H Bond Activation. Chemical Reviews 110:624–655"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1021/cr900005n
  Keywords:
- Type: 2
  Locations:
   - University of California, Berkeley, CA, USA
   - University of California, San Diego, CA, USA
  Funding:
-  - National Institutes of Health (Grant GM069559 to J.A.E.), the National Science Foundation (predoctoral fel- lowship to D.A.C.), and the Director and Office of Energy Research Office of Basic Energy Sciences, Chemical Sci- ences Division, U.S. Department of Energy (Contract DE- AC02-05CH11231 to R.G.B.)
+  - NIH
+  - NSF
+  - DOE
 -
  Reference: "Costa RS, Machado D, Ferreira EC, Rocha I (2010) Evaluating the integration of proteomic data for the prediction of intracellular fluxes after knockout experiments. IFAC Proceedings Volumes 43:114–119"
  Year: 2010
@@ -17957,7 +17959,7 @@
   - Metabolism
   - Microbiology
  Locations:
-  - IBB-Institute for Biotechnology and Bioengineering, Centre of Biological Engineering, Universidade do Minho, Campus de Gualtar, 4710-057 Braga, Portugal
+  - Institute for Biotechnology and Bioengineering, Centre of Biological Engineering, Universidade do Minho, Campus de Gualtar, 4710-057 Braga, Portugal
  Funding:
   - Fundação para a Ciência e a Tecnologia, Portugal
   - MIT-Portugal
@@ -17993,10 +17995,10 @@
 -
  Reference: "Dimitrova E, Vera-Licona P, McGee J, Laubenbacher R (2010) Discretization of Time Series Data. Journal of Computational Biology 17:853-68."
  Year: 2010
+ Type: 3
  URL: https://doi.org/10.1089/cmb.2008.0023
  Keywords:
   - Computational Method
- Type: 3
  Locations:
   - Clemson University, Clemson SC, USA
   - Institut Curie, Paris, France
