@@ -17560,6 +17560,17 @@
  Locations:
   - ETH Zurich, Basel, Switzerland
 -
+ Reference: "Matuszak Z (2011) Photodynamic therapy of melanoma. Monte Carlo modeling of light transport in human pigmented skin. Bio Algorithms Med Syst. 7:85–93"
+ Year: 2011
+ Type: 2
+ URL: http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-419c0605-928b-4fb4-8deb-5f8f933d602c?q=bwmeta1.element.baztech-5fb4a460-b60e-488c-8bac-a17d25f84f29;11&qt=CHILDREN-STATELESS
+ Keywords:
+  - Biophysics
+ Locations:
+  - Department of Medical Physics and Biophysics, Faculty of Physics and Applied Computer Sciences, AGH-University of Science and Technology, Al. Mickiewicza 30, 30-059 Cracow, Poland
+ Methods:
+  - time course
+-
  Reference: "Mauch S, Stalzer M (2011) Efficient formulations for exact stochastic simulation of chemical systems. IEEE/ACM Transactions on Computational Biology and Bioinformatics 8:27-35"
  Year: 2011
  URL: https://doi.org/10.1109/TCBB.2009.47
@@ -18066,6 +18077,7 @@
  Methods:
   - time course
   - parameter estimation
+-
 -
  Reference: "Mazza T, Iaccarino G, Priami C (2010) Snazer: the simulations and networks analyzer. BMC Systems Biology 4:1"
  Year: 2010
