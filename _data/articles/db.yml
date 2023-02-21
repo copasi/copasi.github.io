@@ -17853,10 +17853,10 @@
 -
  Reference: "Yao G, Tan C, West M, Nevins JR, You L (2011) Origin of bistability underlying mammalian cell cycle entry. Molecular Systems Biology 7:485"
  Year: 2011
+ Type: 2
  URL: https://doi.org/10.1038/msb.2011.19
  Keywords:
   - Cell Biology
- Type: 2
  Locations:
   - University of Arizona, Tucson AZ, USA
   - Duke University, Durham NC, USA
@@ -17866,10 +17866,10 @@
 -
  Reference: "Adra S, Sun T, MacNeil S, Holcombe M, Smallwood R (2010) Development of a Three Dimensional Multiscale Computational Model of the Human Epidermis. PLoS One 5:e8511."
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1371/journal.pone.0008511
  Keywords:
   - Physiology
- Type: 2
  Locations:
   - University of Sheffield, Sheffield, UK
   - University of Glasgow, Glasgow, UK
@@ -17892,28 +17892,28 @@
 -
  Reference: "Baker SM, Schallau K, Junker BH (2010) Comparison of different algorithms for simultaneous estimation of multiple parameters in kinetic metabolic models. Journal of Integrative Bioinformatics 7:519-520"
  Year: 2010
+ Type: 3
  URL: https://doi.org/10.2390/biecoll-jib-2010-133
  Keywords:
   - Computational Method
- Type: 3
  Locations:
   - Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben, Germany
 -
  Reference: "Brasen JC, Barington T, Olsen LF (2010) On the mechanism of oscillations in neutrophils. Biophysical Chemistry 148:82-92"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1016/j.bpc.2010.02.013
  Keywords:
   - Cell Biology
- Type: 2
  Locations:
   - University of Southern Denmark, Odense, Denmark
 -
  Reference: "Chi CN, Bach A, Gottschalk M, Kristensen AS, Stromgaard K, Jemth P (2010) Deciphering the Kinetic Binding Mechanism of Dimeric Ligands Using a Potent Plasma-stable Dimeric Inhibitor of Postsynaptic Density Protein-95 as an Example. Journal of Biological Chemistry 285:28252–28260"
  Year: 2010
+ Type: 2
  URL: https://doi.org/10.1074/jbc.m110.124040
  Keywords:
   - Macromolecular Biochemistry
- Type: 2
  Locations:
   - University of Copenhagen, Copenhagen, Denmark
  Funding:
