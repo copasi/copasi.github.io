@@ -630,6 +630,19 @@
  Methods:
   - time course
 -
+ Reference: "Dotsenko OI (2022) The whole-cell kinetic metabolic model of the pH regulation mechanisms in human erythrocytes. Regulatory Mechanisms in Biosystems 13:272–280"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.15421/022235
+ Keywords:
+  - Metabolism
+  - Whole-Cell Models
+ Locations:
+  - Vasyl’ Stus Donetsk National University, Vinnytsia, Ukraine
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Erdem C, Mutsuddy A, Bensman EM, Dodd WB, Saint-Antoine MM, Bouhaddou M, Blake RC, Gross SM, Heiser LM, Feltus FA, Birtwistle MR (2022) A scalable, open-source implementation of a large-scale mechanistic model for single cell proliferation and death signaling. Nature Communications 13:3555"
  Year: 2022
  Type: 2
