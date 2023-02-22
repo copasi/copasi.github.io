@@ -15266,6 +15266,19 @@
  Funding:
   - DOE
 -
+ Reference: "Kampenusa I, Zikmanis P (2013) Relationships between metabolic fluxes and enzyme amino acid composition. Central European Journal of Biology 8:107–120"
+ Year: 2013
+ Type: 2
+ URL: https://doi.org/10.2478/s11535-013-0125-1
+ Keywords:
+  - Metabolism
+ Locations:
+  - Institute of Microbiology and Biotechnology, University of Latvia, LV-1010 Riga, Latvia
+ Funding:
+  - EU European Structural Fund
+ Methods:
+  - time course
+-
  Reference: "Kennedy N, Mizeranschi A, Thompson P, Zheng H, Dubitzky W (2013) Reverse engineering of gene regulation models from multi-condition experiments. Proceedings of the 2013 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), pp.112-119"
  Year: 2013
  URL: https://doi.org/10.1109/CIBCB.2013.6595396
