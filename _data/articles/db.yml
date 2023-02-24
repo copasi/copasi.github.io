@@ -80,41 +80,6 @@
   - parameter estimation
   - time course
 -
- Reference: "Lauterbach S, Dienhart H, Range J, Malzacher S, Spöring J-D, Rother D, Pinto MF, Martins P, Lagerman CE, Bommarius AS, Høst AV, Woodley JM, Ngubane S, Kudanga T, Bergmann FT, Rohwer JM, Iglezakis D, Weidemann A, Wittig U, Kettner C, Swainston N, Schnell S, Pleiss J (2023) EnzymeML: seamless data flow and modeling of enzymatic data. Nature Methods doi:10.1038/s41592-022-01763-1"
- Year: 2023
- Type: 3
- URL: https://doi.org/10.1038/s41592-022-01763-1
- Keywords:
-  - Computational Method
-  - Enzymology
- Locations:
-  - Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Stuttgart, Germany
-  - Institute of Bio- and Geosciences 1, Forschungszentrum Jülich, Jülich, Germany
-  - Aachen Biology and Biotechnology, RWTH Aachen University, Aachen, Germany
-  - i3S, Instituto de Investigação e Inovação em Saúde da Universidade do Porto, University of Porto, Porto, Portugal
-  - School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA, USA
-  - Department of Chemical and Biochemical Engineering, Technical University of Denmark, Kgs Lyngby, Denmark
-  - Department of Biotechnology and Food Science, Durban University of Technology, Durban, South Africa
-  - BioQUANT/COS, Heidelberg University, Heidelberg, Germany
-  - Department of Biochemistry, Stellenbosch University, Stellenbosch, South Africa
-  - Information and Communication Center, University of Stuttgart, Stuttgart, Germany
-  - Heidelberg Institute for Theoretical Studies, Heidelberg, Germany
-  - Beilstein-Institut, Frankfurt am Main, Germany
-  - Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, UK
-  - Department of Biological Sciences, University of Notre Dame, Notre Dame, IN, USA
- Funding:
-  - DFG
-  - BMBF
-  - Klaus Tschira Foundation
-  - National Research Foundation of South Africa
-  - Sino-Danish Center for Education and Research
-  - Technical University of Denmark
-  - FDA
-  - NSF
-  - Beilstein-Institut
- Methods:
-  - parameter estimation
--
  Reference: "Dougher M, Soh L, Bala AM (2023) Techno-Economic Analysis of Interesterification for Biodiesel Production. Energy & Fuels. American Chemical Society 37:2912–2925"
  Year: 2023
  Type: 2
@@ -158,6 +123,41 @@
  Methods:
   - paramter estimation
   - time course
+-
+ Reference: "Lauterbach S, Dienhart H, Range J, Malzacher S, Spöring J-D, Rother D, Pinto MF, Martins P, Lagerman CE, Bommarius AS, Høst AV, Woodley JM, Ngubane S, Kudanga T, Bergmann FT, Rohwer JM, Iglezakis D, Weidemann A, Wittig U, Kettner C, Swainston N, Schnell S, Pleiss J (2023) EnzymeML: seamless data flow and modeling of enzymatic data. Nature Methods doi:10.1038/s41592-022-01763-1"
+ Year: 2023
+ Type: 3
+ URL: https://doi.org/10.1038/s41592-022-01763-1
+ Keywords:
+  - Computational Method
+  - Enzymology
+ Locations:
+  - Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Stuttgart, Germany
+  - Institute of Bio- and Geosciences 1, Forschungszentrum Jülich, Jülich, Germany
+  - Aachen Biology and Biotechnology, RWTH Aachen University, Aachen, Germany
+  - i3S, Instituto de Investigação e Inovação em Saúde da Universidade do Porto, University of Porto, Porto, Portugal
+  - School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA, USA
+  - Department of Chemical and Biochemical Engineering, Technical University of Denmark, Kgs Lyngby, Denmark
+  - Department of Biotechnology and Food Science, Durban University of Technology, Durban, South Africa
+  - BioQUANT/COS, Heidelberg University, Heidelberg, Germany
+  - Department of Biochemistry, Stellenbosch University, Stellenbosch, South Africa
+  - Information and Communication Center, University of Stuttgart, Stuttgart, Germany
+  - Heidelberg Institute for Theoretical Studies, Heidelberg, Germany
+  - Beilstein-Institut, Frankfurt am Main, Germany
+  - Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, UK
+  - Department of Biological Sciences, University of Notre Dame, Notre Dame, IN, USA
+ Funding:
+  - DFG
+  - BMBF
+  - Klaus Tschira Foundation
+  - National Research Foundation of South Africa
+  - Sino-Danish Center for Education and Research
+  - Technical University of Denmark
+  - FDA
+  - NSF
+  - Beilstein-Institut
+ Methods:
+  - parameter estimation
 -
  Reference: "Marcos-Ayuso G, Peñas de Frutos MN, Gallego AM, García-Melchor M, Martínez-Ilarduya JM, Espinet P (2023) Problematic ArF-Alkynyl Coupling with Fluorinated Aryls. From Partial Success with Alkynyl Stannanes to Efficient Solutions via Mechanistic Understanding of the Hidden Complexity. Journal of the American Chemical Society 145:527–536"
  Year: 2023
