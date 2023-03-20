@@ -322,6 +322,25 @@
   - EU  Horizon2020
   - NIH
 -
+ Reference: "Schuster M, Li C, Smith P, Kuttler C (2023) Parameters, architecture and emergent properties of the Pseudomonas aeruginosa LasI/LasR quorum-sensing circuit. Journal of the Royal Society Interface 20:20220825"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1098/rsif.2022.0825
+ Keywords:
+  - Microbiology
+  - Signaling
+ Locations:
+  - Department of Microbiology, Oregon State University, Corvallis, OR 97331, USA
+  - Department of Mathematics, Technische Universität München, 85748 Garching, Germany
+ Funding:
+  - NSF
+  - Alexander von Humboldt Foundation
+  - German Academic Exchange Service
+  - Sheila van Zandt student fellowship
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Sumi T, Harada K (2023) Muscarinic acetylcholine receptor-dependent and NMDA receptor-dependent LTP and LTD share the common AMPAR trafficking pathway. iScience 26:106133"
  Year: 2023
  Type: 2
