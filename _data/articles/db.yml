@@ -394,6 +394,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Siedentop R, Dziennus M, Lütz S, Rosenthal K (2023) Debottlenecking of an In Vitro Enzyme Cascade Using a Combined Model- and Experiment-Based Approach. Chemie Ingenieur Technik 95:543–548"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1002/cite.202200170
+ Keywords:
+  - Biochemistry
+  - Metabolism
+ Locations:
+  - TU Dortmund University, Department of Biochemical and Chemical Engineering, Emil-Figge-Straße 66, 44227 Dortmund, Germany
+  - Constructor University, Department of Life Sciences and Chemistry, Campus Ring 1, 28759 Bremen, Germany
+ Funding:
+  - DFG
+ Methods:
+  - time course
+-
  Reference: "Sumi T, Harada K (2023) Muscarinic acetylcholine receptor-dependent and NMDA receptor-dependent LTP and LTD share the common AMPAR trafficking pathway. iScience 26:106133"
  Year: 2023
  Type: 2
