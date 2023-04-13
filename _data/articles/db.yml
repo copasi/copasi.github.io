@@ -283,6 +283,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Mutsuddy A, Erdem C, Huggins JR, Salim M, Cook D, Hobbs N, Feltus FA, Birtwistle MR (2023) Computational speed-up of large-scale, single-cell model simulations via a fully integrated SBML-based format. Bioinformatics Advances 3:vbad039"
+ Year: 2023
+ Type: 3
+ URL: https://doi.org/10.1093/bioadv/vbad039
+ Keywords:
+  - Computational Method
+ Locations:
+  - Clemson University, Clemson, SC, USA
+  - SimBioSys, Inc., Chicago, IL, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - stochastic simulation
+-
  Reference: "Neiburga KD, Muiznieks R, Zake DM, Pentjuss A, Komasilovs V, Rohwer J, Tissier A, Stalidzans E (2023) Total optimization potential (TOP) approach based constrained design of isoprene and cis-abienol production in A. thaliana. Biochemical Engineering Journal 190:108723"
  Year: 2023
  Type: 2
