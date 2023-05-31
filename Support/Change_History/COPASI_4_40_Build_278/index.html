@@ -1,0 +1,64 @@
+---
+layout: structure
+title: "COPASI 4.40 Build 278"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.40.278</h3>
+    Release Date: May 31, 2023<br />
+
+    <h4>Bug Fixes since COPASI 4.39 (Build 272)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Fixed issue where loading a parameter estimation protocol in which the values had been sorted externally lead to incorrect parameter mapping.
+          </li>
+          <li>
+            Show both modification and creation time entities in local time.
+          </li>
+          <li>
+            Fixed plot for parameter estimation results for steady state experiments to properly map the independent data.
+          </li>
+          <li>
+            The parameter estimation result now includes a counter for failed constraints.
+          </li>
+          <li>
+            Fixed crash when deleting all global quantities.
+          </li>
+       </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Fixed temporary directory for export of Combine and Shiny archives to address security restrictions on MacOS X.
+          </li>
+          <li>
+            Stochastic simulation methods now correctly report whether they support events and thus whether they can be used for the simulation of model with events.
+          </li>
+        </ul>
+      </li>
+      <li> Standards 
+        <ul>
+          <li>
+            SBML import: Fixed issue where it was not possible to change the delay of an imported event.
+          </li>
+          <li>
+            SBML import: Fixed crash caused by particular unit definitions during importing.
+          </li>
+          <li>
+            SBML import: Fixed import of reaction kinetics which occasionally lost the parameter mapping.
+          </li>
+          <li>
+            SBML import: Handle references to missing modifier species in reactions gracefully.
+          </li>
+          <li>
+            SBML export: Reduced warnings about Model History not being exported to only check the model itself and not all model components.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
