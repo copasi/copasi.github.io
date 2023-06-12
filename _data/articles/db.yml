@@ -222,6 +222,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Kyrimis S (2023) Towards realistic large-scale simulations of fixed bed chemical reactors: Bridging the gap between discrete element and porous media computational fluid dynamics models. Ph.D. Thesis, University of Southampton, UK"
+ Year: 2023
+ Type: 2
+ URL: https://eprints.soton.ac.uk/477039/
+ Keywords:
+  - Chemistry
+ Locations:
+  - University of Southampton, University Road, Southampton SO17 1BJ, UK
+ Funding:
+  - Southampton Marine and Maritime Institute, UK
+ Methods:
+  - parameter estimation
+-
  Reference: "Larbi Djaballah M, Belghit A, Dehane A, Merouani S, Hamdaoui O, Ashokkumar M (2023) Radicals (●OH, Cl●, ClO● and Cl2●–) concentration profiles in the intensified degradation of reactive green 12 by UV/chlorine process: Chemical kinetic analysis using a validated model. Journal of Photochemistry and Photobiology A: Chemistry 439:114557"
  Year: 2023
  Type: 2
