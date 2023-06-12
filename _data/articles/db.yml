@@ -337,6 +337,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Medasani B, Kasiraju S, Vlachos DG (2023) OpenMKM: An Open-Source C++ Multiscale Modeling Simulator for Homogeneous and Heterogeneous Catalytic Reactions. Journal of Chemical Information and Modeling 63:3377–3391"
+ Year: 2023
+ Type: 3
+ URL: https://doi.org/10.1021/acs.jcim.3c00088
+ Keywords:
+  - Software
+  - Chemistry
+ Locations:
+  - Computational Sciences Department, Princeton Plasma Physics Laboratory, Princeton, New Jersey 08540, USA
+  - Delaware Energy Institute, University of Delaware, 221 Academy St., Newark, Delaware 19716, USA
+ Funding:
+  - DOE
+ Methods:
+  - time course
+-
  Reference: "Mutsuddy A, Erdem C, Huggins JR, Salim M, Cook D, Hobbs N, Feltus FA, Birtwistle MR (2023) Computational speed-up of large-scale, single-cell model simulations via a fully integrated SBML-based format. Bioinformatics Advances 3:vbad039"
  Year: 2023
  Type: 3
