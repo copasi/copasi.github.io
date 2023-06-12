@@ -476,6 +476,22 @@
   - EU Horizon2020
   - Polish Ministry of Science and Higher Education
 -
+ Reference: "Schaumburger N, Pally J, Moraru II, Kositsawat J, Kuchel GA, Blinov ML (2023) Dynamic model assuming mutually inhibitory biomarkers of frailty suggests bistability with contrasting mobility phenotypes. Frontiers in Network Physiology 3:1079070"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.3389/fnetp.2023.1079070
+ Keywords:
+  - Signaling
+  - Physiology
+ Locations:
+  - Department of Ecology and Evolutionary Biology, University of Connecticut, Storrs, CT, USA
+  - Center for Cell Analysis and Modeling, UConn Health, 400 Farmington Av., Farmington, CT, USA,
+ Funding:
+  - NIH
+  - Aetna Health Professions Partnership Initiative Summer Program
+ Methods:
+  - parameter estimation
+-
  Reference: "Schuster M, Li C, Smith P, Kuttler C (2023) Parameters, architecture and emergent properties of the Pseudomonas aeruginosa LasI/LasR quorum-sensing circuit. Journal of the Royal Society Interface 20:20220825"
  Year: 2023
  Type: 2
