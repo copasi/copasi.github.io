@@ -377,6 +377,21 @@
   - time course
   - parmater estimation
 -
+ Reference: "Maeda K, Kurata H (2023) Automatic Generation of SBML Kinetic Models from Natural Language Texts Using GPT. International Journal of Molecular Sciences 24:7296"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.3390/ijms24087296
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Bioscience and Bioinformatics, Kyushu Institute of Technology, 680-4 Kawazu, Iizuka 820-8502, Fukuoka, Japan
+ Funding:
+  - Japan Society for the Promotion of Science
+  - JST, Japan
+ Methods:
+  - SMBL
+  - time course
+-
  Reference: "Marcos-Ayuso G, Peñas de Frutos MN, Gallego AM, García-Melchor M, Martínez-Ilarduya JM, Espinet P (2023) Problematic ArF-Alkynyl Coupling with Fluorinated Aryls. From Partial Success with Alkynyl Stannanes to Efficient Solutions via Mechanistic Understanding of the Hidden Complexity. Journal of the American Chemical Society 145:527–536"
  Year: 2023
  Type: 2
@@ -673,6 +688,19 @@
   - DFG
  Methods:
   - time course
+-
+ Reference: "Sotnikov DV, Barshevskaya LV, Zherdev AV, Dzantiev BB (2023) Enhanced Lateral Flow Immunoassay with Double Competition and Two Kinds of Nanoparticles Conjugates for Control of Insecticide Imidacloprid in Honey. Biosensors 13:525"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.3390/bios13050525
+ Keywords:
+  - Experimental Method
+ Locations:
+  - A.N. Bach Institute of Biochemistry, Russian Academy of Sciences, Leninsky Prospect 33, 119071 Moscow, Russia
+ Funding:
+  - Russian Science Foundation
+ Methods:
+  - steady state
 -
  Reference: "Sumi T, Harada K (2023) Muscarinic acetylcholine receptor-dependent and NMDA receptor-dependent LTP and LTD share the common AMPAR trafficking pathway. iScience 26:106133"
  Year: 2023
