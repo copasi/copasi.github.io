@@ -489,6 +489,24 @@
  Methods:
   - time course
 -
+ Reference: "Mendes P (2023) Reproducibility and FAIR principles: the case of a segment polarity network model. Frontiers in Cell and Developmental Biology 11:1201673"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.3389/fcell.2023.1201673
+ Keywords:
+  - Genetics
+  - Signaling
+  - Computational Method
+ Locations:
+  - Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, 400 Farmington Av., Farmington, CT, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - parameter scan
+  - python
+  - events
+-
  Reference: "Mutsuddy A, Erdem C, Huggins JR, Salim M, Cook D, Hobbs N, Feltus FA, Birtwistle MR (2023) Computational speed-up of large-scale, single-cell model simulations via a fully integrated SBML-based format. Bioinformatics Advances 3:vbad039"
  Year: 2023
  Type: 3
