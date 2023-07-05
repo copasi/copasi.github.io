@@ -1091,6 +1091,22 @@
  Methods:
   - steady state
 -
+ Reference: "Cho D-J, Függer M, Hopper C, Kushwaha M, Nowak T, Soubeyran Q (2022) Distributed computation with continual population growth. Distributed Computing 35:547–569"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.1007/s00446-021-00404-8
+ Keywords:
+  - Synthetic Biology
+ Locations:
+  - School of Electrical Engineering and Computer Science, University of Kassel, Kassel, Germany
+  - Université Paris-Saclay, Gif-sur-Yvette, France
+  - École Polytechnique, Institut Polytechnique de Paris, Palaiseau, France
+ Funding:
+  - Franch ANR
+ Methdos:
+  - stochastic simulation
+  - parameter scan
+-
  Reference: "Daas JCJ, Förster J, Pahle J (2022) Dynamic publication media with the COPASI R Connector (CoRC). Mathematical Biosciences 348:108822"
  Year: 2022
  Type: 1
