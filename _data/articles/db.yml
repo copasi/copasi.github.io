@@ -736,6 +736,25 @@
   - EU  Horizon2020
   - NIH
 -
+ Reference: "Saffioti NA, Alvarez CL, Bazzi Z, Gentilini MV, Gondolesi GE, Schwarzbaum PJ, Schachter J (2023) Dynamic recycling of extracellular ATP in human epithelial intestinal cells. PLOS Computational Biology 19:e1011196"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1011196
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Universidad de Buenos Aires, Buenos Aires, Argentina
+  - Universidad Nacional de General San Martin, Buenos Aires, Argentina
+  - Universidad Favaloro, Buenos Aires, Argentina
+ Funding:
+  - Secretarı́a de Ciencia y Técnica, Universidad de Buenos Aires
+  - Consejo Nacional de Investigaciones Cientı́ficas y Técnicas, Argentina
+  - Agencia Nacional de Promoción Cientı́fica y Tecnológica, Argentina
+ Methods:
+  - time course
+  - parameter estimation
+  - parameter scan
+-
  Reference: "Sarang K, Otto T, Gagan S, Rudzinski K, Schaefer T, Brüggemann M, Grgić I, Kubas A, Herrmann H, Szmigielski R (2023) Aqueous-phase photo-oxidation of selected green leaf volatiles initiated by OH radicals: Products and atmospheric implications. Science of The Total Environment 879:162622"
  Year: 2023
  Type: 2
