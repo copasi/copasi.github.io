@@ -585,6 +585,18 @@
   - time course
   - parameter estimation
 -
+ Reference: "Niehren J, Lhoussaine C, Vaginay A (2023) Core SBML and its Formal Semantics. Paper presented at the CMSB 2023 - 21th International Conference on Formal Methods in Systems Biology. Luxembourg."
+ Year: 2023
+ Type: 3
+ URL:  https://inria.hal.science/hal-04125922
+ Keywords:
+  - Computational Method
+ Locations:
+  - BioComputing Team of CRIStAL Lab, Université de Lille, Lille, France
+  - Université de Lorraine, CNRS, CRAN & LORIA, F-54000 Nancy, France
+ Funding:
+  - French National Research Agency (ANR)
+-
  Reference: "Olsen LF (2023) Complex dynamics in an unexplored simple model of the peroxidase–oxidase reaction. Chaos 33:023102"
  Year: 2023
  Type: 2
