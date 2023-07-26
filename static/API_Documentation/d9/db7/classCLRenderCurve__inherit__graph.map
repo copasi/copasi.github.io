@@ -1,0 +1,10 @@
+<map id="CLRenderCurve" name="CLRenderCurve">
+<area shape="rect" id="node1" title=" " alt="" coords="105,304,219,331"/>
+<area shape="rect" id="node2" href="$de/db3/classCLGraphicalPrimitive1D.html" title=" " alt="" coords="5,229,167,256"/>
+<area shape="rect" id="node3" href="$d4/d0b/classCLTransformation2D.html" title=" " alt="" coords="13,155,156,181"/>
+<area shape="rect" id="node4" href="$dd/d1f/classCLTransformation.html" title=" " alt="" coords="21,80,148,107"/>
+<area shape="rect" id="node5" href="$d7/df9/classCLBase.html" title=" " alt="" coords="50,5,119,32"/>
+<area shape="rect" id="node6" href="$d1/d6b/classCDataObject.html" title=" " alt="" coords="193,229,289,256"/>
+<area shape="rect" id="node7" href="$df/dfa/classCObjectInterface.html" title=" " alt="" coords="181,155,301,181"/>
+<area shape="rect" id="node8" href="$d8/d53/classCUndoObjectInterface.html" title=" " alt="" coords="325,155,476,181"/>
+</map>

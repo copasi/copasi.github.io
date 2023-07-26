@@ -1,0 +1,26 @@
+var structCLGroupAttributes =
+[
+    [ "CLGroupAttributes", "dd/dab/structCLGroupAttributes.html#ac1df7b615d5ee0a87fcc35c9a9108533", null ],
+    [ "~CLGroupAttributes", "dd/dab/structCLGroupAttributes.html#a77c73fd16ad89dd392b98751c12e1506", null ],
+    [ "CLGroupAttributes", "dd/dab/structCLGroupAttributes.html#ae8c879ae0d7f121e0611b54996be844e", null ],
+    [ "operator=", "dd/dab/structCLGroupAttributes.html#aa9d943644f3627c61fdff0bd8d768521", null ],
+    [ "mEndHead", "dd/dab/structCLGroupAttributes.html#a4b7f2235094418383d87154b632f4a19", null ],
+    [ "mFill", "dd/dab/structCLGroupAttributes.html#a7746741d13607f32ed3c582ed397f0f3", null ],
+    [ "mFillRule", "dd/dab/structCLGroupAttributes.html#aa0b0571a2085e49fc0b66a60d27db68a", null ],
+    [ "mFontFamily", "dd/dab/structCLGroupAttributes.html#a35f6dc3b7a6bcdad53f225b92f8ad47d", null ],
+    [ "mFontSize", "dd/dab/structCLGroupAttributes.html#a850745ed3b47b943072dbbee78fbe1e5", null ],
+    [ "mFontStyle", "dd/dab/structCLGroupAttributes.html#ae46148d8dc805f449bab02ceeac615e4", null ],
+    [ "mFontWeight", "dd/dab/structCLGroupAttributes.html#a13e25e6c160f1b5f08eae695d0b8030d", null ],
+    [ "mHeight", "dd/dab/structCLGroupAttributes.html#a9f020ae4e79cd638215eab37c994a4da", null ],
+    [ "mpTransform", "dd/dab/structCLGroupAttributes.html#a40a7d02f4bbbce030e5824d7e40463e9", null ],
+    [ "mStartHead", "dd/dab/structCLGroupAttributes.html#a249c704a47a9dd204bc4c8e6b5953327", null ],
+    [ "mStroke", "dd/dab/structCLGroupAttributes.html#afb053795ebd5aa10b791003a9d4247c8", null ],
+    [ "mStrokeDasharray", "dd/dab/structCLGroupAttributes.html#a2b7a80b20e0e7ed7a2f2ad2d6a92f2de", null ],
+    [ "mStrokeWidth", "dd/dab/structCLGroupAttributes.html#a5cca32ac3723fe65e70cf380ee8e5375", null ],
+    [ "mTextAnchor", "dd/dab/structCLGroupAttributes.html#a42155bf1a268df13fba183b74a879a3f", null ],
+    [ "mVTextAnchor", "dd/dab/structCLGroupAttributes.html#ae4e0c4ffe23e6f53c0b59014045dbbb7", null ],
+    [ "mWidth", "dd/dab/structCLGroupAttributes.html#ac1de5697ae032dbd2dcac82fe0e93313", null ],
+    [ "mX", "dd/dab/structCLGroupAttributes.html#ad59ceb4acea2cf557354259c8fafe1d8", null ],
+    [ "mY", "dd/dab/structCLGroupAttributes.html#a631a5375e0d6dd96c80b4559ffd26a5b", null ],
+    [ "mZ", "dd/dab/structCLGroupAttributes.html#a78675011cc469f80217a8e59e0085994", null ]
+];

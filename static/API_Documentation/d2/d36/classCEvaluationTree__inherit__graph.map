@@ -1,0 +1,12 @@
+<map id="CEvaluationTree" name="CEvaluationTree">
+<area shape="rect" id="node1" title=" " alt="" coords="106,229,223,256"/>
+<area shape="rect" id="node6" href="$dc/dbd/classCExpression.html" title=" " alt="" coords="5,304,100,331"/>
+<area shape="rect" id="node7" href="$d9/d86/classCFunction.html" title="The class for handling a chemical kinetic function." alt="" coords="124,304,205,331"/>
+<area shape="rect" id="node10" href="$d3/d15/classCMathExpression.html" title=" " alt="" coords="230,304,353,331"/>
+<area shape="rect" id="node2" href="$d3/db9/classCDataContainer.html" title=" " alt="" coords="108,155,221,181"/>
+<area shape="rect" id="node3" href="$d1/d6b/classCDataObject.html" title=" " alt="" coords="117,80,213,107"/>
+<area shape="rect" id="node4" href="$df/dfa/classCObjectInterface.html" title=" " alt="" coords="25,5,145,32"/>
+<area shape="rect" id="node5" href="$d8/d53/classCUndoObjectInterface.html" title=" " alt="" coords="169,5,320,32"/>
+<area shape="rect" id="node8" href="$d1/de4/classCKinFunction.html" title=" " alt="" coords="53,379,153,405"/>
+<area shape="rect" id="node9" href="$d9/d88/classCMassAction.html" title=" " alt="" coords="177,379,277,405"/>
+</map>

@@ -1,0 +1,27 @@
+var classCFunctionDB =
+[
+    [ "CFunctionDB", "db/d9a/classCFunctionDB.html#a9bb064c2f897c8b8432fefe1490628ad", null ],
+    [ "~CFunctionDB", "db/d9a/classCFunctionDB.html#a2bf3d42732050e2a8a66222fba32288b", null ],
+    [ "add", "db/d9a/classCFunctionDB.html#af425d76a956e07032c2ab0428b3ea1ca", null ],
+    [ "addAndAdaptName", "db/d9a/classCFunctionDB.html#a823e19a02db6dc9faf5ce77f7434c7af", null ],
+    [ "appendDependentFunctions", "db/d9a/classCFunctionDB.html#a68da7362522ea10b5541da5fa69869d2", null ],
+    [ "cleanup", "db/d9a/classCFunctionDB.html#a111cffa4cc457aa89ed177e7ad618a09", null ],
+    [ "findFunction", "db/d9a/classCFunctionDB.html#aa25aabb5ce2677103813278c014e06fb", null ],
+    [ "findLoadFunction", "db/d9a/classCFunctionDB.html#a5b80605dc116ad36ec749eb3bc0bcf68", null ],
+    [ "getFilename", "db/d9a/classCFunctionDB.html#a8208393f0b996d8a2a526eb047001cd3", null ],
+    [ "getUsedFunctions", "db/d9a/classCFunctionDB.html#af65b740389763f10120610c8fcfcc41b", null ],
+    [ "initObjects", "db/d9a/classCFunctionDB.html#a8e4b3649cda78530b18c9efe68c6baba", null ],
+    [ "load", "db/d9a/classCFunctionDB.html#a8ba4927036bbd074e2a415572fac1083", null ],
+    [ "load", "db/d9a/classCFunctionDB.html#ab186847304677eb1e529955c3570faa8", null ],
+    [ "load", "db/d9a/classCFunctionDB.html#a19522d805a0ed0d18d61a5e8cb7b408e", null ],
+    [ "loadedFunctions", "db/d9a/classCFunctionDB.html#a1bb829deb033c844ded81538e38e899a", null ],
+    [ "purgeUnusedUserDefinedFunctions", "db/d9a/classCFunctionDB.html#a5114d45ec78d9f87db4d8c85aef67494", null ],
+    [ "removeFunction", "db/d9a/classCFunctionDB.html#ae97d46ee16b3b623704da66b899a090b", null ],
+    [ "removeFunction", "db/d9a/classCFunctionDB.html#a6d685b2548d3a2e3cd5893ce2410bcaf", null ],
+    [ "save", "db/d9a/classCFunctionDB.html#a28cac63171775a85cb0e0cc282d11be5", null ],
+    [ "setFilename", "db/d9a/classCFunctionDB.html#a66a6ef7d9bcaf7cf258c9277b21c4187", null ],
+    [ "suitableFunctions", "db/d9a/classCFunctionDB.html#ad8217c9a6e854a87021cc4b6f96d6724", null ],
+    [ "mDependencies", "db/d9a/classCFunctionDB.html#a312b9ae4b6354a3eaf8b560cf8bd662d", null ],
+    [ "mFilename", "db/d9a/classCFunctionDB.html#a7018a0506cac2a0125f640aa06510226", null ],
+    [ "mLoadedFunctions", "db/d9a/classCFunctionDB.html#ae2aeb729f250b114d437d266932c6d36", null ]
+];

@@ -1,0 +1,19 @@
+<map id="CEvaluationNode" name="CEvaluationNode">
+<area shape="rect" id="node1" title=" " alt="" coords="523,335,645,361"/>
+<area shape="rect" id="node4" href="$df/d44/classCEvaluationNodeCall.html" title=" " alt="" coords="719,5,863,32"/>
+<area shape="rect" id="node5" href="$d7/ddb/classCEvaluationNodeChoice.html" title=" " alt="" coords="709,56,872,83"/>
+<area shape="rect" id="node6" href="$dd/d1f/classCEvaluationNodeConstant.html" title=" " alt="" coords="703,107,878,133"/>
+<area shape="rect" id="node7" href="$dd/d48/classCEvaluationNodeDelay.html" title=" " alt="" coords="713,157,868,184"/>
+<area shape="rect" id="node8" href="$d8/dcb/classCEvaluationNodeFunction.html" title=" " alt="" coords="705,208,877,235"/>
+<area shape="rect" id="node9" href="$de/d73/classCEvaluationNodeLogical.html" title=" " alt="" coords="709,259,873,285"/>
+<area shape="rect" id="node10" href="$d3/d2a/classCEvaluationNodeNumber.html" title=" " alt="" coords="707,309,875,336"/>
+<area shape="rect" id="node11" href="$d8/d28/classCEvaluationNodeObject.html" title=" " alt="" coords="711,360,871,387"/>
+<area shape="rect" id="node12" href="$d5/de4/classCEvaluationNodeOperator.html" title=" " alt="" coords="705,411,877,437"/>
+<area shape="rect" id="node13" href="$d4/de7/classCEvaluationNodeStructure.html" title=" " alt="" coords="703,461,878,488"/>
+<area shape="rect" id="node14" href="$db/da7/classCEvaluationNodeUnit.html" title=" " alt="" coords="717,512,864,539"/>
+<area shape="rect" id="node15" href="$d3/d1b/classCEvaluationNodeVariable.html" title=" " alt="" coords="706,563,875,589"/>
+<area shape="rect" id="node16" href="$df/de0/classCEvaluationNodeVector.html" title=" " alt="" coords="711,613,871,640"/>
+<area shape="rect" id="node17" href="$d7/d6b/classCEvaluationNodeWhiteSpace.html" title=" " alt="" coords="695,664,887,691"/>
+<area shape="rect" id="node2" href="$d9/d9d/classCCopasiNode.html" title=" " alt="" coords="293,335,473,361"/>
+<area shape="rect" id="node3" href="$d9/d9d/classCCopasiNode.html" title=" " alt="" coords="5,335,164,361"/>
+</map>

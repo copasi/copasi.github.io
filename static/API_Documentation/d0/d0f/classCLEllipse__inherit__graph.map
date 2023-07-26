@@ -1,0 +1,11 @@
+<map id="CLEllipse" name="CLEllipse">
+<area shape="rect" id="node1" title=" " alt="" coords="130,379,207,405"/>
+<area shape="rect" id="node2" href="$dc/d2d/classCLGraphicalPrimitive2D.html" title=" " alt="" coords="12,304,173,331"/>
+<area shape="rect" id="node3" href="$de/db3/classCLGraphicalPrimitive1D.html" title=" " alt="" coords="5,229,167,256"/>
+<area shape="rect" id="node4" href="$d4/d0b/classCLTransformation2D.html" title=" " alt="" coords="15,155,157,181"/>
+<area shape="rect" id="node5" href="$dd/d1f/classCLTransformation.html" title=" " alt="" coords="23,80,149,107"/>
+<area shape="rect" id="node6" href="$d7/df9/classCLBase.html" title=" " alt="" coords="51,5,121,32"/>
+<area shape="rect" id="node7" href="$d1/d6b/classCDataObject.html" title=" " alt="" coords="203,304,299,331"/>
+<area shape="rect" id="node8" href="$df/dfa/classCObjectInterface.html" title=" " alt="" coords="191,229,311,256"/>
+<area shape="rect" id="node9" href="$d8/d53/classCUndoObjectInterface.html" title=" " alt="" coords="336,229,487,256"/>
+</map>

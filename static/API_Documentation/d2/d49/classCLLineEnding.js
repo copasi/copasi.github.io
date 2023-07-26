@@ -1,0 +1,26 @@
+var classCLLineEnding =
+[
+    [ "CLLineEnding", "d2/d49/classCLLineEnding.html#af50b8ab73fd3c221cbfb99989784ec15", null ],
+    [ "CLLineEnding", "d2/d49/classCLLineEnding.html#a77abacb62a73062ee0f09ca5e04adb8f", null ],
+    [ "CLLineEnding", "d2/d49/classCLLineEnding.html#aa36eebcb190fec4c51f17a04d5f8ba07", null ],
+    [ "applyData", "d2/d49/classCLLineEnding.html#a146744525315343fdea5babaf16cfe2b", null ],
+    [ "getBoundingBox", "d2/d49/classCLLineEnding.html#addb2c7db72f263c0bd608a8fe2d090bd", null ],
+    [ "getBoundingBox", "d2/d49/classCLLineEnding.html#aa6624fb0b509d8662636657c7c61e667", null ],
+    [ "getGroup", "d2/d49/classCLLineEnding.html#afffe02eab7012e2c82be6969d8d09711", null ],
+    [ "getGroup", "d2/d49/classCLLineEnding.html#ab8c87205f13c9f8d64aa8af05999125c", null ],
+    [ "getId", "d2/d49/classCLLineEnding.html#aebbdefc28d7264f03b0796c1320d31e5", null ],
+    [ "getIsEnabledRotationalMapping", "d2/d49/classCLLineEnding.html#a09b9c98ef2e19b2325551caf0f24c2ac", null ],
+    [ "getKey", "d2/d49/classCLLineEnding.html#a76c60d9d7512f69cbd4ae81d875117be", null ],
+    [ "operator=", "d2/d49/classCLLineEnding.html#a1a812a0ba46d9a021c8fa2cd2f25cb08", null ],
+    [ "setBoundingBox", "d2/d49/classCLLineEnding.html#a78dcbedde3b17e53dc585a79520ed5df", null ],
+    [ "setEnableRotationalMapping", "d2/d49/classCLLineEnding.html#ab420623725aa6db3871df85de2e54e25", null ],
+    [ "setGroup", "d2/d49/classCLLineEnding.html#a244296694317dc72291cbc87404b7d9f", null ],
+    [ "setId", "d2/d49/classCLLineEnding.html#afdd686f2cac4c27c9bb87ea29a5af870", null ],
+    [ "toData", "d2/d49/classCLLineEnding.html#a7fbbffe8c0fdca93061d98c77227edfe", null ],
+    [ "toSBML", "d2/d49/classCLLineEnding.html#afbfd734dc12b62f4b1ebef3a7a1dfaab", null ],
+    [ "mBoundingBox", "d2/d49/classCLLineEnding.html#a5d1e6eacca9c62bee0c0a3affd7652c9", null ],
+    [ "mEnableRotationalMapping", "d2/d49/classCLLineEnding.html#a8840d2cd8511b88d0866f64b7d207c28", null ],
+    [ "mId", "d2/d49/classCLLineEnding.html#a4013071267c5b828e23146da74d650bf", null ],
+    [ "mKey", "d2/d49/classCLLineEnding.html#a554104a2c0c6698cd56398efcc76998d", null ],
+    [ "mpGroup", "d2/d49/classCLLineEnding.html#ab874616fdb6fd32f0a2088279d998f53", null ]
+];

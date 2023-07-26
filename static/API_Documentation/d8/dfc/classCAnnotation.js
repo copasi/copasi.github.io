@@ -1,0 +1,27 @@
+var classCAnnotation =
+[
+    [ "UnsupportedAnnotation", "d8/dfc/classCAnnotation.html#ac3ad7822c8055ef59e32226085cbe524", null ],
+    [ "CAnnotation", "d8/dfc/classCAnnotation.html#a5085100581ae19d72d907336c9854108", null ],
+    [ "CAnnotation", "d8/dfc/classCAnnotation.html#a95f3869f61a169410e26fb331b52a7cd", null ],
+    [ "~CAnnotation", "d8/dfc/classCAnnotation.html#ab4417189a612ae1025cb4817c68c6549", null ],
+    [ "addUnsupportedAnnotation", "d8/dfc/classCAnnotation.html#acd303144f64720ce92a3b76128fd1192", null ],
+    [ "applyData", "d8/dfc/classCAnnotation.html#a768c41938d525efcc063af7bb5247832", null ],
+    [ "createUndoData", "d8/dfc/classCAnnotation.html#ac4d262e895bd5a5e058af2e35c3f96e0", null ],
+    [ "getKey", "d8/dfc/classCAnnotation.html#a295d502c9b5d062877b32c0c8a5fbaaa", null ],
+    [ "getMiriamAnnotation", "d8/dfc/classCAnnotation.html#ac57396bcef30584b980b835314e40f1b", null ],
+    [ "getNotes", "d8/dfc/classCAnnotation.html#a45037bb9ded478179a5176f28d768e57", null ],
+    [ "getUnsupportedAnnotations", "d8/dfc/classCAnnotation.html#a9f4451b8ddd9d31cdb2e5ca869e00316", null ],
+    [ "getUnsupportedAnnotations", "d8/dfc/classCAnnotation.html#a23294c5b86d3179e096c38454111e828", null ],
+    [ "initMiriamAnnotation", "d8/dfc/classCAnnotation.html#aafa8893aab134ad08eaee996f97adb82", null ],
+    [ "operator==", "d8/dfc/classCAnnotation.html#acd38364b2301d362eaa4de0dd044bc44", null ],
+    [ "removeUnsupportedAnnotation", "d8/dfc/classCAnnotation.html#a1de59f39515feb7eef3a5de34185b324", null ],
+    [ "replaceUnsupportedAnnotation", "d8/dfc/classCAnnotation.html#a50d957ce35a290d9c778a6f7b1e5abb5", null ],
+    [ "setMiriamAnnotation", "d8/dfc/classCAnnotation.html#a059e10f3aa72113fbace978b72a8a790", null ],
+    [ "setNotes", "d8/dfc/classCAnnotation.html#a2c62b97a06b5ad8c441a91dd611adbb4", null ],
+    [ "toData", "d8/dfc/classCAnnotation.html#a9d36d0b31e44f320f6a63c209d904fa5", null ],
+    [ "mKey", "d8/dfc/classCAnnotation.html#abdcb182632fd522fe3af6ca318daedaa", null ],
+    [ "mMiriamAnnotation", "d8/dfc/classCAnnotation.html#ab3edf2a8da28343e171813e3c7829649", null ],
+    [ "mNotes", "d8/dfc/classCAnnotation.html#a43943bdbc3c663293d2732faa8a8d93c", null ],
+    [ "mUnsupportedAnnotations", "d8/dfc/classCAnnotation.html#aef96ba8be06990770447b5dadda8a4b1", null ],
+    [ "mXMLId", "d8/dfc/classCAnnotation.html#a6e7f3eea09144db2f2554ad755d95a5d", null ]
+];

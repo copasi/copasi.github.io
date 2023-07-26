@@ -1,0 +1,25 @@
+var classCBiologicalDescription =
+[
+    [ "CBiologicalDescription", "d8/de5/classCBiologicalDescription.html#ad5ae4badf136a2fd94f2d381e60a8ac9", null ],
+    [ "CBiologicalDescription", "d8/de5/classCBiologicalDescription.html#a9874b22c8aa9283b819a264ea8e0f5cd", null ],
+    [ "CBiologicalDescription", "d8/de5/classCBiologicalDescription.html#a87d9833c63ba17e6af922ec6bfe3020a", null ],
+    [ "~CBiologicalDescription", "d8/de5/classCBiologicalDescription.html#ab362815cb99ab0baf1b97f843719e5ac", null ],
+    [ "applyData", "d8/de5/classCBiologicalDescription.html#a68e6295afac5dfdd9f6613c309673013", null ],
+    [ "clearInvalidEntries", "d8/de5/classCBiologicalDescription.html#ac59bca1c500483ab0b751470ad345bf8", null ],
+    [ "createUndoData", "d8/de5/classCBiologicalDescription.html#ae298924199a150cd460d0dbc39a7aa24", null ],
+    [ "destruct", "d8/de5/classCBiologicalDescription.html#aa1aa87749d55efb96ab883dd0042a72f", null ],
+    [ "getId", "d8/de5/classCBiologicalDescription.html#a64821f7f7d84e118132981716abaa6ae", null ],
+    [ "getKey", "d8/de5/classCBiologicalDescription.html#ad67a2c27ef8ad522a4a3995c1385d083", null ],
+    [ "getMIRIAMResourceObject", "d8/de5/classCBiologicalDescription.html#aca64d51aa3f90f7fefa6254780908040", null ],
+    [ "getPredicate", "d8/de5/classCBiologicalDescription.html#ae7018f487de81953cdffbaffe367d829", null ],
+    [ "getResource", "d8/de5/classCBiologicalDescription.html#af9494655aa073a0f1476a808500ad743", null ],
+    [ "getTriplet", "d8/de5/classCBiologicalDescription.html#a81d17aeb4a4807278f89186f4eb4e919", null ],
+    [ "getURI", "d8/de5/classCBiologicalDescription.html#a353206a5e8e4bbca80fd3038a81dcdf1", null ],
+    [ "setId", "d8/de5/classCBiologicalDescription.html#ae43bb7b53b2578150a5ec925502c4153", null ],
+    [ "setPredicate", "d8/de5/classCBiologicalDescription.html#ac4f5a34d9e450b1ad2694ac0d0df9122", null ],
+    [ "setResource", "d8/de5/classCBiologicalDescription.html#af29d01deb1daf761dc23d858f0d8c76a", null ],
+    [ "toData", "d8/de5/classCBiologicalDescription.html#a189b69dbea363b2bc366534603b66cdd", null ],
+    [ "mKey", "d8/de5/classCBiologicalDescription.html#ac45672d496827fc3fe11f1c824095ead", null ],
+    [ "mResource", "d8/de5/classCBiologicalDescription.html#a964df2ffaf3e806edd98adccd531849a", null ],
+    [ "mTriplet", "d8/de5/classCBiologicalDescription.html#a1c81df6411a7c10ba79224c4cf301bda", null ]
+];

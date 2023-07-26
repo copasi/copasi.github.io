@@ -1,0 +1,13 @@
+<map id="CTSSAMethod" name="CTSSAMethod">
+<area shape="rect" id="node1" title="The CTSSAMethod class is the base class for all time scale separation analysis methods." alt="" coords="129,453,239,480"/>
+<area shape="rect" id="node9" href="$d7/deb/classCCSPMethod.html" title="The CCSPMethod class implements the CSP method." alt="" coords="5,528,107,555"/>
+<area shape="rect" id="node10" href="$df/df5/classCILDMMethod.html" title="The CILDMMethod class implements the ILDM method." alt="" coords="131,528,237,555"/>
+<area shape="rect" id="node11" href="$de/d88/classCILDMModifiedMethod.html" title="The CILDMModifiedMethod class implementes the modified ILDM method." alt="" coords="261,528,416,555"/>
+<area shape="rect" id="node2" href="$df/d49/classCCopasiMethod.html" title=" " alt="" coords="127,379,241,405"/>
+<area shape="rect" id="node3" href="$df/d89/classCCopasiParameterGroup.html" title=" " alt="" coords="101,304,267,331"/>
+<area shape="rect" id="node4" href="$d5/db6/classCCopasiParameter.html" title=" " alt="" coords="119,229,249,256"/>
+<area shape="rect" id="node5" href="$d3/db9/classCDataContainer.html" title=" " alt="" coords="127,155,241,181"/>
+<area shape="rect" id="node6" href="$d1/d6b/classCDataObject.html" title=" " alt="" coords="136,80,232,107"/>
+<area shape="rect" id="node7" href="$df/dfa/classCObjectInterface.html" title=" " alt="" coords="44,5,164,32"/>
+<area shape="rect" id="node8" href="$d8/d53/classCUndoObjectInterface.html" title=" " alt="" coords="189,5,339,32"/>
+</map>

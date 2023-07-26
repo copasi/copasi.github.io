@@ -1,0 +1,26 @@
+var classResultData =
+[
+    [ "ResultData", "d2/dd8/classResultData.html#a4409cdb8df242c4163ec518091ea143f", null ],
+    [ "~ResultData", "d2/dd8/classResultData.html#a8a35c9eb5325a7aa6ffe86c4c945cfa5", null ],
+    [ "ResultData", "d2/dd8/classResultData.html#a7f5370516fc47b4d780af5d5e3c93378", null ],
+    [ "appliesTo", "d2/dd8/classResultData.html#a6da501e42097a26b75a8aadfbc976a28", null ],
+    [ "applyToModelState", "d2/dd8/classResultData.html#a85dd86153aea7b3de56c5b4125f6f669", null ],
+    [ "applyToModelStateFromOptTask", "d2/dd8/classResultData.html#a2d01a5c16f2f573b19282d49a5e35b9e", null ],
+    [ "getAllExperiments", "d2/dd8/classResultData.html#a84994d323a44d844b3500cdb59049b09", null ],
+    [ "getBestItem", "d2/dd8/classResultData.html#a2cd61d0f66bdfb82d8f515a5fa4ca45b", null ],
+    [ "getBestValueFor", "d2/dd8/classResultData.html#aa489e290fd3dcb6f5170a395c7090a94", null ],
+    [ "getFitTask", "d2/dd8/classResultData.html#a00ab2bd6d3036828a9df3f9564a23a26", null ],
+    [ "getIndex", "d2/dd8/classResultData.html#a8970aad709c018023edf35e9ad6aacf8", null ],
+    [ "getItems", "d2/dd8/classResultData.html#ad9085cbf07f8de391d2dde602420b08f", null ],
+    [ "getOptTask", "d2/dd8/classResultData.html#a7fa461569b1dd3828d21257888c83288", null ],
+    [ "numCheckPoints", "d2/dd8/classResultData.html#a1af8e09b638fcb2332727a9177d7ab11", null ],
+    [ "numFittingItems", "d2/dd8/classResultData.html#a3c6596acb34d93ba59aa6a0230d984e5", null ],
+    [ "setOptItemStartValues", "d2/dd8/classResultData.html#ac77f64b342c52ad0cf8f8307dbc364a1", null ],
+    [ "setTaskStartValues", "d2/dd8/classResultData.html#a520e6b0283d8020c64edb6561cc3c5d5", null ],
+    [ "updateFitItems", "d2/dd8/classResultData.html#a336e8129c1ebbee34f6cf38163241e06", null ],
+    [ "updateFitItemsFromOptItems", "d2/dd8/classResultData.html#a2ad6ac71bda6e983b49f1a0f82129301", null ],
+    [ "mCheckPoints", "d2/dd8/classResultData.html#a335c478d3ae5cf73eb97e94757f32f60", null ],
+    [ "mFittingItems", "d2/dd8/classResultData.html#ac58982b33d3f0a5f86e89f333cc3b8c4", null ],
+    [ "mIsOptimization", "d2/dd8/classResultData.html#ab8e7e268390757580a92ee6c474d3cbe", null ],
+    [ "mpDataModel", "d2/dd8/classResultData.html#a0d7bca4fe9199be9b5e2369a405c7bf8", null ]
+];

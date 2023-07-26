@@ -1,0 +1,27 @@
+var classCReference =
+[
+    [ "CReference", "d7/dc7/classCReference.html#ade5b587db4406a38d796246c4eab10a0", null ],
+    [ "CReference", "d7/dc7/classCReference.html#aff28df3516d828b4a704e650815e7423", null ],
+    [ "CReference", "d7/dc7/classCReference.html#a344500ac7c8c5e43b9e23d97667c61d7", null ],
+    [ "~CReference", "d7/dc7/classCReference.html#ad8acc44768ab9a9221f2263a699d3674", null ],
+    [ "applyData", "d7/dc7/classCReference.html#a42c08b5f45078111ac9856f3b54a2b0b", null ],
+    [ "clearInvalidEntries", "d7/dc7/classCReference.html#a629c5c0f2328bdd4af614a94d855583c", null ],
+    [ "createUndoData", "d7/dc7/classCReference.html#a07a261d84359248085051ebd8593f066", null ],
+    [ "destruct", "d7/dc7/classCReference.html#a21e00c8654987d298bc93ae76b19be3e", null ],
+    [ "getDescription", "d7/dc7/classCReference.html#a92db5a81f7e99d1a1095e8a93e122ecd", null ],
+    [ "getId", "d7/dc7/classCReference.html#ab0358a59b4050ec4eaba9e8486dbe831", null ],
+    [ "getKey", "d7/dc7/classCReference.html#a7005c86b742eaee6555ecb2aaf46cff8", null ],
+    [ "getMIRIAMResourceObject", "d7/dc7/classCReference.html#a69c2075665dd1cd31d115458e1046e98", null ],
+    [ "getResource", "d7/dc7/classCReference.html#aa951d89409c95c2f34160fd2f1c73d1a", null ],
+    [ "getTriplet", "d7/dc7/classCReference.html#a948d404459f28b75bfe0f9ee98d84ec0", null ],
+    [ "getURI", "d7/dc7/classCReference.html#ad4bfa15a86d700ee04ce434a7c274e84", null ],
+    [ "setDescription", "d7/dc7/classCReference.html#a86e56868006d45fa827670d5b3cb48c5", null ],
+    [ "setId", "d7/dc7/classCReference.html#a9f61a4e10ab167b5b8c63f6a6ed18dd7", null ],
+    [ "setResource", "d7/dc7/classCReference.html#a2d11f90a1a866a48f3f9bc19d9d0690b", null ],
+    [ "toData", "d7/dc7/classCReference.html#a82cac7d8e843a8c426e1e87e0b724b54", null ],
+    [ "mIdTriplet", "d7/dc7/classCReference.html#a1543789da0c26354eeb9a834c13c0eff", null ],
+    [ "mKey", "d7/dc7/classCReference.html#a8a86c91b2d45cbc5fca6014514b400e6", null ],
+    [ "mNodePath", "d7/dc7/classCReference.html#a967256b75b33acf45a1d518837908bd7", null ],
+    [ "mResource", "d7/dc7/classCReference.html#a076bac6194c80d1f10ec088835726e58", null ],
+    [ "mTriplet", "d7/dc7/classCReference.html#a652c1e73636632c243cefcec1a4b4514", null ]
+];

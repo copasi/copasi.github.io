@@ -1,0 +1,35 @@
+var classCLMetabReferenceGlyph =
+[
+    [ "Role", "d6/d63/classCLMetabReferenceGlyph.html#a1373b5171265f142644858fcc96a8038", [
+      [ "UNDEFINED", "d6/d63/classCLMetabReferenceGlyph.html#a1373b5171265f142644858fcc96a8038ad5333578a005a33dc81d383d4e201f10", null ],
+      [ "SUBSTRATE", "d6/d63/classCLMetabReferenceGlyph.html#a1373b5171265f142644858fcc96a8038a49fc6f168346b4a6e2b4ae26ab5ed49d", null ],
+      [ "PRODUCT", "d6/d63/classCLMetabReferenceGlyph.html#a1373b5171265f142644858fcc96a8038aad4504771a83a2f4c47a186ef65c4b6a", null ],
+      [ "SIDESUBSTRATE", "d6/d63/classCLMetabReferenceGlyph.html#a1373b5171265f142644858fcc96a8038a056d3b1f5c9202438331310a2a5f6817", null ],
+      [ "SIDEPRODUCT", "d6/d63/classCLMetabReferenceGlyph.html#a1373b5171265f142644858fcc96a8038a04924dbbfbcdbcfafe90c0aaf99f2e13", null ],
+      [ "MODIFIER", "d6/d63/classCLMetabReferenceGlyph.html#a1373b5171265f142644858fcc96a8038aa769e8d35e60afecbe1be9618e158b7e", null ],
+      [ "ACTIVATOR", "d6/d63/classCLMetabReferenceGlyph.html#a1373b5171265f142644858fcc96a8038ac06827db92a3db0e70c3442c7e4c6304", null ],
+      [ "INHIBITOR", "d6/d63/classCLMetabReferenceGlyph.html#a1373b5171265f142644858fcc96a8038a8e5c1df5206032d47e89add0b390f98a", null ]
+    ] ],
+    [ "CLMetabReferenceGlyph", "d6/d63/classCLMetabReferenceGlyph.html#a362f481c3ef724cae16466eac385a28c", null ],
+    [ "CLMetabReferenceGlyph", "d6/d63/classCLMetabReferenceGlyph.html#ac151250b2cb39adb8a98cdf53126c724", null ],
+    [ "CLMetabReferenceGlyph", "d6/d63/classCLMetabReferenceGlyph.html#aee205e849b26e092cf20ec327252dab1", null ],
+    [ "CLMetabReferenceGlyph", "d6/d63/classCLMetabReferenceGlyph.html#a0fbd294a12554b51616430bc029b67c7", null ],
+    [ "applyData", "d6/d63/classCLMetabReferenceGlyph.html#a2e638ee15a1f5272e6ccd7059d650e94", null ],
+    [ "clone", "d6/d63/classCLMetabReferenceGlyph.html#a74384ff00f491f930178586c9037dc3c", null ],
+    [ "exportToSBML", "d6/d63/classCLMetabReferenceGlyph.html#a1da3e64b90190072796e2de2483b56d5", null ],
+    [ "getFunctionalRole", "d6/d63/classCLMetabReferenceGlyph.html#a7a394dc25258ce4a55c7305d296f7a5d", null ],
+    [ "getMetabGlyph", "d6/d63/classCLMetabReferenceGlyph.html#a40f67cb62a01b69a74c874dab062cb01", null ],
+    [ "getMetabGlyphKey", "d6/d63/classCLMetabReferenceGlyph.html#af9314b8df68842cb3b913516bb510cc6", null ],
+    [ "getRole", "d6/d63/classCLMetabReferenceGlyph.html#ac76943f001359e27e8a2255f6f056561", null ],
+    [ "getRoleDisplayName", "d6/d63/classCLMetabReferenceGlyph.html#aa99e5f800ed6a107d4a0b35a7a455de8", null ],
+    [ "operator=", "d6/d63/classCLMetabReferenceGlyph.html#a282989176eec4cb96bc7f8a61fa37ff9", null ],
+    [ "print", "d6/d63/classCLMetabReferenceGlyph.html#aadaea58da4ba614ac07be18a078b9758", null ],
+    [ "setFunctionalRole", "d6/d63/classCLMetabReferenceGlyph.html#a3e5f9124ba7b3b5ed36ee0e5e0cb599e", null ],
+    [ "setMetabGlyphKey", "d6/d63/classCLMetabReferenceGlyph.html#a3c09228059d158acfd77b1180ee9a875", null ],
+    [ "setRole", "d6/d63/classCLMetabReferenceGlyph.html#aa16eac64e1035a64d56070a1bf03602f", null ],
+    [ "toData", "d6/d63/classCLMetabReferenceGlyph.html#a324bf5c988524a9eda70312a01ceed2e", null ],
+    [ "operator<<", "d6/d63/classCLMetabReferenceGlyph.html#af40261d3ad5bfad1940da6149e6f3a50", null ],
+    [ "mFunctionalRole", "d6/d63/classCLMetabReferenceGlyph.html#a3d83cf6ee8d28cbfe52a0d8ec2cda73b", null ],
+    [ "mMetabGlyphKey", "d6/d63/classCLMetabReferenceGlyph.html#abf6efcce348f7a41044917b355d58c58", null ],
+    [ "mRole", "d6/d63/classCLMetabReferenceGlyph.html#a3211d8749e08c1db84bad75c0298f627", null ]
+];

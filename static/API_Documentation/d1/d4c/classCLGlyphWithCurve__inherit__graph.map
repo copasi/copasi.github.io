@@ -1,0 +1,13 @@
+<map id="CLGlyphWithCurve" name="CLGlyphWithCurve">
+<area shape="rect" id="node1" title=" " alt="" coords="247,304,379,331"/>
+<area shape="rect" id="node8" href="$d8/dde/classCLGeneralGlyph.html" title=" " alt="" coords="5,379,123,405"/>
+<area shape="rect" id="node9" href="$d6/d63/classCLMetabReferenceGlyph.html" title=" " alt="" coords="146,379,313,405"/>
+<area shape="rect" id="node10" href="$d8/d67/classCLReactionGlyph.html" title=" " alt="" coords="337,379,460,405"/>
+<area shape="rect" id="node11" href="$dd/de1/classCLReferenceGlyph.html" title=" " alt="" coords="484,379,615,405"/>
+<area shape="rect" id="node2" href="$d8/d63/classCLGraphicalObject.html" title=" " alt="" coords="247,229,379,256"/>
+<area shape="rect" id="node3" href="$d7/df9/classCLBase.html" title=" " alt="" coords="221,155,291,181"/>
+<area shape="rect" id="node4" href="$d3/db9/classCDataContainer.html" title=" " alt="" coords="315,155,429,181"/>
+<area shape="rect" id="node5" href="$d1/d6b/classCDataObject.html" title=" " alt="" coords="324,80,420,107"/>
+<area shape="rect" id="node6" href="$df/dfa/classCObjectInterface.html" title=" " alt="" coords="232,5,352,32"/>
+<area shape="rect" id="node7" href="$d8/d53/classCUndoObjectInterface.html" title=" " alt="" coords="377,5,527,32"/>
+</map>

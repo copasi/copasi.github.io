@@ -1,0 +1,45 @@
+var classCRootFinder =
+[
+    [ "Eval", "d0/d0b/classCRootFinder_1_1Eval.html", "d0/d0b/classCRootFinder_1_1Eval" ],
+    [ "EvalTemplate", "d2/db9/classCRootFinder_1_1EvalTemplate.html", "d2/db9/classCRootFinder_1_1EvalTemplate" ],
+    [ "ReturnStatus", "d7/dac/classCRootFinder.html#ad5d3dd4fd47729e0491250b2ceb2de64", [
+      [ "NotFound", "d7/dac/classCRootFinder.html#ad5d3dd4fd47729e0491250b2ceb2de64a752f5f1925dfeba1c2341edba441c408", null ],
+      [ "RootFound", "d7/dac/classCRootFinder.html#ad5d3dd4fd47729e0491250b2ceb2de64ae800fcdfdb81c40036f79ffb5f5c9edd", null ],
+      [ "NotAdvanced", "d7/dac/classCRootFinder.html#ad5d3dd4fd47729e0491250b2ceb2de64aa756a36757ae7a0e2a7f8f2284d48661", null ],
+      [ "InvalidInterval", "d7/dac/classCRootFinder.html#ad5d3dd4fd47729e0491250b2ceb2de64afd8979540849b747556a127ca40f5a7d", null ]
+    ] ],
+    [ "RootMasking", "d7/dac/classCRootFinder.html#a67bd4d97e9e956672b998cf2b1c49612", [
+      [ "NONE", "d7/dac/classCRootFinder.html#a67bd4d97e9e956672b998cf2b1c49612ad3fd1e687d2018a577d4d0f49cc55b61", null ],
+      [ "DISCRETE", "d7/dac/classCRootFinder.html#a67bd4d97e9e956672b998cf2b1c49612a1039b9a2f4bbfe8b7ba7e1630277b2b4", null ],
+      [ "CONTINUOUS", "d7/dac/classCRootFinder.html#a67bd4d97e9e956672b998cf2b1c49612a5f84d89917a7ac418739352fd8237223", null ],
+      [ "ALL", "d7/dac/classCRootFinder.html#a67bd4d97e9e956672b998cf2b1c49612a8d2863f7e4463c451d81b98774a2d322", null ]
+    ] ],
+    [ "CRootFinder", "d7/dac/classCRootFinder.html#a6a63537062cad3b7bf87ae139c315566", null ],
+    [ "CRootFinder", "d7/dac/classCRootFinder.html#a79bdc794875c997a0758deb06a920303", null ],
+    [ "~CRootFinder", "d7/dac/classCRootFinder.html#a1788958d23d284860435de97ed7a1ea0", null ],
+    [ "brentRootValue", "d7/dac/classCRootFinder.html#a56b9c19ff2a5794b60fb083b4a321e45", null ],
+    [ "calculateCurrentRoots", "d7/dac/classCRootFinder.html#a46f7b763f6d4c78654a3ad7a07123bb9", null ],
+    [ "checkRoots", "d7/dac/classCRootFinder.html#ac16784da84a69054eb942f11882125ab", null ],
+    [ "findToggledRoots", "d7/dac/classCRootFinder.html#a3750a19bd5f3d501dbc4d863960c8ae2", null ],
+    [ "getRootError", "d7/dac/classCRootFinder.html#ad416889efde4a0b2fe5f91c219134a0d", null ],
+    [ "getRootTime", "d7/dac/classCRootFinder.html#aab6320be4fdae7ffc73f65d5d5896954", null ],
+    [ "getRootValues", "d7/dac/classCRootFinder.html#a5f6d7d91ad9228f7c122f00fcf3cd4c1", null ],
+    [ "getToggledRoots", "d7/dac/classCRootFinder.html#a0772044719c33b0e66edc4a8f10e70cd", null ],
+    [ "initialize", "d7/dac/classCRootFinder.html#a7c87cf175dc3341596c7719c7a9c27d4", null ],
+    [ "restart", "d7/dac/classCRootFinder.html#a25c3eece040024ce49047cb6be803d9a", null ],
+    [ "mpBrentRootValueCalculator", "d7/dac/classCRootFinder.html#a9bc42a6c4cd4bda00d2933fe074e14d0", null ],
+    [ "mpRootValueCalculator", "d7/dac/classCRootFinder.html#a2bd9cfeb2cbd4e2c65e4f7ebe31064ce", null ],
+    [ "mRelativeTolerance", "d7/dac/classCRootFinder.html#a84ae52880ff5d39a5f706b3e0ef1751b", null ],
+    [ "mRootError", "d7/dac/classCRootFinder.html#ae209a2700f2004c5cdc0941f4386859f", null ],
+    [ "mRootMask", "d7/dac/classCRootFinder.html#a8b53562db34597b19de08eef96e207df", null ],
+    [ "mRootMasking", "d7/dac/classCRootFinder.html#a3f7e40ef703a2ffce463d819fd94e6f5", null ],
+    [ "mRootsCurrent", "d7/dac/classCRootFinder.html#a859a89084b9d8713ed2f6430401c2417", null ],
+    [ "mRootsLeft", "d7/dac/classCRootFinder.html#a112e2d6d735d581f490672c644f2ef3f", null ],
+    [ "mRootsRight", "d7/dac/classCRootFinder.html#a456bdb53dc7b536b646c4341b6393504", null ],
+    [ "mTimeCurrent", "d7/dac/classCRootFinder.html#ad3830a185490d12214baf116e15ab39e", null ],
+    [ "mTimeLeft", "d7/dac/classCRootFinder.html#ac20651213de48dbb9625877cf533efbf", null ],
+    [ "mTimeRight", "d7/dac/classCRootFinder.html#af74ab4fee53dfed4082f495c45536c53", null ],
+    [ "mToggledRootsCurrent", "d7/dac/classCRootFinder.html#a4893135ff3e0cc61de399fb56a957cc3", null ],
+    [ "mToggledRootsLeft", "d7/dac/classCRootFinder.html#a7ca22485ed2edf9cdc0b3a23896d6541", null ],
+    [ "mToggledRootsLeftValid", "d7/dac/classCRootFinder.html#ad85f8b9b254789f8f8588d7b8617549e", null ]
+];

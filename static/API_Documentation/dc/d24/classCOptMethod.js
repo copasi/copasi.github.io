@@ -1,0 +1,25 @@
+var classCOptMethod =
+[
+    [ "COptMethod", "dc/d24/classCOptMethod.html#afd4f6fd20296d7bab57e05188178e7b7", null ],
+    [ "COptMethod", "dc/d24/classCOptMethod.html#aef467f7ae8d50682f052e194c23525e3", null ],
+    [ "COptMethod", "dc/d24/classCOptMethod.html#a20601e478ce2bcb767e3665f2f626453", null ],
+    [ "~COptMethod", "dc/d24/classCOptMethod.html#acadd2140e60ca84bde64674d0acb9dbf", null ],
+    [ "cleanup", "dc/d24/classCOptMethod.html#ab7f7b9c07f3ef8e92a2b6efb09ea09fc", null ],
+    [ "getBestParameters", "dc/d24/classCOptMethod.html#ac44bec4b05702857142de8d5d1e5342a", null ],
+    [ "getBestValue", "dc/d24/classCOptMethod.html#aa025b4041b3f2aec1ab426b931cb11e7", null ],
+    [ "getCurrentParameters", "dc/d24/classCOptMethod.html#aed7bcf08ef4d2ad55940a13892f51f80", null ],
+    [ "getCurrentValue", "dc/d24/classCOptMethod.html#a8a544bcd4fcb945b24310b41fb53813a", null ],
+    [ "getMaxLogVerbosity", "dc/d24/classCOptMethod.html#a6bdba9be7a24fa2a813867dd589cb199", null ],
+    [ "getMethodLog", "dc/d24/classCOptMethod.html#a41a05ad0f6f8ac5f3cc1f83b378ae6d5", null ],
+    [ "initialize", "dc/d24/classCOptMethod.html#a1586af57d6528a96e6fe3e3c83a6a014", null ],
+    [ "isValidProblem", "dc/d24/classCOptMethod.html#aa5373013fadf2f51d983381b589131a0", null ],
+    [ "optimise", "dc/d24/classCOptMethod.html#ae21bee9c849c3cab312ed67d24ceebaf", null ],
+    [ "setProblem", "dc/d24/classCOptMethod.html#a3c5f33cf3f470f93142e56d87b7f8701", null ],
+    [ "signalMathContainerChanged", "dc/d24/classCOptMethod.html#afee96e8127edf56909fdff3d62d17aa0", null ],
+    [ "mLogVerbosity", "dc/d24/classCOptMethod.html#abc52a16f3dd2be34efeef6822c99a39b", null ],
+    [ "mMathContext", "dc/d24/classCOptMethod.html#aea14935ca1d8c5b6b58c9734f82f0860", null ],
+    [ "mMethodLog", "dc/d24/classCOptMethod.html#a4a99587989d73ae0fe438fcc9fa8de80", null ],
+    [ "mParallel", "dc/d24/classCOptMethod.html#a304460b6095c585667bf4172e8ac9daa", null ],
+    [ "mpParentTask", "dc/d24/classCOptMethod.html#a2953fcb311c43f1a4f2b9661fec66713", null ],
+    [ "mProblemContext", "dc/d24/classCOptMethod.html#aab5679a9d979cdf89b77136bc4128eb8", null ]
+];

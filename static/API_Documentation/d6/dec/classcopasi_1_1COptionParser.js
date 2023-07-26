@@ -1,0 +1,58 @@
+var classcopasi_1_1COptionParser =
+[
+    [ "opsource", "d6/dec/classcopasi_1_1COptionParser.html#a79c2845811966b88e52031ea8e31d6e0", [
+      [ "source_cl", "d6/dec/classcopasi_1_1COptionParser.html#a79c2845811966b88e52031ea8e31d6e0af450d3d03991ce6573ad3a65bad22890", null ],
+      [ "source_cf", "d6/dec/classcopasi_1_1COptionParser.html#a79c2845811966b88e52031ea8e31d6e0a8fa555c9b98df5cb9ddbac22018c6ef0", null ]
+    ] ],
+    [ "options_enum", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888", [
+      [ "option_ConfigDir", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888ab9de0c4e84d26a8291c994b779f301bc", null ],
+      [ "option_ConfigFile", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888ac89afb388ed51288153165dda7e2143e", null ],
+      [ "option_CopasiDir", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888aef93dd2c5a43449d3aef12d18be20761", null ],
+      [ "option_Home", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a8ab92dc5838032614a633e6406b5776c", null ],
+      [ "option_Tmp", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a2be43c5059b7b7725b88d2de5d5902b6", null ],
+      [ "option_Verbose", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a7497d5dc4ebf7404d2155d7dec8f6b97", null ],
+      [ "option_NoLogo", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a3d54ba15d8357eb278041d245370e751", null ],
+      [ "option_License", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a938cb5099b421157fb6cacfdcd651587", null ],
+      [ "option_Validate", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888abdc4712148dfb96eb11290e64d937a85", null ],
+      [ "option_Save", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a2640392cef1fe4c95ff306ed0bccca93", null ],
+      [ "option_ImportSBML", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888adaef5777d1203b9440eab47af8af0b5e", null ],
+      [ "option_ExportSBML", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a04b926602485fb8f8fdac56ce4fc7f2d", null ],
+      [ "option_SBMLSchema", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a0bce681000c02e370165068f131c94c0", null ],
+      [ "option_ImportCombineArchive", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a1373a5ea3275673852dde0e51e3a9de0", null ],
+      [ "option_ExportCombineArchive", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a087dfeabb735f03f852c7639a3d30228", null ],
+      [ "option_ImportSEDML", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a21344149bcbe5264e1608e6dcdc74f3a", null ],
+      [ "option_ExportSEDML", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888af0e731a4b7599639a3008064d566a649", null ],
+      [ "option_ExportBerkeleyMadonna", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a79e206acfb3e31eb682283bce86faaeb", null ],
+      [ "option_ExportC", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a11b12a68d2a09b884a77bd254ae0e7f6", null ],
+      [ "option_ExportXPPAUT", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a30b230bbf65760ccb2e207f78d952ab8", null ],
+      [ "option_MaxTime", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a17f4b1258133a9c5bffa6ddb7ac21417", null ],
+      [ "option_ConvertToIrreversible", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888ae534b7bfaeb947b189d3de950b696f11", null ],
+      [ "option_ReportFile", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a7a5429c6f03452c69414bab297e7a96d", null ],
+      [ "option_ScheduledTask", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888ae0980feb48f3d3ce1e3260c2b1e02543", null ],
+      [ "option_ReparameterizeModel", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888a811fdef560ac6ce447410e0170ff0104", null ],
+      [ "option_ExportIni", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888af8d01a83c5402300df7c0abf40bb29b5", null ],
+      [ "option_SedmlTask", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888ade446d7196fe0e50005621ae2ba4350a", null ],
+      [ "option_PrintSedMLTasks", "d6/dec/classcopasi_1_1COptionParser.html#a38b4b38e71c0a37f7bcf0320bc38f888ab6a3ff231b3fc137ec0effb821933eed", null ]
+    ] ],
+    [ "parser_state", "d6/dec/classcopasi_1_1COptionParser.html#ac098f8ef29470a588888bbef92a9416b", [
+      [ "state_option", "d6/dec/classcopasi_1_1COptionParser.html#ac098f8ef29470a588888bbef92a9416ba42e48eda8a53591092448da2585f5c56", null ],
+      [ "state_value", "d6/dec/classcopasi_1_1COptionParser.html#ac098f8ef29470a588888bbef92a9416ba76b8957bb454990a28ed913fe34e67ef", null ],
+      [ "state_consume", "d6/dec/classcopasi_1_1COptionParser.html#ac098f8ef29470a588888bbef92a9416ba9df232e815e66365b2f01031f5653ac9", null ]
+    ] ],
+    [ "COptionParser", "d6/dec/classcopasi_1_1COptionParser.html#a874e00acf56e8cc197f06640a965cffb", null ],
+    [ "finalize", "d6/dec/classcopasi_1_1COptionParser.html#a4b568b58f3d2059e122b138ff9c08b86", null ],
+    [ "get_locations", "d6/dec/classcopasi_1_1COptionParser.html#a74c66b5f2794061fa59ee77cd7e9f3f6", null ],
+    [ "get_non_options", "d6/dec/classcopasi_1_1COptionParser.html#a349fd2381eb666c352fde79929d064b7", null ],
+    [ "get_options", "d6/dec/classcopasi_1_1COptionParser.html#abd8889e321d080052d399a9fae6619dd", null ],
+    [ "parse", "d6/dec/classcopasi_1_1COptionParser.html#afad2b682ba4a4ede1e7ce47abad7681a", null ],
+    [ "parse", "d6/dec/classcopasi_1_1COptionParser.html#a817635ade732b9ecdfa972b01d12d902", null ],
+    [ "parse_element", "d6/dec/classcopasi_1_1COptionParser.html#ae5243ee7e5530661e2da020780e6e480", null ],
+    [ "parse_long_option", "d6/dec/classcopasi_1_1COptionParser.html#a053b129c21ad3b0a9312eef1f6f2b386", null ],
+    [ "parse_short_option", "d6/dec/classcopasi_1_1COptionParser.html#a2987cb90ddddc996856359fc07d94e4c", null ],
+    [ "parse_value", "d6/dec/classcopasi_1_1COptionParser.html#ad7b52f46fd779fcac03a11968a25a97d", null ],
+    [ "locations_", "d6/dec/classcopasi_1_1COptionParser.html#ae5442e86c85c513306c072bcc881cbe4", null ],
+    [ "non_options_", "d6/dec/classcopasi_1_1COptionParser.html#a9be037e783d7d07760e5b0c9dc43b3f3", null ],
+    [ "openum_", "d6/dec/classcopasi_1_1COptionParser.html#a705f7dfd66dae4002ab2dfecea16557f", null ],
+    [ "options_", "d6/dec/classcopasi_1_1COptionParser.html#acfb25b24bf547341dbb735ca6a870fd1", null ],
+    [ "state_", "d6/dec/classcopasi_1_1COptionParser.html#a456c22447c77c106d74d08a8e67fe413", null ]
+];

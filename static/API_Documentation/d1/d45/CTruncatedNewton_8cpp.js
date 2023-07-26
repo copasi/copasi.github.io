@@ -1,0 +1,26 @@
+var CTruncatedNewton_8cpp =
+[
+    [ "FALSE_", "d1/d45/CTruncatedNewton_8cpp.html#ad4986ecbba005b963f63a85f7c8c281d", null ],
+    [ "subscr_1", "d1/d45/CTruncatedNewton_8cpp.html#a4de8d9c4974e559e97c618f593c64882", null ],
+    [ "subscr_2", "d1/d45/CTruncatedNewton_8cpp.html#a0dc2fbe93d0429532df8643ebf987006", null ],
+    [ "subscr_3", "d1/d45/CTruncatedNewton_8cpp.html#a7e87dba108607e3b4641662a84c16f9c", null ],
+    [ "TRUE_", "d1/d45/CTruncatedNewton_8cpp.html#aca1e6c3771fa0306e1dad2b11d22a8e5", null ],
+    [ "chkucp_", "d1/d45/CTruncatedNewton_8cpp.html#a019368fcfa9b3719d49ea313c29bbc22", null ],
+    [ "cnvtst_", "d1/d45/CTruncatedNewton_8cpp.html#a7aeb4fd33111c3c91054975b584762fb", null ],
+    [ "crash_", "d1/d45/CTruncatedNewton_8cpp.html#a56120b3cad8cd55b3dbd22b02322d5ab", null ],
+    [ "dxpy_", "d1/d45/CTruncatedNewton_8cpp.html#ae69e08917c678fe7101ff1641f836070", null ],
+    [ "initp3_", "d1/d45/CTruncatedNewton_8cpp.html#a1bb9c61a7c9cf619cfe642d35e1f4663", null ],
+    [ "lsout_", "d1/d45/CTruncatedNewton_8cpp.html#a42d0162adeb83480d94177d3165ebe31", null ],
+    [ "lsout_", "d1/d45/CTruncatedNewton_8cpp.html#a06b755370bc9ec63be55d4d689faf3b8", null ],
+    [ "mchpr1_", "d1/d45/CTruncatedNewton_8cpp.html#ac09130e292916d14c441dfbaa0dc7529", null ],
+    [ "modz_", "d1/d45/CTruncatedNewton_8cpp.html#a70a71f93437faf7584ca777d17fd57a5", null ],
+    [ "monit_", "d1/d45/CTruncatedNewton_8cpp.html#ad0137aac893a5ec51cc1c357e6742d0e", null ],
+    [ "mslv_", "d1/d45/CTruncatedNewton_8cpp.html#af4b1ca2435e88bd830dd4fd5c2c295b4", null ],
+    [ "ndia3_", "d1/d45/CTruncatedNewton_8cpp.html#a032686d2453050039823b02f222a2a9a", null ],
+    [ "negvec_", "d1/d45/CTruncatedNewton_8cpp.html#a0bfe40844a9cd7678b1ad7579a8066b3", null ],
+    [ "pow_dd", "d1/d45/CTruncatedNewton_8cpp.html#a5d975556ebd6274675bfd6a33cefad8a", null ],
+    [ "ssbfgs_", "d1/d45/CTruncatedNewton_8cpp.html#ac15a8b703cb076e0cc563b6d050d3744", null ],
+    [ "step1_", "d1/d45/CTruncatedNewton_8cpp.html#a1b046f53d9a354d8e612444f103d9144", null ],
+    [ "stpmax_", "d1/d45/CTruncatedNewton_8cpp.html#a0ea5d83a3ff996a63301b7202fb5018b", null ],
+    [ "ztime_", "d1/d45/CTruncatedNewton_8cpp.html#a5ee945a59020a067b62e27ba41f37d1b", null ]
+];

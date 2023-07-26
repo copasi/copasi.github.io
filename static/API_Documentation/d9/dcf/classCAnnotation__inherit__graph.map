@@ -1,0 +1,16 @@
+<map id="CAnnotation" name="CAnnotation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,195,99,221"/>
+<area shape="rect" id="node2" href="$da/d3f/classCEvent.html" title=" " alt="" coords="188,31,252,57"/>
+<area shape="rect" id="node3" href="$d9/d86/classCFunction.html" title="The class for handling a chemical kinetic function." alt="" coords="179,81,261,108"/>
+<area shape="rect" id="node6" href="$d0/da0/classCModelEntity.html" title=" " alt="" coords="171,144,269,171"/>
+<area shape="rect" id="node11" href="$d6/de0/classCModelParameterSet.html" title=" " alt="" coords="147,195,293,221"/>
+<area shape="rect" id="node12" href="$d5/d6a/classCModelVersion.html" title=" " alt="" coords="165,245,275,272"/>
+<area shape="rect" id="node13" href="$d4/dcf/classCReaction.html" title=" " alt="" coords="179,296,261,323"/>
+<area shape="rect" id="node14" href="$d0/db3/classCUnitDefinition.html" title=" " alt="" coords="166,347,274,373"/>
+<area shape="rect" id="node4" href="$d1/de4/classCKinFunction.html" title=" " alt="" coords="346,5,446,32"/>
+<area shape="rect" id="node5" href="$d9/d88/classCMassAction.html" title=" " alt="" coords="346,56,446,83"/>
+<area shape="rect" id="node7" href="$d4/dd4/classCCompartment.html" title=" " alt="" coords="341,107,451,133"/>
+<area shape="rect" id="node8" href="$dc/d44/classCMetab.html" title=" " alt="" coords="363,157,429,184"/>
+<area shape="rect" id="node9" href="$d4/d04/classCModel.html" title=" " alt="" coords="363,208,429,235"/>
+<area shape="rect" id="node10" href="$d7/dec/classCModelValue.html" title=" " alt="" coords="347,259,445,285"/>
+</map>
