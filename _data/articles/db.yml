@@ -548,6 +548,25 @@
   - python
   - events
 -
+ Reference: "Millard P, Gosselin-Monplaisir T, Uttenweiler-Joseph S, Enjalbert B (2023) Acetate is a beneficial nutrient for E. coli at low glycolytic flux. The EMBO journal 42:e113079"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.15252/embj.2022113079
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Locations:
+  - TBI, Université de Toulouse, CNRS, INRAE, INSA, Toulouse, France
+  - MetaToul-MetaboHUB, National Infrastructure of Metabolomics and Fluxomics, Toulouse, France
+ Funding:
+  - INRAE, France
+  - Région Occitanie, France
+  - Toulouse Biotechnology Institute, France
+ Methods:
+  - time course
+  - steady state
+  - CoRC
+-
  Reference: "Mutsuddy A, Erdem C, Huggins JR, Salim M, Cook D, Hobbs N, Feltus FA, Birtwistle MR (2023) Computational speed-up of large-scale, single-cell model simulations via a fully integrated SBML-based format. Bioinformatics Advances 3:vbad039"
  Year: 2023
  Type: 3
