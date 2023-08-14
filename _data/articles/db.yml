@@ -223,6 +223,25 @@
   - time course
   - parameter estimation
 -
+ Reference: "Maheshvare M D, Raha S, König M, Pal D (2023) A pathway model of glucose-stimulated insulin secretion in the pancreatic β-cell. Frontiers in Endocrinology 14:1185656"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.3389/fendo.2023.1185656
+ Keywords:
+  - Metabolism
+ Locations:
+  - Department of Computational and Data Sciences, Indian Institute of Science, Bangalore, India
+  - Institute for Biology, Institute for Theoretical Biology, Humboldt-University Berlin, Berlin, Germany
+ Funding:
+  - Ministry of Human Resource Development (MHRD), Government of India
+  - BMBF
+  - DFG
+ Methods:
+  - time course
+  - parameter estimation
+  - BasiCO
+  - Cloud-COPASI
+-
  Reference: "Dougher M, Soh L, Bala AM (2023) Techno-Economic Analysis of Interesterification for Biodiesel Production. Energy & Fuels 37:2912–2925"
  Year: 2023
  Type: 2
