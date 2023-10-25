@@ -87,12 +87,12 @@ section: Download
     
     async function suggest_package(release_idx) {
         var plt_match = 'source';
-        var icon_filename = 'none';
     
         var os = await detect_os(); 
         var Build = cps_getBuildNumber(github_json[release_idx]['name']);
      
-        var candidate = {fn: undefined, url: undefined, platform: undefined};
+        var candidate_default = {fn: undefined, url: undefined, platform: undefined, icon: undefined};
+        var candidates = [];
         var assets = github_json[release_idx]['assets'];
         var score = 7; 
     
@@ -103,35 +103,35 @@ section: Download
             const result = cps_scoreFile(filename, os);
     
             if (result.score > score) {
+                candidates = [];
+                score = result.score;
+            }
+
+            if (result.score == score) {
+                var candidate = candidate_default;
                 candidate.fn = filename;
                 candidate.url = dnld_url;
                 candidate.platform = result.title;
-                score = result.score;
-                icon_filename = result.icon;
+                candidate.icon = result.icon
+
+                candidates.push(candidate);
             }
         }
-        
-        var sug_div = document.getElementById('suggest_div');
-        var dnld_name = document.getElementById('download_name');
-        var dnld_lnk = document.getElementById('download_link');
-        var dnld_btn = document.getElementById('download_button');
-        var pltfrm_icon_code = '';
-    
-        if (icon_filename != 'none') {
-            pltfrm_icon_code = '<img src="/images/' + icon_filename + '">&nbsp';
-        }
-    
-        if (typeof candidate.platform !== 'undefined'
-            && candidate.platform != 'Source Code') {
-            sug_div.innerHTML = '<h3>It seems you are running on ' + candidate.platform  + '. You may want to download . . . </h3>';
+
+        if (candidates.length > 0) {
+            document.getElementById('suggest_div').innerHTML = '<h3>It seems you are running on ' + candidates[0].platform  + '. You may want to download . . . </h3>';
         } else {
-            sug_div.innerHTML = '<h3>No matching platform found. You may want to download . . . </h3>';
+            document.getElementById('suggest_div').innerHTML = '<h3>No matching platform found. You may want to download . . . </h3>';
         }
-        
-        dnld_name.innerHTML = '<h3>' + pltfrm_icon_code + candidate.fn + '</h3>'
-        dnld_btn.title = 'Download ' + candidate.fn;
-        dnld_btn.src = '/images/download-button.png';
-        dnld_lnk.href = candidate.url;
+
+        var suggestions = '';
+
+        for (i in candidates) {
+            suggestions += '<div id="download_name" class="col-xs-12 col-sm-8"><h3><img src="/images/' + candidates[i].icon + '">&nbsp' + candidates[i].fn + '</h3></div>';
+            suggestions += '<div class="col-xs-12 col-sm-4"><a id="download_link" href="' + candidates[i].url + '"><img id="download_button" alt="download button" title="Download ' + candidates[i].fn + '" src="/images/download-button.png"></a></div></div>';
+        }
+
+        document.getElementById('all_suggestions_div').innerHTML = suggestions;
     }
     
     function load_releases(json_obj){
@@ -414,14 +414,10 @@ section: Download
     </h4>
     <div id='suggest_div'></div>
   </div>
-  <div id='download_name' class='col-xs-12 col-sm-8'>
-  </div>
-  <div class='col-xs-12 col-sm-4'>
-    <a id='download_link'><img id='download_button' alt='download button'></a>
-    <br>
-    <br>
-  </div>
+  <div id='all_suggestions_div'></div>
   <div class='col-xs-12'>
+    <br>
+    <br>
     <h4>Otherwise, choose a download from below.</h4>
     <div id='manual_dnld_div'></div>
     <br>
