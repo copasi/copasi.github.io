@@ -126,7 +126,7 @@ section: Download
         if (candidates.length > 0) {
             var platform = '';
             if (candidates.length == 1) {
-                platform = candidates[0]; 
+                platform = candidates[0].platform; 
             } else {
                 platform = candidates[0].platform.match(/Mac OS X/i) ? 'Mac OS X' : candidates[0].platform;
             }
