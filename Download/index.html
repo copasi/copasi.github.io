@@ -91,7 +91,6 @@ section: Download
         var os = await detect_os(); 
         var Build = cps_getBuildNumber(github_json[release_idx]['name']);
      
-        var candidate_default = {fn: undefined, url: undefined, platform: undefined, icon: undefined};
         var candidates = [];
         var assets = github_json[release_idx]['assets'];
         var score = 7; 
@@ -106,7 +105,8 @@ section: Download
             }
 
             if (result.score == score) {
-                var candidate = candidate_default;
+                const candidate = {fn: undefined, url: undefined, platform: undefined, icon: undefined};
+
                 candidate.fn = filename;
                 candidate.url = github_json[release_idx]['assets'][asset_idx]['browser_download_url'];
                 candidate.platform = result.title;
@@ -116,17 +116,23 @@ section: Download
             }
         }
 
-        if (candidates.length > 0) {
-            document.getElementById('suggest_div').innerHTML = '<h3>It seems you are running on ' + candidates[0].platform  + '. You may want to download . . . </h3>';
-        } else {
-            document.getElementById('suggest_div').innerHTML = '<h3>No matching platform found. You may want to download . . . </h3>';
-        }
-
         var suggestions = '';
 
-        for (i in candidates) {
-            suggestions += '<div id="download_name" class="col-xs-12 col-sm-8"><h3><img src="/images/' + candidates[i].icon + '">&nbsp' + candidates[i].fn + '</h3></div>';
-            suggestions += '<div class="col-xs-12 col-sm-4"><a id="download_link" href="' + candidates[i].url + '"><img id="download_button" alt="download button" title="Download ' + candidates[i].fn + '" src="/images/download-button.png"></a></div></div>';
+        for (candidate_idx in candidates) {
+            suggestions += '<div id="download_name" class="col-xs-12 col-sm-8"><h3><img src="/images/' + candidates[candidate_idx].icon + '">&nbsp' + candidates[candidate_idx].fn + '</h3></div>';
+            suggestions += '<div class="col-xs-12 col-sm-4"><a id="download_link" href="' + candidates[candidate_idx].url + '"><img id="download_button" alt="download button" title="Download ' + candidates[candidate_idx].fn + '" src="/images/download-button.png"></a></div></div>';
+        }
+
+        if (candidates.length > 0) {
+            var platform = '';
+            if (candidates.length == 1) {
+                platform = candidates[0]; 
+            } else {
+                platform = candidates[0].platform.match(/Mac OS X/i) ? 'Mac OS X' : candidates[0].platform;
+            }
+            document.getElementById('suggest_div').innerHTML = '<h3>It seems you are running on ' + platform  + '. You may want to download . . . </h3>';
+        } else {
+            document.getElementById('suggest_div').innerHTML = '<h3>No matching platform found. You may want to download . . . </h3>';
         }
 
         document.getElementById('all_suggestions_div').innerHTML = suggestions;
