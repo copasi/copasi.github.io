@@ -97,9 +97,7 @@ section: Download
         var score = 7; 
     
         for (asset_idx in assets) {
-            var filename = github_json[release_idx]['assets'][asset_idx]['name'];
-            var dnld_url = github_json[release_idx]['assets'][asset_idx]['browser_download_url'];
-    
+            const filename = github_json[release_idx]['assets'][asset_idx]['name'];
             const result = cps_scoreFile(filename, os);
     
             if (result.score > score) {
@@ -110,7 +108,7 @@ section: Download
             if (result.score == score) {
                 var candidate = candidate_default;
                 candidate.fn = filename;
-                candidate.url = dnld_url;
+                candidate.url = github_json[release_idx]['assets'][asset_idx]['browser_download_url'];
                 candidate.platform = result.title;
                 candidate.icon = result.icon
 
@@ -228,7 +226,6 @@ section: Download
         } else if (regex_source.test(filename)) {
             info.platform = /.*/;
             info.icon = 'none';
-            info.title = 'Source Code';
         } else if (regex_Windows_64.test(filename)) {
             info.platform = 'Windows';
             info.architecture = 'amd64';
@@ -287,11 +284,11 @@ section: Download
         var regex_perl = /perl/i;
         var regex_csharp = /(mono|C.-Bindings)/;
         var regex_documentation = /\.pdf$/i;
-
+        var regex_source = /(src|source)/i;
         var Use = 'COPASI';
     
         if (regex_AllSE.test(filename)) {
-           Use = 'Simulation Engines for all platforms<br />(for use in heterogenous clusters)';
+           Use = 'Simulation Engines for all platforms (for use in heterogenous clusters)';
         } else if (regex_documentation.test(filename)) {
            Use = 'Documentation';
         } else if (regex_java.test(filename)) {
@@ -302,7 +299,9 @@ section: Download
            Use = 'Language Bindings: Perl';
         } else if (regex_csharp.test(filename)) {
            Use = 'Language Bindings: C#';
-        } 
+        } else if (regex_source.test(filename)) {
+            Use = 'Source Code'
+        }
     
         return Use;
     }
