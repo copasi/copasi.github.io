@@ -191,14 +191,14 @@ section: Download
     
         if (regex_darwin_monterey_arm.test(filename)) {
             info.platform = 'Mac OS';
-            info.platformVersion = /^10[._]1[2-9]/;
-            info.architecture = 'arm';
+            info.platformVersion = /^(10[._]1[2-9]|1[1-9])/;
+            info.architecture = /arm/;
             info.bitness = '64';
             info.icon = 'osx_icon.png';
             info.title = 'Mac OS X Monterey (arm)';
         } else if (regex_darwin_monterey_intel.test(filename)) {
             info.platform = 'Mac OS';
-            info.platformVersion = /^10[._]1[1-9]/;
+            info.platformVersion = /^(10[._]1[1-9]|1[1-9])/;
             info.architecture = 'amd64';
             info.bitness = '64';
             info.icon = 'osx_icon.png';
