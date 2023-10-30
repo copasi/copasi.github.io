@@ -54,6 +54,24 @@
  Methods:
   - time course
 -
+ Reference: "Bendig T, Ulmer A, Luzia L, Müller S, Sahle S, Bergmann FT, Lösch M, Erdemann F, Zeidan AA, Mendoza SN, Teusink B, Takors R, Kummer U, Figueiredo AS (2023) The pH-dependent lactose metabolism of Lactobacillus delbrueckii subsp. bulgaricus: An integrative view through a mechanistic computational model. Journal of Biotechnology 374:90–100"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1016/j.jbiotec.2023.08.001
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Locations:
+  - BioQuant, Centre for Organismal Studies (COS), Heidelberg University, Heidelberg, Germany
+  - Institute of Biochemical Engineering, University of Stuttgart, Stuttgart, Germany
+  - Systems Biology Lab, Vrije Universiteit, Amsterdam, the Netherlands
+  - Systems Biology, R&D Discovery, Chr. Hansen A/S, Hørsholm, Denmark
+ Funding:
+  - BMBF
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Berko ER, Witek GM, Matkar S, Petrova ZO, Wu MA, Smith CM, Daniels A, Kalna J, Kennedy A, Gostuski I, Casey C, Krytska K, Gerelus M, Pavlick D, Ghazarian S, Park JR, Marachelian A, Maris JM, Goldsmith KC, Radhakrishnan R, Lemmon MA, Mossé YP (2023) Circulating tumor DNA reveals mechanisms of lorlatinib resistance in patients with relapsed/refractory ALK-driven neuroblastoma. Nature Communications 14:2601"
  Year: 2023
  Type: 2
