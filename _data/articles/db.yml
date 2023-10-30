@@ -983,6 +983,22 @@
  Methods:
   - time course
 -
+ Reference: "Sagmeister P, Schiller C, Weiss P, Silber K, Knoll S, Horn M, Hone CA, Williams JD, Kappe CO (2023) Accelerating reaction modeling using dynamic flow experiments, part 1: design space exploration. Reaction Chemistry & Engineering 8:2818–2825"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1039/D3RE00243H
+ Keywords:
+  - Chemistry
+ Locations:
+  - Research Center Pharmaceutical Engineering GmbH (RCPE), Inffeldgasse 13, 8010 Graz, Austria
+  - Institute of Chemistry, NAWI Graz, University of Graz, Heinrichstrasse 28, 8010 Graz, Austria
+  - Institute of Automation and Control, Graz University of Technology, Inffeldgasse 21b, 8010 Graz, Austria
+ Funding:
+  - Land Steiermark/Zukunftsfonds Steiermark
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Sarang K, Otto T, Gagan S, Rudzinski K, Schaefer T, Brüggemann M, Grgić I, Kubas A, Herrmann H, Szmigielski R (2023) Aqueous-phase photo-oxidation of selected green leaf volatiles initiated by OH radicals: Products and atmospheric implications. Science of The Total Environment 879:162622"
  Year: 2023
  Type: 2
