@@ -229,6 +229,26 @@
  Methods:
   - time course
 -
+ Reference: "Decros G, Dussarrat T, Baldet P, Cassan C, Cabasson C, Dieuaide-Noubhani M, Destailleur A, Flandin A, Prigent S, Mori K, Colombié S, Jorly J, Gibon Y, Beauvoit B, Pétriacq P (2023) Enzyme-based kinetic modelling of ASC–GSH cycle during tomato fruit development reveals the importance of reducing power and ROS availability. New Phytologist 240:242–257"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1111/nph.19160
+ Keywords:
+  - Metabolism
+  - Plant Biology
+ Locations:
+  - University of Bordeaux, Villenave d’Ornon, 33882, France
+  - Bordeaux Metabolome, MetaboHUB, PHENOME-EMPHASIS, Villenave d’Ornon, 33140, France
+ Funding:
+  - INRAE (France)
+  - University of Bordeaux
+  - ANR (France)
+  - EU Horizon2020
+ Methods:
+  - steady state
+  - MCA
+  - paraemter estimation
+-
  Reference: "Deem M (2023) Application of time course-based kinetic methods to complex catalytic systems. Ph.D. Thesis, University of British Columbia, Vancouver, Canada"
  Year: 2023
  Type: 2
