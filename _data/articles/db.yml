@@ -229,6 +229,22 @@
  Methods:
   - time course
 -
+ Reference: "Davies C, Morgan AE, Mc Auley MT (2023) Computationally Modelling Cholesterol Metabolism and Atherosclerosis. Biology 12:1133"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.3390/biology12081133
+ Keywords:
+  - Metabolism
+  - Physiology
+ Locations:
+  - Department of Physical, Mathematical and Engineering Sciences, University of Chester, Chester CH1 4BJ, UK
+  - School of Health and Sport Sciences, Liverpool Hope University, Liverpool L16 9JD, UK
+ Methods:
+  - SBML
+  - parameter estimation
+  - time course
+  - parameter estimation
+-
  Reference: "Decros G, Dussarrat T, Baldet P, Cassan C, Cabasson C, Dieuaide-Noubhani M, Destailleur A, Flandin A, Prigent S, Mori K, Colombié S, Jorly J, Gibon Y, Beauvoit B, Pétriacq P (2023) Enzyme-based kinetic modelling of ASC–GSH cycle during tomato fruit development reveals the importance of reducing power and ROS availability. New Phytologist 240:242–257"
  Year: 2023
  Type: 2
