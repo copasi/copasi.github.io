@@ -520,6 +520,22 @@
   - time course
   - parmater estimation
 -
+ Reference: "Liu Y, Westerhoff HV (2023) ‘Social’ versus ‘asocial’ cells—dynamic competition flux balance analysis. npj Systems Biology and Applications 9:1–13"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1038/s41540-023-00313-5
+ Keywords:
+  - Metabolism
+ Locations:
+  - Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, The Netherlands
+  - Molecular Cell Biology, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
+  - School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK
+  - Stellenbosch Institute for Advanced Study, Stellenbosch University, Stellenbosch 7600, South Africa
+ Funding:
+  - Guangzhou Elite Project Foundation
+ Methods:
+  - time course
+-
  Reference: "Maeda K, Kurata H (2023) Automatic Generation of SBML Kinetic Models from Natural Language Texts Using GPT. International Journal of Molecular Sciences 24:7296"
  Year: 2023
  Type: 2
