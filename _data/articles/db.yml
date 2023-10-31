@@ -642,6 +642,36 @@
  Methods:
   - time course
 -
+ Reference: "Loman TE, Ma Y, Ilin V, Gowda S, Korsbo N, Yewale N, Rackauckas C, Isaacson SA (2023) Catalyst: Fast and flexible modeling of reaction networks. PLOS Computational Biology 19:e1011530"
+ Year: 2023
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pcbi.1011530
+ Keywords:
+  - Software
+ Locations:
+  - Sainsbury Laboratory, University of Cambridge, Cambridge, UK
+  - Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
+  - JuliaHub, Cambridge, Massachusetts, USA
+  - Department of Mathematics, University of Washington, Seattle, Washington, USA
+  - Pumas-AI, Baltimore, Maryland, USA
+  - Department of Applied Mechanics, Indian Institute of Technology Madras, Chennai, India
+  - Department of Mathematics and Statistics, Boston University, Boston, Massachusetts, USA
+ Funding:
+  - EU Horizon2020
+  - Wellcome Trust
+  - Chan Zuckerberg Initiative
+  - NSF
+  - Google Summer of Code
+  - Boston University
+  - U.S. Agency for International Development
+  - DOE
+  - DARPA
+  - The Research Council of Norway
+  - United States Air Force
+ Methods:
+  - time course
+  - stochastic simulation
+-
  Reference: "Maeda K, Kurata H (2023) Automatic Generation of SBML Kinetic Models from Natural Language Texts Using GPT. International Journal of Molecular Sciences 24:7296"
  Year: 2023
  Type: 2
