@@ -20215,6 +20215,15 @@
  Locations:
   - ETH Zurich, 8092 Zurich, Switzerland
 -
+ Reference: "Pahle J (2008) Stochastic simulation and analysis of biochemical networks. Ph.D. Thesis, Humboldt-Universität zu Berlin, Germany"
+ Year: 2008
+ Type: 1
+ URL: https://doi.org/10.18452/15786
+ Keywords:
+  - Computational Method
+ Locations:
+  - Humboldt Universität zu Berlin, Berlin, Germany
+-
  Reference: "Roy S, Werner-Washburne M, Lane T (2008) A system for generating transcription regulatory networks with combinatorial control of transcription. Bioinformatics 24:1318-1320"
  Year: 2008
  URL: https://doi.org/10.1093/bioinformatics/btn126
