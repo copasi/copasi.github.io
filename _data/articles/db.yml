@@ -304,6 +304,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Diamataris IG, Peristeras LD, Papavasileiou KD, Melissas VS, Boulougouris GC (2023) Statistical Inference of Rate Constants in Chemical and Biochemical Reaction Networks Using an “Inverse” Event-Driven Kinetic Monte Carlo Method. Journal of Physical Chemistry B 127:9132–9143"
+ Year: 2023
+ Type: 3
+ URL: https://doi.org/10.1021/acs.jpcb.3c03649
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Chemistry, University of Ioannina, Ioannina GR-451 10, Greece
+  - Department of Molecular Biology and Genetics, University of Thrace, Alexandroupoulis GR-681 00, Greece
+  - Institute of Nanoscience and Nanotechnology, National Center for Scientific Research “Demokritos”, Agia Paraskevi GR-153 10, Greece
+  - Department of ChemoInformatics, NovaMechanics Ltd., Nicosia CY-1070, Cyprus
+  - Department of ChemoInformatics, NovaMechanics MIKE., Piraeus GR-185 45, Greece
+  - Entelos Institute, Larnaca CY-6059, Cyprus
+ Methods:
+  - stochastic simulation
+-
  Reference: "Doellerer D, Pooler DRS, Guinart A, Crespi S, Feringa BL (2023) Highly Efficient Oxindole-Based Molecular Photoswitches. Chemistry 29:e202301634"
  Year: 2023
  Type: 2
