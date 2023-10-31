@@ -72,6 +72,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Bergmann FT (2023) BASICO: A simplified Python interface to COPASI. Journal of Open Source Software 8:5553"
+ Year: 2023
+ Type: 1
+ URL: https://doi.org/10.21105/joss.05553
+ Keywords:
+  - Software
+ Locations:
+  - BioQUANT/COS, Heidelberg University, Heidelberg, Germany
+ Funding:
+  - BMBF
+ Methods:
+  - python API
+-
  Reference: "Berko ER, Witek GM, Matkar S, Petrova ZO, Wu MA, Smith CM, Daniels A, Kalna J, Kennedy A, Gostuski I, Casey C, Krytska K, Gerelus M, Pavlick D, Ghazarian S, Park JR, Marachelian A, Maris JM, Goldsmith KC, Radhakrishnan R, Lemmon MA, Mossé YP (2023) Circulating tumor DNA reveals mechanisms of lorlatinib resistance in patients with relapsed/refractory ALK-driven neuroblastoma. Nature Communications 14:2601"
  Year: 2023
  Type: 2
