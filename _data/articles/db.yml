@@ -915,6 +915,27 @@
  Funding:
   - French National Research Agency (ANR)
 -
+ Reference: "Olavarria K, Becker MV, Sousa DZ, van Loosdrecht MCM, Wahl SA (2023) Design and thermodynamic analysis of a pathway enabling anaerobic production of poly-3-hydroxybutyrate in Escherichia coli. Synthetic and Systems Biotechnology 8:629–639"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1016/j.synbio.2023.09.005
+ Keywords:
+  - Synthetic Biology
+  - Microbiology
+  - Metabolism
+ Locations:
+  - Laboratory of Microbiology, Wageningen University and Research, Stippenenweg 4, 6708 WE, Wageningen, The Netherlands
+  - Centre for Living Technologies, Eindhoven-Wageningen-Utrecht Alliance, Princetonlaan 6, 3584 CB, Utrecht, The Netherlands
+  - Department of Biotechnology, Applied Sciences Faculty, Delft University of Technology, van der Maasweg 9, 2629 HZ, Delft, The Netherlands
+  - Lehrstuhl für Bioverfahrenstechnik, Friedrich-Alexander-Universität, Paul-Gordan-Strasse 3, 91052, Erlangen, Germany
+ Funding:
+  - Dutch Organization for Scientific Research (NWO)
+  - Sao Paulo Research Foundation (FAPESP), Brasil
+  - Dutch Ministry of Education, Culture and Science (OCW)
+ Methods:
+  - time course
+  - paramater estimation
+-
  Reference: "Olsen LF (2023) Complex dynamics in an unexplored simple model of the peroxidase–oxidase reaction. Chaos 33:023102"
  Year: 2023
  Type: 2
