@@ -1282,6 +1282,20 @@
   - parameter estimation
   - time course
 -
+ Reference: "Yuan S, Chen S, Yang Y (2023) Dimension Reduction for Dynamic Analysis of Gene Expression Data Using Variational Autoencoder. 2023 IEEE 13th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 988–991."
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1109/CYBER59472.2023.10256622
+ Keywords:
+  - Computational Method
+ Locations:
+  - School of Electrical and Control Engineering. Shenyang Jianzhu University. Shenyang. 1 1 0016, Liaoning, China
+  - Shenyang Institute of Automation. Chinese Academy of Sciences. Shenyang 1 1 0016, Liaoning, China
+ Funding:
+  -  National Natural Science Foundation of China
+ Methods:
+  - time course
+-
  Reference: "Abraha BW, Marchisio MA (2022) NOT Gates Based on Protein Degradation as a Case Study for a New Modular Modeling via SBML Level 3—Comp Package. Frontiers in Bioengineering and Biotechnology 10:845240"
  Year: 2022
  Type: 2
