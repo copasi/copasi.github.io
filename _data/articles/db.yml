@@ -19334,6 +19334,20 @@
  Methods:
   - time course
 -
+ Reference: "Mizera A, Gambin B (2010) Stochastic modelling of the eukaryotic heat shock response. Journal of Theoretical Biology 265:455–466"
+ Year: 2010
+ Type: 2
+ URL: https://doi.org/10.1016/j.jtbi.2010.04.029
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Institute of Fundamental Technological Research, Polish Academy of Sciences, Pawińskiego 5B, 02-106 Warsaw, Poland
+  - Department of Information Technologies, Åbo Akademi University & Turku Centre for Computer Science, Joukahaisenkatu 3-5A, FIN-20520 Turku, Finland
+ Funding:
+  - Ministry of Science and Higher Education
+ Methods:
+  - stochastic simulation
+-
  Reference: "Morrissey ER, Juarez MA, Denby KJ, Burroughs NJ (2010) On reverse engineering of gene interaction networks using time course data with repeated measurements. Bioinformatics 26:2305–2312"
  Year: 2010
  Type: 3
