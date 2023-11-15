@@ -19265,6 +19265,21 @@
  Locations:
   - Boston Biomedical Research Institute, Watertown MA, USA
 -
+ Reference: "Koh G, Hsu D, Thiagarajan PS (2010) Incremental Signaling Pathway Modeling by Data Integration. In: Berger B (ed) Research in Computational Molecular Biology. Springer: Berlin, Heidelberg, 281–296"
+ Year: 2010
+ Type: 3
+ URL: https://doi.org/10.1007/978-3-642-12683-3_18
+ Keywords:
+  - Computational Method
+  - Signaling
+ Locations:
+  - Bioprocessing Technology Institute, Singapore, 117456, Singapore
+  - National University of Singapore, Singapore, 117417, Singapore
+ Funding:
+  - Ministry of Education, Singapore
+ Methods:
+  - parameter estimation
+-
  Reference: "Li P, Dada JO, Jameson D, Spasić I, Swainston N, Carroll KM, Dunn WB, Khan F, Malys N, Messiha HL, Simeonidis E, Weichart D, Winder CL, Wishart J, Broomhead DS, Goble CA, Gaskell SJ, Kell DB, Westerhoff HV, Mendes P, Paton NW (2010) Systematic integration of experimental data and models in systems biology. BMC Bioinformatics 11:582"
  Year: 2010
  Type: 3
