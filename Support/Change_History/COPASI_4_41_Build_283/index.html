@@ -1,0 +1,98 @@
+---
+layout: structure
+title: "COPASI 4.41 Build 283"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.41.283</h3>
+    Release Date: November 21, 2023<br />
+
+    <h4>New Features since COPASI 4.40 (Build 278)</h4>
+    <ul>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Species particle numbers are no supported as event targets.
+          </li>
+          <li>
+            Optimization & Parameter Estimation: It is now possible to run current solution statistics before adding any optimization parameters.
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+    <h4>Bug Fixes since COPASI 4.40 (Build 278)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Reduced COPASI's start up time.
+          </li>
+          <li>
+            Fixed display of message boxes under Qt 6.5.
+          </li>
+          <li>
+            Improved functionality and stability of the plotting engines QWT & QCustomPlot
+          </li>
+          <li>
+            The output assistant suppresses now any check boxes which are not applicable to the current task.
+          </li>
+          <li>
+            Improved display of SBML imported units.
+          </li>
+          <li>
+            Fixed rare crash occurring when lading a new file while displaying a global quantity.
+          </li>
+        </ul>
+       </ul>
+      </li>
+      <li> Simulation Engine 
+        <ul>
+          <li>
+            Utilize balanced Abstract Syntax Tree to avoid stack overflows.
+          </li>
+          <li>
+            Fixed loading of COPASI files containing parameter estimation created with COPASI 4.0 (Build 18).
+          </li>
+          <li>
+            The COPASI Version is now correctly displayed in reports.
+          </li>
+          <li>
+            Fixed an error message for trajectory method RK45 which was referring to LSODA.
+          </li>
+        </ul>
+      </li>
+      <li> Standards 
+        <ul>
+          <li>
+            SBML Import: Corrected function parameter classification which effected the UI parameter overview.
+          </li>
+          <li>
+            SBML Import: Avoid redundant division by log(10) when importing logarithm with base 10.
+          </li>
+          <li>
+            SBML Import (layout): Allow import of empty curves.
+          </li>
+          <li>
+            SED-ML Import: Improved import of SED-ML files with multiple task lists, falling back to SBML when all fail.
+          </li>
+          <li>
+            SED-ML Import: Create a warning message when referenced the SBML model is remote resource (unsupported).
+          </li>
+        </ul>
+      </li>
+      <li> API &amp; Language Bindings
+        <ul>
+          <li>
+            Added utility function CFunctionDB::purgeUnusedUserDefinedFunctions().
+          </li>
+          <li>
+            Added editing of constraints in optimization and parameter estimation tasks.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
