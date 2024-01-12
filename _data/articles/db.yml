@@ -514,6 +514,20 @@
  Methods:
   - time course
 -
+ Reference: "Kaya HE, Naidoo KJ (2023) CytoCopasi: A Chemical Systems Biology Target and Drug Discovery Visual Data Analytics Platform. Bioinformatics 39:btad745"
+ Year: 2023
+ Type: 3
+ URL: https://doi.org/10.1093/bioinformatics/btad745
+ Keywords:
+  - Software
+ Locations:
+  - Department of Chemistry, PD Hahn Building, University of Cape Town, Rondebosch 7701, South Africa
+ Funding:
+  - National Research Foundation, South Africa
+  - South African Medical Research Council
+ Methods:
+  - API
+-
  Reference: "Korkola NC, Stillman MJ (2023) Structural Role of Cadmium and Zinc in Metallothionein Oxidation by Hydrogen Peroxide: The Resilience of Metal–Thiolate Clusters. Journal of the American Chemical Society 145:6383–6397"
  Year: 2023
  Type: 2
