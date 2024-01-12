@@ -30,6 +30,22 @@
   - Synthetic Biology for Clinical and Technological Innovation, National University of Singapore, Singapore, Republic of Singapore
   - School of Biological Sciences, Nanyang Technological University, Singapore, Republic of Singapore
 -
+ Reference: "Steiner MR, Schmallegger M, Donner L, Hlina JA, Marschner C, Baumgartner J, Slugovc C (2024) Using the phospha-Michael reaction for making phosphonium phenolate zwitterions. Beilstein Journal of Organic Chemistry 20:41–51"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.3762/bjoc.20.6
+ Keywords:
+  - Chemistry
+ Locations:
+  - Institute for Chemistry and Technology of Materials, Graz University of Technology, Stremayrgasse 9, 8010 Graz, Austria
+  - Institute of Chemistry, Inorganic Chemistry, University of Graz, Schubertstraße 1, 8010 Graz, Austria
+ Funding:
+  - Christian Doppler Research Association (Austrian Federal Ministry for Digital and Economic Affairs and the National Foundation for Research, Technology and Development)
+  - Austrian Science Fund
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Absalyamov DZ, Vitkovskaya NM, Orel VB, Schmidt EYu, Trofimov BA (2023) Quantum-Chemical Insight into Self-Organization of Complex Molecules from Acetylene and Anilines Catalyzed by Superbase KOH/DMSO: One-Pot Cascade Assembly of 1,3-Bis(arylamines). Asian Journal of Organic Chemistry 12:e202300042"
  Year: 2023
  Type: 2
@@ -526,7 +542,7 @@
   - National Research Foundation, South Africa
   - South African Medical Research Council
  Methods:
-  - API
+  - Java API
 -
  Reference: "Korkola NC, Stillman MJ (2023) Structural Role of Cadmium and Zinc in Metallothionein Oxidation by Hydrogen Peroxide: The Resilience of Metal–Thiolate Clusters. Journal of the American Chemical Society 145:6383–6397"
  Year: 2023
