@@ -229,6 +229,20 @@
  Methods:
   - time course
 -
+ Reference: "Cook I, Leyh TS (2023) Sterol-activated amyloid beta fibril formation. Journal of Biological Chemistry 299:105445"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1016/j.jbc.2023.105445
+ Keywords:
+  - Macromolecular Biochemistry
+ Locations:
+  - Department of Microbiology and Immunology, Albert Einstein College of Medicine, Bronx, New York, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Czarnievicz N, Rubanu MG, Iturralde M, Albarran-Velo J, Diamanti E, Gotor-Fernandez V, Skolimowski M, López-Gallego F (2023) A Multiplex Assay to Assess the Transaminase Activity toward Chemically Diverse Amine Donors. ChemBioChem 24:e202200614"
  Year: 2023
  Type: 2
