@@ -1,4 +1,22 @@
 -
+ Reference: "Lang PF, Penas DR, Banga JR, Weindl D, Novak B (2024) Reusable rule-based cell cycle model explains compartment-resolved dynamics of 16 observables in RPE-1 cells. PLOS Computational Biology 20:e1011151"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1011151
+ Keywords:
+  - Signaling
+ Locations:
+  - Department of Biochemistry, University of Oxford, Oxford, UK
+  - Computational Biology Lab, MBG-CSIC (Spanish National Research Council), Pontevedra, Spain
+  - Computational Health Center, Helmholtz Zentrum München, Deutsches Forschungszentrum für Gesundheit und Umwelt (GmbH), Neuherberg, Germany
+ Funding:
+  - BBSRC
+  - EPSRC
+  - BMBF
+ Methods:
+  - time course
+  - export XPP
+-
  Reference: "Khanijou JK, Hee YT, Selvarajoo K (2024) Identifying Key In Silico Knockout for Enhancement of Limonene Yield Through Dynamic Metabolic Modelling. In: Bizzarri M (ed) Systems Biology. Springer US: New York, NY, 3–19."
  Year: 2024
  Type: 2
