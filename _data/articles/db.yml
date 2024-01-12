@@ -2603,6 +2603,26 @@
   - time course
   - parameter estimation
 -
+ Reference: "Ramachandran K, König M, Scharm M, Nguyen TVN, Hermjakob H, Waltemath D, Sheriff RSM (2022) FAIR Sharing of Reproducible Models of Epidemic and Pandemic Forecast. Preprints 2022060137"
+ Year: 2022
+ Type: 3
+ URL: https://doi.org/10.20944/preprints202206.0137.v1
+ Keywords:
+  - Computational Method
+  - Epidemiology
+ Locations:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge, UK
+  - Institute for Theoretical Biology, Humboldt-University Berlin, Berlin, Germany
+  - Department of Systems Biology and Bioinformatics, University of Rostock, 18051 Rostock, Germany
+  - Department of Medical Informatics, University Medicine Greifswald, 17475 Greifswald, Germany
+ Funding:
+  - BMBF
+  - DFG
+  - EMBL
+  - EU Horizon2020
+ Methods:
+  - time course
+-
  Reference: "Ranallo S, Sorrentino D, Delibato E, Ercolani G, Plaxco KW, Ricci F (2022) Protein-Protein Communication Mediated by an Antibody-Responsive DNA Nanodevice. Angewandte Chemie 61:e202115680"
  Year: 2022
  Type: 3
