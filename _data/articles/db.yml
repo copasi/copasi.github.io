@@ -438,6 +438,20 @@
  Methods:
   - time course
 -
+ Reference: "Huber N, Alcalá-Orozco EA, Rexer T, Reichl U, Klamt S (2023) Model-based optimization of cell-free enzyme cascades exemplified for the production of GDP-fucose. Metabolic Engineering 81:10–25"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1016/j.ymben.2023.10.007
+ Keywords:
+  - Biotechnology
+  - Metabolism
+ Locations:
+  - Max Planck Institute for Dynamics of Complex Technical Systems, 39106 Magdeburg, Germany
+  - eversyn, Sandtorstr. 1, 39106 Magdeburg, Germany
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Jabbari-Hichri A, Bourouina A, Biard P-F, Denicourt-Nowicki A, Roucoux A, Zanota M-L, Campoli F, De Bellefon C, Meille V (2023) Open cell foam materials as Pd reservoirs for Suzuki-Miyaura coupling catalysis at ppb level. Reaction Chemistry & Engineering 8:1799–1804"
  Year: 2023
  Type: 2
