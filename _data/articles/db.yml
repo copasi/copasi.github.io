@@ -145,6 +145,20 @@
  Methods:
   - time course
 -
+ Reference: "Yin F, Song T, Wang Z, Liu J, Zhang H, Tang Y, Zhang Z (2024) Hsp70-Bim incoherent feedforward loop contributes to cell-fate heterogeneity and fractional killing. British Journal of Pharmacology 181:659–669"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1111/bph.16245
+ Keywords:
+  - Signaling
+ Locations:
+  - Dalian University of Technology, Dalian, China
+ Funding:
+  - National Natural Science Foundation of China
+ Methods:
+  - time course
+  - parameter scan
+-
  Reference: "Absalyamov DZ, Vitkovskaya NM, Orel VB, Schmidt EYu, Trofimov BA (2023) Quantum-Chemical Insight into Self-Organization of Complex Molecules from Acetylene and Anilines Catalyzed by Superbase KOH/DMSO: One-Pot Cascade Assembly of 1,3-Bis(arylamines). Asian Journal of Organic Chemistry 12:e202300042"
  Year: 2023
  Type: 2
