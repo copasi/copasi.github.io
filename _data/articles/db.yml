@@ -15,6 +15,20 @@
  Methods:
   - steady state
 -
+ Reference: "Khilwani R, Singh S (2024) Traversing through the Mechanistic Event Analysis in IL-6 and IL-17 Signaling for a New Therapeutic Paradigm in NSCLC. International Journal of Molecular Sciences 25:1216"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.3390/ijms25021216
+ Keywords:
+  - Signaling
+ Locations:
+  - Systems Medicine Laboratory, National Centre for Cell Science, NCCS Complex, Ganeshkhind, SPPU Campus, Pune 411007, India
+ Funding:
+  - Department of Biotechnology, Ministry of Science and Technology, Government of
+India
+ Methods:
+  - steady state
+-
  Reference: "Lang PF, Penas DR, Banga JR, Weindl D, Novak B (2024) Reusable rule-based cell cycle model explains compartment-resolved dynamics of 16 observables in RPE-1 cells. PLOS Computational Biology 20:e1011151"
  Year: 2024
  Type: 2
