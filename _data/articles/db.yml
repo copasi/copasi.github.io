@@ -102,6 +102,21 @@
  Methods:
   - steady state
 -
+ Reference: "King CR, Berezin C-T, Peccoud J (2024) Stochastic model of vesicular stomatitis virus replication reveals mutational effects on virion production. PLOS Computational Biology 20:e1011373"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1011373
+ Keywords:
+  - Immunology
+ Locations:
+  - Department of Chemical and Biological Engineering, Colorado State University, Fort Collins, Colorado, USA
+ Funding:
+  - NSF
+  - NIH
+ Methods:
+  - time course
+  - BasiCO
+-
  Reference: "Lang PF, Penas DR, Banga JR, Weindl D, Novak B (2024) Reusable rule-based cell cycle model explains compartment-resolved dynamics of 16 observables in RPE-1 cells. PLOS Computational Biology 20:e1011151"
  Year: 2024
  Type: 2
