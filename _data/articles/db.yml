@@ -15,6 +15,32 @@
  Methods:
   - steady state
 -
+ Reference: "Gondre C, Meille V, Ouali M, Postole G, Loridant S, Pinel C, Perret N (2024) Investigation of the bifunctionality of catalysts based on Rh associated with an oxophilic promoter in the hydrogenolysis of tetrahydrofurfuryl alcohol to 1,5-pentanediol. Journal of Catalysis 430:115305"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1016/j.jcat.2024.115305
+ Keywords:
+  - Chemistry
+ Locations:
+  - Uni Lyon, Université Claude Bernard Lyon 1, CNRS, IRCELYON, 69626 Villeurbanne, France
+ Funding:
+  - ANR agency, France
+ Methods:
+  - parameter estimation
+-
+ Reference: "Khanijou JK, Hee YT, Selvarajoo K (2024) Identifying Key In Silico Knockout for Enhancement of Limonene Yield Through Dynamic Metabolic Modelling. In: Bizzarri M (ed) Systems Biology. Springer US: New York, NY, 3–19."
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1007/978-1-0716-3577-3_1
+ Keywords:
+  - Biotechnology
+  - Metabolism
+ Locations:
+  - Singapore Institute of Food and Biotechnology Innovation, Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore
+  - Bioinformatics Institute, Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore
+  - Synthetic Biology for Clinical and Technological Innovation, National University of Singapore, Singapore, Republic of Singapore
+  - School of Biological Sciences, Nanyang Technological University, Singapore, Republic of Singapore
+-
  Reference: "Khilwani R, Singh S (2024) Traversing through the Mechanistic Event Analysis in IL-6 and IL-17 Signaling for a New Therapeutic Paradigm in NSCLC. International Journal of Molecular Sciences 25:1216"
  Year: 2024
  Type: 2
@@ -47,18 +73,20 @@ India
   - time course
   - export XPP
 -
- Reference: "Khanijou JK, Hee YT, Selvarajoo K (2024) Identifying Key In Silico Knockout for Enhancement of Limonene Yield Through Dynamic Metabolic Modelling. In: Bizzarri M (ed) Systems Biology. Springer US: New York, NY, 3–19."
+ Reference: "Morgan AE, Salcedo-Sora JE, Mc Auley MT (2024) A new mathematical model of folate homeostasis in E. coli highlights the potential importance of the folinic acid futile cycle in cell growth. BioSystems 235:105088"
  Year: 2024
  Type: 2
- URL: https://doi.org/10.1007/978-1-0716-3577-3_1
+ URL: https://doi.org/10.1016/j.biosystems.2023.105088
  Keywords:
-  - Biotechnology
   - Metabolism
+  - Microbiology
  Locations:
-  - Singapore Institute of Food and Biotechnology Innovation, Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore
-  - Bioinformatics Institute, Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore
-  - Synthetic Biology for Clinical and Technological Innovation, National University of Singapore, Singapore, Republic of Singapore
-  - School of Biological Sciences, Nanyang Technological University, Singapore, Republic of Singapore
+  - School of Health & Sport Sciences, Hope Park, Liverpool Hope University, Liverpool, L16 9JD, UK
+  - Liverpool Shared Research Facilities, GeneMill, University of Liverpool, Liverpool, L69 7ZB, UK
+  - School of Science, Engineering and Environment, University of Salford, Manchester, M5 4NT, UK
+ Methods:
+  - time course
+  - parameter scan
 -
  Reference: "Steiner MR, Schmallegger M, Donner L, Hlina JA, Marschner C, Baumgartner J, Slugovc C (2024) Using the phospha-Michael reaction for making phosphonium phenolate zwitterions. Beilstein Journal of Organic Chemistry 20:41–51"
  Year: 2024
