@@ -180,6 +180,19 @@
   - time course
   - parameter scan
 -
+ Reference: "Peterson KJ, Loew LM (2024) Using SpringSaLaD mesoscale simulations with COPASI ODE parameter optimization to model membrane-associated kinetics based on measured volumetric rate constants. Biophysical Journal 123:22a"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1016/j.bpj.2023.11.241
+ Keywords:
+  - Biophysics
+ Locations:
+  - Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, Farmington, Connecticut, USA
+ Funding:
+  - NIH
+ Methods:
+  - parameter estimation
+-
  Reference: "Sigg A, Klimacek M, Nidetzky B (2024) Pushing the boundaries of phosphorylase cascade reaction for cellobiose production I: Kinetic model development. Biotechnology and Bioengineering 121:580–592"
  Year: 2024
  Type: 2
