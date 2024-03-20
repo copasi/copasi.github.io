@@ -19801,6 +19801,23 @@
  Locations:
   - Boston Biomedical Research Institute, Watertown MA, USA
 -
+ Reference: "Iadevaia S, Lu Y, Morales FC, Mills GB, Ram PT (2010) Identification of optimal drug combinations targeting cellular networks: integrating phospho-proteomics and computational network analysis. Cancer Research 70:6704–6714"
+ Year: 2010
+ Type: 2
+ URL: https://doi.org/10.1158/0008-5472.CAN-10-0460
+ Keywords:
+  - Signaling
+  - Pharmacology
+ Locations:
+  - Department of Systems Biology, The University of Texas M.D. Anderson Cancer Center, Houston, Texas, USA
+ Funding:
+  - NIH
+  - The Komen Foundation
+  - DOD
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Koh G, Hsu D, Thiagarajan PS (2010) Incremental Signaling Pathway Modeling by Data Integration. In: Berger B (ed) Research in Computational Molecular Biology. Springer: Berlin, Heidelberg, 281–296"
  Year: 2010
  Type: 3
