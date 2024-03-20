@@ -476,6 +476,21 @@
  Methods:
   - time course
 -
+ Reference: "Chilmeran M, Hodges M, Ni X-W (2023) A kinetic study of biotransformation from valencene to nootkatone in an oscillatory baffled reactor. Journal of Chemical Technology & Biotechnology 98:1356–1364"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1002/jctb.7350
+ Keywords:
+  - Biotechnology
+ Locations:
+  - School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh EH14 4AS, UK
+  - Oxford Biotrans Ltd, Thame, UK
+ Funding:
+  - BBSRC
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Collins S, Linnolahti M (2023) Ionization of Cp2ZrMe2 and Lewis Bases by Methylaluminoxane: Computational Insights. ChemPhysChem 24:e202200759"
  Year: 2023
  Type: 2
