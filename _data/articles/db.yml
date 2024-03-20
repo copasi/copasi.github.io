@@ -1950,6 +1950,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Barh A, Sharma K, Bhatt P, Annepu SK, Nath M, Shirur M, Kumari B, Kaundal K, Kamal S, Sharma VP, Gupta S, Sharma A, Gupta M, Dutta U (2022) Identification of Key Regulatory Pathways of Basidiocarp Formation in Pleurotus spp. Using Modeling, Simulation and System Biology Studies. Journal of Fungi 8:1073"
+ Year: 2022
+ Type: 2
+ URL: https://doi.org/10.3390/jof8101073
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Locations:
+  - ICAR-Directorate of Mushroom Research, Solan 173 213, India
+  - Department of Agricultural and Biological Engineering, Purdue University, West Lafayette, IN 47906, USA
+  - ICAR-Indian Institute of Soil and Water Conservation, Research Center, Udhagamandalam 643 006, India
+  - National Institute of Agricultural Extension Management (MANAGE), Hyderabad 500 030, India
+  - Faculty of Agriculture, Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu, Jammu 180 009, India
+  - Department of Plant Pathology, College of Horticulture, Dr. Yashwant Singh Parmar University of Horticulture and Forestry, Nauni, Solan 173 230, India
+ Methods:
+  - time course
+-
  Reference: "Bauerstätter P (2022) Compartment Modeling of Overweight in Toddler Age: Modeling and Simulating a Diets Effect with COPASI. SNE Simulation Notes Europe 32:221–224"
  Year: 2022
  Type: 3
