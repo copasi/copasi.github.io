@@ -1821,6 +1821,21 @@
  Methods:
   - time course
 -
+ Reference: "Yuan AT, Stillman MJ (2023) Arsenic binding to human metallothionein-3. Chemical Science 14:5756–5767"
+ Year: 2023
+ Type: 2
+ URL: https://doi.org/10.1039/D3SC00400G
+ Keywords:
+  - Chemistry
+  - Biochemistry
+ Locations:
+  - Department of Chemistry, University of Western Ontario, 1151 Richmond St., London, ON N6A 5B7, Canada
+ Funding:
+  - Natural Sciences and Engineering Research Council of Canada
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Yuan AT, Korkola NC, Stillman MJ (2023) Apo-metallothionein-3 cooperatively forms tightly compact structures under physiological conditions. Journal of Biological Chemistry 299:102899"
  Year: 2023
  Type: 2
