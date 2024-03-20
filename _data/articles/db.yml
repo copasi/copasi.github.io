@@ -490,6 +490,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Cruz E, Montoya A, Ágreda J (2023) Linear stability analysis of chemical mechanism, Listanalchem: A tool for the search of spontaneous mirror symmetry breaking. MethodsX 11:102307"
+ Year: 2023
+ Type: 3
+ URL: https://doi.org/10.1016/j.mex.2023.102307
+ Keywords:
+  - Chemistry
+  - Software
+ Locations:
+  - Universidad Nacional de Colombia, sede Bogotá, Colombia
+ Funding:
+  - Ministerio de Ciencia Tecnología e Innovación of Colombia
+ Methods:
+  - elementary flux modes
+-
  Reference: "Czarnievicz N, Rubanu MG, Iturralde M, Albarran-Velo J, Diamanti E, Gotor-Fernandez V, Skolimowski M, López-Gallego F (2023) A Multiplex Assay to Assess the Transaminase Activity toward Chemically Diverse Amine Donors. ChemBioChem 24:e202200614"
  Year: 2023
  Type: 2
