@@ -223,6 +223,22 @@
   - time course
   - parameter scan
 -
+ Reference: "Nashed A, Naidoo KJ (2024) Universal Glycosyltransferase Continuous Assay for Uniform Kinetics and Inhibition Database Development and Mechanistic Studies Illustrated on ST3GAL1, C1GALT1, and FUT1. ACS Omega 9:17518–17532"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1021/acsomega.4c00485
+ Keywords:
+  - Enzymology
+  - Laboratory Method
+ Locations:
+  - University of Cape Town, PD Hahn Building, Rondebosch 7701, South Africa
+ Funding:
+  - National Research Foundation, South Africa
+  - South African Medical Research Council
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Peterson KJ, Loew LM (2024) Using SpringSaLaD mesoscale simulations with COPASI ODE parameter optimization to model membrane-associated kinetics based on measured volumetric rate constants. Biophysical Journal 123:22a"
  Year: 2024
  Type: 2
