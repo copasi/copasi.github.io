@@ -350,6 +350,27 @@
  Funding:
   - DFG
 -
+ Reference: "Wei X, Yang X, Hu C, Li Q, Liu Q, Wu Y, Xie L, Ning X, Li F, Cai T, Zhu Z, Zhang Y-HPJ, Zhang Y, Chen X, You C (2024) ATP-free in vitro biotransformation of starch-derived maltodextrin into poly-3-hydroxybutyrate via acetyl-CoA. Nature Communications 15:3267"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1038/s41467-024-46871-y
+ Keywords:
+  - Metabolism
+  - Biotechnology
+ Locations:
+  - Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, 32 West 7th Avenue, Tianjin Airport Economic Area, Tianjin, 300308, China
+  - Key Laboratory of Industrial Fermentation Microbiology, Ministry of Education, Tianjin Industrial Microbiology Key Laboratory, College of Biotechnology, Tianjin University of Science and Technology, Tianjin, 300457, China
+  - University of Chinese Academy of Sciences, 19A Yuquan Road, Shijingshan District, Beijing, 100049, China
+  - National Technology Innovation Center of Synthetic Biology, Tianjin, 300308, China
+ Funding:
+  - "National Key R&D Program of China"
+  - National Natural Science Foundation of China
+  - Tianjin Synthetic Biotechnology Innovation Capacity Improvement Project
+ Methods:
+  - stoichiometry
+  - parameter estimation
+  - optimization
+-
  Reference: "Yang Y, Stanbury DM (2024) Oxidation of Methanesulfinate by Hexachloroiridate(IV) and the Standard Electrode Potential of the Aqueous Methanesulfonyl Radical. Inorganic Chemistry 63:1625–1632"
  Year: 2024
  Type: 2
