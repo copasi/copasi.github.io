@@ -243,6 +243,18 @@
   - time course
   - parameter estimation
 -
+ Reference: "Matzko RO, Konur S (2024) BioNexusSentinel: a visual tool for bioregulatory network and cytohistological RNA-seq genetic expression profiling within the context of multicellular simulation research using ChatGPT-augmented software engineering. Bioinformatics Advances 4:vbae046"
+ Year: 2024
+ Type: 3
+ URL: https://doi.org/10.1093/bioadv/vbae046
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  - School of Computer Science, University of Bradford, Bradford BD7 1HR, UK
+ Funding:
+  - EPSRC
+-
  Reference: "Morgan AE, Salcedo-Sora JE, Mc Auley MT (2024) A new mathematical model of folate homeostasis in E. coli highlights the potential importance of the folinic acid futile cycle in cell growth. BioSystems 235:105088"
  Year: 2024
  Type: 2
