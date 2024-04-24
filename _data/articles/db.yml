@@ -226,6 +226,23 @@
   - time course
   - export XPP
 -
+ Reference: "Li X, Fomitskaya P, Smaliak VA, Smith BS, Skorb EV, Semenov SN (2024) Selenium catalysis enables negative feedback organic oscillators. Nature Communications 15:3316"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1038/s41467-024-47714-6
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Molecular Chemistry and Materials Science, Weizmann Institute of Science, Rehovot, Israel
+  - Department of Chemistry, Southern University of Science and Technology, Shenzhen, China
+  - School of Biological and Health Systems Engineering, Arizona State University, Tempe, AZ, USA
+  - Infochemistry Scientific Center, ITMO University, Saint Petersburg, Russia
+ Funding:
+  -  Israel Science Foundation
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Morgan AE, Salcedo-Sora JE, Mc Auley MT (2024) A new mathematical model of folate homeostasis in E. coli highlights the potential importance of the folinic acid futile cycle in cell growth. BioSystems 235:105088"
  Year: 2024
  Type: 2
