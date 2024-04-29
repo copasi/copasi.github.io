@@ -1,0 +1,61 @@
+---
+layout: structure
+title: "COPASI 4.43 Build 288"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.43.288</h3>
+    Release Date: April 28, 2024<br />
+
+    <h4>New Features since COPASI 4.42 (Build 284)</h4>
+    <ul>
+      <li> Standards 
+        <ul>
+          <li>
+            SBML: Added support of SBML Level 3 Version 2
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+    <h4>Bug Fixes since COPASI 4.42 (Build 284)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Event Overview: The assignments associated with an event are no properly displayed.
+          </li>
+          <li>
+            Optimization: Changing of the subtask is now preserved without running the optimization task.
+          </li>
+          <li>
+            Task and subtask names are now consistently handled in sensitivities, optimization, and scan.
+          </li>
+          <li>
+            Scan Task: Improved handling of output from subtask by allowing finer control over when output is captured.
+          </li>
+        </ul>
+       </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Fix calculations involving constant rates which were in certain situations (e.g. event assignments) not correctly updated.
+          </li>
+        </ul>
+      </li>
+      <li> API
+        <ul>
+          <li>
+            In the case that multiple data models with the same name where loaded simultaneously, renaming an object in one data model does not longer effect references the other models. 
+          </li>
+          <li>
+            Setting CCopasiParameter values directly will now result in a call to the parent group to assure proper synchronization of related parameters.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>

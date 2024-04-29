@@ -1,6 +1,8 @@
 pages:
 - path: Support/Change_History
   title: "Change History"
+- path: Support/Change_History/COPASI_4_43_Build_288
+  title: "COPASI 4.43 (Build 288)"
 - path: Support/Change_History/COPASI_4_42_Build_284
   title: "COPASI 4.42 (Build 284)"
 - path: Support/Change_History/COPASI_4_41_Build_283
