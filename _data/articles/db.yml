@@ -382,6 +382,23 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Poprawa SM, Stasi M, Kriebisch BAK, Wenisch M, Sastre J, Boekhoven J (2024) Active droplets through enzyme-free, dynamic phosphorylation. Nature Communications 15:4204"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1038/s41467-024-48571-z
+ Keywords:
+  - Chemistry
+  - Synthetic Biology
+ Locations:
+  - Department of Bioscience, Technical University of Munich, Lichtenbergstrasse 4, 85748 Garching, Germany
+ Funding:
+  - EU ERC
+  - BMBF
+  - DFG
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Pulsford SB, Outram MA, Förster B, Rhodes T, Williams SJ, Badger MR, Price GD, Jackson CJ, Long BM (2024) Cyanobacterial α-carboxysome carbonic anhydrase is allosterically regulated by the Rubisco substrate RuBP. Science Advances 10:eadk7283"
  Year: 2024
  Type: 2
