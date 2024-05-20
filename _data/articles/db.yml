@@ -206,6 +206,21 @@
   - time course
   - BasiCO
 -
+ Reference: "Lancaster HG, Goodall JC, Douglas SP, Ashfield LJ, Duckett SB, Perutz RN, Weller AS (2024) Platinum(II) Phenylpyridyl Schiff Base Complexes as Latent, Photoactivated, Alkene Hydrosilylation Catalysts. ACS Catalysis 14:7492–7505"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1021/acscatal.4c01353
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of York, Heslington, York YO10 5DD, UK
+  - Johnson Matthey Technology Center, Reading RG4 9NH, UK
+ Funding:
+  - EPSRC
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Lang PF, Penas DR, Banga JR, Weindl D, Novak B (2024) Reusable rule-based cell cycle model explains compartment-resolved dynamics of 16 observables in RPE-1 cells. PLOS Computational Biology 20:e1011151"
  Year: 2024
  Type: 2
