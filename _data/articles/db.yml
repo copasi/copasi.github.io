@@ -254,6 +254,19 @@
   - time course
   - parameter scan
 -
+ Reference: "Narad P, Kulshrestha S, Chikara A, Gupta V, Kakrania M, Saxena R, Gupta P, Gupta L, Vijayaraghavan P, Sengupta A (2024) Systems-wide analysis of A. fumigatus using kinetic modeling of metabolic pathways to identify putative drug targets. Journal of Biomolecular Structure and Dynamics 42:4379–4394"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1080/07391102.2023.2223726
+ Keywords:
+  - Metabolism
+ Locations:
+  - Amity Institute of Biotechnology, Amity University Uttar Pradesh, Noida, India
+ Methods:
+  - time course
+  - steady state
+  - sensitivities
+-
  Reference: "Nashed A, Naidoo KJ (2024) Universal Glycosyltransferase Continuous Assay for Uniform Kinetics and Inhibition Database Development and Mechanistic Studies Illustrated on ST3GAL1, C1GALT1, and FUT1. ACS Omega 9:17518–17532"
  Year: 2024
  Type: 2
