@@ -227,6 +227,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Marchetti T, Roberts BMW, Frezzato D, Prins LJ (2024) A Minimalistic Covalent Bond-Forming Chemical Reaction Cycle that Consumes Adenosine Diphosphate. Angewandte Chemie International Edition 63:e202402965"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1002/anie.202402965
+ Keywords:
+  - Chemistry
+  - Biochemistry
+ Locations:
+  - Department of Chemical Sciences, University of Padua, Via Marzolo, 1, 35131 Padua, Italy
+ Funding:
+  - Ministero dell Università e della Ricerca, Italy
+  - University of Padua
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Matzko RO, Konur S (2024) BioNexusSentinel: a visual tool for bioregulatory network and cytohistological RNA-seq genetic expression profiling within the context of multicellular simulation research using ChatGPT-augmented software engineering. Bioinformatics Advances 4:vbae046"
  Year: 2024
  Type: 3
