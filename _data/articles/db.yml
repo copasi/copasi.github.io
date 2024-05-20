@@ -151,22 +151,6 @@
  Methods:
   - parameter estimation
 -
- Reference: "Huber N, Alcalá-Orozco EA, Rexer T, Reichl U, Klamt S (2023) Model-based optimization of cell-free enzyme cascades exemplified for the production of GDP-fucose. Metabolic Engineering 81:10–25"
- Year: 2023
- Type: 2
- URL: https://doi.org/10.1016/j.ymben.2023.10.007
- Keywords:
-  - Biotechnology
-  - Metabolism
- Locations:
-  - Max Planck Institute for Dynamics of Complex Technical Systems, 39106, Magdeburg, Germany
-  - eversyn, 39106, Magdeburg, Germany
- Funding:
-  - International Max Planck Research School for Advanced Methods in Process and Systems Engineering
- Methods:
-  - parameter estimation
-  - time course
--
  Reference: "Khanijou JK, Hee YT, Selvarajoo K (2024) Identifying Key In Silico Knockout for Enhancement of Limonene Yield Through Dynamic Metabolic Modelling. In: Bizzarri M (ed) Systems Biology. Springer US: New York, NY, 3–19."
  Year: 2024
  Type: 2
