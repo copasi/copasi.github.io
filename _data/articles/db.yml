@@ -28,6 +28,19 @@
  Methods:
   - steady state
 -
+ Reference: "Anderl F, Salvadori G, Veletic M, Balasingham I (2024) Computational Modeling of Bacterial Sensor Dynamics. paper presented at the 8th Workshop on Molecular Communications. Oslo, Norway."
+ Year: 2024
+ Type: 2
+ URL: https://molecularcommunications.org/wp-content/uploads/2024/04/MolComm_workshop_letter_florian_anderl_rev1.pdf
+ Keywords:
+  - Signaling
+ Locations:
+  - Norwegian University of Science and Technology, Høgskoleringen 1, 7034 Trondheim, Norway
+  - Oslo University Hospital, N-0424 Oslo, Norway
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Angeli L, Populin F, Morozova K, Ding Y, Asma U, Bolchini S, Cebulj A, Busatto N, Costa F, Ferrentino G, Scampicchio M (2024) Comparative analysis of antioxidant activity and capacity in apple varieties: Insights from stopped flow DPPH• kinetics, mass spectrometry and electrochemistry. Food Bioscience 58:103729"
  Year: 2024
  Type: 2
