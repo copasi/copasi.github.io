@@ -1,4 +1,17 @@
 -
+ Reference: "Akune-Taylor Y, Kon A, Aoki-Kinoshita KF (2024) In silico simulation of glycosylation and related pathways. Analytical and Bioanalytical Chemistry. https://doi.org/10.1007/s00216-024-05331-8"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1007/s00216-024-05331-8
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Glycan and Life Systems Integration Center, Soka University, Tokyo, Japan
+  - iGCORE, Nagoya University, Nagoya, Japan
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "An H, Pires JC, Conant GC (2024) Gene expression bias between the subgenomes of allopolyploid hybrids is an emergent property of the kinetics of expression. PLOS Computational Biology 20:e1011803"
  Year: 2024
  Type: 2
