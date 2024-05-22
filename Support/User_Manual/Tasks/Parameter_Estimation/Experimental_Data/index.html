@@ -25,7 +25,8 @@ use_math: true
     The weights are intended to adjust the contributions of the different data columns to the overall objective function so 
       that ideally data points from each column contribute equally. 
     For the calculation of the weights COPASI offers three different methods that are based on different assumptions about how 
-      residual error scales with the data values.
+      residual error scales with the data values. The methods are chosed with a drop box in the user interface and described in 
+      the table below. 
       Depending on whether the <b>Normalize Weights per Experiment</b> Checkbox is ticked, the weights are scaled so that the largest
       weight for any data column in the complete set is $1$, or that the largest weight in each single experiment is $1$.
       
@@ -38,32 +39,42 @@ use_math: true
         <tr>
           <th scope="col">Name</th>
           <th scope="col">Formula</th>
+          <th scope="col">Comment</th>
         </tr>
       </thead>      
       <colgroup>
         <col width="20%" />
-        <col width="80%" />
+        <col width="40%" />
+        <col width="40%" />
       </colgroup>
       <tbody>
       <tr>
         <td>Mean </td>
         <td> $\omega_{j}=\frac{1}{&lt;x_{j}&gt;^{2}}$</td>
+        <td>Assumes the error scales with the mean of the data points in a column</td>
       </tr>
       <tr>
         <td>Mean Square </td>
         <td> $\omega_{j}=\frac{1}{&lt;x_{j}^{2}&gt;}$</td>
+        <td>Assumes the error scales with the mean square of the data points in a column</td>
       </tr>
       <tr>
         <td>Standard Deviation </td>
         <td> $\omega_{j}=\frac{1}{&lt;x_{j}^{2}&gt; - &lt;x_{j}&gt; &lt;x_{j}&gt;}$</td>
+        <td>Assumes the error scales with the standard deviation of the data points in a column</td>
       </tr>
       <tr>
         <td>Value Scaling</td>
+        <td>see below</td>
         <td></td>
       </tr>
     </tbody>
     </table><br />
     <br />
+    <p>
+    The <b>Value Scaling</b> option in the drop down menu selects an alternative scaling behaviour: In this case the contribution 
+    of each data point is scaled by the inverse of the data value, assuming a multiplicative error model.
+    </p>
     <p>
     To specify the experimental data you click on the Experimental Data button at the top right of the parameter
     estimation dialog. A new dialog opens that lets you enter experimental data.</p>
