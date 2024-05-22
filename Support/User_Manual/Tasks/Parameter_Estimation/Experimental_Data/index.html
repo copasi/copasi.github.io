@@ -9,19 +9,27 @@ use_math: true
   <div class="col-xs-12">
     <p>
     Before you can execute a parameter estimation task you need to specify the dataset which COPASI will use to fit the
-    parameters you have specified. Each experiment of your dataset contributes to the objective function with the
+    parameters you have specified.
+    The data can provided in any number of data files that can each contain one or more experiments, each experiment 
+      containing one or several data columns. 
+      All data points in the columns of all experiments contribute to the objective function with the
     following weighted sum of squares:</p>
     <p>
     $$E(P)=\sum_{i,j}\omega_{j}\cdot(x_{i,j}-y_{i,j}(P))^{2}$$
     </p>
     <p>
     Where $P$ is the currently tested parameter set, $x_{i,j}$ is a point in the dataset, and $y_{i,j}(P)$ the corresponding 
-    simulated value. The indices $i$ and $j$ denote rows and columns in the dataset. The weight for each data column is given 
-    by $\omega_{j}$. COPASI provides 4 methods shown in the table below
-    to calculate the weights for you. After applying the method chosen COPASI scales the weights so that for each
-    experiment the maximal occurring weight is $1$. In case that the weights calculated are not satisfactory you are able
-    to manually override them individually. To overwrite that behavior you can choose to check the 
-    <b>Normalize Weights per Experiment</b> option. </p>
+    simulated value. The indices $i$ and $j$ denote rows and columns in the dataset. The weight $\omega_{j}$ is specified 
+      for each data column and can either be provided by the user or calculated automatically by COPASI. In the user interface, 
+      weights that are calculated by COPASI are displayed in brackets.
+    The weights are intended to adjust the contributions of the different data columns to the overall objective function so 
+      that ideally data points from each column contribute equally. 
+    For the calculation of the weights COPASI offers three different methods that are based on different assumptions about how 
+      residual error scales with the data values.
+      Depending on whether the <b>Normalize Weights per Experiment</b> Checkbox is ticked, the weights are scaled so that the largest
+      weight for any data column in the complete set is $1$, or that the largest weight in each single experiment is $1$.
+      
+ To manually adjust the weight values you can simple override them by entering new values in the table. </p>
 
 
     <table class="table table-striped" style="caption-side: top;">
