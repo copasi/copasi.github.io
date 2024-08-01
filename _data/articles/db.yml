@@ -367,6 +367,18 @@
  Funding:
   - EPSRC
 -
+ Reference: "McCloskey NS, Mammedova A, Liberles DA (2024) PEMPS: a phylogenetic software tool to model the evolution of metabolic pathways. BMC Bioinformatics 25:244"
+ Year: 2024
+ Type: 3
+ URL: https://doi.org/10.1186/s12859-024-05867-7
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  - Department of Biology, Temple University, Philadelphia, PA, 19122, USA
+ Methods:
+  - BasiCO
+-
  Reference: "Morgan AE, Salcedo-Sora JE, Mc Auley MT (2024) A new mathematical model of folate homeostasis in E. coli highlights the potential importance of the folinic acid futile cycle in cell growth. BioSystems 235:105088"
  Year: 2024
  Type: 2
