@@ -14608,6 +14608,17 @@
   - time course
   - parameter estimation
 -
+ Reference: "Woo SS (2016) Fast simulation of stochastic biochemical reaction networks on cytomorphic chips. Ph.D. Thesis, Massachusetts Institute of Technology, Cambridge MA, USA"
+ Year: 2016
+ Type: 3
+ URL: https://dspace.mit.edu/handle/1721.1/107292
+ Keywords:
+  - Computational Method
+ Locations:
+  -  Massachusetts Institute of Technology, Cambridge MA, USA
+ Methods:
+  - stochastiv simulation
+-
  Reference: "Woods ML, Barnes CP (2016) Mechanistic Modelling and Bayesian Inference Elucidates the Variable Dynamics of Double-Strand Break Repair. PLoS Computational Biology 12:e1005131"
  Year: 2016
  Type: 3
