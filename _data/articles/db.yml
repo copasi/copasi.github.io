@@ -179,6 +179,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Erbez JP, Rangel GH, Davila M, Englade JA, Erbez AD, Rattanpal J, Li H, Chen Y, Toney MD (2024) Activation Heat Capacities in Pyridoxal Phosphate Enzymes. ACS Catalysis 14:11178–11195"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1021/acscatal.4c01959
+ Keywords:
+  - Biochemistry
+  - Enzymology
+ Locations:
+  - Department of Chemistry, University of California, Davis, One Shields Avenue, Davis, California 95616, USA
+ Funding:
+  - NIH (R01 GM137008)
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Faustino M, Lourenço T, Strobbe S, Cao D, Fonseca A, Rocha I, Van Der Straeten D, Oliveira MM (2024) Mathematical kinetic modelling followed by in vitro and in vivo assays reveal the bifunctional rice GTPCHII/DHBPS enzymes and demonstrate the key roles of OsRibA proteins in the vitamin B2 pathway. BMC Plant Biology 24:220"
  Year: 2024
  Type: 2
