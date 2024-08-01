@@ -330,6 +330,32 @@
   - time course
   - BasiCO
 -
+ Reference: "Kolokotroni E, Abler D, Ghosh A, Tzamali E, Grogan J, Georgiadi E, Büchler P, Radhakrishnan R, Byrne H, Sakkalis V, Nikiforaki K, Karatzanis I, McFarlane NJB, Kaba D, Dong F, Bohle RM, Meese E, Graf N, Stamatakos G (2024) A Multidisciplinary Hyper-Modeling Scheme in Personalized In Silico Oncology: Coupling Cell Kinetics with Metabolism, Signaling Networks, and Biomechanics as Plug-In Component Models of a Cancer Digital Twin. Journal of Personalized Medicine 14:475"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.3390/jpm14050475
+ Keywords:
+  - Physiology
+  - Signaling
+ Locations:
+  - School of Electrical and Computer Engineering, National Technical University of Athens, 157 80 Zografos, Greece
+  - Department of Oncology, Geneva University Hospitals and University of Geneva, 1205 Geneva, Switzerland
+  - Department of Oncology, Lausanne University Hospital and University of Lausanne, 1011 Lausanne, Switzerland
+  - Department of Bioengineering, University of Pennsylvania, Philadelphia, PA 19104, USA
+  - Institute of Computer Science, Foundation for Research and Technology—Hellas, 70013 Heraklion, Greece
+  - Irish Centre for High End Computing, University of Galway, H91 TK33 Galway, Ireland
+  - Biomedical Engineering Department, University of West Attica, 12243 Egaleo, Greece
+  - ARTORG Center, University of Bern, 3010 Bern, Switzerland
+  - Mathematical Institute, University of Oxford, Oxford OX1 2JD, UK
+  - The Cambridge Crystallographic Data Centre, Cambridge CB2 1EZ, UK
+  - Department of Computer Science and Technology, University of Bedfordshire, Luton LU1 3JU, UK
+  - Department of Computer & Information Sciences, University of Strathclyde, Glasgow G1 1XH, UK
+  - Saarland University, 66421 Homburg, Germany
+ Funding:
+  - EU FP7
+ Methods:
+  - time course
+-
  Reference: "Lancaster HG, Goodall JC, Douglas SP, Ashfield LJ, Duckett SB, Perutz RN, Weller AS (2024) Platinum(II) Phenylpyridyl Schiff Base Complexes as Latent, Photoactivated, Alkene Hydrosilylation Catalysts. ACS Catalysis 14:7492–7505"
  Year: 2024
  Type: 2
