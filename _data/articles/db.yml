@@ -800,6 +800,20 @@
   - paramter estimation
   - time course
 -
+ Reference: "Silberberg M, Hermjakob H, Malik-Sheriff RS, Grecco HE (2024) Poincaré and SimBio: a versatile and extensible Python ecosystem for modeling systems. Bioinformatics 40:btae465"
+ Year: 2024
+ Type: 3
+ URL: https://doi.org/10.1093/bioinformatics/btae465
+ Keywords:
+  - Software
+  - Computational Method
+ Locations:
+  - Departamento de Fısica, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires 1426, Argentina
+  - European Bioinformatics Institute, European Molecular Biology Laboratory (EMBL-EBI), Wellcome Genome Campus, Cambridge, CB10 1SD, UK
+  - Department of Surgery and Cancer, Faculty of Medicine, Imperial College London, London, SW7 2AZ, UK
+ Methods:
+  - time course
+-
  Reference: "Sollin M, Hosseininasab S, Malenfant J, El-Akhrass M, Lopez de Arbina A, Montulet A, Frenette M (2024) Oxidation of secondary hydroperoxides via αC–H abstraction to form ketones and hydroxyl radicals: fluorene autoxidation as a model system. Canadian Journal of Chemistry 102:1–6"
  Year: 2024
  Type: 2
