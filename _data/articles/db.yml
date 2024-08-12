@@ -839,6 +839,23 @@
   - parameter estimation
   - time course
 -
+ Reference: "Sumi T, Harada K (2024) Vaccine and antiviral drug promise for preventing post-acute sequelae of COVID-19, and their combination for its treatment. Frontiers in Immunology 15:1329162"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.3389/fimmu.2024.1329162
+ Keywords:
+  - Immunology
+ Locations:
+  - Okayama University, Okayama, Japan
+  - Toyohashi University of Technology, Toyohashi, Aichi, Japan
+ Funding:
+  - Okayama Foundation for Science and Technology, Japan
+  - JSPS, Japan
+ Methods:
+  - time course
+  - steady state
+  - stability analysis
+-
  Reference: "Teshima M, Sutiono S, Döring M, Beer B, Boden M, Schenk G, Sieber V (2024) Development of a Highly Selective NAD+-Dependent Glyceraldehyde Dehydrogenase and its Application in Minimal Cell-Free Enzyme Cascades. ChemSusChem 17:e202301132"
  Year: 2024
  Type: 2
