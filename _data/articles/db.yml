@@ -512,6 +512,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "MacHale LT, Whitehead CB, Finke RG (2024) Platinum Nanoparticle Formation Kinetics and Mechanistic Studies: Evidence for an Alternative 4-Step Mechanism Involving Size-Dependent Growth and Chloride Anion and Room-Dust-Dependent Nucleation. The Journal of Physical Chemistry C 128:13083–13096"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1021/acs.jpcc.4c02718
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Colorado State University, Fort Collins, Colorado 80523, USA
+  - Chemistry Department, Union College, Schenectady, New York 12308, USA
+ Funding:
+  - DOE
+  - NSF
+ Methods:
+  - parameter estimation
+-
  Reference: "Marchetti T, Roberts BMW, Frezzato D, Prins LJ (2024) A Minimalistic Covalent Bond-Forming Chemical Reaction Cycle that Consumes Adenosine Diphosphate. Angewandte Chemie International Edition 63:e202402965"
  Year: 2024
  Type: 2
