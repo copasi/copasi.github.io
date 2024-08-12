@@ -265,6 +265,23 @@
   - parameter estimation
   - time course
 -
+ Reference: "Espinel-Ríos S, Behrendt G, Bauer J, Morabito B, Pohlodek J, Schütze A, Findeisen R, Bettenbrock K, Klamt S (2024) Experimentally implemented dynamic optogenetic optimization of ATPase expression using knowledge-based and Gaussian-process-supported models. Process Biochemistry 143:174–185"
+ Year: 2024
+ Type: 3
+ URL: https://doi.org/10.1016/j.procbio.2024.04.032
+ Keywords:
+  - Experimental Method
+  - Computational Method
+ Locations:
+  - Max Planck Institute for Dynamics of Complex Technical Systems, Sandtorstraße 1, Magdeburg, 39106, Germany
+  - Yokogawa Insilico Biotechnology GmbH, Meitnerstraße 9, Stuttgart, 70563, Germany
+  - Technical University of Darmstadt, Landgraf-Georg-Straße 4, Darmstadt, 64283, Germany
+ Funding:
+  - International Max Planck Research School for Advanced Methods in Process and Systems Engineering
+  - State of Saxony-Anhalt, Germany
+ Methods:
+  - parameter estimation
+-
  Reference: "Faustino M, Lourenço T, Strobbe S, Cao D, Fonseca A, Rocha I, Van Der Straeten D, Oliveira MM (2024) Mathematical kinetic modelling followed by in vitro and in vivo assays reveal the bifunctional rice GTPCHII/DHBPS enzymes and demonstrate the key roles of OsRibA proteins in the vitamin B2 pathway. BMC Plant Biology 24:220"
  Year: 2024
  Type: 2
