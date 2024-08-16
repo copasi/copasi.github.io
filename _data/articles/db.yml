@@ -919,6 +919,26 @@
   - steady state
   - stability analysis
 -
+ Reference: "Sveshnikova AN, Shibeko AM, Kovalenko TA, Panteleev MA (2024) Kinetics and regulation of coagulation factor X activation by intrinsic tenase on phospholipid membranes. Journal of Theoretical Biology 582:111757"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1016/j.jtbi.2024.111757
+ Keywords:
+  - Signaling
+  - Biophysics
+ Locations:
+  - National Medical and Research Center of Pediatric Hematology, Oncology and Immunology Named After Dmitry Rogachev, 1 Samory Mashela St, Moscow, 117198, Russia
+  - Faculty of Fundamental Physico-Chemical Engineering, Lomonosov Moscow State University, 1/51 Leninskie Gory, 119991 Moscow, Russia
+  - Department of Normal Physiology, Sechenov First Moscow State Medical University, 8/2 Trubetskaya St., 119991 Moscow, Russia
+  - Center for Theoretical Problems of Physicochemical Pharmacology, Russian Academy of Sciences, 4 Kosygina St, Moscow, 119991, Russia
+  - Faculty of Physics, Lomonosov Moscow State University, 1/2 Leninskie Gory, Moscow, 119991, Russia
+ Funding:
+  - Russian Science Foundation
+ Methods:
+  - parameter estimation
+  - stochastic simulation
+  - time course
+-
  Reference: "Teshima M, Sutiono S, Döring M, Beer B, Boden M, Schenk G, Sieber V (2024) Development of a Highly Selective NAD+-Dependent Glyceraldehyde Dehydrogenase and its Application in Minimal Cell-Free Enzyme Cascades. ChemSusChem 17:e202301132"
  Year: 2024
  Type: 2
