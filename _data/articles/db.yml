@@ -379,6 +379,23 @@
  Locations:
   - Osaka University, 1-1 Yamadaoka, Suita, Osaka 565-0871, Japan
 -
+ Reference: "Jallet D, Soldan V, Shayan R, Stella A, Ismail N, Zenati R, Cahoreau E, Burlet-Schiltz O, Balor S, Millard P, Heux S (2024) Integrative in vivo analysis of the ethanolamine utilization bacterial microcompartment in Escherichia coli. mSystems 9:e0075024"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1128/msystems.00750-24
+ Keywords:
+  - Metabolism
+  - Microbiology
+ Locations:
+  - Toulouse Biotechnology Institute, Université de Toulouse, CNRS, INRAE, INSA, Toulouse, France
+  - MetaToul-MetaboHUB, National infrastructure of metabolomics and fluxomics, Toulouse, France
+ Funding:
+  - INRAE, France
+  - Agence Nationale de la Recherche (ANR), France
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Kampourakis T, Ponnam S, Campbell KS, Wellette-Hunsucker A, Koch D (2024) Cardiac myosin binding protein-C phosphorylation as a function of multiple protein kinase and phosphatase activities. Nature Communications 15:5111"
  Year: 2024
  Type: 2
