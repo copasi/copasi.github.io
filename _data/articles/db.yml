@@ -1074,6 +1074,23 @@
  Methods:
   - time course
 -
+ Reference: "Vidal PJ, Pérez AP, Yahya G, Aldea M (2024) Transcriptomic balance and optimal growth are determined by cell size. Molecular Cell 84:3288-3301.e3"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1016/j.molcel.2024.07.005
+ Keywords:
+  - Cell Biology
+ Locations:
+  - Molecular Biology Institute of Barcelona (IBMB), CSIC, 08028 Barcelona, Catalonia, Spain
+  - Department of Basic Sciences, Universitat Internacional de Catalunya, 08195 Sant Cugat del Vallès, Barcelona, Spain
+  - Department of Microbiology and Immunology, School of Pharmacy, Zagazig University, 44511 Zagazig, Egypt
+ Funding:
+  - Spanish Research Agency
+ Methods:
+  - time course
+  - parameter estimation
+  - steady state
+-
  Reference: "Węgrzyn E, Mejdrová I, Müller FM, Nainytė M, Escobar L, Carell T (2024) RNA-Templated Peptide Bond Formation Promotes L-Homochirality. Angewandte Chemie International Edition 63:e202319235"
  Year: 2024
  Type: 2
