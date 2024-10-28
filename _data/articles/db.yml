@@ -776,6 +776,25 @@
   - time course
   - parameter estimation
 -
+ Reference: "Patel K, Barter M, Soul J, Clark P, Proctor C, Clark I, Young D, Shanley DP (2024) Systems analysis of miR-199a/b-5p and multiple miR-199a/b-5p targets during chondrogenesis. eLife 12:RP89701"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.7554/eLife.89701
+ Keywords:
+  - Genetics
+ Locations:
+  - Biosciences Institute, Newcastle University, UK
+  - Faculty of Health and Life Sciences, University of Liverpool, UK
+  - School of Biological Sciences, University of East Anglia, UK
+ Funding:
+  - Dunhill Medical Trust
+  - Novo Nordisk Fonde
+  - Versus Arthritis
+  - MRC
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Peterson KJ, Loew LM (2024) Using SpringSaLaD mesoscale simulations with COPASI ODE parameter optimization to model membrane-associated kinetics based on measured volumetric rate constants. Biophysical Journal 123:22a"
  Year: 2024
  Type: 2
