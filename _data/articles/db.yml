@@ -397,6 +397,23 @@
  Methods:
   - time course
 -
+ Reference: "Gantseva AR, Gantseva ER, Sveshnikova AN, Panteleev MA, Kovalenko TA (2024) Kinetic analysis of prothrombinase assembly and substrate delivery mechanisms. Journal of Theoretical Biology 594:111925"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1016/j.jtbi.2024.111925
+ Keywords:
+  - Macromolecular Biochemistry
+ Locations:
+  - Department of Biological and Medical Physics, Moscow Institute of Physics and Technology, Institutskiy Pereulok, 9, Dolgoprudny, Moscow Oblast 141701, Russia
+  - Faculty of Physics, Lomonosov Moscow State University, 1/2 Leninskie Gory, Moscow 119991, Russia
+ Center for Theoretical Problems of Physico-Chemical Pharmacology, Russian Academy of Sciences, 30 Srednyaya Kalitnikovskaya str., Moscow 109029, Russia
+ - National Medical Research Centre of Pediatric Hematology, Oncology and Immunology named after Dmitry Rogachev, 1 Samory Mashela St, 117198 Moscow, Russia
+ Funding:
+  - Russian Science Foundation
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Goglia I, Węglarz-Tomczak E, Gioia C, Liu Y, Virtuoso A, Bonanomi M, Gaglio D, Salmistraro N, De Luca C, Papa M, Alberghina L, Westerhoff HV, Colangelo AM (2024) Fusion–fission–mitophagy cycling and metabolic reprogramming coordinate nerve growth factor (NGF)-dependent neuronal differentiation. FEBS Journal 291:2811–2835"
  Year: 2024
  Type: 2
