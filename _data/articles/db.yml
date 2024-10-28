@@ -1036,6 +1036,22 @@
   - paramter estimation
   - time course
 -
+ Reference: "Sigg A, Klimacek M, Nidetzky B (2024) Pushing the boundaries of phosphorylase cascade reaction for cellobiose production II: Model-based multiobjective optimization. Biotechnology and Bioengineering 121:566–579"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1002/bit.28601
+ Keywords:
+  - Biotechnology
+  - Metabolism
+ Locations:
+  - Institute of Biotechnology and Biochemical Engineering, Graz University of Technology, NAWI Graz, Graz, Austria
+  - Austrian Centre of Industrial Biotechnology (ACIB), Graz, Austria
+ Funding:
+  - EU Horizon2020
+ Methods:
+  - paramter estimation
+  - time course
+-
  Reference: "Silberberg M, Hermjakob H, Malik-Sheriff RS, Grecco HE (2024) Poincaré and SimBio: a versatile and extensible Python ecosystem for modeling systems. Bioinformatics 40:btae465"
  Year: 2024
  Type: 3
