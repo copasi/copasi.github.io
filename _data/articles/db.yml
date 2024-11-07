@@ -197,6 +197,8 @@
   - Université de Toulouse, CNRS, INRAE, INSA, Toulouse, France
   - Université Montpellier, National Infrastructure of Metabolomics and Fluxomics, Toulouse, France
   - Albrechts-Universität zu Kiel, Kiel, Germany
+ Funding:
+  - Agence Nationale de la Recherche, France
  Methods:
   - time course
 -
@@ -846,6 +848,22 @@
   - NIH
  Methods:
   - parameter estimation
+-
+ Reference: "Phégnon L, Pérochon J, Uttenweiler-Joseph S, Cahoreau E, Millard P, Létisse F (2024) 6-Phosphogluconolactonase is critical for the efficient functioning of the pentose phosphate pathway. FEBS Journal 291:4459–4472"
+ Year: 2024
+ Type: 2
+ URL: https://doi.org/10.1111/febs.17221
+ Keywords:
+  - Metabolism
+ Locations:
+  - Université de Toulouse, CNRS, INRAE, INSA, Toulouse, France
+  - National Infrastructure of Metabolomics and Fluxomics, Toulouse, France
+  - Institut de Pharmacologie et de Biologie Structurale (IPBS), Université de Toulouse, CNRS, Université Toulouse III – Paul Sabatier (UT3), France
+ Funding:
+  - Agence Nationale de la Recherche, France
+ Methods:
+  - parameter estimation
+  - time course
 -
  Reference: "Pontisso I, Ornelas-Guevara R, Chevet E, Combettes L, Dupont G (2024) Gradual ER calcium depletion induces a progressive and reversible UPR signaling. PNAS Nexus 3:pgae229"
  Year: 2024
