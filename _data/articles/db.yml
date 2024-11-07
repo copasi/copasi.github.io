@@ -279,6 +279,30 @@
   - time course
   - parameter estimation
 -
+ Reference: "Domínguez-Romero E, Mazurenko S, Scheringer M, Martins dos Santos VAP, Evelo CT, Anton M, Hancock JM, Županič A, Suarez-Diez M (2024) Making PBPK models more reproducible in practice. Briefings in Bioinformatics 25:bbae569"
+ Year: 2024
+ Type: 3
+ URL: https://doi.org/10.1093/bib/bbae569
+ Keywords: Computational Method
+ Locations:
+  - School of Nutrition and Translational Research in Metabolism, Faculty of Health, Medicine and Life Sciences, Maastricht University, 6200 MD, Maastricht, The Netherlands
+  - Faculty of Science, Masaryk University, Kotlarska 2, 611 37, Brno, Czech Republic
+  - St. Anne’s University Hospital Brno, Pekařská 53, 656 91, Brno, Czech Republic
+  - Laboratory of Bioprocess Engineering, Wageningen University and Research, Droevendaalsesteeg 1, 6708 PB, Wageningen, The Netherlands
+  - ELIXIR, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+  - Department of Life Sciences, National Bioinformatics Infrastructure Sweden (NBIS), SciLifeLab, Chalmers University of Technology, Kemigården 1, Gothenburg SE-412 96, Sweden
+  - Institute of Biochemistry and Molecular Genetics, Faculty of Medicine, University of Ljubljana, Zaloška 4, 1000 Ljubljana, Slovenia
+  - Department of Biotechnology and Systems Biology, National Institute of Biology, Večna pot 121, 1000 Ljubljana, Slovenia
+ Funding:
+  - Maastricht University
+  - ELIXIR Systems Biology Community
+  - Netherlands Research Council, NWO
+  - EU Horizon2020
+  - Czech Ministry of Education, Youth and Sports
+ Methods:
+  - time course
+  - sbml
+-
  Reference: "Eisenhardt KHS, Fiorentini F, Lindeboom W, Williams CK (2024) Quantifying CO2 Insertion Equilibria for Low-Pressure Propene Oxide and Carbon Dioxide Ring Opening Copolymerization Catalysts. Journal of the American Chemical Society 146:10451–10464"
  Year: 2024
  Type: 2
