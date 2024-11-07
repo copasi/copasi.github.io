@@ -641,6 +641,22 @@
  Methods:
   - time course
 -
+ Reference: "Köster T, Henning P, Warnke T, Uhrmacher A (2024) Expressive rule-based modeling and fast simulation for dynamic compartments. PLoS One 19:e0312813"
+ Year: 2024
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pone.0312813
+ Keywords:
+  - Computational Method
+ Locations:
+  - University of Rostock, Rostock, Germany
+  - University Medicine Rostock, Rostock, Germany
+  - Limbus Medical Technologies GmbH, Rostock, Germany
+ Funding:
+  - DFG
+  - Centre for Transdisciplinary Neurosciences Rostock, Germany
+ Methods:
+  - stochastic simulation
+-
  Reference: "Lancaster HG, Goodall JC, Douglas SP, Ashfield LJ, Duckett SB, Perutz RN, Weller AS (2024) Platinum(II) Phenylpyridyl Schiff Base Complexes as Latent, Photoactivated, Alkene Hydrosilylation Catalysts. ACS Catalysis 14:7492–7505"
  Year: 2024
  Type: 2
