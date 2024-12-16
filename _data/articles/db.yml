@@ -320,6 +320,21 @@
   - time course
   - sbml
 -
+ Reference: "Durmaz MG, Tulluk N, Aksoy RD, Yilmaz HB, Yang B, Wipat A, Pusane AE, Mısırlı G, Tugcu T (2024) BioRxToolbox: a computational framework to streamline genetic circuit design in molecular data communications. Synthetic Biology 9:ysae015"
+ Year: 2024
+ Type: 3
+ URL: https://doi.org/10.1093/synbio/ysae015
+ Keywords:
+  - Synthetic Biology
+  - Computational Method
+  - Software
+ Locations:
+  - Bogazici University, Bebek, Istanbul 34342, Turkiye
+  - School of Computing, Newcastle University, Newcastle upon Tyne NE4 5TG, UK
+  - School of Computer Science and Mathematics, Keele University, Keele, Staffordshire ST5 5BG, UK
+ Methods:
+  - Java API
+-
  Reference: "Eisenhardt KHS, Fiorentini F, Lindeboom W, Williams CK (2024) Quantifying CO2 Insertion Equilibria for Low-Pressure Propene Oxide and Carbon Dioxide Ring Opening Copolymerization Catalysts. Journal of the American Chemical Society 146:10451–10464"
  Year: 2024
  Type: 2
