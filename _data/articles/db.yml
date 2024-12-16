@@ -859,6 +859,19 @@
  Locations:
   - Institute of Biochemistry and Molecular Biology, University of Southern Denmark, Campusvej 55, DK-5230 Odense M, Denmark
 -
+ Reference: "Ospina De Los Ríos S, Bastian P, Keegan L, Sahle S, Vermoortele D, Wehling L (2024) DuneCopasi: A multi-compartment reaction-diffusion simulator for systems biology. Journal of Open Source Software 9:6836"
+ Year: 2024
+ Type: 3
+ URL: https://doi.org/10.21105/joss.06836
+ Keywords:
+  - Software
+ Locations:
+  - Heidelberg University, Heidelberg, Germany
+  - Institute of Pathology, University Hospital Heidelberg, Heidelberg, Germany
+  - Cardiovascular Imaging and Dynamics, KU Leuven, Belgium
+ Funding:
+  - BMBF
+-
  Reference: "Patel K, Barter M, Soul J, Clark P, Proctor C, Clark I, Young D, Shanley DP (2024) Systems analysis of miR-199a/b-5p and multiple miR-199a/b-5p targets during chondrogenesis. eLife 12:RP89701"
  Year: 2024
  Type: 2
