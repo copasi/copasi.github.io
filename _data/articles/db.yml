@@ -731,6 +731,23 @@
  Methods:
   - stochastic simulation
 -
+ Reference: "Lakhova T, Kazantsev F, Khlebodarova T, Matushkin Yu, Lashin S (2024) Software Module For Studying The Regulation Of
+Bacterial Metabolic Pathways By Mathematical Modeling Methods. Problems of Informatics 46-55."
+ Year: 2024
+ Type: 3
+ URL:  https://doi.org/10.24412/2073-0667-2024-4-46-55
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  - Kurchatov Genomic Center of the Institute of Cytology and Genetics SB RAS, 630090, Novosibirsk, Russia
+  - Institute of Cytology and Genetics SB RAS, 630090, Novosibirsk, Russia
+  - Novosibirsk State University, 630090, Novosibirsk, Russia
+ Funding:
+  -  Institute of Cytology and Genetics SB RAS, Russia
+ Methods:
+  - Basico
+-
  Reference: "Lambreva MD, Zobnina V, Antal TK, Peeva VN, Giardi MT, Bertalan I, Johanningmeier U, Virtanen O, Ray M, Mulo P, Polticelli F, Tyystjärvi E, Rea G (2024) Redesign of the Chlamydomonas reinhardtii QB binding niche reveals photosynthesis works in the absence of a driving force for QA-QB electron transfer. Physiologia Plantarum 176:e70008"
  Year: 2024
  Type: 2
