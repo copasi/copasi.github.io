@@ -712,7 +712,7 @@
   - time course
   - BasiCO
 -
- Reference: "Kolokotroni E, Abler D, Ghosh A, Tzamali E, Grogan J, Georgiadi E, Büchler P, Radhakrishnan R, Byrne H, Sakkalis V, Nikiforaki K, Karatzanis I, McFarlane NJB, Kaba D, Dong F, Bohle RM, Meese E, Graf N, Stamatakos G (2024) A Multidisciplinary Hyper-Modeling Scheme in Personalized In Silico Oncology: Coupling Cell Kinetics with Metabolism, Signaling Networks, and Biomechanics as Plug-In Component Models of a Cancer Digital Twin. Journal of Personalized Medicine 14:475"
+ Reference: "Kolokotroni E, Abler D, Ghosh A, Tzamali E, Grogan J, Georgiadi E, Büchler P, Radhakrishnan R, Byrne H, Sakkalis V, Nikiforaki K, Karatzanis I, McFarlane NJB, Kaba D, Dong F, Bohle RM, Meese E, Graf N, Stamatakos GS (2024) A Multidisciplinary Hyper-Modeling Scheme in Personalized In Silico Oncology: Coupling Cell Kinetics with Metabolism, Signaling Networks, and Biomechanics as Plug-In Component Models of a Cancer Digital Twin. Journal of Personalized Medicine 14:475"
  Year: 2024
  Type: 2
  URL: https://doi.org/10.3390/jpm14050475
@@ -17858,7 +17858,7 @@ Bacterial Metabolic Pathways By Mathematical Modeling Methods. Problems of Infor
  Methods:
   - time course
 -
- Reference: "Sakkalis V, Sfakianakis S, Tzamali E, Marias K, Stamatakos G, Misichroni F, Ouzounoglou E, Kolokotroni E, Dionysiou D, Johnson D, McKeever S, Graf N (2014) Web-based workflow planning platform supporting the design and execution of complex multiscale cancer models. IEEE Journal of Biomededical Health Informatics 18:824-31"
+ Reference: "Sakkalis V, Sfakianakis S, Tzamali E, Marias K, Stamatakos GS, Misichroni F, Ouzounoglou E, Kolokotroni E, Dionysiou D, Johnson D, McKeever S, Graf N (2014) Web-based workflow planning platform supporting the design and execution of complex multiscale cancer models. IEEE Journal of Biomededical Health Informatics 18:824-31"
  Year: 2014
  URL: https://doi.org/10.1109/JBHI.2013.2297167
  Keywords:
