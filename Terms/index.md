@@ -13,7 +13,7 @@ COPASI and this web site do not collect any personal data.
 This website uses Google Analytics.
 
 #### Feedback
-Your  feedback matters! Take our quick user [satisfaction survey](https://de.surveymonkey.com/r/denbi-service?sc=nbi-sysbio&tool=copasi).
+Your  feedback matters! Take our quick user [satisfaction survey](https://copasi.org/Feedback/de.NBI/).
 
 #### License
 The packages available on this page are provided under the 
