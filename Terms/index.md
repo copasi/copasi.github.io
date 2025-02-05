@@ -12,6 +12,9 @@ COPASI and this web site do not collect any personal data.
 
 This website uses Google Analytics.
 
+#### Feedback
+Your  feedback matters! Take our quick user [satisfaction survey](https://de.surveymonkey.com/r/denbi-service?sc=nbi-sysbio&tool=copasi).
+
 #### License
 The packages available on this page are provided under the 
 <a href='{{ site.baseurl }}/Download/License' >Artistic License 2.0</a>, which is an 
