@@ -177,6 +177,25 @@
   - steady state
   - EFM
 -
+ Reference: "Riepl D, Abou-Hamdan A, Gellner J, Biner O, Sjöstrand D, Högbom M, von Ballmoos C, Kaila VRI (2025) Molecular Principles of Proton-Coupled Quinone Reduction in the Membrane-Bound Superoxide Oxidase. Journal of the American Chemical Society 147:6866–6879"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1021/jacs.4c17055
+ Keywords:
+  - Enzymology
+ Locations:
+  - Department of Biochemistry and Biophysics, The Arrhenius Laboratories for Natural Sciences, Stockholm University, SE-106 91 Stockholm, Sweden
+  - Department of Chemistry, Biochemistry and Pharmaceutical Sciences, University of Bern, CH-3012 Bern, Switzerland
+  - Department of Chemistry, Technical University Munich, D-85748 Garching, Germany
+ Funding:
+  - Knut and Alice Wallenberg Foundation
+  - Swedish Research Council
+  - Novartis Foundation
+  - Swiss National Science Foundation
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Sneddon DS, Kevorkian PV, Hoye TR (2025) Rapid (≤25 °C) cycloisomerization of anhydride-tethered triynes to benzynes – origin of a remarkable anhydride linker-induced rate enhancement. Chemical Science 16:2898–2906"
  Year: 2025
  Type: 2
