@@ -11,6 +11,22 @@
  Methods:
   - time course
 -
+ Reference: "Espinel-Ríos S, Montaño López J, Avalos JL (2025) Omics-driven hybrid dynamic modeling of bioprocesses with uncertainty estimation. Biochemical Engineering Journal 216:109637"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1016/j.bej.2025.109637
+ Keywords:
+  - Biotechnology
+  - Genomics
+  - Computational Method
+ Locations:
+  - Department of Chemical and Biological Engineering, Princeton University, Princeton, 08544, New Jersey, USA
+ Funding:
+  - NSF
+  - DOE
+ Methods:
+  - parameter estimation
+-
  Reference: "Itatani M, Holló G, Albanese P, Valletti N, Kurunczi S, Horvath R, Rossi F, Lagzi I (2025) Temporal pH waveforms generated in an enzymatic reaction network in batch and cell-sized microcompartments. Cell Reports Physical Science 6:102367"
  Year: 2025
  Type: 2
