@@ -86,6 +86,26 @@
   - time course
   - parameter estimation
 -
+ Reference: "Pateras J, Zhang C, Majumdar S, Pal A, Ghosh P (2025) Physics-informed machine learning for automatic model reduction in chemical reaction networks. Scientific Reports 15:7980"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1038/s41598-025-92680-8
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Computer Science, Virginia Commonwealth University, Richmond, Virginia 23284, USA
+  - Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, Berkeley, CA 94720, USA
+  - Department of Computer Science, University of Texas at Austin, Austin, TX 78712, USA. 4Mills E. Godwin High School, Richmond, Virginia 23238, USA
+ Funding:
+  - NIH
+  - NSF
+  - Commonwealth Health Research Board, Virginia, USA
+  - Virginia Commonwealth University
+ Methods:
+  - parameter scan
+  - parameter estimation
+  - profile Likelihood
+-
  Reference: "Ribó JM, Hochberg D, Buhse T, Micheau J-C (2025) Viedma deracemization mechanisms in self-assembly processes. Physical Chemistry Chemical Physics 27:2516–2527"
  Year: 2025
  Type: 2
