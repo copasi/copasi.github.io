@@ -30,6 +30,22 @@
  Methods:
   - time course
 -
+ Reference: "Dong J, Sathyan KM, Scott TG, Mukherjee R, Guertin MJ (2025) ZNF143 binds DNA and stimulates transcription initiation to activate and repress direct target genes. Nucleic Acids Research 53:gkae1182"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1093/nar/gkae1182
+ Keywords:
+  - Genetics
+  - Genomics
+ Locations:
+  - Center for Cell Analysis and Modeling, University of Connecticut, 400 Farmington Ave, Farmington, Connecticut 06030, USA
+  - Department of Biochemistry and Molecular Genetics, University of Virginia, 1340 Jefferson Park Ave, Charlottesville, Virginia 22903, USA
+ Funding:
+  - NIH
+ Methods:
+  - parameter estimation
+  - steady state
+-
  Reference: "Espinel-Ríos S, Montaño López J, Avalos JL (2025) Omics-driven hybrid dynamic modeling of bioprocesses with uncertainty estimation. Biochemical Engineering Journal 216:109637"
  Year: 2025
  Type: 2
