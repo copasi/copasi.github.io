@@ -136,6 +136,22 @@
   - time course
   - parameter estimation
 -
+ Reference: "Masison J, Mendes P (2025) Mathematical modeling reveals ferritin as the strongest cellular driver of dietary iron transfer block in enterocytes. PLOS Computational Biology 21:e1012374"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pcbi.1012374
+ Keywords:
+  - Biochemistry
+ Locations:
+  - Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, 400 Farmington Av., Farmington, Connecticut, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+  - sensitivity analysis
+  - parameter scan
+  - BasiCO
+-
  Reference: "Pateras J, Zhang C, Majumdar S, Pal A, Ghosh P (2025) Physics-informed machine learning for automatic model reduction in chemical reaction networks. Scientific Reports 15:7980"
  Year: 2025
  Type: 2
@@ -202,6 +218,7 @@
  URL: https://doi.org/10.1126/sciadv.adr9326
  Keywords:
   - Nanotechnology
+  - Chemistry
  Locations:
   - Stratingh Institute for Chemistry, University of Groningen, Nijenborgh 3, 9747 AG Groningen, Netherlands
  - Institute of Science and Technology Austria, Am Campus 1, 3400 Klosterneuburg, Austria
