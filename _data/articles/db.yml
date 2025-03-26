@@ -115,6 +115,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Harika GL, Sriram K (2025) Kinetic modelling reveals the presence of multistability in normal and stressful conditions in translational initiation mechanism. PLOS ONE 20:e0319280"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1371/journal.pone.0319280
+ Keywords:
+  - Biochemistry
+  - Genetics
+ Locations:
+  - Center for Computational Biology, Department of Computational Biology, IIIT-Delhi, New Delhi, India
+ Methods:
+  - time course
+  - steady state
+  - parameter estimation
+-
  Reference: "Itatani M, Holló G, Albanese P, Valletti N, Kurunczi S, Horvath R, Rossi F, Lagzi I (2025) Temporal pH waveforms generated in an enzymatic reaction network in batch and cell-sized microcompartments. Cell Reports Physical Science 6:102367"
  Year: 2025
  Type: 2
