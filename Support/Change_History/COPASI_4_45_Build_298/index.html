@@ -1,0 +1,118 @@
+---
+layout: structure
+title: "COPASI 4.45 Build 298"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.45.298</h3>
+    Release Date: April 22, 2025<br />
+
+    <h4>New Features since COPASI 4.42 (Build 284)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Added a new tool which attempts to convert ODEs into reactions. 
+          </li>
+          <li>
+            Added a menu entry which allows definition and subsequent execution of user defined tools.
+          </li>
+        </ul>
+      </li>
+      <li> Standards
+        <ul>
+          SBML Import added an option determining how to handle the import of initial values initial references.
+        </ul>
+      </li>
+    </ul>
+
+    <h4>Bug Fixes and Enhancements since COPASI 4.44 (Build 295)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Optimization and Parameter Estimation: Whether to display the population dynamics is now part of the problem specification.
+          </li>
+          <li>
+            Fixed deletion of plots in the plot overview.
+          </li>
+          <li>
+            Fixed issue where event targets where not longer added to plots, reports, and time series.
+          </li>
+          <li>
+            Fixed crash occurring when switching the plot engine to: Qt DataVizualization (surface) for non surface plots.
+          </li>
+          <li>
+            Improved labels for surface plots which where limited to 2 decimal digits.
+          </li>
+          <li>
+            Fixed problem with notes of global quantities occurring when copying. 
+          </li>
+          <li>
+            Time course Method Hybrid (RK-45): Selecting the partitioning strategy: user defined and selecting the deterministic reactions caused a crash.
+          </li>
+          <li>
+            Fixed delay during start on some Windows 11 installations caused while saving the known MIRIAM resources.
+          </li>
+          <li>
+            Functions: It is not longer permitted to copy mass action kinetics.
+          </li>
+          <li>
+            Fixed crash occurring when repeatedly deleting parameter sets.
+          </li>
+          <li>
+            Fixed problem deleting multiple global quantities.
+          </li>
+          <li>
+            Fixed crash when deleting interdependent global quantities.
+          </li>
+        </ul>
+      </li>
+      <li> Command Line (CopasiSE)  
+        <ul>
+          <li>
+            The argument to the option <code>--report-file</code> is now taken relative to the current working directory.
+          </li>
+          <li>
+            Steady-State: Added warning message indicating that no steady-state was found.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            MCA: Fixed scaling for small compartment volumes.
+          </li>
+          <li>
+            Steady-State: Fixed occasionally occurring problem calculating the target criterions for models containing moieties, which lead to not finding a steady-state.
+          </li>
+          <li>
+            Events: Fixed crash caused by invalid trigger expression.
+          </li>
+          <li>
+            Time Course: Fixed output of all steps when the duration is negative.
+          </li>
+          <li>
+            Parameter Estimation: Non existing constraint objects will lead to a warning message.
+          </li>
+        </ul>
+      </li>
+      <li>
+      </li> Standards
+        <ul>
+          <li>
+            SED-ML: Improved import of time course option initial time and number of points.
+          </li>
+          <li>
+            SBML: Improved import of reaction IDs used in multiple assignments.
+          </li>
+          <li>
+            SBML: Improved import of files containing reaction kinetics with missing parameters.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
