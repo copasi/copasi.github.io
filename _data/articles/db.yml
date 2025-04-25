@@ -80,6 +80,19 @@
  Methods:
   - paramter estimation
 -
+ Reference: "Dimitriew W, Schuster S (2025) Dynamic optimization elucidates higher-level pathogenicity strategies of Pseudomonas aeruginosa. microLife 6:uqaf005"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1093/femsml/uqaf005
+ Keywords:
+  - Microbiology
+ Locations:
+  - Department of Bioinformatics, Friedrich Schiller University of Jena, 07743 Jena, Germany
+ Funding:
+  - DFG
+ Methods:
+  - optimization
+-
  Reference: "Dong J, Sathyan KM, Scott TG, Mukherjee R, Guertin MJ (2025) ZNF143 binds DNA and stimulates transcription initiation to activate and repress direct target genes. Nucleic Acids Research 53:gkae1182"
  Year: 2025
  Type: 2
@@ -164,6 +177,7 @@
  URL: https://doi.org/10.3389/fphar.2025.1367991
  Keywords:
   - Signaling
+  - Pharmacology
  Locations:
   - Division of Physiology, Pharmacology and Neuroscience, School of Life Sciences, University of Nottingham, Nottingham, UK
   - Centre of Membrane Proteins and Receptors, University of Birmingham, Birmingham, UK
