@@ -62,6 +62,23 @@
  Methods:
   - steady state
 -
+ Reference: "Cravo F, Prakash G, Függer M, Nowak T (2025) MobsPy: A programming language for biochemical reaction networks. PLOS Computational Biology 21:e1013024"
+ Year: 2025
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pcbi.1013024
+ Keywords:
+  - Software
+  - Computational Method
+ Locations:
+  - Université  Paris-Saclay, CNRS, ENS  Paris-Saclay, Gif-sur-Yvette, France
+  - Institut  Universitaire de France, Paris, France
+  - Northeastern University,  Boston, Massachusetts, USA
+  - Rice University, Houston, Texas,  USA
+ Funding:
+  - French National Research Agency
+ Methods:
+  - BasiCO
+-
  Reference: "Delaforge E, Due AD, Theisen FF, Morffy N, O’Shea C, Blackledge M, Strader LC, Skriver K, Kragelund BB (2025) Allovalent scavenging of activation domains in the transcription factor ANAC013 gears transcriptional regulation. Nucleic Acids Research 53:gkaf065"
  Year: 2025
  Type: 2
