@@ -342,6 +342,20 @@
   - parameter scan
   - BasiCO
 -
+ Reference: "Ningoo M, Fueyo-González F, Gisbert-Vilanova C, Espinar-Barranco L, Marjanovic N, Fribourg M (2025) Interferon-β and interleukin-6 exert opposing effects on Foxp3 acetylation to control regulatory T cell induction. Frontiers in Immunology 16:1593931"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.3389/fimmu.2025.1593931
+ Keywords:
+  - Signaling
+  - Immunology
+ Locations:
+  - Icahn School of Medicine, New York, NY, USA
+ Funding:
+  - NIH
+ Methods:
+  - time course
+-
  Reference: "Pateras J, Zhang C, Majumdar S, Pal A, Ghosh P (2025) Physics-informed machine learning for automatic model reduction in chemical reaction networks. Scientific Reports 15:7980"
  Year: 2025
  Type: 2
