@@ -320,6 +320,7 @@
  URL: https://doi.org/10.1016/j.aquatox.2025.107243
  Keywords:
   - Environmental Sciences
+  - Toxicology
  Locations:
   - Comisión Nacional de Energía Atómica, Av. Bustillo km 9.5, 8400 Bariloche, Argentina
   - Instituto Internacional de Ciencias de la Tierra, Comisión Nacional de Energía Atómica, Avenida Urquiza 314, San Rafael Mendoza 5600, Argentina
@@ -404,6 +405,25 @@
  Funding:
   - Fonds der Chemischen Industrie, Germany
   - DFG
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Park S-G, Lee E, Kim H-Y, Yoon TH (2025) A systems biology approach to understand temporal evolution of silver nanoparticle toxicity. npj Systems Biology and Applications 11:80"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1038/s41540-025-00561-7
+ Keywords:
+  - Toxicology
+  - Signaling
+ Locations:
+  - Department of Chemistry, Hanyang University, Seoul, Republic of Korea
+  - NGeneS Inc., Ansan-si, Republic of Korea
+  - Yoon Idea Lab. Co. Ltd, Seoul, Republic of Korea
+ Funding:
+  - National Research Foundation of Korea
+  - EU Horizon2020
+  - EU Horizon Europe
  Methods:
   - time course
   - parameter estimation
