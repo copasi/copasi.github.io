@@ -369,6 +369,19 @@
  Methods:
   - time course
 -
+ Reference: "Notheis MJ, Schnakenburg G, von Krbek LKS (2025) Light-Driven Ratchet Mechanism Accelerates Regioselective Metal-Cation Exchange in a Heterobimetallic Helicate. Angewandte Chemie 137:e202508952"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1002/ange.202508952
+ Locations:
+  - Kekulé-Institut für Organische Chemie and Biochemie, Rheinische Friedrich-Wilhelms-Universität Bonn, Gerhard-Domagk-Str. 1, 53121 Bonn, Germany
+ Funding:
+  - Fonds der Chemischen Industrie, Germany
+  - DFG
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Pateras J, Zhang C, Majumdar S, Pal A, Ghosh P (2025) Physics-informed machine learning for automatic model reduction in chemical reaction networks. Scientific Reports 15:7980"
  Year: 2025
  Type: 2
