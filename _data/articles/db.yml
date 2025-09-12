@@ -721,6 +721,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Trusova V, Malovytsia U, Kuznietsov P, Yakymenko I, Gorbenko G (2025) Multidimensional in silico evaluation of fluorine-18 radiopharmaceuticals: integrating pharmacokinetics, ADMET, and clustering for diagnostic stratification. Journal of Computer-Aided Molecular Design 39:75"
+ Year: 2025
+ Type: 3
+ URL: https://doi.org/10.1007/s10822-025-00655-8
+ Keywords:
+  - Pharmacology
+  - Experimental Method
+ Locations:
+  - V.N. Karazin Kharkiv National University, 4 Svobody Sq., Kharkiv, 61022, Ukraine
+ Funding:
+  - Ministry of Education and Science of Ukraine
+ Methods:
+  - time course
+-
  Reference: "Tyagi A, Gaur K, Goswami A, Seal A, Joddar M, Jindal G (2025) A combined experimental and computational study reveals a crossover between conventional cross-coupling and carbene insertion pathways in a Pd catalyzed C(sp2)–H insertion. Chemical Science 16:6793–6804"
  Year: 2025
  Type: 2
