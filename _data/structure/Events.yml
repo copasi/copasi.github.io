@@ -1,6 +1,8 @@
 pages:
 - path: Events
   title: "Events"
+- path: Events/COPASI_Developer_Workshop_2025
+  title: "COPASI Developer Workshop 2025"
 - path: Events/COPASI_Developer_Workshop_2024
   title: "COPASI Developer Workshop 2024"
 - path: Events/CCB2023
