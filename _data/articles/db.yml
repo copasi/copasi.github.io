@@ -63,6 +63,23 @@
   - time course
   - BasiCO
 -
+ Reference: "Archinuk F, Greenyer H, Stege U, Bennett SAL, Cuperlovic-Culf M, Jabbari H (2025) Are the tools fit for purpose? Network inference algorithms evaluated on a simulated lipidomics network. Bioinformatics Advances 5:vbaf286"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1093/bioadv/vbaf286
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Biomedical Engineering, University of Alberta, Edmonton, Alberta T6G 1H9, Canada
+  - Department of Computer Science, University of Victoria, Victoria, BC V8P 5C2, Canada
+  - Department of Biochemistry, Microbiology and Immunology, University of Ottawa, Ottawa, ON K1H 8M5, Canada
+  - Digital Technologies Research Center, National Research Council of Canada, Ottawa, ON K1K 4P7, Canada
+ Funding:
+  - NSERC (Canada)
+  - NRC (Canada)
+ Methods:
+  - time course
+-
  Reference: "Bhat GS, Shaik Mohammad AF (2025) Mechanistic Modeling the Role of MicroRNAs and Transcription Factors in Disease Progression. In: Lai X, Gupta S and Vera Gonzalez J (eds) Computational Biology of Non-Coding RNA. Springer US: New York, NY, 195–230."
  Year: 2025
  Type: 3
