@@ -962,6 +962,29 @@
   - time course
   - parameter estimation
 -
+ Reference: "Smith LP, Malik-Sheriff RS, Nguyen TVN, Hermjakob H, Karr J, Shaikh B, Drescher L, Moraru II, Schaff JC, Agmon E, Patrie AA, Blinov ML, Hellerstein JL, May EE, Nickerson DP, Gennari JH, Sauro HM (2025) Verification and reproducible curation of the BioModels repository. PLOS Computational Biology 21:e1013239"
+ Year: 2025
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pcbi.1013239
+ Keywords:
+  - Computational Method
+ Locations:
+  - Department of Bioengineering, University of Washington, Seattle, Washington, USA
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK
+  - Icahn School of Medicine at Mount Sinai, New York, New York, USA
+  - University of Connecticut School of Medicine, Farmington, Connecticut, USA
+  -  Department of Medical Microbiology and Wisconsin Institute of Discovery, University of Wisconsin-Madison, Madison, Wisconsin, USA
+  - Auckland Bioengineering Institute, University of Auckland, Auckland, New Zealand
+ Funding:
+  - NIH
+  - EMBL
+  - Innovative Medicines Initiative 2 Joint Undertaking
+  - EU Horizon2020
+  - European Federation of Pharmaceutical Industries and Associations
+ Methods:
+  - SED-ML
+  - time course
+-
  Reference: "Sneddon DS, Kevorkian PV, Hoye TR (2025) Rapid (≤25 °C) cycloisomerization of anhydride-tethered triynes to benzynes – origin of a remarkable anhydride linker-induced rate enhancement. Chemical Science 16:2898–2906"
  Year: 2025
  Type: 2
