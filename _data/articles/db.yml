@@ -408,6 +408,18 @@
  Methods:
   - time course
 -
+ Reference: "Inoue K (2025) SBDyNetVis: a visualization tool of dynamic network for systems biology model. BioSystems 258:105644"
+ Year: 2025
+ Type: 3
+ URL: https://doi.org/10.1016/j.biosystems.2025.105644
+ Keywords:
+  - Computational Method
+  - Software
+ Locations:
+  - Faculty of Engineering, University of Miyazaki, Miyazaki, Japan
+ Methods:
+  - BasiCO
+-
  Reference: "Itatani M, Holló G, Albanese P, Valletti N, Kurunczi S, Horvath R, Rossi F, Lagzi I (2025) Temporal pH waveforms generated in an enzymatic reaction network in batch and cell-sized microcompartments. Cell Reports Physical Science 6:102367"
  Year: 2025
  Type: 2
