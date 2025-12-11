@@ -301,6 +301,21 @@
  Methods:
   - parameter estimation
 -
+ Reference: "Gyawali S, Mandal A, Dahal M, Awale M, Rijal S, Adhikari S, Ojha V (2025) Integrating Large Language Models For Monte Carlo Simulation of Chemical Reaction Networks. arXiv:2503.21178"
+ Year: 2025
+ Type: 3
+ URL: https://doi.org/10.48550/arXiv.2503.21178
+ Keywords:
+  - Computational Method
+ Locations:
+  - E.K. Solutions Pvt. Ltd. Lalitpur, Nepal
+  - Institut de Física d’Altes Energies (IFAE), Barcelona, Spain
+  - Stevens Institute of Technology, New Jersey, USA
+ Methods:
+  - BasiCO
+  - time course
+  - stochastic simulation
+-
  Reference: "Guo Z, Attar AA, Qiqige Q, Lundgren RJ, Joudan S (2025) Photochemical Formation of Trifluoroacetic Acid: Mechanistic Insights into a Fluoxetine-Related Aryl-CF3 Compound. Environmental Science & Technology 59:1367–1377"
  Year: 2025
  Type: 2
