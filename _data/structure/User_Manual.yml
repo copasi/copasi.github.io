@@ -45,6 +45,10 @@ pages:
   title: "Plots"
 - path: Support/User_Manual/Tasks
   title: "Tasks"
+- path: Support/User_Manual/Tools
+  title: "Tools"
+- path: Support/User_Manual/ProfileLikelihood
+  title: "Profile Likelihood"
 - path: Support/User_Manual/Tasks/Steady-State_Analysis
   title: "Steady-State Analysis"
 - path: Support/User_Manual/Tasks/Stoichiometric_State_Analysis
