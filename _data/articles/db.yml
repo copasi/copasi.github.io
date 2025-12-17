@@ -301,20 +301,20 @@
  Methods:
   - parameter estimation
 -
- Reference: "Gyawali S, Mandal A, Dahal M, Awale M, Rijal S, Adhikari S, Ojha V (2025) Integrating Large Language Models For Monte Carlo Simulation of Chemical Reaction Networks. arXiv:2503.21178"
+ Reference: "Gómez-Mudarra FA, Aullón G, Jover J (2025) Computational Study of a Copper-Catalyzed Synthesis of Fluoroalcohols from Alkylboranes and Ketones. The Journal of Organic Chemistry 90:12591–12601"
  Year: 2025
- Type: 3
- URL: https://doi.org/10.48550/arXiv.2503.21178
+ Type: 2
+ URL: https://doi.org/10.1021/acs.joc.5c01174
  Keywords:
-  - Computational Method
+  - Chemistry
  Locations:
-  - E.K. Solutions Pvt. Ltd. Lalitpur, Nepal
-  - Institut de Física d’Altes Energies (IFAE), Barcelona, Spain
-  - Stevens Institute of Technology, New Jersey, USA
+  - Departament de Química Inorgànica i Orgànica, Universitat de Barcelona, Martí i Franquès 1-11, 08028 Barcelona, Spain
+ Funding:
+  - Generalitat de Catalunya (Spain)
+  - MICINN (Spain)
+  - Spanish Structures of Excellence
  Methods:
-  - BasiCO
   - time course
-  - stochastic simulation
 -
  Reference: "Guo Z, Attar AA, Qiqige Q, Lundgren RJ, Joudan S (2025) Photochemical Formation of Trifluoroacetic Acid: Mechanistic Insights into a Fluoxetine-Related Aryl-CF3 Compound. Environmental Science & Technology 59:1367–1377"
  Year: 2025
@@ -331,6 +331,21 @@
  Methods:
   - time course
   - parameter estimation
+-
+ Reference: "Gyawali S, Mandal A, Dahal M, Awale M, Rijal S, Adhikari S, Ojha V (2025) Integrating Large Language Models For Monte Carlo Simulation of Chemical Reaction Networks. arXiv:2503.21178"
+ Year: 2025
+ Type: 3
+ URL: https://doi.org/10.48550/arXiv.2503.21178
+ Keywords:
+  - Computational Method
+ Locations:
+  - E.K. Solutions Pvt. Ltd. Lalitpur, Nepal
+  - Institut de Física d’Altes Energies (IFAE), Barcelona, Spain
+  - Stevens Institute of Technology, New Jersey, USA
+ Methods:
+  - BasiCO
+  - time course
+  - stochastic simulation
 -
  Reference: "Hamm JN (2025) Nutrient availability affects optimal growth strategy in predatory DPANN. mSystems 10:e01475-25"
  Year: 2025
