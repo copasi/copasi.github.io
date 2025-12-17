@@ -550,6 +550,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Kulasiri D, Ranganathan J (2025) An Investigation of the Role of Clockwork Orange (CWO) in Circadian Rhythms of Drosophila melanogaster: A Mathematical Modeling Study. In: Kulasiri D (ed) Differential Equations - Theory, Modeling, Data Assimilation and Algorithms. IntechOpen."
+ Year: 2025
+ Type: 2
+ URL: https://www.intechopen.com/chapters/1217318
+ Keywords:
+  - Physiology
+  - Biochemistry
+ Locations:
+  - Centre for Advanced Computational Solutions (C-fACS), Lincoln University, Christchurch, New Zealand
+ Methods:
+  - parameter estimation
+  - sensitivity
+  - parameter scan
+-
  Reference: "Kumsuwan S, Tothong C, Limmongkon A, Subsoontorn P (2025) Development and Applications of a Kinetic Model for Resveratrol Production in Escherichia coli Cell Factories. Trends in Sciences 22:9529"
  Year: 2025
  Type: 2
