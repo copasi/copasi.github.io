@@ -13,22 +13,6 @@
  Methods:
   - time course
 -
- Reference: "Rahman E, Michon A, Rao P, Joseph JH, Wu WTL, Webb WR (2025) Beyond Structural Divergence: Multiscale Computational Immunogenicity Modelling of Botulinum Neurotoxin E and Cross-Reactivity in Botulinum Neurotoxin A Primed Hosts. Toxicon 108946"
- Year: 2025
- Type: 2
- URL: https://doi.org/10.1016/j.toxicon.2025.108946
- Keywords:
-  - Toxicology
-  - Immunology
- Locations:
-  - Research and Innovation Hub, Innovation Aesthetics, London, UK
-  - The Ottawa Skin Clinic/Project Skin MD Ottawa, Ottawa, Ontario, Canada
-  - The Skin Address, Aesthetic Dermatology Practice, Bangalore, India
-  - Clinical Testing of Beverly Hills, Beverly Hills, CA, USA
-  - Woffles Wu Aesthetic Surgery and Laser Centre 1, Camden Medical Centre Singapore, Orchard Boulevard Suite 09-02, Singapore
- Methods:
-  - time course
--
  Reference: "Abdullayev O, Garay-Ruiz D, Bori-Bru B, Bo C (2025) Microkinetic Assessment of Ligand-Exchanging Catalytic Cycles. ACS Catalysis 15:4739–4745"
  Year: 2025
  Type: 2
@@ -794,6 +778,22 @@
  Methods:
   - time course
   - parameter estimation
+-
+ Reference: "Rahman E, Michon A, Rao P, Joseph JH, Wu WTL, Webb WR (2025) Beyond Structural Divergence: Multiscale Computational Immunogenicity Modelling of Botulinum Neurotoxin E and Cross-Reactivity in Botulinum Neurotoxin A Primed Hosts. Toxicon 108946"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1016/j.toxicon.2025.108946
+ Keywords:
+  - Toxicology
+  - Immunology
+ Locations:
+  - Research and Innovation Hub, Innovation Aesthetics, London, UK
+  - The Ottawa Skin Clinic/Project Skin MD Ottawa, Ottawa, Ontario, Canada
+  - The Skin Address, Aesthetic Dermatology Practice, Bangalore, India
+  - Clinical Testing of Beverly Hills, Beverly Hills, CA, USA
+  - Woffles Wu Aesthetic Surgery and Laser Centre 1, Camden Medical Centre Singapore, Orchard Boulevard Suite 09-02, Singapore
+ Methods:
+  - time course
 -
  Reference: "Redfern-Nichols T, O’Brien SL, Huang X, Medel-Lacruz B, Calebiro D, Selent J, Ladds G, Marti-Solano M (2025) Loss-of-function Gαs rare disease variants exert mutation-specific effects on GPCR signaling. Science Signaling 18:eado7543"
  Year: 2025
