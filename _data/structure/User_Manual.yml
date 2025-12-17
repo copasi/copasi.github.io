@@ -45,10 +45,6 @@ pages:
   title: "Plots"
 - path: Support/User_Manual/Tasks
   title: "Tasks"
-- path: Support/User_Manual/Tools
-  title: "Tools"
-- path: Support/User_Manual/ProfileLikelihood
-  title: "Profile Likelihood"
 - path: Support/User_Manual/Tasks/Steady-State_Analysis
   title: "Steady-State Analysis"
 - path: Support/User_Manual/Tasks/Stoichiometric_State_Analysis
@@ -83,6 +79,10 @@ pages:
   title: "Sensitivity Analysis"
 - path: Support/User_Manual/Tasks/Linear_Noise_Approximation
   title: "Linear Noise Approximation"
+- path: Support/User_Manual/Tools
+  title: "Tools"
+- path: Support/User_Manual/Tools/ProfileLikelihood
+  title: "Profile Likelihood"
 - path: Support/User_Manual/Importing_and_Exporting
   title: "Importing and Exporting"
 - path: Support/User_Manual/Importing_and_Exporting/Importing_and_Exporting_SBML_Files
