@@ -640,6 +640,32 @@
   - parameter scan
   - BasiCO
 -
+ Reference: "Nicholas JD, Del Grosso E, deMello AJ, Puigmartí-Luis J, Ricci F, Sorrenti A (2025) Sustained, Reversible, and Adaptive Non-Equilibrium Steady States of a Dissipative DNA-Based System. Angewandte Chemie International Edition 64:e202512967"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1002/anie.202512967
+ Keywords:
+  - Chemistry
+  - Biochemistry
+ Locations:
+  - Departament de Ciència de Materials i Química Física, Universitat de Barcelona, C/ Martí i Franquès, 1–11, Barcelona 08028, Spain
+  - Institució Catalana de Recerca i Estudis Avançats (ICREA), Pg. Lluís Companys 23, Barcelona 08010, Spain
+  - Department of Chemical Sciences and Technologies, University of Rome Tor Vergata, Via della Ricerca Scientifica, Rome 00133, Italy
+  - Department of Chemistry and Applied Biosciences, Institute of Chemical and Bioengineering, ETH Zurich, Vladimir-Prelog-Weg 1, Zürich 8093, Switzerland
+ Funding:
+  - Ministerio de Ciencia, Innovación y Universidades, Spain
+  - Generalitat de Catalunya (Spain)
+  - Swiss National Science Foundation
+  - EU NextGenerationEU
+  - EU ERC
+  - Italian Ministry of University and Research
+ Methods:
+  - time course
+  - parameter estimation
+  - events
+  - variable volume
+  - sensitivity
+-
  Reference: "Ningoo M, Fueyo-González F, Gisbert-Vilanova C, Espinar-Barranco L, Marjanovic N, Fribourg M (2025) Interferon-β and interleukin-6 exert opposing effects on Foxp3 acetylation to control regulatory T cell induction. Frontiers in Immunology 16:1593931"
  Year: 2025
  Type: 2
