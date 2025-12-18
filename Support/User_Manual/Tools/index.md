@@ -23,9 +23,12 @@ This page contains an overview over some of them. Additional tools are described
 
 <div class="row">
   <div class="col-xs-12">
-{% include toc.html %}
-<br />
-<br />
+
+    {% include toc.html %}
+
+    <br />
+    <br />
+
   </div>
 </div>
 
