@@ -372,7 +372,7 @@
   - Microbiology
   - Environmental Sciences
  Locations:
-  - Department of Marine Microbiology and Biogeochemistry, Royal Netherlands Institute for Sea Research, Den Burg, the Netherlands
+  - Department of Marine Microbiology and Biogeochemistry, Royal Netherlands Institute for Sea Research, Den Burg, Netherlands
  Funding:
   - Netherlands Organisation for Scientific Research
  Methods:
@@ -619,6 +619,20 @@
  Locations:
   - Department of Physical Chemistry of Fossil Fuels, Institute of Physical-Organic Chemistry, National Academy of Sciences of Ukraine, Lviv, Ukraine
   - Lviv Polytechnic National University, Ministry of Education and Science, Lviv, Ukraine
+ Methods:
+  - time course
+  - parameter estimation
+-
+ Reference: "Le Cacheux M, Oddone LE, Runikhina SA, Kootstra J, Milias-Argeitis A, Harutyunyan SR (2025) Experimentally Guided Iterative Parameter Estimation for Predictive Chemical Oscillator Models. Angewandte Chemie International Edition 64:e202511413"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1002/anie.202511413
+ Keywords:
+  - Chemistry
+ Locations:
+  - Stratingh Institute for Chemistry, University of Groningen, Nijenborgh 3, 9747 AG Groningen, Netherlands
+ Funding:
+  - Netherlands Organization for Scientific Research
  Methods:
   - time course
   - parameter estimation
