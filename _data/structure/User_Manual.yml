@@ -83,6 +83,8 @@ pages:
   title: "Tools"
 - path: Support/User_Manual/Tools/ProfileLikelihood
   title: "Profile Likelihood"
+- path: Support/User_Manual/Tools/ExternalTools
+  title: "External Tools"
 - path: Support/User_Manual/Importing_and_Exporting
   title: "Importing and Exporting"
 - path: Support/User_Manual/Importing_and_Exporting/Importing_and_Exporting_SBML_Files
