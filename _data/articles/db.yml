@@ -702,6 +702,21 @@ Kiel, Germany
   - parameter scan
   - BasiCO
 -
+ Reference: "Merulla AE, Di Salvatore V, Gullotta GS, Maleki A, Russo G, Caraci F, Copani A, Pappalardo F (2025) Computational modeling of ATM signaling: a predictive framework for drug repurposing in ataxia-telangiectasia. npj Systems Biology and Applications. 11:146"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1038/s41540-025-00629-4
+ Keywords:
+  - Signaling
+ Locations:
+  - Department of Drug and Health Sciences, University of Catania, Catania, Italy
+  - Oasi Research Institute-IRCCS, Unit of Bioinformatics and Statistics, Troina, Italy.
+ Funding:
+  - Italian Ministry of Health
+ Methods:
+  - time course
+  - sensitivities
+-
  Reference: "Nicholas JD, Del Grosso E, deMello AJ, Puigmartí-Luis J, Ricci F, Sorrenti A (2025) Sustained, Reversible, and Adaptive Non-Equilibrium Steady States of a Dissipative DNA-Based System. Angewandte Chemie International Edition 64:e202512967"
  Year: 2025
  Type: 2
