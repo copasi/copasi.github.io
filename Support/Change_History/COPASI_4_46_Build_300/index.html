@@ -1,0 +1,85 @@
+---
+layout: structure
+title: "COPASI 4.46 Build 300"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.45.300</h3>
+    Release Date: January 23, 2026<br />
+
+    <h4>New Features since COPASI 4.45 (Build 298)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Parameter Estimation: Start in Steady State can now be selected per experiment.. 
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+    <h4>Bug Fixes and Enhancements since COPASI 4.45 (Build 298)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Parameter Overview: Fixed crash occurring when changing local reaction parameters. 
+          </li>
+          <li>
+            Optimization and Parameter Estimation: Fixed editing Display Population checkbox.
+          </li>
+          <li>
+            Global Quantity: Fixed potential crash when copying of a global quantity with an assignment containing a piece wise expression.
+          </li>
+          <li>
+            Load Parameter Sets: Fixed crash when loading additional parameter sets stored in a separate file.
+          </li>
+          <li>
+            Reactions: Fixed mapping of 2 substrate kinetics for reactions of the form 2 * Y -> ... 
+          </li>
+          <li>
+            Functions: Fixed copying of functions containing notes.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Time Course: Fixed problem with event triggers evaluating to NaN.
+          </li>
+          <li>
+            Time Course: Improved root finding to determine event firing.
+          </li>
+          <li>
+            Time Course: Fixed initial event detection if the Start in Steady State is selected.
+          </li>
+          <li>
+            Time Course: Fixed detection of non integer stoichiometry for stochastic or hybrid algorithms.
+          </li>
+          <li>
+            Optimization and Parameter Estimation: Reaction parameters mapped to global quantities were not correctly loaded.
+          </li>
+          <li>
+            Scan: Fixed behavior of Continue from Current State.
+          </li>
+          <li>
+            JIT Compilation: Fixed crash occurring occasionally on Windows.
+          </li>
+        </ul>
+      </li>
+      <li>
+      </li> Standards
+        <ul>
+          <li>
+            COMBINE Archive: Fixed naming of experiment data files for Parameter Estimation.
+          </li>
+          <li>
+            SBML: Assure that the selected render information is exported.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
