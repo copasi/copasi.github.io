@@ -89,6 +89,10 @@ pages:
   title: "Importing and Exporting"
 - path: Support/User_Manual/Importing_and_Exporting/Importing_and_Exporting_SBML_Files
   title: "Importing and Exporting SBML Files"
+- path: Support/User_Manual/Importing_and_Exporting/Importing_and_Exporting_SEDML_Files
+  title: "Importing and Exporting SED-ML files"
+- path: Support/User_Manual/Importing_and_Exporting/Importing_and_Exporting_COMBINE_Archives
+  title: "Importing and Exporting COMBINE archives"
 - path: Support/User_Manual/Importing_and_Exporting/Exporting_C_Source_Files
   title: "Exporting C Source Files"
 - path: Support/User_Manual/Importing_and_Exporting/Exporting_Berkeley_Madonna_Files
