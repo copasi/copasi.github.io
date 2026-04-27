@@ -221,6 +221,19 @@
   - time course
   - BasiCO
 -
+ Reference: "Alcalá Orozco EA (2025) Bioprocess intensification of cell-free enzymatic cascades for the synthesis of CDP-glycerol, CMP-Neu5AC, GDP-fucose and LNFP III. Ph. D. Thesis, Otto-von-Guericke Universität Magdeburg, Germany."
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.25673/122503
+ Keywords:
+  - Biochemistry
+  - Biotechnology
+ Locations:
+  - Otto-von-Guericke Universität Magdeburg, Magdeburg, Germany
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Archinuk F, Greenyer H, Stege U, Bennett SAL, Cuperlovic-Culf M, Jabbari H (2025) Are the tools fit for purpose? Network inference algorithms evaluated on a simulated lipidomics network. Bioinformatics Advances 5:vbaf286"
  Year: 2025
  Type: 2
