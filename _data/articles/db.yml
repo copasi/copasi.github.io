@@ -44,6 +44,19 @@
  Methods:
   - time course
 -
+ Reference: "Kuroki R, Mansouri A, Schwaller P (2026) Time-Series as Feedback: Evaluating Adaptive Reasoning in LLM Agents. paper presented at the 1st ICLR Workshop on Time Series in the Age of Large Models."
+ Year: 2026
+ Type: 3
+ URL: https://openreview.net/forum?id=N3vDM8CafN
+ Keywords:
+  - Computational Method
+ Locations:
+  - EPFL, Lausanne, Switzerland
+  - Asahi Kasei Corporation, Tokyo, Japan
+ Methods:
+  - time course
+  - BasiCO
+-
  Reference: "Marín-García M, Gonzalez-Olmos R, Gómez-Canela C (2026) Direct UV photolysis of cloperastine in aqueous solution: Kinetic model and degradation pathway. Journal of Environmental Sciences 159:670–682"
  Year: 2026
  Type: 2
