@@ -1,4 +1,21 @@
 -
+ Reference: "Delpierre P, Lefranc M (2026) A minimal activator-inhibitor-repressor model of the hepatic circadian clock. Biophysical Journal 125:1194–1206"
+ Year: 2026
+ Type: 2
+ URL: https://doi.org/10.1016/j.bpj.2026.01.024
+ Keywords:
+  - Signaling
+  - Cell Biology
+ Locations:
+  - Université de Lille, CNRS, UMR 8523 - PhLAM - Physique des Lasers, Atomes et Molécules, Villeneuve d’Ascq, France
+ Funding:
+  - French National Research Agency (ANR)
+ Methods:
+  - time course
+  - parameter estimation
+  - sensitivities
+  - BasiCO
+-
  Reference: "Green N, Beahm D, Cressman A, Denbeaux J, Tavakolian S, Sarpeshkar R (2026) Simulation of reaction-diffusion equations with reaction-reaction analog circuits. Biophysical Journal 125:832–855"
  Year: 2026
  Type: 3
