@@ -107,6 +107,7 @@ model. If no global quantities exist, the dropdown will only contain
 this reaction. If "unknown" is selected, and you leave the dialog, COPASI will 
 automatically revert the parameter to "local."
 
+### Chemical equations
 Chemical equations in COPASI follow a simple schema. First, list all substrates, 
 separated by a "+" (plus) character, with at least one space before and after 
 each "+". If you do not include spaces, COPASI will interpret the "+" as part of 
