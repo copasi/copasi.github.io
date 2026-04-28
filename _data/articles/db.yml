@@ -18,6 +18,23 @@
   - Science Committee of the Ministry of Science and Higher Education of the Republic of Kazakhstan
   - Russian Science Foundation
 -
+ Reference: "Cagan DA, Péter Á, Vokits BP, Chan M, Baran PS, Blackmond DG (2026) Decoding the Nested, Multicycle Mechanism of Ni-Catalyzed Redox-Neutral Cross-Coupling through Temperature Scanning Reaction Calorimetry. Journal of the American Chemical Society 148:677–691"
+ Year: 2026
+ Type: 2
+ URL: https://doi.org/10.1021/jacs.5c15506
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Scripps Research, La Jolla, California 92037, USA
+  - Bristol Myers Squibb, Princeton, New Jersey 08543, USA
+ Funding:
+  - NIH
+  - NSF
+  - EU Horizon Europe
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Carlson SR, Nolen BJ (2026) Direct Actin Monomer Delivery is a WASP-specific Requirement for Arp2/3 Complex Activation. Journal of Molecular Biology 438:169662"
  Year: 2026
  Type: 2
@@ -927,6 +944,24 @@
   - Natural Science Foundation of Wuhan
  Methods:
   - time course
+-
+ Reference: "Lopes F, Pires BRB, Lima AAB, Binato R, Abdelhay E (2025) NF-κB epigenetic attractor landscape drives breast cancer heterogeneity. npj Systems Biology and Applications 11:135"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1038/s41540-025-00611-0
+ Keywords:
+  - Signaling
+  - Genetics
+ Locations:
+  - Universidade Federal do Rio de Janeiro, Campus Duque de Caxias Professor Geraldo Cidade, Duque de Caxias, Brazil
+  - Institute for Quantitative and Computational Biosciences (QCBio), University of California Los Angeles, Los Angeles, CA, USA
+  - Departamento de Biofísica e Biometria (DBB), Universidade Estadual do Rio de Janeiro (UERJ), Rio de Janeiro, Brazil.
+  - Stem Cell Laboratory, Instituto Nacional de Câncer, Rio de Janeiro, Brazil
+ Funding:
+  - Brazilian Council for Scientific and Technological Development
+ Methods:
+  - time course
+  - stochastic simulation
 -
  Reference: "Masison J, Mendes P (2025) Mathematical modeling reveals ferritin as the strongest cellular driver of dietary iron transfer block in enterocytes. PLOS Computational Biology 21:e1012374"
  Year: 2025
