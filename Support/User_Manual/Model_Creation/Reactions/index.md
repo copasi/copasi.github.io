@@ -29,10 +29,10 @@ The the flux is computed automatically when you
 {{ site.baseurl }}/Support/User_Manual/Tasks/Time_Course_Simulation/).
 
 The simplest way to add a reaction is to enter the chemical equation directly
-into an empty "Equation" cell in the table. Pressing the return key after
-typing the equation moves the cursor to the next row, allowing you to quickly
-add multiple reactions. When you are done entering equations, you "commit" all
-the reactions at once.
+into an empty "Equation" cell in the table. For the syntax see [Chemical Equations](#chemical-equations) 
+below. Pressing the return key after typing the equation moves the cursor to 
+the next row, allowing you to quickly add multiple reactions. When you are done 
+entering equations, you "commit" all the reactions at once.
 
 If any of the reaction equations include species that do not yet exist in the
 model, COPASI will add these species automatically. If there is no compartment
