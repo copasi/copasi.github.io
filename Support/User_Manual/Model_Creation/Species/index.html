@@ -7,6 +7,13 @@ structure: "User_Manual"
 <div class="row">
   <div class="col-xs-12">
 
+    <p>
+      A species in COPASI represents a chemical entity in the model, such as a molecule, ion or any compound.
+      More generally, it can be seen as a pool of chemical entities that are indistinguishable in the context 
+      of the model. In mathematical terms, it represents a variable whose value can change over time. A species 
+      is located in a compartment and can be modified by reactions.      
+    </p>
+
     Adding new species works exactly the same as adding new compartment, so we strongly suggest reading the section if
     you haven't already done so. Here we will just cover the differences between adding a compartment and adding a
     species.<br />
@@ -66,9 +73,10 @@ structure: "User_Manual"
     <br />
     If you change back to initial concentration, COPASI will internally recalculate the initial particle number. In some
     situations COPASI will prevent the user from changing the initial concentration. This is done when changing the
-    concentration would lead to circular dependencies during the calculation of all initial values. The cause for this
-    is most likely an assignment rule for the containing compartment. In such a case it is still possible to change the
-    initial particle number.<br />
+    concentration would lead to circular dependencies (which would mean that the value cannot be calculated as the 
+    value would depend on itself) during the calculation of all initial values. This could happen, when an assignment 
+    rule for the containing compartment is defined. In such a case it is still possible to change the initial particle 
+    number.<br />
     <br />
     Normally the concentration of a species is determined by its initial concentration and by the reaction kinetics of
     the reactions it participates in either as a substrate or a product. The reactions are listed at the bottom of the
@@ -145,7 +153,7 @@ structure: "User_Manual"
     <br />
     Not only the transient concentration of a species can be specified as a mathematical expression, but also the
     initial concentration of the compartment. If you want to specify such a mathematical expression for the initial
-    concentration of a species, check the check box called Use Initial Expression.<br />
+    concentration of a species, check the check box called `Initial Expression`.<br />
     <br />
     An initial expression can be specified unless the Simulation Type drop down list is set to <i>assignment</i>. Since
     the given assignment automatically acts as an initial assignment, there is no need to specify an additional initial
