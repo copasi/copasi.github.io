@@ -4,12 +4,18 @@ title: "Reactions"
 structure: "User_Manual"
 ---
 
+A reaction in COPASI represents a chemical reaction in the model. It consists of substrates, products and optionally
+modifiers. The substrates are **consumed** by the reaction, the products are **produced** by the reaction and modifiers influence 
+the reaction but are neither **consumed** nor **produced** by it. A reaction has a kinetic rate law which defines how fast
+the reaction proceeds. 
+
+
 <div class="row">
   <div class="col-xs-12">
 
     Again adding reactions essentially works the same way as adding compartments or species. When you navigate to the
     Reactions branch of the object tree which is located under the Model-&gt;Biochemical branch, you will see a table
-    with five columns. The first two are Status and Name of the reaction. The third column called Equation describes the
+    with six columns. The first two are Status and Name of the reaction. The third column called Equation describes the
     chemical formula and maybe additional modifiers of the reaction. The fourth column states the name of the kinetics
     for the reaction which depends on the equation. We will come to this in a second. The last column shows the flux
     through this reaction. The flux can not be set by the user but is calculated automatically when you <a
