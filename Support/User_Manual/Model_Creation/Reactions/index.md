@@ -59,12 +59,13 @@ object tree.
       <td class="mini">Reaction&nbsp;Table&nbsp;with&nbsp;new&nbsp;Entry</td>
     </tr>
   </table>
-</div><br />
-<br />
+</div>
+
 Each new reaction gets a default kinetic rate law which is irreversible mass action for reactions that contain a
 substrate. For reaction that only have a product (e.g. influx into a system) a constant flux kinetic is
-chosen (or `Mass action (reversible)` in case of a reversible reaction).<br />
-<br />
+chosen (or `Mass action (reversible)` in case of a reversible reaction).
+
+
 <div class="img" align="center">
   <table cellpadding="0" cellspacing="0">
     <tr>
@@ -74,56 +75,57 @@ chosen (or `Mass action (reversible)` in case of a reversible reaction).<br />
       <td class="mini">Dialog&nbsp;for&nbsp;changing&nbsp;Reaction&nbsp;Parameters</td>
     </tr>
   </table>
-</div><br />
-<br />
-Double clicking on an entry in the table will bring you to another dialog that lets you change certain parameters of
-the reaction. You can change the name of the reaction, the chemical equation and whether the reaction is reversible
-or not. Changing the chemical equation and the reversibility of a reaction influences the type of kinetics you can
-choose for the reaction. Each kinetic function defines how many substrates, products and modifiers it expects.
-Additionally it defines whether it can be used for reversible or irreversible reactions only or if it can be used on
-either. So depending on how many substrates, products and modifiers your kinetic equation has and whether it is
-reversible or not, only a subset of the defined kinetic functions will be available in the Rate Law combo box. If
-the kinetic function you want to assign to the reaction is not available yet, you can add it by clicking on the New
-Rate Law button (see also <a title="COPASI: Support/User Manual/Model Creation/User Defined Functions"
-  href="{{ site.baseurl }}/Support/User_Manual/Model_Creation/User_Defined_Functions/">User Defined Functions</a>).
-Depending on the kinetic function you chose, you get a selection of parameters in the table named Symbol Definition,
-all functions parameters get a default value of 0.1 which can be changed by clicking into the corresponding cell and
-typing a new value.<br />
-<br />
-Per default all parameters to a kinetic function are local parameters and they exist only in the scope of the rate
-law of one reaction. Sometimes it is of advantage to use the same parameter in the rate laws for several reactions.
-This way if you want to change to value of this parameter, you only have to change it in once instead of having to
-change it in every reaction it occurs in individually. Parameters that can be used in more than one reaction are
-called global quantities in COPASI. How you add a global quantity to your model is described in the section called
-<a title="COPASI: Support/User Manual/Model Creation/Global Quantities"
-  href="{{ site.baseurl }}/Support/User_Manual/Model_Creation/Global_Quantities/">Global Quantities</a>. Let us for
-the moment assume you already added such a global quantity to your model and now want to use it in a rate law. Each
-parameter in the Symbol Definition table has a check box labeled global. When you check this box, COPASI knows that
-the parameter that belongs to it is a global quantity and lets you select one from a list of global quantities that
-have been defined in the model. If none have been defined yet, the list contains only an entry termed unknown. In
-this case, you will have to define one or more global quantities first and then come back to the reaction where you
-want to use it. If the name of the global quantity is set to the <i>unknown</i> term, COPASI will reset the type of
-parameter to local if you leave the reaction widget.<br />
-<br />
-So far we did not go into the details of how chemical equations are to be specified. Chemical equations have a
-simple schema. First you state all the substrates separated by &quot;+&quot; characters. Please make sure that you
-separate the name of the substrate and the &quot;+&quot; character by at least one space character, otherwise COPASI
-will interpret the &quot;+&quot; sign as belonging to the species name. (Having the &quot;+&quot; character as part
-of a species name is allowed in COPASI !) after the list of substrates, you specify either an equals (&quot;=&quot;)
-character if the reaction is reversible or the character combination &quot;-&gt;&quot; if the reaction is
-irreversible. This is followed by the list of products which must also be separated by the &quot;+&quot; character.
-Again make sure you have spaces around the separating &quot;+&quot; characters. Optionally this term can be followed
-by a semicolon and a list of modifiers which are separated by spaces. Either the list of substrates or the list of
-products may also be empty, but at least one of them must be present. Lets look at two examples:<br />
-<ol>
-  <li> Species A is irreversibly converted into Species B. The chemical equation you would type is &quot;A -&gt;
-    B&quot;.
-  </li>
-  <li> Species A and B are reversibly converted to Species C, the reaction has 2 modifiers C and D. The chemical
-    equation for this in COPASI would be: &quot;A + B = C; C D&quot;Note that one of the modifiers is the product!
-  </li>
-</ol>
-<br />
+</div><
+
+Double-clicking on a reaction entry in the table opens a dialog where you can 
+edit various parameters for the reaction. Here, you can change the reaction's 
+name, its chemical equation, and whether or not the reaction is reversible. 
+Altering either the chemical equation or the reversibility affects the list of 
+kinetic rate laws available to be assigned to the reaction. Each kinetic rate 
+law specifies the number of substrates, products, and modifiers it requires, and 
+whether it is suitable only for reversible or irreversible reactions, or both. 
+As a result, only the compatible kinetic functions are shown in the Rate Law 
+dropdown based on your current equation setup. If the kinetic function you want 
+does not exist yet, you can add it with the "New Rate Law" button (see also 
+[User Defined Functions]({{ site.baseurl }}/Support/User_Manual/Model_Creation/User_Defined_Functions/)). 
+Selecting a kinetic function displays its parameters in the "Symbol Definition" 
+table—each of these parameters is initialized to a default value of 0.1, which 
+you can change by clicking on the cell and entering a new value.
+
+By default, all kinetic function parameters are local; they only apply to the 
+rate law in the selected reaction. In some cases, it may be beneficial to use 
+the same parameter across several reactions. This approach allows you to change 
+the parameter value in a single place, instead of updating it individually in 
+each reaction. Parameters that can be used in multiple reactions are called 
+*global quantities* in COPASI. For details on creating global quantities, see 
+the [Global Quantities]({{ site.baseurl }}/Support/User_Manual/Model_Creation/Global_Quantities/) 
+section. Suppose you have already defined a global quantity; to use it in a 
+rate law, check the "global" box for the parameter in the Symbol Definition 
+table. COPASI will then let you choose from any global quantities defined in the 
+model. If no global quantities exist, the dropdown will only contain 
+"unknown"—you will first need to define a global quantity and then return to 
+this reaction. If "unknown" is selected, and you leave the dialog, COPASI will 
+automatically revert the parameter to "local."
+
+Chemical equations in COPASI follow a simple schema. First, list all substrates, 
+separated by a "+" (plus) character, with at least one space before and after 
+each "+". If you do not include spaces, COPASI will interpret the "+" as part of 
+the species name (which is allowed). After specifying the substrates, indicate 
+whether the reaction is reversible or irreversible by typing either an equals 
+sign ("=") for reversible, or the character sequence "->" for irreversible. 
+After this, list the products, again separated by " + " with spaces. Optionally, 
+you may add a semicolon (;) followed by one or more modifiers, separated by 
+spaces. You may omit either the substrate list or the product list, but at 
+least one must be present.
+
+For example:  
+1. *Species A is irreversibly converted to Species B:*  
+   Chemical equation: `A -> B`  
+2. *Species A and B are reversibly converted to Species C, with modifiers C and 
+   D (note that one modifier also appears as a product):*  
+   Chemical equation: `A + B = C; C D`
+
+
 <div class="alert alert-warning" role="alert"><span class="glyphicon glyphicon-exclamation-sign"
     aria-hidden="true"></span><span class="sr-only">Warning:</span> If the reaction takes place in one compartment,
   the reaction kinetic specifies a rate of concentration change, whereas if the reaction takes place in several
@@ -131,6 +133,6 @@ products may also be empty, but at least one of them must be present. Lets look 
   <br />
   E.g. in the reaction A -&gt; B, if A and B are in the same compartment, the kinetic function for the reaction
   returns its result in mol/(l*s). If A and B reside in different compartments, the result is returned in mol/s.
-  (This assumes that your default units are set to mol, l and s.)</div><br />
-<br />
+  (This assumes that your default units are set to mol, l and s.)
+</div>
   
