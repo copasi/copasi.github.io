@@ -63,6 +63,21 @@
  Methods:
   - time course
 -
+ Reference: "Huang Y, Zhou Y, Wang Y, Wang M, Zhao H (2026) Environment-Responsive Self-Assembly and Coupled-Network Effect in Dynamic Replicating Nucleopeptide Networks. Angewandte Chemie International Edition 65:e18297"
+ Year: 2026
+ Type: 2
+ URL: https://doi.org/10.1002/anie.202518297
+ Keywords:
+  - Biochemistry
+  - Synthetic Biology
+ Locations:
+  - School of Chemical Engineering, Sichuan University, Chengdu 610065, China
+ Funding:
+  - Natural Science Foundation of China
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Kuroki R, Mansouri A, Schwaller P (2026) Time-Series as Feedback: Evaluating Adaptive Reasoning in LLM Agents. paper presented at the 1st ICLR Workshop on Time Series in the Age of Large Models."
  Year: 2026
  Type: 3
