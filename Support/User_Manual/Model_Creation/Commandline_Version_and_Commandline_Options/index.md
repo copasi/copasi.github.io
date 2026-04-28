@@ -4,20 +4,34 @@ title: "Commandline Version and Commandline Options"
 structure: "User_Manual"
 ---
 
+COPASI comes in two versions: CopasiUI, which features a GUI for interactive
+work, and CopasiSE, which lacks a GUI and is meant for batch processing of
+model files. Both versions support the same set of command-line arguments,
+though some options do not apply to the GUI version and will be ignored.
+
+In addition to command-line options, you can specify one or more model files 
+after the options. These files will be processed in turn. Specifying more 
+than one file is meaningful only for the command-line version of COPASI. 
+For each file, the activated tasks will be executed. If more than one file 
+is specified, the options for importing, exporting, and the --save switch 
+are ignored. Since the GUI version of COPASI can only handle one file at a 
+time, it is recommended to specify only a single file when using the GUI.
+
+THe following model file formats are supported: 
+
+* COPASI-ML: COPASI's native format
+* [Gepasi](http://gepasi.org/){:target="\_blank"} files
+* [SBML](https://sbml.org){:target="\_blank"} files
+* [SED-ML](https://sed-ml.org/){:target="\_blank"} files
+* [COMBINE](https://github.com/combine-org/combine-specifications/blob/main/specifications/omex.md){:target="\_blank"} 
+  archives containing any of the above.
+
+See below for some specific [examples](#examples).
+
+
 <div class="row">
   <div class="col-xs-12">
 
-    COPASI comes in two versions. One (CopasiUI) with a GUI for interactive work and one (CopasiSE) without a GUI for
-    batch processing of model files. Both versions support the same set of commandline arguments, although some do not
-    make sense for the GUI version and will be ignored.<br />
-    <br />
-    In addition to the commandline options, you can specify one or more COPASI (or Gepasi) files after the commandline
-    options which will then be processed. Specifying more than one file again only makes sense for the commandline
-    version of COPASI. For each of the files, the activated tasks will be run. The commandline options for importing and
-    exporting SBML as well as the --save option are ignored if more than one file is specified. Since the GUI version of
-    COPASI can only handle one file at a time, it only makes sense to specify one file after the commandline
-    options.<br />
-    <br />
     <table class="table table-striped table-hover" style="caption-side: top;">
       <caption>Commandline Options</caption>
       <thead>
@@ -204,47 +218,52 @@ structure: "User_Manual"
     </tbody>
     </table>
     <br />
+
   </div>
 </div>
 
 <div markdown="1">
 
 ## Examples
+
 The following example assumes that, you have marked a task as
-`executable`, and selected `update model`. Now running the model 
-using: 
+`executable`, and selected `update model`. Now running the model
+using:
 
 ```bash
-./CopasiSE input_file.cps -s output_file.cps 
+./CopasiSE input_file.cps -s output_file.cps
 ```
 
-will run that scheduled task on the `input_file.cps`. Saving the result 
+will run that scheduled task on the `input_file.cps`. Saving the result
 of the computation as `output_file.cps`. If a report was selected, that report will be writen into the designated file. Or you could specify an
-alternative report filename: 
+alternative report filename:
 
 ```bash
 ./CopasiSE input_file.cps -s output_file.cps --report-file report.txt
 ```
+
 now the report will be written into `report.txt`.
 
 ## Importing SED-ML
+
 When importing SED-ML documents (or combine archives, containing a SED-ML document)
 it is useful to specify which SED-ML Task should be executed. For that the option
-`--printSedMLTasks` can be used to obtain a list of SED-ML tasks contained in the 
+`--printSedMLTasks` can be used to obtain a list of SED-ML tasks contained in the
 loaded file:
 
-```bash 
+```bash
 ./CopasiSE input.omex --printSedMLTasks
 ```
-using any of the returned ids, it the corresponding SED-ML task and its first report 
-will be imported and marked to be executed. In order to specify where the report should 
-be saved, the `--report-file` option should be used: 
+
+using any of the returned ids, it the corresponding SED-ML task and its first report
+will be imported and marked to be executed. In order to specify where the report should
+be saved, the `--report-file` option should be used:
 
 ```bash
 ./CopasiSE input.omex --sedmlTask repTsk_0_0_0 --report-file report.txt
 ```
 
-the `--verbose` option can be used to verify the which task, model and report will be 
+the `--verbose` option can be used to verify the which task, model and report will be
 generated.
 
 </div>
