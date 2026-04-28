@@ -454,26 +454,31 @@ Piecewise defined functions are constructed with the IF statement.<br />
     <td>if statement for the construction of piecewise defined functions etc.</td>
   </tr>
 </tbody>
-</table><br />
-<br />
-The functions name can be written with either all lowercase letters or all letters uppercase. Mixing of upper and
-lowercase letters is not allowed and will lead to errors. This function takes 3 arguments separated by a
-comma:<br />
-<ol>
-  <li> Boolean expression
-  </li>
-  <li> Expression evaluated if the first argument evaluates to <i>true</i>.
-  </li>
-  <li> Expression evaluated if the first argument evaluates to <i>false</i>.
-  </li>
-</ol>
-So in order to make this a little more clear, we will look at how one would implement the Heaviside step function in
-COPASI:<br />
-<br />
-<tt>
-  <div align="center">if(x lt 0.0, 0.0, if(x gt 0.0, 1.0, 0.5))</div>
-</tt><br />
-<br />
+</table>
+
+
+The function name for the `if` statement must be written **entirely in lowercase 
+(`if`) or entirely in uppercase (`IF`)**. Mixing uppercase and lowercase letters in 
+the name (e.g., "If" or "iF") is not allowed and will result in an error.
+
+The `if` function takes three arguments, separated by commas:
+
+1. **Boolean expression** &mdash; this condition is evaluated first.
+2. **Expression if `true`** &mdash; used if the Boolean expression is `true`.
+3. **Expression if `false`** &mdash; used if the Boolean expression is `false`.
+
+To clarify its usage, here's an example showing how to define the Heaviside step 
+function in COPASI:
+
+```plaintext
+if(x lt 0.0, 0.0, if(x gt 0.0, 1.0, 0.5))
+```
+
+In this example, the result is:
+- `0.0` if `x < 0.0`,
+- `1.0` if `x > 0.0`, and
+- `0.5` if `x == 0.0`.
+
 <h3 name="Parenthesis">Parenthesis</h3>
 <table class="table table-striped table-hover" style="caption-side: top;">
   <caption>Parenthesis</caption>
