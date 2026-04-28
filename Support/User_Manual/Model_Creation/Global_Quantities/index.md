@@ -62,10 +62,8 @@ information correlated with the chosen global quantity will be displayed.
 </div>
 
 
-Just as compartments and species, global quantities do not have to be a constant but can be reassigned during e.g. a
-time course simulation depending the values of one or more model entities. In order to specify whether a parameter
-has a constant value or the value is calculated on the fly according to a mathematical expression, the drop down
-list called Simulation Type should be used.
+In order to specify whether a parameter has a constant value or the value is calculated on the fly 
+according to a mathematical expression, the drop down list called Simulation Type should be used.
 
 The drop down list contains three following entries:
 
