@@ -78,6 +78,20 @@
   - time course
   - parameter estimation
 -
+ Reference: "Jost PJ, Bergmann FT, Weindl D, Hasenauer J (2026) PEtab-GUI: a graphical user interface to create, edit, and inspect PEtab parameter estimation problems. Bioinformatics 42:btag106"
+ Year: 2026
+ Type: 3
+ URL: https://doi.org/10.1093/bioinformatics/btag106
+ Keywords:
+  - Software
+ Locations:
+  - Bonn Center for Mathematical Life Sciences, University of Bonn, Bonn 53115, Germany
+  - LIMES Life and Medical Sciences Institute, University of Bonn, Bonn 53115, Germany
+  - BioQUANT, Heidelberg University, Heidelberg 69120, Germany
+ Funding:
+  - DFG
+  - University of Bonn
+-
  Reference: "Kuroki R, Mansouri A, Schwaller P (2026) Time-Series as Feedback: Evaluating Adaptive Reasoning in LLM Agents. paper presented at the 1st ICLR Workshop on Time Series in the Age of Large Models."
  Year: 2026
  Type: 3
