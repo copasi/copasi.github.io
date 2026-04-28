@@ -24,7 +24,7 @@ tasks.
 
 
 The dialog for creating and editing report definitions is found under the
-**Output → Reports** branch in the object tree. To make a new report,
+**Output Specifications → Reports** branch in the object tree. To make a new report,
 double-click on an empty row in the table. This action will create a new
 report and open the dialog where you can edit its settings.
 
@@ -44,7 +44,9 @@ how many significant digits will be used for numbers in the output. The default
 precision is 6 digits.
 
 Optionally, you may add a **Comment** to describe the purpose or contents of the
-report.
+report. The comment will not appear in the report, it is only there for display
+in COPASI. If you wanted a comment in the report, you'd create it manually in the 
+Header or Footer in the advanced mode, see below.
 
 Now you need to define which objects will appear in your report. There are two
 modes for defining a report:
@@ -75,7 +77,9 @@ where you can select the specific model objects you wish to add to the report.
       <td class="mini">Simple&nbsp;Object&nbsp;Selection&nbsp;Dialog</td>
     </tr>
   </table>
-</div><br />
+</div>
+
+
 The selection dialog displays a tree structure containing the objects most 
 commonly used to generate reports, plots, sliders, and related outputs. To 
 select objects, click on the corresponding leaves in the tree view. For both 
@@ -182,6 +186,8 @@ header row in your output, simply uncheck this option.
   </table>
 </div>
 
+### Advanced Report Definition
+
 The advanced report definition feature lets you customize the output for three
 separate sections: the *header*, *body*, and *footer* of your report.
 
@@ -204,3 +210,68 @@ definitions: you can add and remove items using the object browser dialog,
 reorder items with the up and down buttons, and insert separator items with the
 Separator button. The symbol or text that serves as the separator is defined by
 the checkbox and input field at the top of the report definition dialog.
+
+
+## Example: Report for a Parameter Scan
+
+To use advanced report definitions with Parameter Scans, first enable the 
+advanced settings for the report. In this mode, a report is divided into 
+three sections: **Header**, **Body**, and **Footer**.
+
+These sections map directly to the "before", "during", and "after" output 
+options of the [Parameter Scan](../../../Tasks/Parameter_Scan/) Sub Task:
+
+- **Header**: Corresponds to "before". The header is printed once at the 
+  beginning of each subtask iteration when "before" is selected. If you 
+  select "before" in the Parameter Scan, only a single header is printed 
+  for the entire scan.
+- **Body**: Corresponds to "during". The body prints the end result of 
+  each iteration of the parameter if nothing is selected, or transient 
+  values for each subtask step if "during" is chosen (the subtask must 
+  support a "during" state, e.g., a Time Course).
+- **Footer**: Corresponds to "after". The footer is printed only once at 
+  the end of the entire Parameter Scan, not after every subtask iteration.
+
+**Note:** Selecting "after" in the Sub Task Output will produce only a 
+single footer at the end of the whole Parameter Scan, not one after every 
+iteration. If no output option is selected, the report will contain the 
+end results of every iteration, as taken directly from the Parameter Scan.
+
+Here are some guidelines for using the correct output mode:
+
+- To add a heading before each iteration, select "before" and include it 
+  in the header section.
+- To track how something (such as species concentrations or sensitivities) 
+  changes during a subtask, select "during" and include the relevant items 
+  in the body section.
+- To capture only the final results of each subtask, select nothing (leave 
+  "after" unselected) and put the results in the body section.
+
+**Example:**  
+If you want a report that records every MCA or Steady State result, create 
+a report template with the results in the Body section, and select no 
+output option (leave "after" unselected) in the Sub Task Output for the 
+Parameter Scan.
+
+**Tip:**  
+When editing a template, such as the Steady State Report Template, open the 
+Footer section. You can right-click on the "Steady State Results" item and 
+select "Edit Text". In the text editor, you can copy the entire Steady 
+State Results section and paste it into your new report. This method is 
+typically easier than searching for the correct item in expert mode.
+
+**Exception:**  
+An exception to these rules applies to the Time Course task (and tasks
+dependent on it, such as Cross Section and Time Course Sensitivities). For
+these tasks, results are *not* written into the Time Course Results when the
+Parameter Scan output option is left unselected ("after" not chosen). However,
+because the Time Course updates species concentrations (or particle numbers) in
+the math container after each simulation step, you can report these transient
+values instead.
+
+To obtain such output, be sure to define a Sub Task Output at "during" for the
+Sub Task—this is required for Parameter Scan to properly record time-dependent
+results. The same approach applies to Cross Section outputs.
+
+For Time Course Sensitivities, you can select "Sensitivities" in the Report
+definition to record the results produced by this task.
