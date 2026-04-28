@@ -474,13 +474,6 @@ COPASI:<br />
   <div align="center">if(x lt 0.0, 0.0, if(x gt 0.0, 1.0, 0.5))</div>
 </tt><br />
 <br />
-<div class="alert alert-warning" role="alert"><span class="glyphicon glyphicon-exclamation-sign"
-    aria-hidden="true"></span><span class="sr-only">Warning:</span> Although COPASI allows the usage of
-  discontinuous functions (ceil, floor, factorial, etc) all integration is done by LSODA which officially can not
-  handle discontinuous functions. Nevertheless in most cases this will lead to correct results, however you should
-  be aware of the fact that the usage of discontinuous functions in COPASI can lead to errors. Later versions of
-  COPASI will use different integration methods that will be able to deal with discontinuous functions.</div><br />
-<br />
 <h3 name="Parenthesis">Parenthesis</h3>
 <table class="table table-striped table-hover" style="caption-side: top;">
   <caption>Parenthesis</caption>
