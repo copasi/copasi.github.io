@@ -23,5 +23,8 @@ own plots or reports, you can use the Output Assistant (the easy way), or
 define the output manually (for greater flexibility), as described in this
 chapter.
 
-
+<div class="row">
+<div class="col-xs-12">
 {% include toc.html %}
+</div>
+</div>
