@@ -63,6 +63,7 @@ list called Simulation Type should be used.
 
 The drop down list contains three following entries:
 
+<div class="row"><div class="col-xs-12">
 <table class="table table-striped table-hover" style="caption-side: top;">
     <caption>Global Quantities Simulation Types</caption>
     <colgroup>
@@ -91,6 +92,7 @@ The drop down list contains three following entries:
     </tr>
     </tbody>
 </table>
+</div></div>
 
 To have a parameter's value determined by a mathematical expression, choose
 **assignment** from the Simulation Type drop-down menu. This enables a text
