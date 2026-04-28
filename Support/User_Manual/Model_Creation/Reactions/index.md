@@ -10,26 +10,38 @@ the reaction but are neither **consumed** nor **produced** by it. A reaction has
 the reaction proceeds. 
 
 
-<div class="row">
-  <div class="col-xs-12">
+Adding reactions in COPASI works much like adding compartments or species. To
+add reactions, navigate to the **Reactions** branch in the object tree, which
+is found under **Model → Biochemical**. This opens a table with six columns:
 
-    Again adding reactions essentially works the same way as adding compartments or species. When you navigate to the
-    Reactions branch of the object tree which is located under the Model-&gt;Biochemical branch, you will see a table
-    with six columns. The first two are Status and Name of the reaction. The third column called Equation describes the
-    chemical formula and maybe additional modifiers of the reaction. The fourth column states the name of the kinetics
-    for the reaction which depends on the equation. We will come to this in a second. The last column shows the flux
-    through this reaction. The flux can not be set by the user but is calculated automatically when you <a
-      title="COPASI: Support/User Manual/Tasks/Time Course Simulation"
-      href="{{ site.baseurl }}/Support/User_Manual/Tasks/Time_Course_Simulation/">do a time course simulation</a>.<br />
-    <br />
-    The easiest way to add a reaction is to type the chemical equation into an empty equation cell in the table. After
-    you typed the equation, you hit the return key and automatically land in the next row where you can type the next
-    reaction equation. This way you can enter all the reactions that make up your model. When you are finished with
-    typing the reaction equations, you commit all the reactions. If any of the reactions contain species that are not
-    already present in the model, they are added automatically. If there was no compartment before, a compartment is
-    also added and all new species get added to this compartment. If there is already one or more compartments, all new
-    species get added to the first compartment that is listed in the object tree.<br />
-    <br />
+- **Index**: The index of the reaction.
+- **Name**: The name of the reaction.
+- **Equation**: The chemical equation, including any modifiers.
+- **Kinetics**: The type of kinetic rate law used by the reaction (dependent on
+  the equation).
+- **Flux**: The flux through the reaction (this value is calculated by COPASI
+  and cannot be set manually).
+- **Noise Expression**: if the reaction is a SDE, the noise expression of the 
+  reaction will be displayed here. 
+
+The the flux is computed automatically when you
+[run a time course simulation](
+{{ site.baseurl }}/Support/User_Manual/Tasks/Time_Course_Simulation/).
+
+The simplest way to add a reaction is to enter the chemical equation directly
+into an empty "Equation" cell in the table. Pressing the return key after
+typing the equation moves the cursor to the next row, allowing you to quickly
+add multiple reactions. When you are done entering equations, you "commit" all
+the reactions at once.
+
+If any of the reaction equations include species that do not yet exist in the
+model, COPASI will add these species automatically. If there is no compartment
+yet, COPASI will create one and add all new species to it. If compartments
+already exist, new species will be added to the first compartment listed in the
+object tree.
+
+
+
     <div class="alert alert-warning" role="alert"><span class="glyphicon glyphicon-exclamation-sign"
         aria-hidden="true"></span><span class="sr-only">Warning:</span> When typing reaction equations you should keep
       in mind that species names in COPASI can contain characters like &quot;+&quot; or even white-spaces. Since these
@@ -51,7 +63,7 @@ the reaction proceeds.
     <br />
     Each new reaction gets a default kinetic rate law which is irreversible mass action for reactions that contain a
     substrate. For reaction that only have a product (e.g. influx into a system) a constant flux kinetic is
-    chosen.<br />
+    chosen (or `Mass action (reversible)` in case of a reversible reaction).<br />
     <br />
     <div class="img" align="center">
       <table cellpadding="0" cellspacing="0">
@@ -121,5 +133,4 @@ the reaction proceeds.
       returns its result in mol/(l*s). If A and B reside in different compartments, the result is returned in mol/s.
       (This assumes that your default units are set to mol, l and s.)</div><br />
     <br />
-  </div>
-</div>
+  
