@@ -1,22 +1,29 @@
 ---
 layout: structure
-title: "Parameter View"
+title: "Parameter View / Parameter Sets"
 structure: "User_Manual"
 ---
 
 
-The parameter view widget can be displayed by selecting the leaf called Parameter Overview on the
-Model-&gt;Biochemical branch (see below). This widget allows you to view and edit all parameters of the model in one
-place. This saves you from moving around the model tree if you e.g. first have to edit the initial concentrations
-for some species and afterward parameters of one or more reactions. The view shows you the initial concentrations
-for the species at the top followed by the initial time and the volumes of all the compartments and at the bottom
-the kinetic parameters of all reactions.<br />
-<br />
-In order to change a value, you double click on it which lets you input a new value. On hitting the return key or
-clicking somewhere else, the new value is not written to the object directly, but a '*' character appears in front
-of the name of the changed parameter. If you now leave this widget or press the Commit button at the bottom of the
-dialog, the new value is written to the corresponding object in the model.<br />
-<br />
+The **Parameter View** provides a centralized interface where you can view and 
+edit all model parameters in one place. To access it, select the *Parameter 
+Overview* leaf under the **Model → Biochemical** branch (see below). 
+
+This view is especially useful for making edits efficiently, as it eliminates 
+the need to navigate throughout the model tree whenever you need to update 
+several parameters. At the top, you will see the initial concentrations for all 
+species, followed by the initial simulation time and the volumes of all 
+compartments. At the bottom, the kinetic parameters for all reactions are 
+displayed.
+
+To edit any value, double-click on the cell you wish to change, enter your new 
+value, and press the return key or click elsewhere. Your edits will not be 
+applied to the model immediately; instead, a `*` will appear next to the name 
+of a changed parameter, indicating that it has been modified but not yet 
+committed. To finalize your changes, either press the **Commit** button at the 
+bottom of the dialog or leave the widget. The updates will then be applied to 
+the relevant objects in your model.
+
 <div class="img" align="center">
   <table cellpadding="0" cellspacing="0">
     <tr>
@@ -28,13 +35,22 @@ dialog, the new value is written to the corresponding object in the model.<br />
   </table>
 </div>
 
-<p>
-The current parameterization can be serialized by clicking <b>Save to File</b>, where they can be exported to tabular 
-formats (TSV / CSV), plain text, or the INI format (that can be used from the command line later on, see the
-<a
-    title="COPASI: Support/User Manual/Model Creation/Commandline Version and Commandline Options"
-    href="{{ site.baseurl }}/Support/User_Manual/Model_Creation/Commandline_Version_and_Commandline_Options/">command 
-    line reference</a>).
-</p>
-<p> The current parameterization can also be saved into a parameter set, which allows to apply it easily later on. 
-  For that simply select <b>Store as Parameter Set</b>.</p>
+You can export the current parameter settings by clicking **Save to File**. 
+Parameters can be saved in tabular formats such as TSV or CSV, as plain text, or 
+in INI format. The INI format can be used later for command-line operations (see 
+the [command line reference](
+{{ site.baseurl }}/Support/User_Manual/Model_Creation/Commandline_Version_and_Commandline_Options/)).
+
+Alternatively, you can store the current parameter configuration as a parameter 
+set for easy reuse. To do this, select **Store as Parameter Set**.
+
+# Parameter Sets
+
+COPASI also contains a list of Parameter Sets, that have been either created, using the **Store 
+as Parameter Set** option from the Parameter Overview, or have been created by Optimizations or 
+Parameter Estimation runs, with the `Create Parameter Sets` option enabled. 
+
+In the Parameter Sets overview, you can create new Parameter Sets, or delete existing ones. In the 
+detail view you can `Apply` them, that is to overwrite the current models state with the stored one 
+(COPASI will give you the option of saving the current state before). It will also highlight 
+differences of the current model state from the one stored in the parameter set.

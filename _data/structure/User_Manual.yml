@@ -24,7 +24,7 @@ pages:
 - path: Support/User_Manual/Model_Creation/Annotating_Models_and_Model_Elements
   title: "Annotating Models and Model Elements"
 - path: Support/User_Manual/Model_Creation/Parameter_View
-  title: "Parameter View"
+  title: "Parameter View / Parameter Sets"
 - path: Support/User_Manual/Model_Creation/User_Defined_Functions
   title: "User Defined Functions"
 - path: Support/User_Manual/Model_Creation/Sliders
