@@ -42,9 +42,12 @@ firing the event and executing its assignments. There are two ways to apply a
 delay:
 
 1. **Delay Calculation and Assignment**: The delay occurs between the trigger
-   and calculation of the target expression.
+   and calculation of the target expression. If selected, the value to be 
+   will be calculated and assigned only **after** the delay when triggered.
 2. **Delay Assignment Only**: The delay occurs between calculating the
-   expression and assigning the value to the target object.
+   expression and assigning the value to the target object. If selected, the 
+   value to be assigned will be **calculated** when triggered, but that value
+   will be **assigned** after the delay.
 
 If you use a delay, you have the option **Trigger must remain true**. If this
 is enabled, COPASI will only execute the event if the trigger expression remains
