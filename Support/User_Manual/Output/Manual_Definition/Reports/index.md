@@ -7,9 +7,15 @@ structure: "User_Manual"
 
 This section explains how to create and edit a report definition in COPASI.
 Remember that, after creating a report definition, you must select it for use
-with a specific calculation task. To do this—and to choose the output filename—
+with a specific calculation task. To do this, and to choose the output filename,
 use the **Report** button, as described in the sections about the individual
 tasks.
+
+The dialog for creating and editing report definitions is found under the
+**Output Specifications → Reports** branch in the object tree. To make a new report,
+double-click on an empty row in the table. This action will create a new
+report and open the dialog where you can edit its settings.
+
 
 <div class="img" align="center">
   <table cellpadding="0" cellspacing="0">
@@ -22,11 +28,6 @@ tasks.
   </table>
 </div>
 
-
-The dialog for creating and editing report definitions is found under the
-**Output Specifications → Reports** branch in the object tree. To make a new report,
-double-click on an empty row in the table. This action will create a new
-report and open the dialog where you can edit its settings.
 
 In the report definition dialog, you can set a name for your report in the
 **Name** field. The **Task** dropdown lets you choose the calculation task the
