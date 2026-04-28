@@ -64,18 +64,17 @@ use_math: true
       </table>
     </div><br />
     <br />
-    The drop-down list labeled "Rate Law Interpretation" lets you specify how
+    The checkbox labeled "Rate Law Interpretation" lets you specify how
     COPASI should interpret the kinetic rate laws for your reactions. By default,
     COPASI interprets all rate laws as deterministic rate laws. Since COPASI
     allows simulation either deterministically or stochastically, it must make
     corrections to deterministic rate laws when using them for stochastic
     simulation. Sometimes, rate laws have already had these corrections applied
     by the modeler for stochastic simulation. If this is the case, you should
-    select "stochastic" from the drop-down list. With this setting, COPASI will
-    not apply further corrections to the rate laws in the model during stochastic
-    simulations.<br />
+    uncheck the checkbox. With this setting, COPASI will not apply further corrections 
+    to the rate laws in the model during stochastic simulations.<br />
     <br />
-    In the field labeled Time (s) under the text Initial the user can tell COPASI to take the given value as the initial
+    In the field labeled `Initial Time` the user can tell COPASI to take the given value as the initial
     time for tasks like time course. This field is only enabled for editing for non-autonomous models, i.e., models
     which use the value of time explicitly in an ODE, an assignment, a rate law, or an event. COPASI automatically
     detects whether a model is non-autonomous. If you have a non-autonomous model you can set the start time of a time
@@ -86,6 +85,9 @@ use_math: true
     <div class="alert alert-warning" role="alert"><span class="glyphicon glyphicon-exclamation-sign"
         aria-hidden="true"></span><span class="sr-only">Warning:</span> The update model option on each task will only
       update the initial time for non-autonomous models otherwise it will be left at 0.</div><br />
+    <br />
+    The field `Time` displays the current time of the model (e.g. the end point of the simulation last run).
+    <br />
     <br />
   </div>
 </div>
