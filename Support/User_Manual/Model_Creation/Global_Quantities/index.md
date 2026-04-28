@@ -4,12 +4,18 @@ title: "Global Quantities"
 structure: "User_Manual"
 ---
 
+A global quantity (sometimes called a global parameter) can represent nearly
+anything in your model. Most commonly, a global quantity is used as a shared
+parameter for several reactions, but you can use it to represent any variable or
+process that is not specifically located within a compartment.
 
-Below the Reactions branch in the model tree, you will find the 
-**Global Quantities** branch. Selecting this branch opens a table 
-listing all global quantities defined in your model. When you create 
-a new model, this table—as with the others—is initially empty (see 
-image below). The table contains eight columns: *Status* and *Name* 
+In the model tree, you will find the **Global Quantities** branch just below the
+Reactions branch. Selecting this branch opens a table displaying all global
+quantities currently defined in your model. When you create a new model, this
+table—like the others—begins empty (see image below).
+
+
+The table contains eight columns: *Index* and *Name* 
 should be familiar from previous sections. The third column shows the 
 type of each global quantity, which can be one of three options:
 
@@ -20,9 +26,9 @@ type of each global quantity, which can be one of three options:
 - **ode**: the quantity is treated as a model variable, and its 
   value is defined by a differential equation
 
-The fourth and fifth columns show the initial and transient values 
-of the global quantity, while the sixth column displays the rate of 
-change. The final two columns present the mathematical expressions, 
+The fourth column shows the unit, while the fifth and six columns show 
+the initial and transient values of the global quantity. the seventh column displays 
+the rate of change. The final two columns present the mathematical expressions, 
 when required, for types other than *fixed*.
 
 As with other model elements, you can add a global 
