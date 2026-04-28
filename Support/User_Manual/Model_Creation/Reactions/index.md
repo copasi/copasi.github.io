@@ -137,3 +137,7 @@ For example:
   (This assumes that your default units are set to mol, l and s.)
 </div>
   
+
+For a detailed explanation of how area scaling and compartment boundaries affect reaction kinetics in models involving multiple compartments, see:
+
+Holzheu, P., Großeholz, R. & Kummer, U. *Impact of explicit area scaling on kinetic models involving multiple compartments*. BMC Bioinformatics 22, 21 (2021). [https://doi.org/10.1186/s12859-020-03913-8](https://doi.org/10.1186/s12859-020-03913-8)
