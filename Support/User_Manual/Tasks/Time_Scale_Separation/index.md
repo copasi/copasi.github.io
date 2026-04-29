@@ -47,7 +47,7 @@ the number of **Intervals**. This is similar to performing a [time course
 simulation](../Time_Course_Simulation/). All three methods
 rely on numerical integration using the LSODA solver
 [[Petzold83]](../../Bibliography#Petzold83).
-LSODA settings are set to their default values for this task; for details
+LSODA settings are set to their default values for this task and are not customizable; for details
 see the [deterministic simulation method](../..//Methods/Time_Course_Calculation/Deterministic_Simulation).
 
 If you have not yet
