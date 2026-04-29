@@ -129,7 +129,7 @@ more of the transient concentrations of the species in your report. To select
 the time variable, locate it as the last item in the *Model* branch and
 click its checkbox. To add concentrations for all species, expand the
 *Species* sub-branch within the *Model* branch, then open the *Select by
-attribute* branch. Here, you can select the *Concentration* attribute—doing
+attribute* branch. Here, you can select the *Concentration* attribute, doing
 so will automatically include the concentrations for all species.
 
 If you only want some species concentrations, expand the individual species in
@@ -173,7 +173,7 @@ chosen separator character (usually the `<tab>` character).
 
 By default, COPASI enables the "Title Row" checkbox. When checked, COPASI
 writes a header row at the top of the table containing the names of the
-selected objects—each corresponding to a table column. If you do not want a
+selected objects, each corresponding to a table column. If you do not want a
 header row in your output, simply uncheck this option.
 
 <div class="img" align="center">
@@ -271,7 +271,7 @@ the math container after each simulation step, you can report these transient
 values instead.
 
 To obtain such output, be sure to define a Sub Task Output at "during" for the
-Sub Task—this is required for Parameter Scan to properly record time-dependent
+Sub Task, this is required for Parameter Scan to properly record time-dependent
 results. The same approach applies to Cross Section outputs.
 
 For Time Course Sensitivities, you can select "Sensitivities" in the Report

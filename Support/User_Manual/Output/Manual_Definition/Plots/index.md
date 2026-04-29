@@ -29,7 +29,7 @@ objects. To add a new curve, click the `New curve...` button.
 </div>
 
 
-When you add a new curve to your plot, a selection dialog opens—similar
+When you add a new curve to your plot, a selection dialog opens, similar
 to the one described in the [report creation section]({{ site.baseurl }}/Support/User_Manual/Output/Manual_Definition/Reports/).
 The main difference is that there are now two tree views side by side
 instead of just one.
@@ -70,7 +70,7 @@ you need.
 
 Once you have finished making your selections, click the **OK** button to return
 to the curve definition dialog. For each object you chose from the right-side
-tree, a corresponding tab will appear in the curve definition area—each tab
+tree, a corresponding tab will appear in the curve definition area, each tab
 represents a curve object for your plot.
 
 To remove a curve, select its tab and click the **Delete curve** button. The
@@ -95,7 +95,7 @@ both axes.
 ### 2D Curves
 
 Each curve object has a title and defines what is shown on the x- and y-axes.
-Additionally, you can specify—for each curve—whether it should be drawn as a
+Additionally, you can specify, for each curve, whether it should be drawn as a
 line, as points, or as symbols.
 
 <div class="img" align="center">
@@ -126,10 +126,26 @@ shows how frequently a parameter takes particular values.
 
 To define a histogram instead of a curve, click the **New histogram...** button
 in the plot definition dialog. You can specify a title, the variable to display,
-and the increment value—the width of each histogram bar. For example, if your
+and the increment value, the width of each histogram bar. For example, if your
 parameter ranges from 3 to 8 and you set the increment to 0.1, COPASI will draw
 a histogram with 50 bars, each representing a value range of 0.1 units. Curves
 and histograms may be combined in a single plot.
+
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="Histogram.svg" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Histogram</td>
+    </tr>
+  </table>
+</div><br/>
+
+If you like to try it yourself: 
+
+[Open in COPASI](copasi://process?downloadUrl=https://raw.githubusercontent.com/copasi/copasi.github.io/368eea4c9bfd2b6d888c0ad1fd4b1e5de4838d8f/Support/User_Manual/Output/Manual_Definition/Plots/Histogram-brusselator.cps&activate=Time%20Course&createPlot=none&runTask=Time-Course) or [Download](./Histogram-brusselator.cps){:target="\_blank"}.
+
 
 ### Contour Plots
 
@@ -149,6 +165,10 @@ lines should appear.
   </table>
 </div><br/>
 
+If you like to try it yourself: 
+
+[Open in COPASI](copasi://process?downloadUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fcopasi%2Fcopasi.github.io%2F2f9103047f6172ef73e4c728d145234e348d13ef%2FSupport%2FUser_Manual%2FOutput%2FManual_Definition%2FPlots%2FhimmelblauScan.cps&activate=Parameter%20Scan&createPlot=none&runTask=none) or [Download](./himmelblauScan.cps){:target="\_blank"}.
+
 ### Banded Curves
 
 To add a banded curve to your plot, click the *New Banded Graph* button in
@@ -159,10 +179,42 @@ between the two y-values for each x position.
 <div class="img" align="center">
   <table cellpadding="0" cellspacing="0">
     <tr>
-      <td><img alt="" src="Plots_06.png" style="width:100%" border="0" /></td>
+      <td><img alt="" src="BandedGraph.svg" style="width:100%" border="0" /></td>
     </tr>
     <tr>
       <td class="mini">Banded curve</td>
     </tr>
   </table>
-</div><br/>
+</div>
+
+
+If you like to try it yourself: 
+
+[Open in COPASI](copasi://process?downloadUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fcopasi%2Fcopasi.github.io%2Fa8c728f7df49d784cf368dff53288356cdfe70f3%2FSupport%2FUser_Manual%2FOutput%2FManual_Definition%2FPlots%2FBanded_curves_better_example.cps&activate=Time%20Course&createPlot=none&runTask=Time-Course) or [Download](./Banded_curves_better_example.cps){:target="\_blank"}.
+
+
+### Plots for Parameter Scan
+
+[Parameter Scan](../../../Tasks/Parameter_Scan/) allows you to repeat a subtask several times, each time making 
+different adjustments to the model. For example, you can run multiple Time 
+Courses with varying initial concentrations of a particular species. Creating 
+plots for Parameter Scan results requires some special considerations. If you are 
+not familiar with the Parameter Scan task, please refer to its section in this 
+manual for an overview.
+
+Here are a few simple guidelines to follow when plotting results from a Parameter 
+Scan:
+
+1. The Sub Task Output setting in Parameter Scan should match the plot’s Capture 
+   Data setting.
+
+2. If you use multiple Sub Task Outputs in Parameter Scan, set the plot’s 
+   Capture Mode to “before” to separate the results from each individual run.
+
+3. If no selection is made in Sub Task Output (Parameter Scan), the plot lets 
+   you choose from three Capture Modes:
+
+    - **before** – the starting point of the Parameter Scan,
+    - **during** – the result after each subtask execution,
+    - **after** – the final result after the Parameter Scan completes.
+
