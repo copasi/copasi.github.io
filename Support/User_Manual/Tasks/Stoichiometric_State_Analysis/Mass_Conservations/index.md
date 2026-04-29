@@ -51,5 +51,5 @@ to compute this value. This function is available via the tool button.
 <br />
 
 The resulting assignment is independent of the specific algorithm used for moiety
-calculation, and can also be exported to SBML.
+calculation.
 
