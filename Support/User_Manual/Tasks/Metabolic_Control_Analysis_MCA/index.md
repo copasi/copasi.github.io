@@ -4,6 +4,16 @@ title: "Metabolic Control Analysis (MCA)"
 structure: "User_Manual"
 ---
 
+*Metabolic Control Analysis (MCA)* provides an understanding how changes in individual reactions propagate through an entire biochemical network. For that we calculate: 
+
+
+- *Elasticities* quantify how sensitively each reaction rate responds to infinitesimal changes in metabolite concentrations or kinetic parameters. This is a local property.
+
+- *Flux control coefficients* measure how strongly a reaction influences the steady‑state fluxes of the entire metabolic network. This is a global property.
+
+- *Concentration control coefficients* describe how perturbing a reaction affects the steady‑state concentrations of metabolites throughout the system. This is a global property.
+
+
 COPASI can perform a *Metabolic Control Analysis (MCA)* on your model.  
 You can find the MCA task under **Tasks → Metabolic Control Analysis**.
 
