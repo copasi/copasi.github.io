@@ -4,7 +4,7 @@ title: "Steady-State Analysis"
 structure: "User_Manual"
 ---
 
-To run a Steady-State analysis in COPASI, go to the **Task → Steady-State**
+To run a Steady-State analysis in COPASI, go to the **Tasks → Steady-State**
 branch in the object tree.
 
 
