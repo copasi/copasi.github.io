@@ -2,6 +2,7 @@
 layout: structure
 title: "Profile Likelihood"
 structure: "User_Manual"
+use_math: true
 ---
 
 
