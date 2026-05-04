@@ -20,19 +20,46 @@ To visualize the simulation run, use the output assistant to create a plot for
 “Concentrations, Volumes, and Global Quantity Values.” Click “Hide All,” then
 select “[Calcium]” to show just its trace. The output will be similar to:
 
-![Concentration time course of BioModel 239](images/time_course_plot.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/time_course_plot.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Concentration time course of BioModel 239</td>
+    </tr>
+  </table>
+</div>
 
 To understand how changing a parameter affects the simulation, use COPASI’s
 slider feature. Select **Tools > Show Sliders** or click the slider icon ![Slider
 Icon](images/image002.png) in the toolbar. Click *New Sliders* and select the
 “constant” parameter of reaction R2.
 
-![Defining a slider](images/slider_setup.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/slider_setup.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Defining a slider</td>
+    </tr>
+  </table>
+</div>
 
 The initial value is 2.9. Try changing it from 1.5 to 3 while observing the plot.
 You’ll see the oscillatory dynamics switch from basic oscillations to bursting:
 
-![Concentration time course while varying the slider](images/slider_time_course.gif)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/slider_time_course.gif" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Concentration time course while varying the slider</td>
+    </tr>
+  </table>
+</div>
 
 ## Cross Section
 
@@ -43,16 +70,43 @@ oscillations. Select the rate of calcium as the variable in the cross section
 task, detect crossings of the value zero **in the negative direction**, and stop
 detection after 100 seconds.
 
-![Cross section task options](images/cross_section_options.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/cross_section_options.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Cross section task options</td>
+    </tr>
+  </table>
+</div>
 
 To visualize results, modify the plot so that values are shown as circles rather
 than lines:
 
-![Changing plot options](images/modify_plot.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/modify_plot.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Changing plot options</td>
+    </tr>
+  </table>
+</div>
 
 Now, run the cross section task and you will obtain:
 
-![Plot of cross section result, showing only maxima](images/cross_section_result.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/cross_section_result.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Plot of cross section result, showing only maxima</td>
+    </tr>
+  </table>
+</div>
 
 These points correspond to the maxima observed earlier.
 
@@ -66,30 +120,75 @@ the cross section task to generate a bifurcation diagram.
 2. Set the subtask to “Cross Section.”
 3. Enable “output during subtask execution.”
 
-![Defining the parameter scan](images/scan_setup.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/scan_setup.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Defining the parameter scan</td>
+    </tr>
+  </table>
+</div>
 
 For the plot, set `R2.constant` as the x-axis and calcium concentration as the
 y-axis. Use circles for points. (Alternatively, the output assistant’s “Scan of
 Concentrations, Volumes and Global Quantity Values” is suitable.)
 
-![Scan result: single to multiple peaks (bursting)](images/cross_section_scan.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/cross_section_scan.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Scan result: single to multiple peaks (bursting)</td>
+    </tr>
+  </table>
+</div>
 
 This plot shows **all maxima**, not just those from the limit cycle. To filter
 for relevant crossings, configure the cross section task to only collect
 crossings after a certain condition, e.g., when “time > 50”.
 
-![Refining the cross section task: collect after limit cycle](images/cross_section_option2.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/cross_section_option2.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Refining the cross section task: collect after limit cycle</td>
+    </tr>
+  </table>
+</div>
 
 Re-running the parameter scan now yields only those crossings of interest:
 
-![Refined scan result](images/cross_section_scan_refined.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/cross_section_scan_refined.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Refined scan result</td>
+    </tr>
+  </table>
+</div>
 
 ### Cross Section Task Options
 
 The cross section task has options to efficiently find crossing points. They
 fall into two groups:
 
-![Cross section termination options](images/stop_options.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/stop_options.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Cross section termination options</td>
+    </tr>
+  </table>
+</div>
 
 **First Group: When to Stop Collecting Crossings**
 - *If crossings (#) larger*: Stop after a set number of crossing points.
@@ -100,7 +199,16 @@ fall into two groups:
 **Note:** You must set a maximum simulation time to ensure simulation ends even
 if crossings are absent or not repeating.
 
-![Cross section collection options](images/start_options.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/start_options.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Cross section collection options</td>
+    </tr>
+  </table>
+</div>
 
 **Second Group: When to Start Reporting Crossings**
 - *If crossing (#) larger*: Begin reporting after a set number of crossings.
@@ -128,17 +236,45 @@ Recommended settings:
 - Stop plotting after 1000 time units or after 50 maxima are detected,
   whichever comes first. Also stop earlier if a limit cycle is found.
 
-![Cross section options for chaotic example](images/ex2-cross-section-settings.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/ex2-cross-section-settings.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Cross section options for chaotic example</td>
+    </tr>
+  </table>
+</div>
+
 
 The scan task scans the autocatalytic expansion parameter from 0.05 to 0.2.
 Define a plot with the scan parameter on x-axis and X2 concentration on the
 y-axis.
 
-![Scan settings for chaotic example](images/ex2-scan-settings.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/ex2-scan-settings.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Scan settings for chaotic example</td>
+    </tr>
+  </table>
+</div>
 
 This yields the classic Feigenbaum (period doubling) diagram:
 
-![Feigenbaum diagram](images/ex2-plot.png)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="images/ex2-plot.png" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Feigenbaum diagram</td>
+    </tr>
+  </table>
+</div>
 
 **Complete Example Download:**  
 [Download chaos3v2.cps](./chaos3v2.cps) 
