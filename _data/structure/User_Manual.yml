@@ -127,6 +127,8 @@ pages:
   title: "Stochastic Simulation"
 - path: Support/User_Manual/Methods/Time_Course_Calculation/Hybrid_Simulation
   title: "Hybrid Simulation"
+- path: Support/User_Manual/Methods/Time_Course_Calculation/Stochastic_Differential_Equation
+  title: "Stochastic Differential Equation"
 - path: Support/User_Manual/Methods/Steady_State_Calculation
   title: "Steady State Calculation"
 - path: Support/User_Manual/Methods/Metabolic_Control_Analysis
