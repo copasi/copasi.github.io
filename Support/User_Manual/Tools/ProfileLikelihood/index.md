@@ -9,7 +9,18 @@ Here, we describe the profile likelihood method implemented in COPASI. This is s
 
 The first step, is to use a model, that already has a good fit. This documentation describes it on Schaber's example, that you also find as COMBINE archive: [schaber2.omex](./schaber2.omex). When you run it and plot a parameter estimation result you would see a plot like this: 
 
-![Parameter Estimation Plot (schaber2.omex)](./parameter_estimation_result.jpg)
+
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="./parameter_estimation_result.jpg" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Parameter Estimation Plot (schaber2.omex)</td>
+    </tr>
+  </table>
+</div>
+
 
 The tool implements the three steps of the approach of: 
 
@@ -26,15 +37,24 @@ Once you have a model with a good fit, select `Profile Likelihood` from the `Too
 
 **Generate** is the first step, generating all COPASI files (2 files per parameter to be estimated.). Once the files are generated, you would then take them from the folder where and run them on your compute cluster using `CopasiSE`. Or you could use the `Process` section of the dialog on the next page. When generate is pressed this will also saves the settings used in the target directory as `<prefix>settings.json`. That can be loaded back in using the load button at the bottom left corner. It will also store `<prefix>info.json` with the information about the run needed to plot the results later.
 
-![Generate](./generate.jpg)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="./generate.jpg" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Generate tab</td>
+    </tr>
+  </table>
+</div>
 
 Settings: 
 
-* **Directory**: The directory in which to create the files. (if it does not exist, it will be created.) Note that if `Delete Existing` is checked, files matching the prefix in the specified directory will be deletd prior to hitting `Generate`. It defaults to a temp folder, but you can specify any folder you want using the `...` button next to it. 
+* **Directory**: The directory in which to create the files. (if it does not exist, it will be created.) Note that if `Delete Existing` is checked, files matching the prefix in the specified directory will be deleted prior when hitting `Generate` prior to generating new files. It defaults to a temp folder, but you can specify any folder you want using the `...` button next to it. 
 * **Prefix**: The prefix that all files generated will have. 
 * **Method**: Here you choose the optimization algorithm and its settings. The recommendation is to use local methods (like Levenberg Marquardt, Nelder - Mead, Hooke & Jeeves), but all methods can be chosen. Since we expect to be close to the optimal value already, it is ok, to lower the iteration limit quite a bit. 
 * **Scan Interval**: The number of scan intervals, that the parameter scan will take to get away from the best value found. Note that for each parameter, we create 2 files. So if you specify a scan interval of `40`, then the first file will take 40 steps into the lower direction, and 40 steps into the upper direction. 
-* **Logarithmic**: whether to use logarithmic steps 
+* **Logarithmic**: whether to use logarithmic steps, otherwise linear steps will be taken. 
 * **Continue from Current State**: whether to continue from current state, from one parameter estimation to the next. It could save some steps on a local method. 
 
 * **Lower Adjustement** / **Upper Adjustment**: How to modify the parameter value. Note that the lower value will have to be lower than the current value for the parameter. And the upper value higher than the current value. There is a number of way to specify how to modify the values:
@@ -51,11 +71,27 @@ Settings:
 
 * **Delete Existing**: If checked, when `Generate` is clicked the files starting with the specified prefix will be deleted from the specific directory.
 
+Once Generate is complete, you can copy the files onto a cluster, to run them all there, and once completed download the resulting protocoll files, and go directly to the [Plot step](#plot), otherwise you want to continue with [Process](#process).
+
 ### Process
 
-If you dont want to run the generated files on your cluster environment, this section of the dialog will process all the files using `CopasiSE`. This will launch CopasiSE with each file, which just executes the task marked as `scheduled`. (So you could use it for all other files with scheduled tasks.)
+If you dont want to run the generated files on your cluster environment, this section of the dialog will process all the files using the selected version of the command line version of COPASI (`CopasiSE`). Specifically, it will: 
 
-![Process](./process.jpg)
+* pass all files that match the selected prefix from the specified directory
+* which will generate the necessary files for the plot. 
+
+This will launch CopasiSE with each file, which just executes the task marked as `scheduled`. (So you could use it for all other files with scheduled tasks.)
+
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="./process.jpg" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Process tab</td>
+    </tr>
+  </table>
+</div>
 
 
 Settings: 
@@ -72,9 +108,18 @@ Once the files are processed it will print `all done`. But you do not need to wa
 
 ### Plot
 
-Once the results have been computed on the cluster environment, or computed using process from the last step. This option allows you to plot the results. Just specify the directory and click the  `Plot` button. 
+Once the results have been computed on the cluster environment, or computed using process from the last step. This option allows you to plot the results. These plots will be different from the plots specified in the COPASI file, in that two report files (the one scanning values lower than an optimized parameter, and the one scanninv values higher than an optimized parameter). Just specify the directory and click the  `Plot` button. 
 
-![Plot](./plot.jpg)
+<div class="img" align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img alt="" src="./plot.jpg" style="width:100%" border="0" /></td>
+    </tr>
+    <tr>
+      <td class="mini">Plot tab</td>
+    </tr>
+  </table>
+</div>
 
 Settings:
 
@@ -87,16 +132,16 @@ Settings:
     * `value`: if you specify a number, the horizontal line is plotted there. 
     * `copasi_68`: 68% confidence, 1 parameter
     * `copasi_95`: 95% confidence, 1 parameter
-    * `schaber_chi2_1p`: Schaber chi^2 for 1 paramter
-    * `schaber_chi2_p`: Schaber chi^2 for m paramters
-    * `schaber_fratio_p`: Schaber F for m paramters
-    * `donaldson_fratio_1p`: Donaldson F for 1 paramter
+    * `schaber_chi2_1p`: Schaber $\chi^2$ for 1 parameter
+    * `schaber_chi2_p`: Schaber $\chi^2$ for m parameters
+    * `schaber_fratio_p`: Schaber F for m parameters
+    * `donaldson_fratio_1p`: Donaldson F for 1 parameter
     * `value%`: percent of the objective value reached
 
 * **Vertical Lines**: semicolon separated list of vertical lines to be plotted. Possible values are: 
     * `VALUE`: the original best parameter value
     * `number`: a value at which you want to see a vertical line
-    * `<value>SD`: a standard deviation at wich you want to see a line, for example `1SD` would plot a line at +1 and -1 standard deviation around the value
+    * `<value>SD`: a standard deviation at which you want to see a line, for example `1SD` would plot a line at +1 and -1 standard deviation around the value
     * `value%`: a percentage of the best parameter value
 
 Optionally, you can save the created image using the `Save Plots` button. The number control at the right side specifies how many plots are displayed per row. As there might be quite a number of parameter plots, you can close or pop out individual ones: 
