@@ -16,7 +16,7 @@ and running the analysis.
       <td><img alt="" src="TSSATask_01.png" border="0" style="width:100%" /></td>
     </tr>
     <tr>
-      <td class="mini">TSSA&nbsp;Task&nbsp;Dialog</td>
+      <td class="mini">TSSA Task Dialog</td>
     </tr>
   </table>
 </div>
@@ -75,7 +75,7 @@ interpreting the results.
     </tr>
     <tr>
       <td class="mini">
-        An&nbsp;example&nbsp;of&nbsp;results&nbsp;table&nbsp;Importance&nbsp;Index&nbsp;in&nbsp;CSP(LSODA)&nbsp;method
+        An example of results table Importance Index in CSP(LSODA) method
       </td>
     </tr>
   </table>
@@ -98,7 +98,7 @@ changing the color scheme.
     </tr>
     <tr>
       <td class="mini">
-        An&nbsp;example&nbsp;of&nbsp;bar&nbsp;graph&nbsp;visualization&nbsp;of&nbsp;the&nbsp;Radical&nbsp;Pointer&nbsp;in&nbsp;CSP(LSODA)&nbsp;method
+        An example of bar graph visualization of the Radical Pointer in CSP(LSODA) method
       </td>
     </tr>
   </table>
@@ -118,7 +118,7 @@ visualizes how the system’s time scales are distributed at a chosen time point
       <td><img alt="" src="TSSATask_04.png" border="0" style="width:100%" /></td>
     </tr>
     <tr>
-      <td class="mini">An&nbsp;example&nbsp;of&nbsp;the&nbsp;time&nbsp;scale&nbsp;distribution&nbsp;graph</td>
+      <td class="mini">An example of the time scale distribution graph</td>
     </tr>
   </table>
 </div>
