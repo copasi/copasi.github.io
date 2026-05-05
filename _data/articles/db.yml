@@ -105,6 +105,24 @@
   - time course
   - parameter estimation
 -
+ Reference: "Hughes OR, Tufail A, Hutton E, Nabarro J, Howarth R, Yates ND, Whitwood AC, Robson CN, Signoret N, Fascione MA, Spicer CD, Unsworth WP (2026) N-terminal protein-macrocycles enabled by conjugate addition/ring expansion cascade reactions. Chemical Science 17:3320–3328"
+ Year: 2026
+ Type: 2
+ URL: https://doi.org/10.1039/D5SC08044D
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, University of York, York YO10 5DD, UK
+  - Northern Institute for Cancer Research, Newcastle University, Newcastle Upon Tyne NE2 4HH, UK
+  - Hull York Medical School, University of York, York YO10 5DD, UK
+ Funding:
+  - EPSRC
+  - UKRI (UK)
+  - Wellcome Trust
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Jost PJ, Bergmann FT, Weindl D, Hasenauer J (2026) PEtab-GUI: a graphical user interface to create, edit, and inspect PEtab parameter estimation problems. Bioinformatics 42:btag106"
  Year: 2026
  Type: 3
