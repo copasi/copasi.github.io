@@ -376,6 +376,23 @@
   - time course
   - parameter estimation
 -
+ Reference: "Alexis E, Espinel-Ríos S, Kevrekidis IG, Avalos JL (2025) Biochemical implementation of acceleration sensing and PIDA control. npj Systems Biology and Applications. 11:39"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1038/s41540-025-00514-0
+ Keywords:
+  - Theory
+ Locations:
+  - Department of Chemical and Biological Engineering, Princeton University, Princeton, NJ, USA.
+  - Department of Chemical and Biomolecular Engineering, Johns  Hopkins University, Baltimore, MD, USA.
+ Funding:
+  - DOE
+  - NSF
+ Methods:
+  - BasiCO
+  - time course
+  - stochastic simulation
+-
  Reference: "Archinuk F, Greenyer H, Stege U, Bennett SAL, Cuperlovic-Culf M, Jabbari H (2025) Are the tools fit for purpose? Network inference algorithms evaluated on a simulated lipidomics network. Bioinformatics Advances 5:vbaf286"
  Year: 2025
  Type: 2
