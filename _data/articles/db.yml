@@ -437,6 +437,22 @@
   - MCA
   - steady state
 -
+ Reference: "Braunstein H, Ventura AC, Colman-Lerner A (2025) Modeling the use of transient ligand binding information by AMPA receptors. npj Systems Biology and Applications 11:68"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1038/s41540-025-00546-6
+ Keywords:
+  - Signaling
+  - Biochemistry
+ Locations:
+  - Instituto de Fisiología, Biología Molecular y Neurociencias (IFIBYNE) CONICET-Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Buenos Aires, Argentina
+ Funding:
+  - ANPCyT (Argentina)
+ Methods:
+  - CoRC
+  - time course
+  - steady state
+-
  Reference: "Bukvic AJ, Albrecht M (2025) The Metal–Hydride Protonation Mechanism of a Platinum(II) Pyridylidene Amide (PYA) Complex with Brookhart’s Acid. Inorganic Chemistry 64:23149–23156"
  Year: 2025
  Type: 2
