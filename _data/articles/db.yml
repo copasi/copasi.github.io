@@ -250,6 +250,21 @@
   - parameter estimation
   - time course
 -
+ Reference: "Zamora-Chimal CG, Darlington APS (2026) HySimODE: a hybrid stochastic-deterministic simulation framework for multiscale models of biological systems. Bioinformatics 42:btag185"
+ Year: 2026
+ Type: 3
+ URL: https://doi.org/10.1093/bioinformatics/btag185
+ Keywords:
+  - Computational Method
+ Locations:
+  - School of Engineering, University of Warwick, Coventry, CV4 7AL, United Kingdom
+ Funding:
+  - Royal Academy of Engineering
+  - EPSRC
+  - BBSRC
+ Methods:
+  - stochastic simulation
+-
  Reference: "Zhao Z, Díaz Rodríguez KF, Mendez AAE, Sommer LM, Mendes P, Soncini FC, Checa SK, Padilla-Benavides T, Argüello JM (2026) CuiT is a Cu importer required for metal homeostasis in Salmonella enterica. Biochemistry and Biophysics Reports 46:102581"
  Year: 2026
  Type: 2
