@@ -793,6 +793,22 @@
  Methods:
   - time course
 -
+ Reference: "Holló G, Park JH, Boni E, Schaerli Y (2025) A tool for modeling gene regulatory networks (GRN_modeler) and its applications to synthetic biology. Molecular Systems Biology 21:1618–1637"
+ Year: 2025
+ Type: 3
+ URL: https://doi.org/10.1038/s44320-025-00148-8
+ Keywords:
+  - Software
+  - Computational Method
+ Locations:
+ - Department of Fundamental Microbiology, University of Lausanne, Biophore Building, 1015, Lausanne, Switzerland
+ Funding:
+ - Swiss National Science Foundation
+ - Agassiz foundation
+ Methods:
+ - BasiCO
+ - Lyapunov exponents
+ -
  Reference: "Holló G, Park JH, Evard RA, Schaerli Y (2025) Intracellularly coupled oscillators for synthetic biology. Nature Communications 17:1131"
  Year: 2025
  Type: 2
@@ -801,7 +817,7 @@
   - Synthetic Biology
   - Genetics
  Locations:
-  - Department of Fundamental Microbiology, University of Lausanne, Lausanne, Switzerland
+  - Department of Fundamental Microbiology, University of Lausanne, Biophore Building, 1015, Lausanne, Switzerland
  Funding:
   - Swiss National Science Foundation
  Methods:
