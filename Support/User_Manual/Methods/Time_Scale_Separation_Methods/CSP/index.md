@@ -13,8 +13,6 @@ By analyzing eigenvalue-like properties of the transformed system, CSP identifie
 - **Which species** are dominant within these fast modes,
 - **Which reactions** are primarily responsible for driving fast versus slow dynamics.
 
-### Diagnostic Indices
-
 CSP also provides several biologically interpretable diagnostic indices:
 
 - **Radical Pointer (RP):** Identifies species that are good candidates for quasi-steady-state (QSS) elimination (i.e., species to which the QSSA can be applied).
