@@ -1016,6 +1016,21 @@
   - time course
   - parameter estimation
 -
+ Reference: "Kiel C, Foss AJE (2025) Quantitative modeling of rod outer segment phagocytosis and recycling. Scientific Reports 15:20946"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1038/s41598-025-06356-4
+ Keywords:
+  - Cell Biology
+  - Biochemistry
+ Locations:
+  - Department of Molecular Medicine, University of Pavia, 27100, Pavia, Italy
+  - Department of Ophthalmology, Nottingham University Hospitals NHS Trust, Nottingham, UK
+ Methods:
+  - time course
+  - parameter estimation
+  - sensitivity analysis
+-
  Reference: "Kulasiri D, Ranganathan J (2025) An Investigation of the Role of Clockwork Orange (CWO) in Circadian Rhythms of Drosophila melanogaster: A Mathematical Modeling Study. In: Kulasiri D (ed) Differential Equations - Theory, Modeling, Data Assimilation and Algorithms. IntechOpen."
  Year: 2025
  Type: 2
