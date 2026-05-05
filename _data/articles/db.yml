@@ -1312,6 +1312,22 @@
   - variable volume
   - sensitivity
 -
+ Reference: "Nieto F, Mayorga LS (2025) Re-Visiting the Intracellular Pathway of Transferrin on Board of a Mathematical Simulation. Traffic 26:e70006"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1111/tra.70006
+ Keywords:
+  - Signaling
+  - Metabolism
+  - Biochemistry
+ Locations:
+  - Instituto de Histología y Embriología de Mendoza (IHEM), Universidad Nacional de Cuyo—CONICET, Mendoza, Argentina
+ Funding:
+  - Consejo Nacional de Investigaciones Científicas y Técnicas, Argentina
+ Methods:
+  - time course
+  - parameter estimation
+-
  Reference: "Ningoo M, Fueyo-González F, Gisbert-Vilanova C, Espinar-Barranco L, Marjanovic N, Fribourg M (2025) Interferon-β and interleukin-6 exert opposing effects on Foxp3 acetylation to control regulatory T cell induction. Frontiers in Immunology 16:1593931"
  Year: 2025
  Type: 2
