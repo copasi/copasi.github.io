@@ -532,6 +532,23 @@
  Methods:
   - steady state
 -
+ Reference: "Coomber C, Chewle S, Secker C, Fackeldey K, Weber M, Winkelmann S, Schütte C, Sunkara V (2025) Investigating Endogenous Opioids Unravels the Mechanisms Behind Opioid-Induced Constipation, a Mathematical Modeling Approach. International Journal of Molecular Sciences 26:6207."
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.3390/ijms26136207
+ Keywords:
+  - Signaling
+ Locations:
+  - Institute of Mathematics, Technische Universität Berlin, 10623 Berlin, Germany
+  - Zuse Institute Berlin, 14195 Berlin, Germany
+  - Department of Mathematics and Computer Science, Freie Universität Berlin, 14195 Berlin, Germany
+  - Deutsches Rheuma-Forschungszentrum, 10117 Berlin, Germany
+ Funding:
+  - DFG
+  - BMBF
+ Methods:
+  - time course
+-
  Reference: "Cravo F, Prakash G, Függer M, Nowak T (2025) MobsPy: A programming language for biochemical reaction networks. PLOS Computational Biology 21:e1013024"
  Year: 2025
  Type: 3
