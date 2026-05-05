@@ -764,6 +764,21 @@
  Methods:
   - time course
 -
+ Reference: "Holló G, Park JH, Evard RA, Schaerli Y (2025) Intracellularly coupled oscillators for synthetic biology. Nature Communications 17:1131"
+ Year: 2025
+ Type: 2
+ URL: https://doi.org/10.1038/s41467-025-67893-0
+ Keywords:
+  - Synthetic Biology
+  - Genetics
+ Locations:
+  - Department of Fundamental Microbiology, University of Lausanne, Lausanne, Switzerland
+ Funding:
+  - Swiss National Science Foundation
+ Methods:
+  - BasiCO
+  - Lyapunov exponents
+-
  Reference: "Høyland LE (2025) Disrupting the Balance: Consequences of Sustained Subcellular NAD⁺ Depletion on Cellular Homeostasis. Ph. D. Thesis, The University of Bergen, Norway."
  Year: 2025
  Type: 2
