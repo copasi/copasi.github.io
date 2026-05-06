@@ -18,7 +18,7 @@ a noise term to be included in the reaction rate. By default, COPASI sets the
 noise term proportional to the square root of the absolute particle flux for 
 the reaction.
 
-**Example:**  
+**Example:**
 To illustrate, start by creating a new model. First, change the **Quantity 
 Unit** to `1` (dimensionless) instead of the default `mol` 
 (**COPASI → Model → Quantity Unit**). Then go to **COPASI → Model → 

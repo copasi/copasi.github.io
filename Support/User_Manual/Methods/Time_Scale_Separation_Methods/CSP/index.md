@@ -22,8 +22,8 @@ CSP also provides several biologically interpretable diagnostic indices:
 These indices help modelers to determine which species or reactions could potentially be simplified, removed, or combined within the model.
 
 
-_Reference:_  
+_Reference:_
 Surovtsova, I., Simus, N., Hübner, K. et al. Simplification of biochemical 
 models: a general approach based on the analysis of the impact of individual 
-species and reactions on the system's dynamics. **BMC Syst Biol 6**, 14 (2012).  
+species and reactions on the system's dynamics. **BMC Syst Biol 6**, 14 (2012).
 [https://doi.org/10.1186/1752-0509-6-14](https://doi.org/10.1186/1752-0509-6-14)

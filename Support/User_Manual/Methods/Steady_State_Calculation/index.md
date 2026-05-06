@@ -23,7 +23,7 @@ Eigenvalues of the Jacobian are computed using LAPACK.
 
 #### Options for Steady State Analysis
 
-- **Use Newton**  
+- **Use Newton**
   Boolean value. Determines whether to use the *damped Newton method* 
   to solve the nonlinear algebraic equations defining the steady state. 
   The initial concentrations set by the user are used as the starting guess. 
@@ -34,7 +34,7 @@ Eigenvalues of the Jacobian are computed using LAPACK.
   is below a threshold. If too many iterations are needed without finding 
   an acceptable solution, the method halts with no result.
 
-  The classic Newton iteration is:  
+  The classic Newton iteration is:
   $$
   x_i = x_{i-1} - \frac{f(x_{i-1})}{f'(x_{i-1})}
   $$
@@ -46,7 +46,7 @@ Eigenvalues of the Jacobian are computed using LAPACK.
   The first value providing a smaller residual error is accepted. If 
   none is found, the procedure stops (local minimum).
 
-- **Use Integration**  
+- **Use Integration**
   Boolean value. Determines whether to use the 
   [deterministic ODE solver](
   {{ site.baseurl }}/Support/User_Manual/Methods/Time_Course_Calculation/Deterministic_Simulation/) 
@@ -55,27 +55,27 @@ Eigenvalues of the Jacobian are computed using LAPACK.
   method stops with no solution. If "Use Newton" is set, the Newton method 
   is attempted at each intermediate time point. Default: `true` (use integration).
 
-- **Use Back Integration**  
+- **Use Back Integration**
   Boolean value. Specifies whether to use the deterministic ODE solver to 
   simulate the system backward in time until a steady state is reached.
   The stopping criteria are the same as above. If "Use Newton" is set, 
   the Newton method is attempted at each step. Value of `true` means back 
   integration is used.
 
-- **Accept Negative Concentrations**  
+- **Accept Negative Concentrations**
   Boolean value. Determines whether steady states yielding negative 
   concentrations are acceptable. `true` allows negative concentrations; 
   `false` (default) discards such results.
 
-- **Iteration Limit**  
+- **Iteration Limit**
   Positive integer. Sets the maximum number of iterations for the damped 
   Newton method before it reports failure. Default: `50`.
 
-- **Derivation Factor**  
+- **Derivation Factor**
   Numeric value. Step size used for numerical estimation of 
   $f'(x_{i-1})$. Default: `0.001`.
 
-- **Resolution**  
+- **Resolution**
   Positive numeric value. Specifies the threshold for considering the 
   system to be at steady state—if the absolute change in every state 
   variable is below this value, the system is at steady state. 
@@ -85,7 +85,7 @@ Eigenvalues of the Jacobian are computed using LAPACK.
   value is interpreted as a concentration (heuristically). Modelers should 
   check that the default is appropriate for their model units.
 
-- **Target Criterion**  
+- **Target Criterion**
   Specifies the acceptance criterion for the steady state. Options include:
 
   - **Rate**: The largest value on the right-hand side of the ODEs must be 

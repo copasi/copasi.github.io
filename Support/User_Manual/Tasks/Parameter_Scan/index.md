@@ -251,12 +251,12 @@ you may see the same curve repeated X times.
 At the bottom of the Parameter Scan Task widget, you will find three checkboxes
 that affect how the scan is executed:
 
-- **Continue from Current State**:  
+- **Continue from Current State**:
   If checked, each subtask (such as a simulation or calculation) will start from
   the state left by the previous run. If unchecked, every subtask will start
   from the initial conditions defined in your model.
 
-- **Output During Subtask Execution**:  
+- **Output During Subtask Execution**:
   When enabled, COPASI displays or saves the full time course result every time
   a time series task completes. For example, if your scan has 10 time course
   simulations, all ten will be shown or written out, overlaying their results in
@@ -267,7 +267,7 @@ that affect how the scan is executed:
   function of the scanned parameter (e.g., plotting the steady-state value on
   the y-axis versus the scanned kinetic parameter on the x-axis).
 
-- **Continue on Error**:  
+- **Continue on Error**:
   This checkbox determines COPASI’s behavior if an error occurs during one of
   the subtasks (for instance, due to a failed simulation from an unsuitable
   parameter value). If unchecked (default), COPASI will stop the entire scan at

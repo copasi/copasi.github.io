@@ -61,7 +61,7 @@ Settings:
 * **Lower Adjustement** / **Upper Adjustment**: How to modify the parameter value. Note that the lower value will have to be lower than the current value for the parameter. And the upper value higher than the current value. There is a number of way to specify how to modify the values:
 
     * `explicit number`: You could specify the value direction. So a value of `0.1` would set the corresponding bound to that value directly. 
-    * `+/- <value>%`: Specify a percentage of the current parameter value. For example: `-50%` would half the parameter value.  
+    * `+/- <value>%`: Specify a percentage of the current parameter value. For example: `-50%` would half the parameter value.
     * `* <value>`: multiply the current parameter value witht the specified value.
     * `+/-<value>SD`: adds / substracts multiples of the standard deviation from the current parameter value. This is only working if standard deviations can be computed for the model.
 

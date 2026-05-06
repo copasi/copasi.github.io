@@ -15,18 +15,18 @@ Support for discrete events has been added to this method.
 
 #### Options for the Direct Method
 
-- **Max Internal Steps**  
+- **Max Internal Steps**
   Specifies the maximum number of internal steps the integrator may take 
   before the next reporting time. Must be a positive integer. Default: 
   `1000000`.
 
-- **Use Random Seed**  
+- **Use Random Seed**
   Can be `0` or `1`. If set to `0` (default), a random seed is chosen 
   before each simulation run, so the results differ between runs. If set 
   to `1`, the specified random seed is used, and runs with the same seed 
   will produce identical results.
 
-- **Random Seed**  
+- **Random Seed**
   An unsigned integer used as the random seed if "Use Random Seed" is set 
   to `1`. Default value is `1`.
 
@@ -60,20 +60,20 @@ There are also some restrictions with global quantities:
 
 #### Options for the Next-Reaction Method
 
-- **Max Internal Steps**  
+- **Max Internal Steps**
   Specifies the maximum number of internal steps the integrator may take before 
   the next reporting time. Must be a positive integer. Default: `1000000`.
 
-- **Subtype**  
+- **Subtype**
   This parameter is ignored in the current version of COPASI.
 
-- **Use Random Seed**  
+- **Use Random Seed**
   Can be `0` or `1`. If set to `0` (default), a random seed is chosen before 
   each simulation run, so the results differ between runs. If set to `1`, the 
   specified random seed is used, and runs with the same seed will produce 
   identical results.
 
-- **Random Seed**  
+- **Random Seed**
   An unsigned integer used as the random seed if "Use Random Seed" is set to `1`. 
   Default value is `1`.
 
@@ -86,18 +86,18 @@ described in [Gillespie01]({{ site.baseurl }}/Support/User_Manual/Bibliography#G
 
 #### Options for the &tau;-leap Method
 
-- **Max Internal Steps**  
+- **Max Internal Steps**
   Specifies the maximum number of internal steps the integrator may take 
   before the next reporting time. Must be a positive integer. Default: 
   `10000`.
 
-- **Use Random Seed**  
+- **Use Random Seed**
   Can be `0` or `1`. If set to `0` (default), a random seed is chosen 
   before each simulation run, so the results differ between runs. If set 
   to `1`, the specified random seed is used, and runs with the same seed 
   will produce identical results.
 
-- **Random Seed**  
+- **Random Seed**
   An unsigned integer used as the random seed if "Use Random Seed" is set 
   to `1`. Default value is `1`.
 
@@ -110,17 +110,17 @@ method as described in [Cao07]({{ site.baseurl }}/Support/User_Manual/Bibliograp
 
 #### Options for the Adaptive SSA/&tau;-leap Method
 
-- **Max Internal Steps**  
+- **Max Internal Steps**
   Specifies the maximum number of internal steps the integrator may take 
   before the next reporting time. Must be a positive integer. Default: 
   `10000000`.
 
-- **Use Random Seed**  
+- **Use Random Seed**
   Can be `0` or `1`. If set to `0` (default), a random seed is chosen 
   before each simulation run, so the results differ between runs. If set 
   to `1`, the specified random seed is used, and runs with the same seed 
   will produce identical results.
 
-- **Random Seed**  
+- **Random Seed**
   An unsigned integer used as the random seed if "Use Random Seed" is set 
   to `1`. Default value is `1`.

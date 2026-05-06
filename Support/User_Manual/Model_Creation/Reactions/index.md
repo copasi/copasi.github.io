@@ -119,11 +119,11 @@ you may add a semicolon (;) followed by one or more modifiers, separated by
 spaces. You may omit either the substrate list or the product list, but at 
 least one must be present.
 
-For example:  
-1. *Species A is irreversibly converted to Species B:*  
-   Chemical equation: `A -> B`  
+For example:
+1. *Species A is irreversibly converted to Species B:*
+   Chemical equation: `A -> B`
 2. *Species A and B are reversibly converted to Species C, with modifiers C and 
-   D (note that one modifier also appears as a product):*  
+   D (note that one modifier also appears as a product):*
    Chemical equation: `A + B = C; C D`
 
 
@@ -136,7 +136,7 @@ For example:
   returns its result in mol/(l*s). If A and B reside in different compartments, the result is returned in mol/s.
   (This assumes that your default units are set to mol, l and s.)
 </div>
-  
+
 
 For a detailed explanation of how area scaling and compartment boundaries affect reaction kinetics in models involving multiple compartments, see:
 

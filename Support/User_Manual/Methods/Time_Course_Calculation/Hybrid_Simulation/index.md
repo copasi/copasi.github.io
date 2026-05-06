@@ -16,32 +16,32 @@ It is also the only hybrid method, with support for discrete events.
 
 ### Options for Hybrid (RK-45)
 
-- **Max Internal Steps:**  
+- **Max Internal Steps:**
   Maximum number of internal steps. Default: `1000000`.
 
-- **Relative Tolerance:**  
+- **Relative Tolerance:**
   Desired numeric relative tolerance (default: $1.0 \cdot 10^{-6}$; best 
   achievable is approximately $2.22 \cdot 10^{-16}$).
 
-- **Absolute Tolerance:**  
+- **Absolute Tolerance:**
   Desired absolute tolerance, applied to species concentrations. 
   Default: $1.0 \cdot 10^{-9}$.
 
-- **Partitioning Strategy:**  
-  Choose among  
-  - *All Reactions Deterministic*  
-  - *All Reactions Stochastic*  
+- **Partitioning Strategy:**
+  Choose among
+  - *All Reactions Deterministic*
+  - *All Reactions Stochastic*
   - *User specified Partition*
 
-- **Deterministic Reactions:**  
+- **Deterministic Reactions:**
   (Used only if "User specified Partition" is selected.) Specifies which 
   reactions are simulated deterministically. The rest are treated stochastically.
 
-- **Use Random Seed:**  
+- **Use Random Seed:**
   `0` (default) means a random seed is used for each run; `1` will use the 
   user-supplied random seed for repeatable trajectories.
 
-- **Random Seed:**  
+- **Random Seed:**
   Unsigned integer seed, used if *Use Random Seed* is `1`. Default: `1`.
 
 ---
@@ -79,34 +79,34 @@ deterministic effects.
 
 ### Options for Hybrid (Runge-Kutta)
 
-- **Max Internal Steps:**  
+- **Max Internal Steps:**
   Positive integer specifying the maximum number of internal steps allowed 
   before the next reporting time. Default: `1000000`.
 
-- **Lower Limit:**  
+- **Lower Limit:**
   Double value specifying the lower particle number limit. Species below this 
   are considered to have a low particle number. Cannot be higher than the upper 
   limit. Default: `800`.
 
-- **Upper Limit:**  
+- **Upper Limit:**
   Double value specifying the upper particle number limit. Species above this 
   are considered to have a high particle number. Cannot be lower than the 
   lower limit. Default: `1000`.
 
-- **Runge Kutta Stepsize:**  
+- **Runge Kutta Stepsize:**
   Positive double specifying the step size for the Runge-Kutta integrator. 
   Default: `0.001`.
 
-- **Partitioning Interval:**  
+- **Partitioning Interval:**
   Positive integer specifying after how many steps the partitioning is 
   recalculated. Default: `1` (i.e., every step).
 
-- **Use Random Seed:**  
+- **Use Random Seed:**
   Boolean flag (`0` or `1`). If `0` (default), a random seed is chosen for 
   each run, producing different trajectories. If `1`, a user-supplied random 
   seed is used, giving repeatable results.
 
-- **Random Seed:**  
+- **Random Seed:**
   Unsigned integer used as the random seed if *Use Random Seed* is set to `1`. 
   Default: `1`.
 
@@ -120,40 +120,40 @@ method but uses the LSODA algorithm for integration instead of
 
 ### Options for Hybrid (LSODA)
 
-- **Max Internal Steps:**  
+- **Max Internal Steps:**
   Maximum number of internal steps before reporting. Default: `1000000`.
 
-- **Lower Limit:**  
+- **Lower Limit:**
   Double specifying lower particle limit. Default: `800`.
 
-- **Upper Limit:**  
+- **Upper Limit:**
   Double specifying upper particle limit. Default: `1000`.
 
-- **Runge Kutta Stepsize:**  
+- **Runge Kutta Stepsize:**
   Step size for deterministic (Runge-Kutta) solver. Default: `0.001`.
 
-- **Partitioning Interval:**  
+- **Partitioning Interval:**
   Steps between partition recalculation. Default: `1`.
 
-- **Use Random Seed:**  
+- **Use Random Seed:**
   Flag; `0` (default) for random seed, `1` to use user-supplied seed.
 
-- **Random Seed:**  
+- **Random Seed:**
   Random seed value (unsigned integer). Default: `1`.
 
-- **Integrate Reduced Model:**  
+- **Integrate Reduced Model:**
   Boolean. `1` (default) integrates using mass conservation laws, reducing 
   system variables. `0` to use the full system of ODEs.
 
-- **Relative Tolerance:**  
+- **Relative Tolerance:**
   Numeric value specifying the desired relative tolerance for the integrator. 
   Default: $1.0 \cdot 10^{-6}$. The smallest achievable is 
   approximately $2.22 \cdot 10^{-16}$.
 
-- **Absolute Tolerance:**  
+- **Absolute Tolerance:**
   Positive numeric value specifying the absolute tolerance. For species, this 
   applies to the concentration. Default: $1.0 \cdot 10^{-12}$.
 
-- **Max Internal Step Size:**  
+- **Max Internal Step Size:**
   Maximum allowed size for internal steps (positive double). Default: `0` (no 
   limit).

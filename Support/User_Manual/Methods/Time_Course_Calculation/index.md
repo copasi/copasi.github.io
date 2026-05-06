@@ -11,23 +11,23 @@ be suitable.
 
 COPASI supports three main methodologies for calculating trajectories:
 
-1. **Deterministic simulation:** This method uses the LSODA algorithm  
-   (or LSODAR if events are present)  
-   [Petzold83]({{ site.baseurl }}/Support/User_Manual/Bibliography#Petzold83).  
+1. **Deterministic simulation:** This method uses the LSODA algorithm
+   (or LSODAR if events are present)
+   [Petzold83]({{ site.baseurl }}/Support/User_Manual/Bibliography#Petzold83).
    It is generally appropriate for models with large numbers of molecules, where
    random fluctuations are negligible. Additionally, Radau5 is available to be used.
 
 2. **Stochastic simulation:** When systems have small particle numbers, stochastic
    effects can become significant. COPASI offers several stochastic simulation
    methods:
-   - **Next reaction method**  
+   - **Next reaction method**
      [Gibson00]({{ site.baseurl }}/Support/User_Manual/Bibliography#Gibson00)
-   - **Direct method**  
+   - **Direct method**
      [Gillespie76]({{ site.baseurl }}/Support/User_Manual/Bibliography#Gillespie76)
      Only this method supports discrete events.
-   - **Tau leaping**  
+   - **Tau leaping**
      [Gillespie01]({{ site.baseurl }}/Support/User_Manual/Bibliography#Gillespie01)
-   - **Adaptive SSA**  
+   - **Adaptive SSA**
      [Cao07]({{ site.baseurl }}/Support/User_Manual/Bibliography#Cao07)
 
 3. **Hybrid methods:** In situations where deterministic simulation is not

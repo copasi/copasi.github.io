@@ -18,8 +18,8 @@ follows several steps:
    substance amount and the compartment volume.
 
 2. **Calculate Reaction Fluxes**: These concentrations are then used to compute 
-   the reaction fluxes. The kinetic functions defined in COPASI return either:  
-   - a *concentration rate* (for single compartment reactions), or  
+   the reaction fluxes. The kinetic functions defined in COPASI return either:
+   - a *concentration rate* (for single compartment reactions), or
    - an *amount of substance rate* (for multi-compartment reactions).
 
    For single compartment reactions, the result of the kinetic function is 
