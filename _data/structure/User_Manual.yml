@@ -85,6 +85,8 @@ pages:
   title: "Profile Likelihood"
 - path: Support/User_Manual/Tools/ExternalTools
   title: "External Tools"
+- path: Support/User_Manual/Tools/MergeAddedModel
+  title: "Merge added Model"
 - path: Support/User_Manual/Importing_and_Exporting
   title: "Importing and Exporting"
 - path: Support/User_Manual/Importing_and_Exporting/Importing_and_Exporting_SBML_Files
