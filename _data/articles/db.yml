@@ -776,7 +776,6 @@
  Methods:
   - time course
   - parameter estimation
-
 -
  Reference: "Fornoni E, Al-Shameri A, María PD de, Sieber V (2025) One-pot one-step enzymatic synthesis of 5-(aminomethyl)-2-furancarboxylic acid from 5-(hydroxymethyl) furfural. Green Chemistry 27:9895–9905"
  Year: 2025
@@ -1081,7 +1080,7 @@
  Methods:
   - time course
 -
- Reference: "Kalra P, Kister B, Fendt R, Köster M, Pulverer J, Sahle S, Kuepfer L, Kummer U (2025) A comparative computational analysis of IFN-alpha pharmacokinetics and its induced cellular response in mice and humans. PLOS Computational Biology. Public Library of Science 21:e1013509"
+ Reference: "Kalra P, Kister B, Fendt R, Köster M, Pulverer J, Sahle S, Kuepfer L, Kummer U (2025) A comparative computational analysis of IFN-alpha pharmacokinetics and its induced cellular response in mice and humans. PLOS Computational Biology 21:e1013509"
  Year: 2025
  Type: 2
  URL: https://doi.org/10.1371/journal.pcbi.1013509
