@@ -8,7 +8,7 @@ You can also clone:
 &nbsp;&nbsp;&nbsp;&nbsp;`git clone git@github.com:copasi/copasi.github.io.git`  
 this repository and edit and create pages in your local computer. In order to preview the pages you need to [install jekyll](https://help.github.com/articles/using-jekyll-with-pages/). To create the pages and preview them on your local machine execute:  
 &nbsp;&nbsp;&nbsp;&nbsp;`bundle exec jekyll serve`  
-You publish your changes by commiting and pushing them to the repository
+You publish your changes by committing and pushing them to the repository
 
 ## Front Matter
 This COPASI Website makes use of the following values in the Front Matter
@@ -16,7 +16,7 @@ This COPASI Website makes use of the following values in the Front Matter
 ---
 layout:    default | structure | post
 title:     The title of the page
-section:   The menu section which shall be higlighted
+section:   The menu section which shall be highlighted
 structure: The structure to which the page belongs (optional)
 ---
 </pre>
