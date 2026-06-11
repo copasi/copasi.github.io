@@ -404,6 +404,20 @@
   - parameter estimation
   - time course
 -
+ Reference: "Yoshikawa T, Maekawara H, Monta Y, Yamada T, Sakata K, Hatano M (2026) Mechanistic Insights Into the 2,2′-Biphenol-Derived Phosphoric Acid–Catalyzed Dehydrative Esterification of Carboxylic Acids and Alcohols. Asian Journal of Organic Chemistry 15:e70285"
+ Year: 2026
+ Type: 2
+ URL: https://doi.org/10.1002/ajoc.70285
+ Keywords:
+  - Chemistry
+ Locations:
+  - Faculty of Pharmaceutical Sciences, Toho University, Funabashi, Chiba, Japan
+  - Faculty of Pharmaceutical Sciences, Kobe Pharmaceutical University, Kobe, Japan
+ Funding:
+  - Japan Society for the Promotion of Science (JSPS)
+ Methods:
+  - time course
+-
  Reference: "Zamora-Chimal CG, Darlington APS (2026) HySimODE: a hybrid stochastic-deterministic simulation framework for multiscale models of biological systems. Bioinformatics 42:btag185"
  Year: 2026
  Type: 3
