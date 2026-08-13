@@ -1,0 +1,66 @@
+---
+layout: structure
+title: "COPASI 4.46 Build 300"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.46.309</h3>
+    Release Date: August 13, 2026<br />
+
+    <h4>New Features since COPASI 4.45 (Build 298)</h4>
+    <ul>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Multi threading for population based optimization methods Differential Evolution, Evolutionary Programming, Evolution Strategy (SRES), Genetic Algorithm, Genetic Algorithm SR, Particle Swarm, and Scatter Search speeding up optimization and parameter estimation tasks.
+          </li>
+        </ul>
+      </li>
+      </li> Command Line (CopasiSE)
+        <ul>
+          <li>
+            Added option to import and export task settings.
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+    <h4>Bug Fixes and Enhancements since COPASI 4.46 (Build 300)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            Opening files from URL when clicking on a link on a website is again functional. 
+          </li>
+          <li>
+            Tool Profile Likelihood: This tool now also works with just one parameter.
+          </li>
+          <li>
+            Tool Create Events from Time Series Experiment allows now the selection of the experiment if multiple experiments are specified.
+          </li>
+          <li>
+            Scan Sub Task Output: The tool tips for the check boxes have been corrected.
+          </li>
+          <li>
+            Parameter Estimation: Improved behavior when stopping the process to return complete plots.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Time Course RADAU5: Improved method to properly support multi threading.
+          </li>
+          <li>
+            Optimization Scatter Search: Fixed issue detecting improvements in solution.
+          </li>
+          <li>
+            Increased stack size under Windows to prevent randomly occurring access violations.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
