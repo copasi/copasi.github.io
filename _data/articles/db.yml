@@ -310,13 +310,27 @@
  Year: 2026
  Type: 2
  URL: https://doi.org/10.1016/j.jes.2025.03.025
- Locations:
-  - Department of Analytical and Applied Chemistry, School of Engineering, Institut Químic de Sarrià-Universitat Ramon Llull, Via Augusta 390, Barcelona 08017, Spain
  Keywords:
   - Environmental Sciences
+ Locations:
+  - Department of Analytical and Applied Chemistry, School of Engineering, Institut Químic de Sarrià-Universitat Ramon Llull, Via Augusta 390, Barcelona 08017, Spain
  Funding:
   - MCIN/AEI, Spain
   - EU European Union Next Generation
+ Methods:
+  - time course
+-
+ Reference: "Olaniyan JA, Pacheco D, Miliordos E (2026) Organometallic complexes with electron rich metal centers promise efficient and selective conversion of methane to methanol: proof of principle computational study. Frontiers in Catalysis 6:1881586"
+ Year: 2026
+ Type: 2
+ URL: https://doi.org/10.3389/fctls.2026.1881586
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry and Biochemistry, Auburn University, Auburn, AL, USA
+  - Alabama School of Mathematics and Science, Mobile, AL, USA
+ Funding:
+  - Auburn University
  Methods:
   - time course
 -
