@@ -28,6 +28,22 @@
  Methods:
   - time course
 -
+ Reference: "Authement AK, Nath A, Rubinow KB, Amory JK, Isoherranen N (2026) Modeling cortisol and cortisone binding to corticosteroid-binding globulin and albumin based on clinical protein binding data. Drug Metabolism and Disposition 54:100362"
+ Year: 2026
+ Type: 2
+ URL: https://doi.org/10.1016/j.dmd.2026.100362
+ Keywords:
+  - Physiology
+  - Experimental Method
+  - Pharmacology
+ Locations:
+  - Department of Pharmaceutics, School of Pharmacy, University of Washington, Seattle, Washington, USA
+ Funding:
+  - NIH
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Beghiah A, Saura P, Kovalova T, Hoeser F, Friedrich T, Kaila VRI (2026) A carboxylate switch point controls long-range energy transduction in respiratory Complex I. Nature Communications. 17:5737"
  Year: 2026
  Type: 2
