@@ -278,6 +278,20 @@
  Methods:
   - time course
 -
+ Reference: "Kumar A, Kuttae SB, Barker CG, Rückle T, Siokis A, Jager S, Klabunde T, Andreani T, Singh G, Mulyadi AW (2026) State-Aware Policy Optimization for a Reliable Multi-Turn, Multi-Tool Scientific Agent in Kinetic Biological Models. paper presented at the AI for Science Workshop (ICML 2026), Seul, South Korea."
+ Year: 2026
+ Type: 3
+ URL: https://openreview.net/forum?id=YGtz4ywf4V#discussion
+ Keywords:
+  - Computational Method
+ Locations:
+  - Virtual Patient Engine, BioMed X Germany GmbH, Heidelberg, Germany
+  - Sanofi R&D, Frankfurt am Main, Germany
+ Funding:
+  - Sanofi
+ Methods:
+  - BasiCO
+-
  Reference: "Kuroki R, Mansouri A, Schwaller P (2026) Time-Series as Feedback: Evaluating Adaptive Reasoning in LLM Agents. paper presented at the 1st ICLR Workshop on Time Series in the Age of Large Models."
  Year: 2026
  Type: 3
