@@ -245,6 +245,24 @@
   - time course
   - parameter estimation
 -
+ Reference: "Huber N, Hoang TS, Espinel Ríos S, Rexer TFT, Reichl U, Klamt S (2026) Combining automated kinetic model selection with robust optimization and application to maximize cell-free production of UDP-GalNAc. Metabolic Engineering Communications 23:e00287"
+ Year: 2026
+ Type: 3
+ URL: https://doi.org/10.1016/j.mec.2026.e00287
+ Keywords:
+  - Software
+  - Computational Method
+ Locations:
+  - Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, 39106, Germany
+  - Otto von Guericke University Magdeburg, Magdeburg, 39106, Germany
+  - School of Chemical and Bioprocess Engineering, University College Dublin, Dublin, D04 V1W8, Ireland
+  - Eversyn, Magdeburg, 39106, Germany
+ Funding:
+  - Max Planck Society
+  - EU - ERDF
+ Methods:
+  - BasiCO
+-
  Reference: "Hughes OR, Tufail A, Hutton E, Nabarro J, Howarth R, Yates ND, Whitwood AC, Robson CN, Signoret N, Fascione MA, Spicer CD, Unsworth WP (2026) N-terminal protein-macrocycles enabled by conjugate addition/ring expansion cascade reactions. Chemical Science 17:3320–3328"
  Year: 2026
  Type: 2
