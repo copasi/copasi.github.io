@@ -7635,6 +7635,19 @@ Bacterial Metabolic Pathways By Mathematical Modeling Methods. Problems of Infor
   - parameter estimation
   - time course
 -
+ Reference: "Uematsu S (2022) Multi-omics-based label-free metabolic flux inference reveals obesity-associated dysregulatory mechanisms in liver glucose metabolism. Ph.D. Thesis, The University of Tokyo, Japan"
+ Year: 2022
+ Type: 2
+ URL: https://repository.dl.itc.u-tokyo.ac.jp/records/2009521
+ Keywords:
+  - Metabolism
+  - Genomics
+  - Laboratory Method
+ Locations:
+  - Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8562, Japan
+ Methods:
+  - time course
+-
  Reference: "Uematsu S, Ohno S, Tanaka KY, Hatano A, Kokaji T, Ito Y, Kubota H, Hironaka K-I, Suzuki Y, Matsumoto M, Nakayama KI, Hirayama A, Soga T, Kuroda S (2022) Multi-omics-based label-free metabolic flux inference reveals obesity-associated dysregulatory mechanisms in liver glucose metabolism. iScience 25:103787"
  Year: 2022
  Type: 2
