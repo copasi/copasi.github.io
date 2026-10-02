@@ -546,6 +546,30 @@
  Methods:
   - optimization
 -
+ Reference: "Pathirana D, Bergmann FT, Doresic D, Lakrisenko P, Persson S, Neubrand N, Timmer J, Kreutz C, Binder H, Cvijovic M, Weindl D, Hasenauer J, Community  with the PeS (2026) PEtab Select: Specification standard and supporting software for automated model selection. PLOS Computational Biology 22:e1014774"
+ Year: 2026
+ Type: 3
+ URL: https://doi.org/10.1371/journal.pcbi.1014774
+ Keywords:
+  - Computational Method
+ Locations:
+  - Bonn Center for Mathematical Life Sciences, University of Bonn, Bonn, Germany
+  - BioQUANT, Heidelberg University, Heidelberg, Germany
+  - Computational Health Center, Helmholtz Zentrum München Deutsches Forschungszentrum für Gesundheit und Umwelt (GmbH), Neuherberg, Germany
+  - School of Life Sciences, Technische Universität München, Munich, Germany
+  - Department of Mathematical Sciences, Chalmers University of Technology, and University of Gothenburg, Gothenburg, Sweden
+  -  Institute of Medical Biometry and Statistics (IMBI), Medical Faculty and Medical Center, University of Freiburg, Freiburg im Breisgau, Baden-Württemberg, Germany
+ Funding:
+  - DFG
+  - BMBF
+  - EU - ERC
+  - University of Bonn
+  - Swedish Research Council
+  - Swedish Foundation for Strategic Research
+ Methods:
+  - BasiCO
+  - parameter estimation
+-
  Reference: "Peterson KJ, Slepchenko BM, Loew LM (2026) Mesoscale simulations of membrane-tethered reactions to parameterize cell-scale models of signaling. Biophysical Journal 125:2632–2647"
  Year: 2026
  Type: 3
