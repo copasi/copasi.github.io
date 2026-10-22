@@ -1,0 +1,53 @@
+---
+layout: structure
+title: "COPASI 4.48 Build 311"
+structure: "Change_History"
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3 >Version 4.48.311</h3>
+    Release Date: October 22, 2026<br />
+
+    <h4>New Features since COPASI 4.47 (Build 309)</h4>
+    <ul>
+      <li> This is only a bug fix release there are no new features
+      </li>
+    </ul>
+
+    <h4>Bug Fixes and Enhancements since COPASI 4.47 (Build 309)</h4>
+    <ul>
+      <li> Graphical User Interface (CopasiUI)
+        <ul>
+          <li>
+            The Time Scale column is now always positive in all tabs containing information about a Jacobian.
+          </li>
+        </ul>
+      </li>
+      <li> Simulation Engine
+        <ul>
+          <li>
+            Fixed calculation of Jacobian in cases where the a species concentration is exactly zero.
+          </li>
+          <li>
+            The pseudo random number generation and sampling of distribution is now done with classes provided  by the C++ standard.
+          </li>
+        </ul>
+      </li>
+      <li> Standards
+        <ul>
+          <li>
+            SBML: Fixed crash when loading a model containing unsupported delays.
+          </li>
+        </ul>
+      </li>
+      <li> Language Binding
+        <ul>
+          <li>
+            Assured that all warnings created during import of SBML files are accessible.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
