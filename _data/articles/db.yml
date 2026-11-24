@@ -218,6 +218,16 @@
   - sensitivities
   - BasiCO
 -
+ Reference: "Flynn N (2026) GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design. In: Zhang T, Dudik M, Jaggi M, Agarwal A, Li S, Schuurmans D, Zhu J, Berkenkamp F, Dong H and Bietti A (eds) Proceedings of the 43rd International Conference on Machine Learning, 31203–31283."
+ Year: 2026
+ URL: https://proceedings.mlr.press/v306/flynn26a.html
+ Type: 3
+ Keywords:
+  - Computational Methods
+  - Synthetic Biology
+ Locations:
+  - University of California, Berkeley, CA, USA
+-
  Reference: "Green N, Beahm D, Cressman A, Denbeaux J, Tavakolian S, Sarpeshkar R (2026) Simulation of reaction-diffusion equations with reaction-reaction analog circuits. Biophysical Journal 125:832–855"
  Year: 2026
  Type: 3
