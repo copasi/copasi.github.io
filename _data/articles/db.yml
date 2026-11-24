@@ -1908,6 +1908,19 @@
   - time course
   - parameter estimation
 -
+ Reference: "Laird MG (2026) Probing methanogenesis enzymes for C2-substrate reactivity: towards understanding the metabolism of ethane-oxidising archaea. Ph.D. Thesis, Aalto University, Finland."
+ Year: 2026
+ URL:  https://aaltodoc.aalto.fi/handle/123456789/149586
+ Type: 2
+ Keywords:
+  - Enzymology
+  - Microbiology
+ Locations:
+  - School of Chemical Engineering, Aalto Universityo, P.O. Box 11000 (Otakaari 1B), FI-00076 AALTO, Finland
+ Methods:
+  - parameter estimation
+  - time course
+-
  Reference: "Le Cacheux M, Oddone LE, Runikhina SA, Kootstra J, Milias-Argeitis A, Harutyunyan SR (2025) Experimentally Guided Iterative Parameter Estimation for Predictive Chemical Oscillator Models. Angewandte Chemie International Edition 64:e202511413"
  Year: 2025
  Type: 2
