@@ -232,6 +232,21 @@
   - sensitivities
   - BasiCO
 -
+ Reference: "Eisenhardt KHS, Fiorentini F, Butler F, Thorogood R, Williams CK (2026) Quantified Structure–Performance Relationships for Fe(III)K(I) Heterodinuclear Catalysts in Cyclohexene Oxide/CO2 Ring-Opening Copolymerization. ACS Catalysis 16:21151–21164"
+ Year: 2026
+ Type: 2
+ URL: https://doi.org/10.1021/acscatal.6c03858
+ Keywords:
+  - Chemistry
+ Locations:
+  - Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Oxford OX1 3TA, UK
+ Funding:
+  - EPSRC
+  - UK Catalysis Hub (UKRI)
+  - University of Oxford East Alpha Scholarship in Sustainable Chemistry
+ Methods:
+  - time course
+-
  Reference: "Flynn N (2026) GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design. In: Zhang T, Dudik M, Jaggi M, Agarwal A, Li S, Schuurmans D, Zhu J, Berkenkamp F, Dong H and Bietti A (eds) Proceedings of the 43rd International Conference on Machine Learning, 31203–31283."
  Year: 2026
  URL: https://proceedings.mlr.press/v306/flynn26a.html
